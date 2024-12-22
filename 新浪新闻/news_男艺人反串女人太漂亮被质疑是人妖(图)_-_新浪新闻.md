@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![邹开云](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/649a-8937b714f1dda06c46992bd1b0968b66.jpg)
+![邹开云](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/649a-8937b714f1dda06c46992bd1b0968b66.jpg)
 
 ## 猛犸新闻 { data-search-exclude }
 
@@ -91,7 +91,7 @@
 
 (今报记者 赵媛/文)
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 摘要与附加信息
 

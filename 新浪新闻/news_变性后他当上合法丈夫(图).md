@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性后他当上合法丈夫](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/66e7-569a78a66e4078754f520bfdc66dd2a5.jpg)
+![变性后他当上合法丈夫](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/66e7-569a78a66e4078754f520bfdc66dd2a5.jpg)
 
 ## 北京晚报 { data-search-exclude }
 

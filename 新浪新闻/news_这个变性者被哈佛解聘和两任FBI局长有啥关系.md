@@ -6,8 +6,8 @@
 **来源**: 新华网  
 **时间**: 2017.09.16 18:07
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
-![](//k.sinaimg.cn/n/news/crawl/20170916/N561-fykymwm9306879.jpg/w300h300z1l10t10q1008ea.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://k.sinaimg.cn/n/news/crawl/20170916/N561-fykymwm9306879.jpg/w300h300z1l10t10q1008ea.jpg)
 
 **原标题**: 这个高中都没念完的变性者，哈佛大学聘了又解聘，和两任中情局局长又有啥关系？
 
@@ -15,16 +15,16 @@
 
 13日，哈佛大学肯尼迪学院的哈佛政策研究院宣布邀请切尔西·曼宁担任为期一年的客座研究员。
 
-![](//k.sinaimg.cn/n/news/crawl/20170916/N561-fykymwm9306879.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/20170916/N561-fykymwm9306879.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 14日，为表示抗议，中情局局长蓬佩奥取消原定在哈佛举行的演讲，中情局前代理局长莫雷尔辞去肯尼迪学院高级研究员一职。
 
-![](//k.sinaimg.cn/n/news/crawl/20170916/kg1z-fykymue6545548.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![](//k.sinaimg.cn/n/news/crawl/20170916/Tk5G-fykymwk2540239.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/20170916/kg1z-fykymue6545548.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/20170916/Tk5G-fykymwk2540239.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 15日，肯尼迪学院院长道格拉斯·埃尔门多夫发表声明宣布撤回对曼宁的邀请，“这一决定是个错误”。 
 
-![](//k.sinaimg.cn/n/news/crawl/20170916/sdhP-fykymwk2540241.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/20170916/sdhP-fykymwk2540241.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 曼宁是谁，哈佛为何相邀，又为何认错？
 
@@ -32,7 +32,7 @@
 
 曼宁拥有两项特殊身份，一是泄密者身份；二是变性人身份。
 
-![](//k.sinaimg.cn/n/news/crawl/20170916/ktrT-fykymwm9306882.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/20170916/ktrT-fykymwm9306882.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 曼宁是美国史上最大军事泄密事件的主角。
 
@@ -40,11 +40,11 @@
 
 2013年被美国军事法庭以间谍罪判处35年监禁，今年1月获即将离任的[奥巴马](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E5%A5%A5%E5%B7%B4%E9%A9%AC)减刑，5月出狱。
 
-![](//k.sinaimg.cn/n/news/crawl/20170916/xBLa-fykywuc4908085.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/20170916/xBLa-fykywuc4908085.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 在狱期间，曼宁做了改变性别手术，从入伍时的布拉德利·曼宁变身为系狱和出狱后的切尔西·曼宁。
 
-![](//k.sinaimg.cn/n/news/crawl/20170916/rpqN-fykymwm9306892.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/20170916/rpqN-fykymwm9306892.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 哈佛昙花一现的邀约，差点使她成为哈佛历史上第一位做过变性手术的研究员。
 

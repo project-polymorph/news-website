@@ -5,7 +5,7 @@
 
 ![logo](https://static.ws.126.net/163/frontend/images/logo-netease.png)
 
-![伪娘图片](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FmBwOPXCy%3DmOXbWLNyAbKw3OCGADJtGHXxdbU7yTNKA1GS1501665858315.jpg&thumbnail=90x2147483647&quality=75&type=jpg)
+![伪娘图片](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FmBwOPXCy%3DmOXbWLNyAbKw3OCGADJtGHXxdbU7yTNKA1GS1501665858315.jpg&thumbnail=90x2147483647&quality=75&type=jpg)
 
 **来源**: 次元光线  
 **时间**: 2017-10-17 17:29  

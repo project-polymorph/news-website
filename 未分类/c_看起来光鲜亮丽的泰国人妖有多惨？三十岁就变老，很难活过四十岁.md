@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![image1](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Fe2e22501j00ron8md0015c000hs00hmm.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
+![image1](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Fe2e22501j00ron8md0015c000hs00hmm.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 **来源**：网易新闻  
 **作者**：洞鉴历史  
@@ -18,7 +18,7 @@
 
 **泰国的人妖为什么如此之多？那些在闪光灯前光鲜亮丽的人妖，在闪光灯的背后，还存在哪些不为人知的悲惨故事呢？**
 
-![image2](//nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2022%2F0815%2Fbb5aa0adj00rgn69g000yc000dm00dmc.jpg&thumbnail=90x2147483647&quality=75&type=jpg)
+![image2](https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2022%2F0815%2Fbb5aa0adj00rgn69g000yc000dm00dmc.jpg&thumbnail=90x2147483647&quality=75&type=jpg)
 
 在网上存在着许多泰国抽签服兵役的视频。很多面容姣好的“女性”也会来到现场，这不禁让我们感到疑惑，这不是男兵的招募场合吗，为什么会有女性身影的存在呢？
 
@@ -28,7 +28,7 @@
 
 他们在生理学上没有改变自己是男性的事实，但是内心却觉得自己是女性，于是便通过穿女装，化偏女性的妆容，来让自己外表看起来像一个女性。
 
-![image3](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F7fe59408j00ron8md000xc000hs00cvm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image3](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F7fe59408j00ron8md000xc000hs00cvm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 其次的那种，程度要稍稍上一层楼。这类人妖不仅穿女性的衣服，还服用激素类的药物，通过体内激素改变自己的性特征，让男性性特征隐形化，凸显出自己的女性性特征。
 
@@ -40,7 +40,7 @@
 
 这种人妖在手术之后，基本上与女性没有什么差别。这种操作方式成了泰国许多人妖的首选。
 
-![image4](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Ff164b8afj00ron8md008wc000hs00bym.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image4](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Ff164b8afj00ron8md008wc000hs00bym.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 与其他国家不同，泰国之所以能够与人妖文化捆绑得如此深，与现代泰国社会对于人妖的极高包容度有着密切关系。
 
@@ -50,7 +50,7 @@
 
 即泰国蒂芙尼小姐选美大赛，虽然听起来和普通的选美大赛并无区别，但是其最大的不同在于参赛的“美女”们无一例外都是人妖。
 
-![image5](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F4bcddf68j00ron8md0018c000hs00cfm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image5](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F4bcddf68j00ron8md0018c000hs00cfm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 因此，每一个赢得选美大赛的选手，在泰国国内就会被称为“人妖皇后”。
 
@@ -62,7 +62,7 @@
 
 到了一定的年龄后，他们便会躺上手术台，接受彻底改变自己身体的男性性特征，有些时候这种选择甚至和性取向没有关系。
 
-![image6](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Fd356a401j00ron8md00agc000hs0094m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image6](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Fd356a401j00ron8md00agc000hs0094m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 在变成外表上的女性后，他们还得不断通过训练和服用药物，来维持自己的身材、训练自己的舞姿，让自己有机会站在聚光灯下，甚至成为人妖皇后。
 
@@ -72,7 +72,7 @@
 
 那为什么泰国的人妖之多，甚至多到都能形成一种金字塔型的人妖等级体系呢？
 
-![image7](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Feb7aec7cj00ron8md0011c000hs00drm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image7](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Feb7aec7cj00ron8md0011c000hs00drm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 泰国人妖的由来，我们可以往几个世纪前追溯。在泰北古国纳兰国的那个年代，他们的传说中就提到了如今这种人妖的角色，并且在泰国的古佛经中也提到了人妖。
 
@@ -82,7 +82,7 @@
 
 随着殖民主义的兴起，西方的探险者来到了泰国，这些探险家们惊讶地发现，在这里存在许多“阴阳人”，他们将这种奇妙的见闻记录下来，带回了欧洲。
 
-![image8](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F290f977ej00ron8me00e4c000hs00iem.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image8](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F290f977ej00ron8me00e4c000hs00iem.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 随着泰国近现代的不断发展，西方人对于泰国的了解越来越深入。在上世纪初，人们便在书中，详细地描述了泰国有一群喜欢扮演女人的男人。
 
@@ -92,7 +92,7 @@
 
 如果找男人来干活的话，那些在外作战的贵族，就会担心后院起火的事情。于是便做出了类似中国宫廷的差不多的选择，即找那些先天有性残疾的人去服侍家中女眷。
 
-![image9](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Fd95c6a30j00ron8md001ec000hs00dem.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image9](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Fd95c6a30j00ron8md001ec000hs00dem.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 但是先天有疾病的人并不多，无法满足那些贵族的需求，也就导致了供需两端失衡。
 
@@ -104,7 +104,7 @@
 
 于是一些无法进入贵族家中工作的人妖，只得学习舞蹈、唱歌等技术，就像一名舞女一样在外面赚钱，再加上人妖的这个噱头，也能获得差不多足以生活的钱。
 
-![image10](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F2a70a4ffj00ron8md0012c000hs00g1m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image10](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F2a70a4ffj00ron8md0012c000hs00g1m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 然后这种新奇的人群便从印度逐渐流传到了泰国，最开始也是以泰国贵族家中佣人为主要工作，后来逐渐在社会上流行开来。
 
@@ -114,7 +114,7 @@
 
 **这种巨额的工资，让一些好吃懒做的男性也动起了歪心思，他们选择去改变自己的性别，也去赚这笔钱。**
 
-![image11](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Ffc58a7b5j00ron8md0010c000hs00asm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image11](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Ffc58a7b5j00ron8md0010c000hs00asm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 这种不同的存在，让美军士兵在紧张的战争中，感受到了一种不一样的刺激，于是便开始鼓励这类群体的存在，从而让泰国的人妖群体愈发壮大。
 
@@ -124,7 +124,7 @@
 
 根据近几年的数据显示，每一百个泰国男人里，就有两三个是人妖。如今已经没有了那么多贵族需要服侍，所以人妖们往往存在于各种歌舞团，以及酒吧夜总会，甚至有些人还在提供性服务。
 
-![image12](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Fc338a405j00ron8md001cc000hs00c9m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image12](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2Fc338a405j00ron8md001cc000hs00c9m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 因为泰国是一个旅游国家，人妖也已经成为了他们国家一个吸引游客的重要标志，于是泰国政府直接认同人妖，并且极大鼓励人妖的存在。
 
@@ -134,7 +134,7 @@
 
 但是实际上并非如此。因为在泰国人妖的组成中，不仅仅有自愿的，还有一部分是非自愿的。
 
-![image13](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F70acc85aj00ron8md001pc000hs00dlm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image13](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F70acc85aj00ron8md001pc000hs00dlm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 那些自愿的自然不用多说，在太多人妖如此多的社会里，再加上政府、媒体、影视作品潜移默化地宣传，一些男孩在小时候就会产生想成为女性的欲望。
 
@@ -144,7 +144,7 @@
 
 **一种是因为家里太穷了，父母觉得正常培养孩子读书，不仅成本高，收益也十分渺茫。于是便会将自己的儿子，送进人妖学校，通过刻意的性别教育，逐渐改变男孩最初的性观念，让他们从生理与心理上都逐渐偏向女性。**
 
-![image14](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F1b4e6a0ej00ron8md000tc000hs00bbm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image14](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F1b4e6a0ej00ron8md000tc000hs00bbm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 对于那些不愿意主动改变的男孩，学校与家庭会联起手来，用十分粗暴的手段，逼着男孩去成为一名人妖。
 
@@ -154,7 +154,7 @@
 
 除了家里贫困被父母送去当人妖，还有一种就更为悲惨。在泰国同样存在大量人贩子，因为人妖在旅游、色情等行业的巨大收益，很多太多人贩子就盯着那些面容清秀的男性。
 
-![image15](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F548bf396j00ron8md000sc000hs00c3m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image15](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F548bf396j00ron8md000sc000hs00c3m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 在拐走这些男子后，人贩子根本不顾受害者的意愿，强行为其进行变性手术、注射激素并进行相关教育。
 
@@ -164,7 +164,7 @@
 
 其实无论自愿与否，除了那些极少数获得巨大成功的人妖，这个群体的大部分人的人生，都十分悲剧化。
 
-![image16](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F974cb847j00ron8md0017c000hs00b4m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image16](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F974cb847j00ron8md0017c000hs00b4m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 首先，泰国虽然认同人妖的存在，甚至还鼓励人妖的新增。**但是在2015年前，泰国法律并没有将人妖视为女性，这些做了变性手术的人，还不得不去服兵役，甚至在上厕所、上学等问题上，都备受种种限制。**
 
@@ -174,7 +174,7 @@
 
 **其次，因为长期的激素治疗，这种药物会极大损伤人的身体。大部分人妖的寿命不会超过40岁，所以所有人妖都是吃青春饭的。**
 
-![image17](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F710a7efej00ron8md009ac000hs00adm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image17](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F710a7efej00ron8md009ac000hs00adm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 **过了三十岁之后，他们的容貌会迅速衰老，这是药物也无法阻止的。他们不能再登台表演，甚至在低端色情场所也无人问津。**
 
@@ -182,7 +182,7 @@
 
 **如今的泰国，人妖已经成为了重要的社会组成。或许泰国真的需要人妖群体的存在，但是他们在纯粹的功利性支持的背后，仍需对这些人多加关注，而不是仅仅作为光鲜亮丽的招牌。**
 
-![image18](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F3cada168j00ron8dw002cd000zk00b8p.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![image18](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0118%2F3cada168j00ron8dw002cd000zk00b8p.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 特别声明：本文为网易自媒体平台“网易号”作者上传并发布，仅代表该作者观点。网易仅提供信息发布平台。
 

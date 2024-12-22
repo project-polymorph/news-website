@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![翠丝](//n.sinaimg.cn/ent/transform/149/w630h319/20181116/JGCq-hnvukff8294610.jpg)
+![翠丝](https://n.sinaimg.cn/ent/transform/149/w630h319/20181116/JGCq-hnvukff8294610.jpg)
 
 **时间:** 2018年11月16日 14:48  
 **来源:** [新浪娱乐](http://ent.sina.com.cn/)  
@@ -35,7 +35,7 @@
 
 然而经年之后，阿邦抱着在战地去世的阿正的骨灰来港，打乱了大雄所有的平静生活，并再次勾起其对自己性别身份的坦诚审视。
 
-![姜皓文](//n.sinaimg.cn/ent/transform/184/w630h354/20181116/poE9-hnvukff8298534.jpg)
+![姜皓文](https://n.sinaimg.cn/ent/transform/184/w630h354/20181116/poE9-hnvukff8298534.jpg)
 
 没错，这似乎正是一部港版的[《丹麦女孩》](http://ent.sina.com.cn/ku/movie_info_index.d.html?type=movie&id=fyhmtrw4033650)，也是传说中第一部以“跨性别”为题材的华语电影。
 
@@ -47,7 +47,7 @@
 
 这一系列的编排早已把全片的核心冲突贯通，其节奏又是非常的流畅自然。
 
-![惠英红](//n.sinaimg.cn/ent/transform/250/w630h420/20181116/5a3x-hnvukff8301147.jpg)
+![惠英红](https://n.sinaimg.cn/ent/transform/250/w630h420/20181116/5a3x-hnvukff8301147.jpg)
 
 加之影片对跨性别议题及其坦诚的关照，着实令人动容。
 
@@ -57,7 +57,7 @@
 
 从同志到跨性别，《翠丝》完成了华语影像的第一次科普式呈现。
 
-![阿邦与骨灰](//n.sinaimg.cn/ent/transform/669/w630h839/20181116/DBw9-hnvukff8303063.jpg)
+![阿邦与骨灰](https://n.sinaimg.cn/ent/transform/669/w630h839/20181116/DBw9-hnvukff8303063.jpg)
 
 黄河所饰演的阿邦携带“老公”阿正的骨灰回港，却遭遇骨灰难以入关的尴尬。
 
@@ -71,7 +71,7 @@
 
 戏里戏外如此对应，《翠丝》的意指着实明显，甚而让影片有了浓浓的战斗与宣教意味。
 
-![阿邦误认大雄](//n.sinaimg.cn/ent/transform/249/w630h419/20181116/_odT-hnvukff8304953.jpg)
+![阿邦误认大雄](https://n.sinaimg.cn/ent/transform/249/w630h419/20181116/_odT-hnvukff8304953.jpg)
 
 阿邦错认大雄为阿正的初恋情人，而大雄在纠结之下终于自曝秘密：
 
@@ -79,13 +79,13 @@
 
 对此，片中的各路人马都持有不同的态度，他们几乎就代表了跨性别议题大潮下的众生相。
 
-![立贤与母亲](//n.sinaimg.cn/ent/transform/249/w630h419/20181116/yYXn-hnvukff8306208.jpg)
+![立贤与母亲](https://n.sinaimg.cn/ent/transform/249/w630h419/20181116/yYXn-hnvukff8306208.jpg)
 
 大雄血气方刚的儿子立贤在平日里对母亲的迂腐极为不满，可当跨性别的故事降临到自己的家庭，他也紧张、退缩了——
 
 这正是现实中事不关己时嘴炮连篇的表面派。
 
-![立贤的女友](//n.sinaimg.cn/ent/transform/250/w630h420/20181116/F5kA-hnvukff8307410.jpg)
+![立贤的女友](https://n.sinaimg.cn/ent/transform/250/w630h420/20181116/F5kA-hnvukff8307410.jpg)
 
 立贤的刺青师女友大声斥责，而大雄的直男死党阿俊则毫不见外地继续支持着朋友——
 
@@ -95,7 +95,7 @@
 
 当然，那个最后与变性的大雄无奈离婚的太太安宜，则是过去所有性向压抑史背景下的受害者代表。
 
-![惠英红](//n.sinaimg.cn/ent/transform/249/w630h419/20181116/3rlC-hnvukff8308758.jpg)
+![惠英红](https://n.sinaimg.cn/ent/transform/249/w630h419/20181116/3rlC-hnvukff8308758.jpg)
 
 ## 2 { data-search-exclude }
 
@@ -121,7 +121,7 @@
 
 曾经的恋人阿正已逝，阿邦则虚无缥缈…没有明确着力点的姜皓文，只能把重心放在自我的突破与对亲人们的摊牌之上。
 
-![姜皓文](//n.sinaimg.cn/ent/transform/249/w630h419/20181116/Zem7-hnvukff8313258.jpg)
+![姜皓文](https://n.sinaimg.cn/ent/transform/249/w630h419/20181116/Zem7-hnvukff8313258.jpg)
 
 可是这两者本身，又被影片割裂了。
 
@@ -129,7 +129,7 @@
 
 相比之下，《丹麦女孩》才是将这两者融混一体的佳作。
 
-![《丹麦女孩》](//n.sinaimg.cn/ent/transform/153/w630h323/20181116/na9k-hnvukff8314687.jpg)
+![《丹麦女孩》](https://n.sinaimg.cn/ent/transform/153/w630h323/20181116/na9k-hnvukff8314687.jpg)
 
 跨性别者在与亲人的互动之中推动着自我认同的阶段性发展，这使得一切转变都使人信服。
 
@@ -139,7 +139,7 @@
 
 可当剧本把这些辅助主角成长的作用一股脑给了他们，留给家人之间的则必然是极为戏剧化的冲突。
 
-![家庭冲突](//n.sinaimg.cn/ent/transform/485/w630h655/20181116/tFpZ-hnvukff8316545.jpg)
+![家庭冲突](https://n.sinaimg.cn/ent/transform/485/w630h655/20181116/tFpZ-hnvukff8316545.jpg)
 
 于是“黑哥”“红姐”对吼飙戏，“红姐”凭着早先戏份的情绪积累及其自身扎实的演技完全占据了上风，成功提名女配、再战金马。
 
@@ -151,7 +151,7 @@
 
 相加之下，为影片做出巨大“牺牲的”的姜皓文反而没得到任何金马提名。
 
-![姜皓文](//n.sinaimg.cn/ent/transform/707/w630h877/20181116/AstA-hnvukff8317745.jpg)
+![姜皓文](https://n.sinaimg.cn/ent/transform/707/w630h877/20181116/AstA-hnvukff8317745.jpg)
 
 ## 3 { data-search-exclude }
 
@@ -163,7 +163,7 @@
 
 2018年的戛纳最佳处女作[《女孩》](http://ent.sina.com.cn/ku/movie_info_index.d.html?type=movie&id=haturft3168347)已经在展示变性者对自己新身体的漫长认同了；
 
-![女孩](//n.sinaimg.cn/ent/transform/184/w630h354/20181116/T1_y-hnvukff8318841.jpg)
+![女孩](https://n.sinaimg.cn/ent/transform/184/w630h354/20181116/T1_y-hnvukff8318841.jpg)
 
 2018年的《翠丝》则还在变性后的故事上囫囵吞枣，仿佛家人同意了、儿子开明了、有同男性的性爱了，就把什么问题都解决了。
 
@@ -175,7 +175,7 @@
 
 《翠丝》有价值、有意义，但这第一部“跨性别”题材的华语电影，远可以做得更好。
 
-![翠丝](//n.sinaimg.cn/ent/transform/250/w630h420/20181116/gQUQ-hnvukff8319856.jpg)
+![翠丝](https://n.sinaimg.cn/ent/transform/250/w630h420/20181116/gQUQ-hnvukff8319856.jpg)
 
 **关键词:** [翠丝](http://tags.ent.sina.com.cn/翠丝) [丹麦女孩](http://tags.ent.sina.com.cn/丹麦女孩) [姜皓文](http://tags.ent.sina.com.cn/姜皓文)
 

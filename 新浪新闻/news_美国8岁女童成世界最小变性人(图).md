@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20231215/912f-8e6f6d95bf934be5bae1840e2951cb33.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20231215/912f-8e6f6d95bf934be5bae1840e2951cb33.jpg)
 
 **来源**: 扬子晚报  
 **时间**: 2009.10.19 04:02  

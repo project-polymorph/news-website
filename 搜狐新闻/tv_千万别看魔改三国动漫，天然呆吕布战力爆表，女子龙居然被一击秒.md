@@ -20,7 +20,7 @@ _分享到：_
 
 没有搜狐视频APP？
 
-![搜狐视频手机APP](//photocdn.tv.sohu.com/img/20220726/pic_org_2dd79603-416e-490d-9f6e-123.gif)
+![搜狐视频手机APP](https://photocdn.tv.sohu.com/img/20220726/pic_org_2dd79603-416e-490d-9f6e-123.gif)
 
 ## 《恋姬无双》123季 { data-search-exclude }
 
@@ -82,7 +82,7 @@ _分享到：_
 
 _视频状态查询 复制调试信息 查看log信息 意见反馈 H5player:10.12.251 p2p:202409021227_
 
-![二维码](//photocdn.tv.sohu.com/img/20240723/pic_org_ba10b91f-2bc9-46c0-8595-92c47f9c237b.avif)
+![二维码](https://photocdn.tv.sohu.com/img/20240723/pic_org_ba10b91f-2bc9-46c0-8595-92c47f9c237b.avif)
 
 **评论区**(0人参与)
 

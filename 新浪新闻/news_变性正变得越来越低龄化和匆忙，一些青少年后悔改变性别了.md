@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -14,7 +14,7 @@
 
 在这篇“为什么变性青少年会后悔改变性别”的报道中，《纽约邮报》称，那些跨性别后改变主意，决定再度转变回原来性别的青少年人数，正在惊人地增长。然而，可悲的是，这些“去性别转换者（detransitioners）”中的许多人，将不得不在他们的余生中与不可逆转的医疗后果作斗争。
 
-![《纽约邮报》报道截图](//k.sinaimg.cn/n/sinakd20220619s/205/w500h505/20220619/ec2e-a46bd2352c32854e7724283cefe6ad31.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![《纽约邮报》报道截图](https://k.sinaimg.cn/n/sinakd20220619s/205/w500h505/20220619/ec2e-a46bd2352c32854e7724283cefe6ad31.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 改变性别之后，他们后悔了
 
@@ -24,7 +24,7 @@
 
 “我不能保持安静，”科尔说。“我需要为此做点什么，分享自己的警示故事。”
 
-![克洛伊·科尔](//k.sinaimg.cn/n/sinakd20220619s/439/w744h495/20220619/87da-75b8f344c1bad413210d060383462dd3.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![克洛伊·科尔](https://k.sinaimg.cn/n/sinakd20220619s/439/w744h495/20220619/87da-75b8f344c1bad413210d060383462dd3.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 据《纽约邮报》称，近年来，西方经历性别焦虑的儿童数量激增。虽然难以获得确切的数字，但在2009-2019年期间，英国接受变性治疗的儿童中，生物学男性增加了1000%，生物学女性增加了4400%。
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![泰国年度征兵太搞笑！美艳火辣人妖现身，全场羡慕嫉妒恨，抽签定命运太刺激](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/C139E1B24A49B3B0238CEBC6260B1E32DC8FDCC8_size574_w850_h550.png)
+![泰国年度征兵太搞笑！美艳火辣人妖现身，全场羡慕嫉妒恨，抽签定命运太刺激](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/C139E1B24A49B3B0238CEBC6260B1E32DC8FDCC8_size574_w850_h550.png)
 
 ![下载客户端独家抢先看](https://x0.ifengimg.com/ucms/2022_05/F0CA5364C2EE44D3C30EB63ED29990CDE86D9D3F_size3_w100_h40.png)
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![南京第一变性案](//n.sinaimg.cn/sinakd10203/238/w119h119/20221208/7ed3-a58e018751ed10b2d3ef2d3808732c16.jpg)
+![南京第一变性案](https://n.sinaimg.cn/sinakd10203/238/w119h119/20221208/7ed3-a58e018751ed10b2d3ef2d3808732c16.jpg)
 
 ## 来源：新华网 { data-search-exclude }
 * 日期：2005.05.17 16:59
@@ -29,7 +29,7 @@
 
 记者昨天了解到，高婷婷表示将利用这赔偿的5万元，寻找其他有能力的医院继续接受变性手术，以早日完成他的“女儿梦”。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 摘要与附加信息
 

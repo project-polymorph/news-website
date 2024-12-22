@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![阿尔及利亚选手哈利夫。图/IC](//k.sinaimg.cn/n/sinakd20240804s/320/w2048h3072/20240804/77f9-238c00954aaf7e69b84d0add1f91f741.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![阿尔及利亚选手哈利夫。图/IC](https://k.sinaimg.cn/n/sinakd20240804s/320/w2048h3072/20240804/77f9-238c00954aaf7e69b84d0add1f91f741.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 新京报 { data-search-exclude }
 
@@ -23,7 +23,7 @@
 
 ### 面对争议，国际奥委会如何回应?
 
-![国际奥委会主席托马斯·巴赫。资料图](//k.sinaimg.cn/n/sinakd20240804s/177/w2048h1329/20240804/e83e-a80e5135262555279b7ca3217f83b3ee.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![国际奥委会主席托马斯·巴赫。资料图](https://k.sinaimg.cn/n/sinakd20240804s/177/w2048h1329/20240804/e83e-a80e5135262555279b7ca3217f83b3ee.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 面对近日巴黎奥运会女子拳击赛场出现“跨性别”选手迅速击败对手引发的较大争议，国际奥委会主席托马斯·巴赫在3日举行的发布会上指出，运动员性别以其护照所示为准，目前情况就是“一位女子参与了一场女性之间的竞争”。
 
@@ -35,7 +35,7 @@
 
 ### “跨性别”选手从何时开始可以参加奥运会?
 
-![意大利选手卡里尼(蓝方)VS阿尔及利亚选手哈利夫(红方)。图/IC](//k.sinaimg.cn/n/sinakd20240804s/214/w2048h1366/20240804/2738-d61c130abd0723892f487dd133c33ee5.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![意大利选手卡里尼(蓝方)VS阿尔及利亚选手哈利夫(红方)。图/IC](https://k.sinaimg.cn/n/sinakd20240804s/214/w2048h1366/20240804/2738-d61c130abd0723892f487dd133c33ee5.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 众所周知，传统的国际体育运动赛事一般根据运动员的性别而将其分为“男性项目”和“女性项目”。仅有极少数诸如马术之类的体育运动项目是男女共同参赛的。但是，跨性别运动员并不符合传统体育运动认可的男性和女性的两性概念或两性标准，并且到目前为止尚没有一个有关跨性别者的公认定义。
 

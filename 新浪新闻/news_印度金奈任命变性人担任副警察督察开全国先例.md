@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
 
 ## 环球时报 { data-search-exclude }
 
@@ -11,7 +11,7 @@
 
 原标题：印度金奈任命变性人担任副警察督察 开全国先例
 
-![图片](//k.sinaimg.cn/n/translate/20151106/yDXq-fxkniwz9372144.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片](https://k.sinaimg.cn/n/translate/20151106/yDXq-fxkniwz9372144.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 【环球网报道 记者 程君秋】据台湾“中央社”11月6日报道，印度金奈(Chennai)最近任命变性人雅诗妮担任副警务督察，让她成为印度首位变性人副警务督察。
 
@@ -25,7 +25,7 @@
 
 代表许多变性人向政府争取工作权的变性人权益人士柏凡妮(Bhavani)说，法院这项命令将为许多变性人开启新的机会。
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

@@ -87,11 +87,11 @@ BBC是少有的到广东佛山去专程采访她的外国媒体。
 
 ## 更多相关内容 { data-search-exclude }
 
-- [图辑：泰航空公司变性人当空姐](//zhongwen/simp/multimedia/2011/12/111216_gal_thai_transsex_air_hostess_cn)
+- [图辑：泰航空公司变性人当空姐](https://zhongwen/simp/multimedia/2011/12/111216_gal_thai_transsex_air_hostess_cn)
 
-- [古巴男同性恋者迎娶变性妇女](//zhongwen/simp/world/2011/08/110814_cuba_gay_transgender_wedding)
+- [古巴男同性恋者迎娶变性妇女](https://zhongwen/simp/world/2011/08/110814_cuba_gay_transgender_wedding)
 
-- [香港变性人争取婚姻权官司败诉](//zhongwen/simp/china/2010/10/101005_hk_transgender_marriage)
+- [香港变性人争取婚姻权官司败诉](https://zhongwen/simp/china/2010/10/101005_hk_transgender_marriage)
 
 ---
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![澎湃新闻](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
+![澎湃新闻](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -43,7 +43,7 @@
 
 当LGBT的后缀越来越长，变成了LGBTQIA+，当说“男性”和“女性”都成为了某种“冒犯”，当JK罗琳不得不用“有大姨妈的人”来指代“女性”，当后现代主义的异域话题，打着时尚、前卫的标签倒灌中国的舆论场，还是希望社会不要“迎风起舞”，明白中国当下的核心诉求还是保就业、保市场主体。在变性高管两个月不来上班却不被解聘的背后，更多员工面对“末位淘汰”等残酷。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

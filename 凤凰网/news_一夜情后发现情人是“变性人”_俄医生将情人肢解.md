@@ -3,11 +3,11 @@
 ## 正文 { data-search-exclude }
 
 
-![一夜情后发现情人是“变性人” 俄医生将情人肢解](//d.ifengimg.com/w121_h75_q90/p1.ifengimg.com/2019_18/1D9BF877729FD460FE949840C9821DA6ABC6448E_w640_h360.jpg)
+![一夜情后发现情人是“变性人” 俄医生将情人肢解](https://d.ifengimg.com/w121_h75_q90/p1.ifengimg.com/2019_18/1D9BF877729FD460FE949840C9821DA6ABC6448E_w640_h360.jpg)
 
 **来源：** 环球时报  
 **时间：** 2019年05月03日 17:51:20  
-**评论：** [94评论](//gentie.ifeng.com/c/comment/7mNXWq7ALhY) / [217人参与](//gentie.ifeng.com/c/comment/7mNXWq7ALhY)
+**评论：** [94评论](https://gentie.ifeng.com/c/comment/7mNXWq7ALhY) / [217人参与](https://gentie.ifeng.com/c/comment/7mNXWq7ALhY)
 
 【环球网报道】一起骇人听闻的暴力凶杀案，这两天在俄罗斯最大的社交网络VK上再次引发讨论。俄罗斯库尔斯克市一名医生在和一名“女子”发生“一夜情”后，才发现对方原来是“变性人”，愤而将情人肢解，并将残肢放入烤箱加热企图毁尸灭迹。
 

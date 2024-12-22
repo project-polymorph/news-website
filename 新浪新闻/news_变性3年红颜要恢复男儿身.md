@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![红颜](//n.sinaimg.cn/sinacn/20170523/33f8-fyfkzhs9794054.jpg)
+![红颜](https://n.sinaimg.cn/sinacn/20170523/33f8-fyfkzhs9794054.jpg)
 
 ## 来源 { data-search-exclude }
 南方日报
@@ -54,7 +54,7 @@
 图:  
 图右为本次变性主角“红颜”。沈昀摄
 
-![医生](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![医生](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 评论 { data-search-exclude }
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![avatar](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![avatar](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：安徽在线-安徽日报 { data-search-exclude }
 

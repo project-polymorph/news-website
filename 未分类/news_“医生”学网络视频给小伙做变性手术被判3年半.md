@@ -3,8 +3,8 @@
 ## 正文 { data-search-exclude }
 
 
-![图片1](//statics.haiwainet.cn/tpl/2015-10-30/images/app-n.jpg)
-![图片2](//statics.haiwainet.cn/tpl/2015-10-30/images/wap.jpg)
+![图片1](https://statics.haiwainet.cn/tpl/2015-10-30/images/app-n.jpg)
+![图片2](https://statics.haiwainet.cn/tpl/2015-10-30/images/wap.jpg)
 
 **时间**: 2018-09-20 14:23:38  
 **来源**: [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_2459458)  

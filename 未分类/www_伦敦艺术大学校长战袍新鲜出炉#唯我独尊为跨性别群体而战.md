@@ -5,17 +5,17 @@
 
 2019-07-18 _来源：伦敦艺术大学北京代表处_
 
-特纳奖得主、**[伦敦艺术大学校](//www.arts.org.cn/)**长格雷森·佩里(Grayson Perry)对外展示了由**伦敦时装学院**硕表演服装专业学生Rachele Terrinoni设计的2019年新校长长袍。2019年校长长袍由8米长手工制作罩衫裙和施华洛世奇水晶镶嵌的外套，以及10层双宫丝，10米亚麻面料组合而成。 
+特纳奖得主、**[伦敦艺术大学校](https://www.arts.org.cn/)**长格雷森·佩里(Grayson Perry)对外展示了由**伦敦时装学院**硕表演服装专业学生Rachele Terrinoni设计的2019年新校长长袍。2019年校长长袍由8米长手工制作罩衫裙和施华洛世奇水晶镶嵌的外套，以及10层双宫丝，10米亚麻面料组合而成。 
 
-![伦敦艺术大学战袍](//www.arts.org.cn/uploadfile/2019/0718/20190718103138394.jpeg) 
+![伦敦艺术大学战袍](https://www.arts.org.cn/uploadfile/2019/0718/20190718103138394.jpeg) 
 
 看到最终设计**Grayson Perry**兴奋的说道“rogue transgender Renaissance princeling！设计师Rachele Terrinoni做了一件了不起的艺术创作，他将有一个“非常光明的未来。”设计师Rachele Terrinoni说到:“我真的很喜欢Grayson Perry的作品尤其是他的陶器。 
 
-![GraysonPerry](//www.arts.org.cn/uploadfile/2019/0718/20190718103220270.jpeg) 
+![GraysonPerry](https://www.arts.org.cn/uploadfile/2019/0718/20190718103220270.jpeg) 
 
 我设计这些长袍的灵感来全部自于Grayson Perry，他是一位多才多艺的艺术家，喜欢各种不同的创造性艺术，从服装到时尚、设计和表演。他是个才华横溢的艺术家，这件衣服是为他量身定制的！” 
 
-联系顾问 请扫以下二维码 ![二维码](//www.arts.org.cn/uploadfile/2019/0718/20190718103703366.jpeg)
+联系顾问 请扫以下二维码 ![二维码](https://www.arts.org.cn/uploadfile/2019/0718/20190718103703366.jpeg)
 
 ---
 

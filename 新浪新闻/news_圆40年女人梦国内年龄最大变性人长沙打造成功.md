@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
 
 ## 来源: 红网 { data-search-exclude }
 
@@ -11,13 +11,13 @@
 **编辑:** 阿锋  
 **时间:** 2005.12.14 20:53
 
-![赵长生走进手术室](//z0.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fo%2F2005-12-14%2Fe303ba1ee17c3826bf17eb95cf010a51.jpg&size=328_218)  
+![赵长生走进手术室](https://z0.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fo%2F2005-12-14%2Fe303ba1ee17c3826bf17eb95cf010a51.jpg&size=328_218)  
 *(赵长生（右）在护士搀扶下平静的走进手术室)*
 
-![手术进行中](//z6.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fo%2F2005-12-14%2F74770b173fe0986942df92f10a1c9495.jpg&size=328_218)  
+![手术进行中](https://z6.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fo%2F2005-12-14%2F74770b173fe0986942df92f10a1c9495.jpg&size=328_218)  
 *(手术进行中)*
 
-![手术结束后](//z4.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fo%2F2005-12-14%2Fc9a6b5c21c4e5902ac1ff56b67fd8ce8.jpg&size=328_218)  
+![手术结束后](https://z4.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fo%2F2005-12-14%2Fc9a6b5c21c4e5902ac1ff56b67fd8ce8.jpg&size=328_218)  
 *(赵长生手术结束后躺在病床上休息)*
 
 红网长沙12月14日讯（记者 汤红辉）红网曾经报道过的国内年龄最大变性人——湖南53岁益阳男子赵长生，变性隆胸手术成功后希望能拥有一个“女儿身”。今日上午，长沙市亚韩医疗美容医院免费为赵长生做了生殖器官变性手术，让他终于圆了40年的女人梦。

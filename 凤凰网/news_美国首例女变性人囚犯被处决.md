@@ -19,11 +19,11 @@
 
 扫一扫分享更方便
 
-![二维码](//qrcode.ifeng.com/2023/01/04/ea3d3998c2696c8dd0aecb84d1da990f.png)
+![二维码](https://qrcode.ifeng.com/2023/01/04/ea3d3998c2696c8dd0aecb84d1da990f.png)
 
 **下载客户端独家抢先看**
 
-![客户端二维码](//x0.ifengimg.com/ucms/qr/2021_09/870CE559BCBD54DB36A25BFBFF6A8155BD3FAD3D_size1_w260_h260.png)
+![客户端二维码](https://x0.ifengimg.com/ucms/qr/2021_09/870CE559BCBD54DB36A25BFBFF6A8155BD3FAD3D_size1_w260_h260.png)
 
 ---
 **相关新闻**

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//tva1.sinaimg.cn/crop.0.0.199.199.180/005RyDCrjw1eo3m51rgosj305k05kdg0.jpg)
+![图片](https://tva1.sinaimg.cn/crop.0.0.199.199.180/005RyDCrjw1eo3m51rgosj305k05kdg0.jpg)
 
 ## 来源: 桂龙新闻网 { data-search-exclude }
 
@@ -35,7 +35,7 @@
 
 **责编:** 实习编辑曹静
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

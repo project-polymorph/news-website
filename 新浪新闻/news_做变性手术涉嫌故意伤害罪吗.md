@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：正义网－检察日报   { data-search-exclude }
 **时间：2008.09.24 09:20**
@@ -26,7 +26,7 @@
 
 需要指出的是，经变性者同意和许可的变性手术，并不涉嫌故意伤害罪，并不意味着任何时候都不涉嫌犯罪。正如阮齐林教授所言，应根据患者做变性手术时的目的而定。如果变性手术是当事人与医生共谋逃避罪责，则会涉嫌其他种类的犯罪。
 
-![重要图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![重要图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

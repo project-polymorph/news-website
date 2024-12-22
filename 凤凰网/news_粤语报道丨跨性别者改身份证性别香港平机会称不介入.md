@@ -19,7 +19,7 @@
 
 ### 分享二维码
 
-![](//qrcode.ifeng.com/2024/04/05/f338c7e067a186d6ab7fc9c7c2220a02.png)
+![](https://qrcode.ifeng.com/2024/04/05/f338c7e067a186d6ab7fc9c7c2220a02.png)
 
 ---
 

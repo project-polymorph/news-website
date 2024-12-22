@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-_![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
+_![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 来源 { data-search-exclude }
 四川在线 - 天府早报
@@ -30,7 +30,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 据了解，吴开泉院长并不是第一次为变性手术执刀，此前轰动全国的“杭州第一变性人”，便是吴院长亲自操刀打造的。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

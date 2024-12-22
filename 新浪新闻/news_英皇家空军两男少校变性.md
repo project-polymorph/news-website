@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -27,7 +27,7 @@
 
 然而，英国国防部发言人已于28日明确表示：“性别转换属于一个医疗问题，它应该与其他的医疗问题没有什么两样。对此，我们将提供支持。”据南方都市报
 
-![重要图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![重要图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

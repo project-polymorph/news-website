@@ -18,7 +18,7 @@
 - [微信展开](javascript:void(0) "分享到微信")
 
 **扫一扫分享更方便**  
-![二维码](//qrcode.ifeng.com/2024/11/09/7b295069ed27e94476cfd4c89630d410.png)
+![二维码](https://qrcode.ifeng.com/2024/11/09/7b295069ed27e94476cfd4c89630d410.png)
 
 **评论区**  
 - [_评论_](javascript:; "评论")

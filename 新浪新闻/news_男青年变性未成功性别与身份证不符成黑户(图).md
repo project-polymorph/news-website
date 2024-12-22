@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/f386-3752833f39c7f466e53b273b30efd563.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/f386-3752833f39c7f466e53b273b30efd563.jpg)
 
 ## 来源 { data-search-exclude }
 

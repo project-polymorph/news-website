@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-_![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
+_![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 南京报业网-金陵晚报 { data-search-exclude }
 
@@ -39,7 +39,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 □通讯员殷俊 实习生张烨娟 金陵晚报记者李花
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

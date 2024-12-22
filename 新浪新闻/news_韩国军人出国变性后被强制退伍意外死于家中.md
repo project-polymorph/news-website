@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![韩国变性军人边某](//k.sinaimg.cn/n/news/crawl/64/w400h464/20210304/ce70-kkxpczc2657795.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![韩国变性军人边某](https://k.sinaimg.cn/n/news/crawl/64/w400h464/20210304/ce70-kkxpczc2657795.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 来源：海外网 { data-search-exclude }
 
@@ -13,7 +13,7 @@
 
 原标题：韩国军人出国变性后被强制退伍 意外死于家中
 
-![边某死亡后，家门被贴上封条](//k.sinaimg.cn/n/news/crawl/162/w550h412/20210304/174d-kkxpczc2658049.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![边某死亡后，家门被贴上封条](https://k.sinaimg.cn/n/news/crawl/162/w550h412/20210304/174d-kkxpczc2658049.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 海外网3月4日电 据韩联社报道，韩国警方3日消息称，当天下午5时49分，接受变性手术后被勒令退役的前陆军士官边某被发现死于家中。
 
@@ -21,7 +21,7 @@
 
 消防部门接到举报后紧急出动，但边某已经死亡。从遗体腐败程度来推测，消防部门认为边某死亡已过多日。警方正在调查边某死亡经过。据悉，警方没有发现遗书。
 
-![韩国变性军人边某](//k.sinaimg.cn/n/news/crawl/306/w469h637/20210304/3307-kkxpczc2658082.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![韩国变性军人边某](https://k.sinaimg.cn/n/news/crawl/306/w469h637/20210304/3307-kkxpczc2658082.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 边某曾在韩国京畿道北部某部队作为坦克驾驶员服役，2019年休假期间赴泰国接受变性手术，归队后表示愿以女兵身份继续服役。但是军方对边某身体变化进行调查，并判处身心障碍3级，2020年1月做出退役决定。
 

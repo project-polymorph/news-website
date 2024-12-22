@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/d7b0-062e63fc8a65f5d4a4b8027861b860f7.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/d7b0-062e63fc8a65f5d4a4b8027861b860f7.jpg)
 
 ## 北京头条 { data-search-exclude }
 
@@ -37,7 +37,7 @@
 - 年龄大于20岁，是完全民事行为能力人
 - 无外科手术禁忌症
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

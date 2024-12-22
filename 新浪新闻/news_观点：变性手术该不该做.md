@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20231128/3b24-6df10b84073067dce3c1f59832122b0e.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20231128/3b24-6df10b84073067dce3c1f59832122b0e.jpg)
 
 ## 现代金报 { data-search-exclude }
 现代金报法人账号 2004.12.02 14:59

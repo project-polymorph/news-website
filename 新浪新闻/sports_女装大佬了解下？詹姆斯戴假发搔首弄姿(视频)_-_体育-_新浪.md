@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/318/w159h159/20221209/9dd1-af60adc8a548551c33059091a8022dd8.jpg)
+![](https://n.sinaimg.cn/sinakd10200/318/w159h159/20221209/9dd1-af60adc8a548551c33059091a8022dd8.jpg)
 
 ## 来源 { data-search-exclude }
 **新浪体育**  
@@ -51,7 +51,7 @@
 
 ---
 
-![](//mjs.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+![](https://mjs.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 # 版权信息
 新浪新闻官方  

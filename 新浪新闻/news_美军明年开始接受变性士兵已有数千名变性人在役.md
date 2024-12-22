@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![美军变性士兵](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/4beb-82bb39e0eb95b37325e30443608deca9.jpg)
+![美军变性士兵](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/4beb-82bb39e0eb95b37325e30443608deca9.jpg)
 
 ## 参考消息 { data-search-exclude }
 
@@ -30,7 +30,7 @@
 
 据兰德公司称，军队每年的治疗费用，包括咨询、激素治疗和外科手术，预计在240万美元到840万美元之间。
 
-![资料图片：美军变性士兵曼宁。（图片来源于网络）](//k.sinaimg.cn/n/translate/w600h332/20171214/NJhi-fypsqiz6694872.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![资料图片：美军变性士兵曼宁。（图片来源于网络）](https://k.sinaimg.cn/n/translate/w600h332/20171214/NJhi-fypsqiz6694872.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 --- 
 

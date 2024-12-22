@@ -4,7 +4,7 @@
 
 ===========================
 
-![image](//beacon.sina.com.cn/a.gif?noScript)
+![image](https://beacon.sina.com.cn/a.gif?noScript)
 
 来源：解放日报  
 时间：2004年08月29日12:30  

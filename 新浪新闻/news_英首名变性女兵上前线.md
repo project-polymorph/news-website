@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20230526/9235-5b764839635f7db7af4282f685456ea8.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20230526/9235-5b764839635f7db7af4282f685456ea8.jpg)
 
 ## 来源：广州日报 { data-search-exclude }
 

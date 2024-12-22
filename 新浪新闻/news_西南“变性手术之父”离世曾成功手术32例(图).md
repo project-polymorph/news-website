@@ -3,9 +3,9 @@
 ## 正文 { data-search-exclude }
 
 
-![变性手术之父（资料图片）](//www.sinaimg.cn/dy/s/2008-07-24/d25d0d2731b683c0cd1747630db6abbf.jpg)
+![变性手术之父（资料图片）](https://www.sinaimg.cn/dy/s/2008-07-24/d25d0d2731b683c0cd1747630db6abbf.jpg)
 
-![西南“变性手术之父”离世](//www.sinaimg.cn/dy/s/2008-07-24/ce4d9a88804a6e0ca2502fc7ecd95ff4.jpg)
+![西南“变性手术之父”离世](https://www.sinaimg.cn/dy/s/2008-07-24/ce4d9a88804a6e0ca2502fc7ecd95ff4.jpg)
 
 **来源：国际在线**  
 **时间：2008.07.24 10:19**  

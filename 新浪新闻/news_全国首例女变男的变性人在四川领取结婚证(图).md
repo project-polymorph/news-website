@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-_![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
+_![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 四川新闻网-成都商报 { data-search-exclude }
 

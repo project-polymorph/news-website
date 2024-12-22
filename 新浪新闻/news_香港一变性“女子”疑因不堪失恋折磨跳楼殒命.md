@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性女子](//n.sinaimg.cn/sinakd10202/359/w180h179/20221208/1f65-8e99671c5f7e544db2514b4bfaabf276.jpg)
+![变性女子](https://n.sinaimg.cn/sinakd10202/359/w180h179/20221208/1f65-8e99671c5f7e544db2514b4bfaabf276.jpg)
 
 ## 来源：四川新闻网 { data-search-exclude }
 

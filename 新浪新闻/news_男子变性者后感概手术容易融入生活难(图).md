@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![孙思瑶](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![孙思瑶](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 ## 来源：中国新闻网   { data-search-exclude }
 **时间：** 2014.06.18 21:19  
@@ -67,7 +67,7 @@
 
 “以孙思瑶为代表的易性病患者就是在性别认同期时产生了迷茫，没有在家长的引导下正视自己。”王艳说，中国父母对儿童的照顾不能仅限于物质上，此类事情应该成为警示。(完)
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 查看598条评论

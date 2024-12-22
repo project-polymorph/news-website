@@ -15,7 +15,7 @@
 - 伪娘
 - 二沙岛
 
-**分类:** [主题活动](//blog.sina.com.cn/s/articlelist_3928194643_1_1.html)
+**分类:** [主题活动](https://blog.sina.com.cn/s/articlelist_3928194643_1_1.html)
 
 **正文:**
 
@@ -51,13 +51,13 @@
 
 **分享：**
 
-![](//comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_ea237e530102wobc.html)  
+![](https://comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_ea237e530102wobc.html)  
  打开微信“扫一扫”
 
-阅读(2139) _┊_ [收藏](javascript:;)(0) _┊_ [喜欢](javascript:;)[**▼**](javascript:;) _┊_[打印](//blog.sina.com.cn/main_v5/ria/print.html?blog_id=blog_ea237e530102wobc)_┊_[举报/Report](#)
+阅读(2139) _┊_ [收藏](javascript:;)(0) _┊_ [喜欢](javascript:;)[**▼**](javascript:;) _┊_[打印](https://blog.sina.com.cn/main_v5/ria/print.html?blog_id=blog_ea237e530102wobc)_┊_[举报/Report](#)
 
-**前一篇：** [10月16日玲距离主题聚会：万圣节·变装鬼混日](//blog.sina.com.cn/s/blog_ea237e530102wobc.html)  
-**后一篇：** [广州玲距离11月27日周年庆典暨2016玲距离小姐冠军之夜颁奖典礼隆重开幕！](//sina.com.cn/s/blog_ea237e530102wobc.html)
+**前一篇：** [10月16日玲距离主题聚会：万圣节·变装鬼混日](https://blog.sina.com.cn/s/blog_ea237e530102wobc.html)  
+**后一篇：** [广州玲距离11月27日周年庆典暨2016玲距离小姐冠军之夜颁奖典礼隆重开幕！](https://sina.com.cn/s/blog_ea237e530102wobc.html)
 
 **版权：**  
 Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved

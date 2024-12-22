@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![“跨性别运动员”打哭女拳手，奥委会与国际拳协有何标准争议？](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2024_32/2288DB5065D1E7C04F4D1FABDB286B9FD3FE46A2_size98_w1080_h181.png)
+![“跨性别运动员”打哭女拳手，奥委会与国际拳协有何标准争议？](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2024_32/2288DB5065D1E7C04F4D1FABDB286B9FD3FE46A2_size98_w1080_h181.png)
 
 **文/林旭 凤凰网 《CC情报局》特约撰稿员**
 

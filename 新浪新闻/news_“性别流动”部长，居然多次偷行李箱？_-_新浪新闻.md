@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![山姆的形象](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/5488-f44788ac472043e856889cad813b4a5a.jpg)
+![山姆的形象](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/5488-f44788ac472043e856889cad813b4a5a.jpg)
 
 ## 来源：新浪新闻 { data-search-exclude }
 
@@ -13,17 +13,17 @@
 
 山姆并不是变性人，而是跨性别者。即生理是男性，但心理认同是女性。所以山姆所有出镜的照片，全都是光头加胡子的男性形象，同时又穿着艳丽的女装。
 
-![山姆的照片](//k.sinaimg.cn/n/news/crawl/59/w550h309/20230226/66e8-6cd19fe147e3f89458e0c66e187483fe.jpg/w300h300z1l10t10q1005ce.jpg)
+![山姆的照片](https://k.sinaimg.cn/n/news/crawl/59/w550h309/20230226/66e8-6cd19fe147e3f89458e0c66e187483fe.jpg/w300h300z1l10t10q1005ce.jpg)
 
 不得不说，这真是一位争议人物——山姆•布林顿(Sam Brinton)，拥有麻省理工学院的双硕士学位，自称是“性别流体”，虽是男儿身，但却以爱化妆、穿女装而著称。
 
 在一年多前，他被拜登政府任命为能源部核能办公室乏燃料和废物处理部门的副部长，成为轰动一时的大新闻，毕竟这可是美国历史上第一位流动性别的政府高级官员。
 
-![山姆与上将合影](//k.sinaimg.cn/n/news/crawl/392/w550h642/20230226/d500-446536764bcf89104ebf45dd1835dacd.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![山姆与上将合影](https://k.sinaimg.cn/n/news/crawl/392/w550h642/20230226/d500-446536764bcf89104ebf45dd1835dacd.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 在美国政坛，这个群体正在逐渐壮大。
 
-![山姆另一张形象](//k.sinaimg.cn/n/news/crawl/340/w550h590/20230226/1791-139b936131fb49270c12913eb514d942.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![山姆另一张形象](https://k.sinaimg.cn/n/news/crawl/340/w550h590/20230226/1791-139b936131fb49270c12913eb514d942.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 上图与山姆合影的是美国第一位变性的四星上将——一天兵也没有当过，她就成为了美国海军的四星上将（54岁时从男性变成女性），这是美国级别最高的变性官员。
 

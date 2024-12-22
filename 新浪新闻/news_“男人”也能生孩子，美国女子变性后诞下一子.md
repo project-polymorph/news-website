@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/5488-f44788ac472043e856889cad813b4a5a.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/5488-f44788ac472043e856889cad813b4a5a.jpg)
 
 ## 来源：九派新闻 { data-search-exclude }
 
@@ -13,7 +13,7 @@ _新浪新闻官方账号 12月23日17:34_
 
 近日，一位来自美国洛杉矶的跨性别男子引起了大家的注意——他生下了自己与丈夫的孩子，成了一位幸福的爸爸。
 
-![](//k.sinaimg.cn/n/news/crawl/111/w550h361/20211223/cb3f-fcfab2b599061215f93b389c0ce212d3.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/111/w550h361/20211223/cb3f-fcfab2b599061215f93b389c0ce212d3.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 这位跨性别男子名叫Bennett Kaspar-Williams，今年37岁。
 
@@ -37,13 +37,13 @@ _新浪新闻官方账号 12月23日17:34_
 
 于是，Bennett Kaspar-Williams短暂的停掉了自己接受的睾酮激素治疗，专心备孕。
 
-![](//k.sinaimg.cn/n/news/crawl/280/w550h530/20211223/52bc-6bd46a0299c5898163718a15b2365dea.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/280/w550h530/20211223/52bc-6bd46a0299c5898163718a15b2365dea.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 2020年10月，Bennett Kaspar-Williams通过剖腹产生下了与丈夫Malik孕育的男婴，成功升级成了一名“爸爸”。
 
-![](//k.sinaimg.cn/n/news/crawl/660/w345h315/20211223/ba6f-2c7cabbfb8ca7b669a1c48ff8c905afd.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/660/w345h315/20211223/ba6f-2c7cabbfb8ca7b669a1c48ff8c905afd.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/news/crawl/245/w550h495/20211223/e27b-1c2565784b8f78fab087e336b96e1121.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/news/crawl/245/w550h495/20211223/e27b-1c2565784b8f78fab087e336b96e1121.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 Bennett Kaspar-Williams表示，尽管生孩子给自己带来了一些挑战，但自己在怀孕以来，从来没有质疑过自己的性别认同。“我是个男性，这毋庸置疑，”他说。
 

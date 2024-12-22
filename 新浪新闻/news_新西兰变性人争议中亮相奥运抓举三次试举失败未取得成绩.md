@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![新西兰变性人](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
+![新西兰变性人](https://n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
 ## 环球网 { data-search-exclude }
 
@@ -29,7 +29,7 @@
 
 **责任编辑**: 陈琰 SN225
 
-![评论者头像](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![评论者头像](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

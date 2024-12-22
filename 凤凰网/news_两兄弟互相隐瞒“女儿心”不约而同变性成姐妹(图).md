@@ -9,7 +9,7 @@
 
 2016年05月23日 16:07 来源：[参考消息](http://photo.cankaoxiaoxi.com/roll10/2016/0523/1168098.shtml)
 
-![](//h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+![](https://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
 原标题：两兄弟互相隐瞒“女儿心”不约而同变性成姐妹 
 

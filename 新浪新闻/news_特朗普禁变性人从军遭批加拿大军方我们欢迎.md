@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![特朗普头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![特朗普头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：环球网  { data-search-exclude }
 
@@ -11,7 +11,7 @@
 
 ## 重要图片 { data-search-exclude }
 
-![特朗普推特截图](//k.sinaimg.cn/n/news/crawl/20170727/FD6f-fyinvwu2648469.jpg/w300h300z1l10t10q1001c1.jpg)
+![特朗普推特截图](https://k.sinaimg.cn/n/news/crawl/20170727/FD6f-fyinvwu2648469.jpg/w300h300z1l10t10q1001c1.jpg)
 
 原标题：场面极其壮观！特朗普给美军下了个命令，整个美国炒翻天了
 
@@ -21,7 +21,7 @@
 
 特朗普在推特上写道，“经过与美军将领以及军事专家的商议，请注意：美国政府不允许变性人在军中服役。我们的军队必须以取得压倒性的胜利为宗旨，不能背负一支变性人军队带来的庞大医疗成本和混乱。”
 
-![▲特朗普推特截图](//k.sinaimg.cn/n/news/crawl/20170727/FD6f-fyinvwu2648469.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![▲特朗普推特截图](https://k.sinaimg.cn/n/news/crawl/20170727/FD6f-fyinvwu2648469.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 可以料想，特朗普这一举引起了包括两党议员、LGBT团体、科技界以及美国明星的口诛笔伐。
 
@@ -31,25 +31,25 @@
 
 一些共和党议员也批评特朗普的决定。佛州众议员Ileana推文称：“没有美国人，无论他们的性取向或性别，应该被拒绝保卫我们国家的权利。”越战老兵、资深共和党参议员麦凯恩（John McCain）也发表声明，没有理由将目前仍在服役的变性人军人逐出军队。
 
-![▲“国会山”网站报道截图：“麦凯恩批评特朗普关于变性人参军的推特”](//k.sinaimg.cn/n/news/crawl/20170727/waRv-fyiphwc2529991.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![▲“国会山”网站报道截图：“麦凯恩批评特朗普关于变性人参军的推特”](https://k.sinaimg.cn/n/news/crawl/20170727/waRv-fyiphwc2529991.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 CNN还采访到了变性前海豹突击队员克里斯蒂·贝克（Kristin Beck），她在2011年从海军退役之后选择以女性装扮示人，并接受了变性手术。她对CNN表示，特朗普的推特十分的不尊重人。
 
-![变性前海豹突击队员克里斯蒂·贝克](//k.sinaimg.cn/n/news/crawl/20170727/L45Y-fyiphwc2530007.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![变性前海豹突击队员克里斯蒂·贝克](https://k.sinaimg.cn/n/news/crawl/20170727/L45Y-fyiphwc2530007.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 甚至连“友军”加拿大军方也不忘在这个时候补一枪……
 
-![加拿大小组图片](//k.sinaimg.cn/n/news/crawl/20170727/NUFJ-fyiphwc2530014.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![加拿大小组图片](https://k.sinaimg.cn/n/news/crawl/20170727/NUFJ-fyiphwc2530014.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 加拿大军方推特：“我们欢迎各种性向和性别认同的加拿大人加入我们！”
 
 但网友们的评论却是另一种画风。无论是在特朗普推特下方，还是在外媒这条新闻下方的评论区，网友的留言并没有这么一边倒，反而是出现了观点极为对立的激烈争论……
 
-![激烈争论图片1](//k.sinaimg.cn/n/news/crawl/20170727/6AeG-fyiphwc2530032.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![激烈争论图片1](https://k.sinaimg.cn/n/news/crawl/20170727/6AeG-fyiphwc2530032.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 事实上这表示了对军队中其他99.26%的大多数的尊重。
 
-![激烈争论图片2](//k.sinaimg.cn/n/news/crawl/20170727/nwcq-fyiphwc2530037.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![激烈争论图片2](https://k.sinaimg.cn/n/news/crawl/20170727/nwcq-fyiphwc2530037.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 太好了！军队就应该把重点放在保护我们上，没别的！
 
@@ -83,7 +83,7 @@ CNN还采访到了变性前海豹突击队员克里斯蒂·贝克（Kristin Beck
 
 好吧，又是一场激烈的好戏啊……
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

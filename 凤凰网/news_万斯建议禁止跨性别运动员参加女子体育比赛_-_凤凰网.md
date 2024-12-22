@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![万斯建议禁止跨性别运动员参加女子体育比赛](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2024_43/F76ECB5F1116220672FA06EB0933792F66964BE4_size45_w1280_h214.png)
+![万斯建议禁止跨性别运动员参加女子体育比赛](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2024_43/F76ECB5F1116220672FA06EB0933792F66964BE4_size45_w1280_h214.png)
 
 ![万斯建议禁止跨性别运动员参加女子体育比赛](https://x0.ifengimg.com/ucms/2024_43/F76ECB5F1116220672FA06EB0933792F66964BE4_size45_w1280_h214.png)
 
@@ -34,11 +34,11 @@
 ---
 
 **评论：**  
-[43条评论](//gentie.ifeng.com/c/comment/8dvwEdB1Do9) / [168人参与](//gentie.ifeng.com/c/comment/8dvwEdB1Do9)
+[43条评论](https://gentie.ifeng.com/c/comment/8dvwEdB1Do9) / [168人参与](https://gentie.ifeng.com/c/comment/8dvwEdB1Do9)
 
 文明上网，不传谣言，登录评论！
 
-[发表评论](//gentie.ifeng.com/commentManage)
+[发表评论](https://gentie.ifeng.com/commentManage)
 
 ---
 

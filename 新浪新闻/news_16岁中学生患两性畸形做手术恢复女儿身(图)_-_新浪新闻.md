@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![患者图片](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![患者图片](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：大洋网广州日报 { data-search-exclude }
 **时间**：2005.04.16 09:24  
@@ -29,7 +29,7 @@
 
 有关专家呼吁，生殖畸形的小孩要及早进行染色体检查，以免造成几十年的性别错位。这样既避免了对患者的心理造成很大的摧残，也避免给家庭带来不幸。希望更多患有生殖畸形的人及早到正规大医院咨询、治疗，早日摆脱痛苦。
 
-![医疗过程图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![医疗过程图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

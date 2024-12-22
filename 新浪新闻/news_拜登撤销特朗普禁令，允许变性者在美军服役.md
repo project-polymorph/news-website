@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
+![](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 **来源**: 澎湃新闻  
 **时间**: 01月26日13:57  

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/223d-f2dda5ca1291c176b348d271f12e1323.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/223d-f2dda5ca1291c176b348d271f12e1323.jpg)
 
 ## 来源 { data-search-exclude }
 新民周刊
@@ -112,7 +112,7 @@
 
 *（文中易性男女均化名）*
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 摘要与附加信息
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：星辰在线-长沙晚报 { data-search-exclude }
 
@@ -33,7 +33,7 @@
 
 有关专家还告诉周某，变性手术做得再高明，也不可能使他变成一个真正的女人。因为，变性人将会丧失生育能力。他劝周某认真考虑，从长计议。本报记者 刘韶林 实习生 陈靓
 
-![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

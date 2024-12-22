@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：合肥报业网-江淮晨报 { data-search-exclude }
 
@@ -71,9 +71,9 @@
 
 ---
 
-![手术前后](//z6.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fs%2F2006-04-26%2F535a75dd3ceb9bfb056b16a6f0eb8909.jpg&size=328_218)
+![手术前后](https://z6.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fs%2F2006-04-26%2F535a75dd3ceb9bfb056b16a6f0eb8909.jpg&size=328_218)
 
-![新浪新闻logo](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻logo](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

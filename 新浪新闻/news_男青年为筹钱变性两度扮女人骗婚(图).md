@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![男青年变性](//n.sinaimg.cn/sinakd10200/330/w165h165/20221208/39b4-480001fe682e5f33bdb620fcadd925b2.jpg)
+![男青年变性](https://n.sinaimg.cn/sinakd10200/330/w165h165/20221208/39b4-480001fe682e5f33bdb620fcadd925b2.jpg)
 
 ## 来源: 贵州都市报 { data-search-exclude }
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![泰国兵役](//n.sinaimg.cn/sinacn17/174/w87h87/20180315/2b0c-fyshfup8142498.jpg)
+![泰国兵役](https://n.sinaimg.cn/sinacn17/174/w87h87/20180315/2b0c-fyshfup8142498.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -16,7 +16,7 @@
 
 海外网4月6日电 近日，泰国征兵正进行的如火如荼，由于变性人可以获得免服兵役的待遇，于是出现了这一幕，变性人积极主动去征兵现场报到，而一般佛教僧人则能"躲"就"躲"，靠抽签来“逃避”兵役。
 
-![泰国征兵现场](//k.sinaimg.cn/n/translate/20170406/wxvp-fyecezv2404860.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![泰国征兵现场](https://k.sinaimg.cn/n/translate/20170406/wxvp-fyecezv2404860.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 泰国"人妖皇后"现身征兵现场
 
@@ -24,7 +24,7 @@
 
 泰国作为一个佛教国家，对于高级僧人，是可以免除兵役的。而一般僧人对服兵役的态度是，能躲则躲。据《泰国星逻日报》消息，4月2日，泰国春武里省日前有一名僧人于征兵期间抽中一张“免役卡”，当场兴奋得跳了起来。
 
-![兴奋的僧人](//n.sinaimg.cn/n/translate/20170406/7Jbm-fyecfak9803572.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![兴奋的僧人](https://n.sinaimg.cn/n/translate/20170406/7Jbm-fyecfak9803572.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 僧人得知抽到黑签，兴奋的跳了起来
 
@@ -40,7 +40,7 @@
 
 据报道，近日，泰国素叻他尼府第45区一22岁的军人育吉南在经过残酷军训处罚之后，因内脏大面积受损出血，满身伤痕，最终在医院急救室内死亡。
 
-![施虐事件](//n.sinaimg.cn/n/translate/20170406/78gd-fyecfak9803579.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![施虐事件](https://n.sinaimg.cn/n/translate/20170406/78gd-fyecfak9803579.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 儿子征兵抽到红签，父亲上吊自杀
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![“你试图消灭变性人！”《纽约时报》记者被吐口水](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/220B2DDE629C4DC3B0AE9F308FBEF0AF03D7891D_size49_w1025_h292.png)
+![“你试图消灭变性人！”《纽约时报》记者被吐口水](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/220B2DDE629C4DC3B0AE9F308FBEF0AF03D7891D_size49_w1025_h292.png)
 
 来源：[观察者网](https://ishare.ifeng.com/mediaShare/home/311993/media)
 

@@ -15,9 +15,9 @@
 
 Notice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services.”
 
-![二维码](//qrcode.ifeng.com/2021/02/24/3ac4cdf5de7f77dc7ab852fce51a05f7.png)
+![二维码](https://qrcode.ifeng.com/2021/02/24/3ac4cdf5de7f77dc7ab852fce51a05f7.png)
 
-![客户端二维码](//x0.ifengimg.com/ucms/qr/2021_09/870CE559BCBD54DB36A25BFBFF6A8155BD3FAD3D_size1_w260_h260.png)
+![客户端二维码](https://x0.ifengimg.com/ucms/qr/2021_09/870CE559BCBD54DB36A25BFBFF6A8155BD3FAD3D_size1_w260_h260.png)
 
 --- 
 

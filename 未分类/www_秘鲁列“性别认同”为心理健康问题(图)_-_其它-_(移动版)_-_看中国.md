@@ -5,9 +5,9 @@
 
 发表：2024-05-18 17:52
 
-标签 : [秘鲁](//search.secretchina.com/news/gb/tag/%E7%A7%98%E9%B2%81) [变性](//search.secretchina.com/news/gb/tag/%E5%8F%98%E6%80%A7) [性别认](//search.secretchina.com/news/gb/tag/%E6%80%A7%E5%88%AB%E8%AE%A4) [心理健康](//search.secretchina.com/news/gb/tag/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7) [LGBTQ](//search.secretchina.com/news/gb/tag/LGBTQ)
+标签 : [秘鲁](https://search.secretchina.com/news/gb/tag/%E7%A7%98%E9%B2%81) [变性](https://search.secretchina.com/news/gb/tag/%E5%8F%98%E6%80%A7) [性别认](https://search.secretchina.com/news/gb/tag/%E6%80%A7%E5%88%AB%E8%AE%A4) [心理健康](https://search.secretchina.com/news/gb/tag/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7) [LGBTQ](https://search.secretchina.com/news/gb/tag/LGBTQ)
 
-![2023年6月1日，消费者在佛州迈阿密的一家塔吉特（Target）商店外抗议。抗议者强烈反对塔吉特商店出售带有彩虹旗的骄傲月商品，这些商品支持女同性恋、男同性恋、双性恋、跨性别者和酷儿社区的权利。在遭到一些顾客的强烈反对后，塔吉特从其商店中下架了某些商品，并对 LGBTQ 商品进行了其他更改。](//img5.secretchina.com/pic/2023/7-7/p3356181a808524877-ss.jpg) 图为抗议者强烈反对带有彩虹旗的骄傲月商品，这些商品支持LGBTQ女同性恋、男同性恋、双性恋、跨性别者和酷儿社区的权利。（图片来源：Getty Images）
+![2023年6月1日，消费者在佛州迈阿密的一家塔吉特（Target）商店外抗议。抗议者强烈反对塔吉特商店出售带有彩虹旗的骄傲月商品，这些商品支持女同性恋、男同性恋、双性恋、跨性别者和酷儿社区的权利。在遭到一些顾客的强烈反对后，塔吉特从其商店中下架了某些商品，并对 LGBTQ 商品进行了其他更改。](https://img5.secretchina.com/pic/2023/7-7/p3356181a808524877-ss.jpg) 图为抗议者强烈反对带有彩虹旗的骄傲月商品，这些商品支持LGBTQ女同性恋、男同性恋、双性恋、跨性别者和酷儿社区的权利。（图片来源：Getty Images）
 
 【看中国2024年5月18日讯】（看中国记者杨天资综合报导）如今共产主义邪恶理论肆虐全球，男女性别都受到这些极左份子的质疑。秘鲁政府日前一项修改健保的新法令将变性及性别认同等归入心理健康问题层面，可列入基本健康保险计划（PEAS）保障，然而却遭极端左派LGBTQ等团体抗议。
 
@@ -83,7 +83,7 @@
 
 多米尼加国、格瑞纳达、牙买加、圣卢西亚、圣文森特和格林纳丁斯。
 
-来源:[看中国](//search.secretchina.com/news/gb/tag/看中国)
+来源:[看中国](https://search.secretchina.com/news/gb/tag/看中国)
 
 版权所有，任何形式转载需本站授权许可。严禁建立镜像网站。
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![默认头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源: 河南报业网-大河报   { data-search-exclude }
 **时间: 2002.04.10 16:21**  

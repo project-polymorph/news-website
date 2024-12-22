@@ -5,7 +5,7 @@
 
 ![反LGBT又出奇招，俄罗斯诗歌比赛禁止跨性别者参赛](https://static.ws.126.net/163/frontend/images/logo-netease.png)
 
-![相关图片](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0501%2Ff84306c0j00scsj1100ggd000m800cip.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
+![相关图片](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0501%2Ff84306c0j00scsj1100ggd000m800cip.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 **来源：网易自媒体平台**  
 **时间：2024-05-01 12:56**  

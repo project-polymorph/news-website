@@ -5,7 +5,7 @@
 
 **【2023年2月8日讯】**
 
-![立法会大楼](//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Legislative_Council_Building_HK.jpg/220px-Legislative_Council_Building_HK.jpg)
+![立法会大楼](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Legislative_Council_Building_HK.jpg/220px-Legislative_Council_Building_HK.jpg)
 
 ## 香港终审法院裁定政府违法 { data-search-exclude }
 

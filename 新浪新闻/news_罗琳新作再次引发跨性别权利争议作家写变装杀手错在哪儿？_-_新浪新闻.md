@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![罗琳新作《问题之血》](//n.sinaimg.cn/sinakd2020916s/23/w323h500/20200916/b6d6-izeysaz5901308.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![罗琳新作《问题之血》](https://n.sinaimg.cn/sinakd2020916s/23/w323h500/20200916/b6d6-izeysaz5901308.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 来源: 澎湃新闻   { data-search-exclude }
 **发布时间:** 2020.09.16 19:34  
@@ -12,7 +12,7 @@
 
 J.K·罗琳又一次遭到了跨性别权利活动人士的抨击，这次是因为她最新出版的犯罪小说，书中描写了一个穿着异性服装的连环杀手。
 
-![罗琳引发争议的新作《问题之血》](//k.sinaimg.cn/n/sinakd2020916s/23/w323h500/20200916/b6d6-izeysaz5901308.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![罗琳引发争议的新作《问题之血》](https://k.sinaimg.cn/n/sinakd2020916s/23/w323h500/20200916/b6d6-izeysaz5901308.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 罗琳以罗伯特·加尔布雷斯（Robert Galbraith）为笔名出版的小说《问题之血》（Troubled Blood）是她的“科莫兰·斯特里克”系列的第五部，它讲述了私家侦探科莫兰·斯特里克（Cormoran Strike）和他的助手罗宾·埃拉科特（Robin Ellacott）的故事。《问题之血》于9月15日出版。
 
@@ -24,7 +24,7 @@ J.K·罗琳又一次遭到了跨性别权利活动人士的抨击，这次是因
 
 不过，鉴于罗琳之前对跨性别者和性别认同的评论，故事情节“令人失望，但并不令人惊讶”，《我希望你一切都好》（I Wish You All the Best）的作者梅森·迪弗（Mason Deaver）如此表示。
 
-![J·K·罗琳](//k.sinaimg.cn/n/sinakd2020916s/400/w1200h800/20200916/3795-izeysaz5901320.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![J·K·罗琳](https://k.sinaimg.cn/n/sinakd2020916s/400/w1200h800/20200916/3795-izeysaz5901320.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 他担心罗琳最新作品的影响，尤其是对那些曾经崇拜她作品的跨性别《哈利·波特》书迷的影响。“我认为这对他们造成的伤害是非常严重的。”他说。
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![作者头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![作者头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：合肥报业网-江淮晨报 { data-search-exclude }
 **时间：2007.01.31 16:31**
@@ -20,7 +20,7 @@
 
 据报道，金所在学校的老师同学已完全接纳了金。金的情况被认定为疾病，因此变性过程所需医药费将由医疗保险公司承担。目前世界上只有德国允许16岁以下儿童做变性手术。如金在变性手术前改变主意，现在的治疗过程可以逆转。医生承认，治疗存在风险。
 
-![重要图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![重要图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 摘要与附加信息
 

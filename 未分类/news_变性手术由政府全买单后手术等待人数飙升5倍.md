@@ -10,7 +10,7 @@
 
 原文：[Five times more transgender Kiwis lining up for surgery](https://www.stuff.co.nz/national/health/110192816/five-times-more-transgender-kiwis-lining-up-for-surgery)
 
-![34548357099926](//att11.skykiwi.com/cms/20190203/34548357099926.jpg)
+![34548357099926](https://att11.skykiwi.com/cms/20190203/34548357099926.jpg)
 
 McNally希望早点进行生殖器重建术，让自己恢复男性功能  
 ALDEN WILLIAMS/STUFF
@@ -21,7 +21,7 @@ ALDEN WILLIAMS/STUFF
 
 他称，生殖器重建手术可以让自己享受与伴侣亲密的过程，并自信地走进男洗手间。
 
-![438342777929180](//att11.skykiwi.com/cms/20190203/438342777929180.jpg)
+![438342777929180](https://att11.skykiwi.com/cms/20190203/438342777929180.jpg)
 
 ALDEN WILLIAMS/STUFF
 

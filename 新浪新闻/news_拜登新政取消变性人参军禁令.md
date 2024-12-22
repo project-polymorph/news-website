@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![拜登新政取消变性人参军禁令](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/5488-f44788ac472043e856889cad813b4a5a.jpg)
+![拜登新政取消变性人参军禁令](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/5488-f44788ac472043e856889cad813b4a5a.jpg)
 
 ## 来源：中国日报 { data-search-exclude }
 
@@ -12,8 +12,8 @@
 
 当地时间周一，美国总统拜登签署一项行政令，撤销前任[特朗普](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E7%89%B9%E6%9C%97%E6%99%AE)于2016年发布的禁止变性人参军的政策。拜登在他的行政令里说：“性别不应该成为军事服务的阻碍。美国之所以强大，源于包容，军队也不例外。”按照新的指令，国防部要立即更正任何曾受禁令影响的军人的档案，且变性人可以根据自己的喜好申报性别，在国防名册系统完成登记。拜登还要求国防部在60天内向总统提交任务推进报告。据美联社报道，截止2019年，美军现役和后备役中约有14700变性人。2016年至2019年，美国国防部在变性人护理方面的支出约为800万美元。军方的年度医疗保健预算高达500亿美元。
 
-![图片](//k.sinaimg.cn/n/front20210126ac/202/w641h361/20210126/9822-kicwvzq4594540.jpg/w700d1q75cms.jpg?by=cms_fixed_width)  
-![图片](//k.sinaimg.cn/n/news/transform/150/w550h400/20210126/53f9-kicwvzq4594278.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片](https://k.sinaimg.cn/n/front20210126ac/202/w641h361/20210126/9822-kicwvzq4594540.jpg/w700d1q75cms.jpg?by=cms_fixed_width)  
+![图片](https://k.sinaimg.cn/n/news/transform/150/w550h400/20210126/53f9-kicwvzq4594278.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 热门评论 { data-search-exclude }
 

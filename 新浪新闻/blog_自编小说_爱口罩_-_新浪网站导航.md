@@ -11,7 +11,7 @@
 
 分享：
 
-![二维码分享](//comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_4e69dec201000c1z.html)
+![二维码分享](https://comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_4e69dec201000c1z.html)
 
 阅读(21806) ┊ 收藏(1) ┊ 喜欢(0) 
 

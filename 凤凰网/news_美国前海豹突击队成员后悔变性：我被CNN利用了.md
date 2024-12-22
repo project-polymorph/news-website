@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![美国前海豹突击队成员后悔变性：我被CNN利用了](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2022/2CCF0622556124DD50A3155937F0B82AD0D8B670_size223_w1227_h383.jpg)
+![美国前海豹突击队成员后悔变性：我被CNN利用了](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2022/2CCF0622556124DD50A3155937F0B82AD0D8B670_size223_w1227_h383.jpg)
 
 来源：观察者网  
 时间：2022年12月12日 13:35:07 来自上海市  

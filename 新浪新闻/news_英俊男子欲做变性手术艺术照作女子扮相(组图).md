@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-_![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
+_![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 四川新闻网-成都晚报 { data-search-exclude }
 
@@ -59,7 +59,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 随后，记者还就此事采访了川大华西医院心理卫生中心的黄颐副教授。她说：心理健康要从奶娃娃开抓起，因为娃娃在成长中会遇到各种问题，若处理不好，容易影响其心理的健康发展。若在他们出现心理问题后再作干预，已为时太晚。儿童、青少年心理保健应从出生后开始，定期对儿童进行心理发育评估，并做相应的指导。(记者刘静 余星雨 摄影李杨)
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

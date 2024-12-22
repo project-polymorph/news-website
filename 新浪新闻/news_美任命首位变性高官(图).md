@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![阿曼达辛普森](//n.sinaimg.cn/sinakd10200/358/w179h179/20221208/9c77-63af774cb57c34d042747021945e0c81.jpg)
+![阿曼达辛普森](https://n.sinaimg.cn/sinakd10200/358/w179h179/20221208/9c77-63af774cb57c34d042747021945e0c81.jpg)
 
 ## 来源：华商报 { data-search-exclude }
 
@@ -55,9 +55,9 @@
 
 但网友对于辛普森的提名却褒贬不一，有网友称这一史无前例的任命“打破了美国对于变性人歧视态度的玻璃天窗”，另一些人则认为个别变性人精英的升职对于变性人所受到的社会歧视而言，没有任何改变。本组稿件均由本报综合报道徐娟
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-![新浪新闻](//n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 免责声明： 本文来自华商报。
 

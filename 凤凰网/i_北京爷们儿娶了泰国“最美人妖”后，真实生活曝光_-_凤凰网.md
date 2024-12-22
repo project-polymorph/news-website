@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![北京爷们儿娶了泰国“最美人妖”后，真实生活曝光：在500W别墅里秀恩爱，打了谁的脸？](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2023_19/3F1D316E73EAC04DE5B57CD15450736BE2414EB0_size3463_w384_h192.gif)
+![北京爷们儿娶了泰国“最美人妖”后，真实生活曝光：在500W别墅里秀恩爱，打了谁的脸？](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2023_19/3F1D316E73EAC04DE5B57CD15450736BE2414EB0_size3463_w384_h192.gif)
 
 [凤凰网家居](https://ishare.ifeng.com/mediaShare/home/503621/media)
 

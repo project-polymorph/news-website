@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![泰国征兵检查](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/4beb-82bb39e0eb95b37325e30443608deca9.jpg)
+![泰国征兵检查](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/4beb-82bb39e0eb95b37325e30443608deca9.jpg)
 
 ## 参考消息 { data-search-exclude }
 
@@ -22,7 +22,7 @@
 
 每年征兵检查总是几家欢乐几家愁，但变性人的出现一直是征兵检查现场的话题，也是新闻媒体的追逐焦点。
 
-![抽签现场](//www.sinaimg.cn/dy/cr/2015/0411/198835963.jpg)
+![抽签现场](https://www.sinaimg.cn/dy/cr/2015/0411/198835963.jpg)
 
 点击图片进入下一页
 
@@ -30,115 +30,115 @@
 
 **延伸阅读：泰国showgirl全身整容获赞 被疑为变性人**
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/4143828456.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/4143828456.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/2058216199.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/2058216199.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/1189845961.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/1189845961.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/2315863822.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/2315863822.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/4149757805.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/4149757805.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/2958703662.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/2958703662.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/3412778288.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/3412778288.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/724281280.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/724281280.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/760423296.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/760423296.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/3578472933.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/3578472933.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/3590016203.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/3590016203.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/3633225602.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/3633225602.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/3474456064.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/3474456064.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/3856333674.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/3856333674.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/2782474231.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/2782474231.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/1380561612.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/1380561612.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/1447491370.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/1447491370.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/148598830.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/148598830.jpg)
 
 点击图片进入下一页
 
 NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，她的性感照片在网络上很多。NamzomZomy在去年成为话题人物的最主要原因是她很大方的承认了自己“进厂维修”过，据传她最厉害的地方就是全身都整过。
 
-![NamzomZomy](//www.sinaimg.cn/dy/cr/2015/0411/3419841477.jpg)
+![NamzomZomy](https://www.sinaimg.cn/dy/cr/2015/0411/3419841477.jpg)
 
 点击图片进入下一页
 
@@ -148,23 +148,23 @@ NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，
 
 **延伸阅读：泰国举行变性人选美大赛**
 
-![变性小姐比赛](//www.sinaimg.cn/dy/cr/2015/0411/3212118820.jpg)
+![变性小姐比赛](https://www.sinaimg.cn/dy/cr/2015/0411/3212118820.jpg)
 
 当地时间2015年3月25日，泰国曼谷，今年的2015泰国最美变性小姐比赛开始，最后的冠军之争将在5月8日举行。图片来源：东方ic 版权作品 请勿转载
 
-![变性小姐比赛](//www.sinaimg.cn/dy/cr/2015/0411/2164401361.jpg)
+![变性小姐比赛](https://www.sinaimg.cn/dy/cr/2015/0411/2164401361.jpg)
 
 当地时间2015年3月25日，泰国曼谷，今年的2015泰国最美变性小姐比赛开始，最后的冠军之争将在5月8日举行。图片来源：东方ic 版权作品 请勿转载
 
-![变性小姐比赛](//www.sinaimg.cn/dy/cr/2015/0411/2842672293.jpg)
+![变性小姐比赛](https://www.sinaimg.cn/dy/cr/2015/0411/2842672293.jpg)
 
 当地时间2015年3月25日，泰国曼谷，今年的2015泰国最美变性小姐比赛开始，最后的冠军之争将在5月8日举行。图片来源：东方ic 版权作品 请勿转载
 
-![变性小姐比赛](//www.sinaimg.cn/dy/cr/2015/0411/1107324129.jpg)
+![变性小姐比赛](https://www.sinaimg.cn/dy/cr/2015/0411/1107324129.jpg)
 
 当地时间2015年3月25日，泰国曼谷，今年的2015泰国最美变性小姐比赛开始，最后的冠军之争将在5月8日举行。图片来源：东方ic 版权作品 请勿转载
 
-![变性小姐比赛](//www.sinaimg.cn/dy/cr/2015/0411/209859449.jpg)
+![变性小姐比赛](https://www.sinaimg.cn/dy/cr/2015/0411/209859449.jpg)
 
 点击图片进入下一页
 
@@ -178,7 +178,7 @@ NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，
 
 **如何在泰国分辨真女人与变性人**
 
-![泰国人妖](//www.sinaimg.cn/dy/cr/2015/0411/3447089983.jpg)
+![泰国人妖](https://www.sinaimg.cn/dy/cr/2015/0411/3447089983.jpg)
 
 点击图片进入下一页
 
@@ -190,7 +190,7 @@ NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，
 
 泰国旅游业极富地方特色，其中最让人瞠目的是着名的“人妖”表演。泰国变性人最初是为了满足二次大战驻扎的美军而使家里的男孩子变性，且 「人妖表演」始于1975年，最初只有四五个生为男儿，但在身心性格和服饰上全是女性化的男子，在酒吧里作客串演出，主要是供外国游客观看。当时被泰国人视为“旁门左道”，不屑一顾。
 
-![变性手术](//www.sinaimg.cn/dy/cr/2015/0411/3689031836.jpg)
+![变性手术](https://www.sinaimg.cn/dy/cr/2015/0411/3689031836.jpg)
 
 点击图片进入下一页
 
@@ -204,7 +204,7 @@ NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，
 
 人妖秀的表演内容，含括各国民族舞蹈和代表歌曲，不仅吸引观光客，就连当地人也常光临。除了欣赏豪华的歌舞表演之外，也可看到姿色较平凡的舞者表演笑剧。人妖们收入颇多，过着奢侈豪华和单调的生活，由于收益高“人妖”这个特殊群体就逐渐产生了。通常看人妖演出或选美，我们都很容易被忽悠，靠吃激素派生出来的大美人，他们在舞台上大都是戴手套，让你在艳丽的粉饰下大赞其辞，大加惊叹绝色美女。
 
-![人妖演出](//www.sinaimg.cn/dy/cr/2015/0411/1365830038.jpg)
+![人妖演出](https://www.sinaimg.cn/dy/cr/2015/0411/1365830038.jpg)
 
 点击图片进入下一页
 
@@ -212,7 +212,7 @@ NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，
 
 演出后的人妖都会在剧场外找游客拍照，这是一个自负盈亏多劳多得的千金一刻。大手美女伸出大手说：先别拍照，一百泰珠先拿来。看出大手瑕疵的问题了吧？是的，除了声带没动手术易于分辨之外，如男人般的大手是最不可能用手术变纤细之处，当然这也是最能分辨人妖的特征了。
 
-![手的比例](//www.sinaimg.cn/dy/cr/2015/0411/3511884650.jpg)
+![手的比例](https://www.sinaimg.cn/dy/cr/2015/0411/3511884650.jpg)
 
 点击图片进入下一页
 
@@ -228,7 +228,7 @@ NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，
 
 **延伸阅读：亚洲医疗旅游吸引全球病人：去大马隆胸到泰国变性**
 
-![医疗旅游](//www.sinaimg.cn/dy/cr/2015/0411/4286779785.jpg)
+![医疗旅游](https://www.sinaimg.cn/dy/cr/2015/0411/4286779785.jpg)
 
 一身贵气的孟加拉妇女努斯拉特在吉隆坡一家私人医院等待复诊，她在那里做了心脏绕道手术。（法新社）
 
@@ -260,7 +260,7 @@ NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，
 
 **原标题：台媒：泰国热炒征兵检查 现场猜谁是变性人(图)**  
 
-![新浪新闻](//n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 ## 摘要与附加信息
 

@@ -27,17 +27,17 @@
 
 分享：
 
-![分享二维码](//comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_4cd4aaec010008pt.html)
+![分享二维码](https://comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_4cd4aaec010008pt.html)
 
 打开微信“扫一扫”，打开网页后点击屏幕右上角“分享”按钮
 
-阅读(12886) ┊ 收藏(1) ┊ 喜欢(0) ┊ [打印](//blog.sina.com.cn/main_v5/ria/print.html?blog_id=blog_4cd4aaec010008pt)
+阅读(12886) ┊ 收藏(1) ┊ 喜欢(0) ┊ [打印](https://blog.sina.com.cn/main_v5/ria/print.html?blog_id=blog_4cd4aaec010008pt)
 
 ---
 
 **版权信息：**  
 Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved  
-新浪公司 [版权所有](//www.sina.com.cn/intro/copyright.shtml)  
+新浪公司 [版权所有](https://www.sina.com.cn/intro/copyright.shtml)  
 
 ---
 

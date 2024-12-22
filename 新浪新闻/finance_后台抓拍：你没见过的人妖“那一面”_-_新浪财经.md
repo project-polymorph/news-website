@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20210516/2add-kpzzqna5535840.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20210516/2add-kpzzqna5535840.jpg)
 
 ## 来源：央广网 { data-search-exclude }
 
@@ -22,7 +22,7 @@
 
 娜拉达最后挤下两名强劲的竞争对手奴帕丝(Numpath Prasopchok)和婵亚(Chanya Denfanapapol)，如愿戴上后冠。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

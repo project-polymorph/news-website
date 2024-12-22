@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![张克莎](//n.sinaimg.cn/sinakd10200/358/w179h179/20221208/9c77-63af774cb57c34d042747021945e0c81.jpg)
+![张克莎](https://n.sinaimg.cn/sinakd10200/358/w179h179/20221208/9c77-63af774cb57c34d042747021945e0c81.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -148,7 +148,7 @@
 
 姜英爽／文
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 摘要与附加信息
 

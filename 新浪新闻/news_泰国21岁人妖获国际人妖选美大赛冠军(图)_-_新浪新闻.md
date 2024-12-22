@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![泰国人妖选美冠军](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![泰国人妖选美冠军](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 ## 来源 { data-search-exclude }
 中国新闻网  

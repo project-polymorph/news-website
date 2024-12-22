@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![女装大佬游戏《僕姬计划》将登陆PS4和Switch平台](//xyoss.g.com.cn/xy-production/cms3.0/2019/0724/20190724192045-3113-81042.jpg)
+![女装大佬游戏《僕姬计划》将登陆PS4和Switch平台](https://xyoss.g.com.cn/xy-production/cms3.0/2019/0724/20190724192045-3113-81042.jpg)
 
 **作者**: 章鱼上校  
 **来源**: TGBUS  
@@ -13,11 +13,11 @@
 
 今天，日本一正式公布了一款以女装大佬为题材的新作《僕姬计划》(ボク姫PROJECT)，游戏确认将登陆PS4和Switch平台，但游戏的发售时间尚未确定。
 
-![女装大佬游戏《僕姬计划》将登陆PS4和Switch平台](//xyoss.g.com.cn/xy-production/cms3.0/2019/0724/20190724191623-1483-80056.jpg)
+![女装大佬游戏《僕姬计划》将登陆PS4和Switch平台](https://xyoss.g.com.cn/xy-production/cms3.0/2019/0724/20190724191623-1483-80056.jpg)
 
 据悉，日本一在该项目在开始之初并未确定是否要制作这款游戏，于是公司就将决定权交给了玩家，让玩家们进行投票后，结果该游戏获得了大量玩家的支持，日本一也正式开始了该项目的开发。
 
-![女装大佬游戏《僕姬计划》将登陆PS4和Switch平台](//xyoss.g.com.cn/xy-production/cms3.0/2019/0724/20190724191615-2498-30465.png)
+![女装大佬游戏《僕姬计划》将登陆PS4和Switch平台](https://xyoss.g.com.cn/xy-production/cms3.0/2019/0724/20190724191615-2498-30465.png)
 
 ---
 
@@ -25,15 +25,15 @@
 
 #### 《僕姬计划》首个预告片放出 全年龄女装游戏
 **时间**: 07-26 04:30  
-[视频](//xyoss.g.com.cn/xy-production/cms3.0/2019/0726/20190726123040-9864-94880.jpg)
+[视频](https://xyoss.g.com.cn/xy-production/cms3.0/2019/0726/20190726123040-9864-94880.jpg)
 
 #### 全年龄换装游戏《僕姬Project》公布更多CG截图
 **时间**: 01-06 08:33  
-[资讯](//xyoss.g.com.cn/xy-production/cms3.0/2020/0106/20200106163327-1728-68348.jpg)
+[资讯](https://xyoss.g.com.cn/xy-production/cms3.0/2020/0106/20200106163327-1728-68348.jpg)
 
 #### 《僕姬Project》公布最新实机试玩 展示男主变装
 **时间**: 03-16 03:00  
-[视频](//xyoss.g.com.cn/xy-production/cms3.0/2020/0316/20200316113939-1878-41001.jpg)
+[视频](https://xyoss.g.com.cn/xy-production/cms3.0/2020/0316/20200316113939-1878-41001.jpg)
 
 ---
 

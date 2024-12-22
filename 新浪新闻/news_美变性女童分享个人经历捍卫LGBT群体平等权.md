@@ -6,29 +6,29 @@
 *来源：环球网*  
 *时间：2017.07.31 07:16*
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
-![图片1](//k.sinaimg.cn/n/translate/20170731/xbrz-fyiphwc3951017.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片1](https://k.sinaimg.cn/n/translate/20170731/xbrz-fyiphwc3951017.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 【环球网综合报道】LGBT是女同性恋者(Lesbians)、男同性恋者(Gays)、双性恋者(Bisexuals)与跨性别者(Transgender)的英文首字母缩略字。1990年代，由于"同性恋社群"一词无法完整体现相关群体，“LGBT”一词便应运而生、并逐渐普及。据英国《镜报》7月27日报道，近日，美国新泽西州一名10岁的变性女童和母亲杰米(Jamie)一起宣传LGBT的平等权利，大胆分享自己的变性经历。
 
-![图片2](//k.sinaimg.cn/n/translate/20170731/ZTGv-fyiphwc3951022.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片2](https://k.sinaimg.cn/n/translate/20170731/ZTGv-fyiphwc3951022.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 据悉，丽贝卡(Rebekah)从7岁开始，就日益感到焦虑和忧愁，直到两年前，她开始了性别变换，生活中才有了快乐。最困扰时，丽贝卡曾打破二楼卧室的窗户，想要跳楼。如今，这名励志少女和她的母亲在一次次集会和游行中宣传着变性人的权利。她说：“我就是那种媒体所警告的可怕的变性人。我希望我能通过宣传充满希望的信息来影响世界。我想要对其他的变性儿童说‘你并不孤单，你是安全的’。”
 
-![图片3](//k.sinaimg.cn/n/translate/20170731/yh1Q-fyiphwc3951028.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片3](https://k.sinaimg.cn/n/translate/20170731/yh1Q-fyiphwc3951028.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 已经有三个孩子的杰米写了一则题为“我完全就是那样的母亲”的博文。2月，杰米发出一张图片。在图片中，丽贝卡拿着一张标语，上面写着“我就是那种媒体所警告的可怕的变性人”。这张图片一夜之间蹿红，杰米也因此收到了很多消息和评论，网友纷纷赞扬她女儿勇敢。她说：“这张图片被疯狂地传播。刚开始我收到一些非常好的评论和肯定，但也有评论称‘变性人的问题是一种精神疾病，但因为这很酷，所以你父母就会强迫孩子去做这件事’。在我们的社区或家族里没有人认为是我们在强迫女儿变性，但是在社交媒体以及在我的博客上，有人称这是虐待儿童。幸运的是，医学专家并不这么认为，因此我们有这个自信，我们有最好的资源可以更好地支持她。”
 
-![图片4](//k.sinaimg.cn/n/translate/20170731/FsxN-fyinvyk2585087.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片4](https://k.sinaimg.cn/n/translate/20170731/FsxN-fyinvyk2585087.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 杰米和她的牧师丈夫克里斯托弗(Christopher)在丽贝卡两岁起就一直支持她变性。杰米说，“丽贝卡(的表现)一直与自身性别不符，她在2、3岁的时候就开始对女性的东西感兴趣。”随着年岁增长，她的异性特质逐渐加强，她开始探寻自己的身份，企图寻找词语来描述这个现象。结果可想而知，她渐渐感到困扰。
 
-![图片5](//k.sinaimg.cn/n/translate/20170731/cQKd-fyinvys9414654.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片5](https://k.sinaimg.cn/n/translate/20170731/cQKd-fyinvys9414654.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 在一名性别学家的帮助下，丽贝卡的父母意识到她并不是一个喜欢粉色的男孩，而是一个女孩。当她和母亲在网上寻找性别不明的泳衣时，丽贝卡终于知道了变性的含义。杰米说：“当这个词跳出来的时候，我抓住了这个机会，告诉她这个词的含义。” 丽贝卡很惊讶，她说，“哇!这就讲得通了，我可能就是这样的人。”2016年7月，他们前往法院，从法律上将她的名字从本(Ben)改为丽贝卡(Rebekah)。
 
-![图片6](//k.sinaimg.cn/n/translate/20170731/JlJS-fyinvwu3825120.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片6](https://k.sinaimg.cn/n/translate/20170731/JlJS-fyinvwu3825120.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 成为丽贝卡后，她将她还是本时的记忆放入本的盒子。尽管她没有遗忘她的过去，但她为成为丽贝卡，成为真正的自己而感到欣喜若狂。她说：“看到本的照片，我只是会想到这是我过去的一部分，而我现在是丽贝卡。”虽然如今的丽贝卡很快乐，但是父母却为她的未来而感到担忧。杰米说：“我们担心她的安全。对待变性人，社会上有很多暴力和歧视。”她的父亲克里斯托弗说：“我非常担心丽贝卡的反应。无论是在社区，教堂还是世界。我不知道这个世界将会如何对她，因为我看到了这个世界的丑陋不堪。”(实习编译：郁琳玲 审稿：田瑞哲)
 

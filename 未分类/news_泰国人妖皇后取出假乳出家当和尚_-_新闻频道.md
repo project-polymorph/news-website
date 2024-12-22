@@ -6,7 +6,7 @@
 来源: 央视网  
 时间: 2013年05月16日 15:42  
 
-![图片1](//p4.img.cctvpic.com/photoAlbum/page/performance/img/2024/5/29/1716964589825_932.jpg)
+![图片1](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2024/5/29/1716964589825_932.jpg)
 
 ## 正文 { data-search-exclude }
 

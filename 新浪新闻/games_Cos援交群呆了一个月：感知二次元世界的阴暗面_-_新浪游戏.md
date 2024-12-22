@@ -14,7 +14,7 @@
 
 在经过一番努力之后，ACGx的记者成功地加入到了几个与援交相关的QQ群中，并潜伏观察了整整一个月的时间。ACGx发现，这些所谓“cos援交群”存在的真实情况，其实与外界想象的那样存在较大的差异。
 
-![在Cos援交群呆了一个月](//n.sinaimg.cn/games/transform/20170224/oN9q-fyavvsk2980552.jpg)
+![在Cos援交群呆了一个月](https://n.sinaimg.cn/games/transform/20170224/oN9q-fyavvsk2980552.jpg)
 
 **充满二次元话题的“援交群”**
 

@@ -3,17 +3,17 @@
 ## 正文 { data-search-exclude }
 
 
-![名嘴报道](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![名嘴报道](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 ## 来源：中国新闻网 { data-search-exclude }
 
 作者：中新网  
 时间：2010.05.24 10:15  
 
-![向海岚](//www.sinaimg.cn/dy/c/2010-05-24/1274667744_6aXxyX.jpg)  
+![向海岚](https://www.sinaimg.cn/dy/c/2010-05-24/1274667744_6aXxyX.jpg)  
 98年度港姐冠军向海岚。中新社传真邓庆乐摄。  
 
-![朱玲玲](//www.sinaimg.cn/dy/c/2010-05-24/1274667744_5SNbza.jpg)  
+![朱玲玲](https://www.sinaimg.cn/dy/c/2010-05-24/1274667744_5SNbza.jpg)  
 1977年的香港小姐冠军朱玲玲。中新社发王丽南摄。  
 
 版权声明: 凡注有“cnsphoto”字样的图片版权均属中国新闻网，未经书面授权，不得转载使用。
@@ -34,7 +34,7 @@
 
 另外，莫可欣则表示想知道谁是变性港姐，但认为不是事实。她指过往工作的同事中也有变性人，但强调那人并非港姐。莫可欣认为这次事件很有趣，但相信无线应该不会如此失策，有也不出奇。不过，她认为变性人变性后已属女性，且她们也很勇敢，大家不应歧视她们，她自己不反对变性人参选。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻logo](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)  
 

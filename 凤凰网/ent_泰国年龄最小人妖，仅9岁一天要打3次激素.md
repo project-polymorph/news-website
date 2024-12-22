@@ -20,7 +20,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 
 ---
 
-![二维码](//qrcode.ifeng.com/2020/10/23/1d375659283e18e6c282ccbef53ef026.png) 
+![二维码](https://qrcode.ifeng.com/2020/10/23/1d375659283e18e6c282ccbef53ef026.png) 
 
 --- 
 

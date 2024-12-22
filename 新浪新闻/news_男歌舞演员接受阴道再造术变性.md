@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/bccc-74c8f9a796b9df8af7e603cb87f7c3c6.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/bccc-74c8f9a796b9df8af7e603cb87f7c3c6.jpg)
 
 ## 新民晚报新民网 { data-search-exclude }
 
@@ -19,7 +19,7 @@
 
 据宋建星教授介绍，像刘艺妃这类病症，在医学上被称为“异性癖”，目前主要的治疗手段是进行变性手术和心理辅导。今天上午的手术非常顺利，普外科的医生首先通过腹腔镜从患者体内截取一段盲肠，拉到会阴部位，然后再由整形科宋教授切除了患者部分阴茎，随后塑形女性的阴道。手术仅用两个小时便告完成。
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

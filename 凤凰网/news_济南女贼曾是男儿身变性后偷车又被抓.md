@@ -16,15 +16,15 @@
 
 **评论:**
 
-- [凤凰网友](//comment.ifeng.com/viewpersonal.php?uname=凤凰网友&guid=41351541) [山东省济南市网友]  
+- [凤凰网友](https://comment.ifeng.com/viewpersonal.php?uname=凤凰网友&guid=41351541) [山东省济南市网友]  
   本性难移  
   _2017-07-31 19:50_
 
-- [凤凰网友](//comment.ifeng.com/viewpersonal.php?uname=凤凰网友&guid=82653766) [上海市网友]  
+- [凤凰网友](https://comment.ifeng.com/viewpersonal.php?uname=凤凰网友&guid=82653766) [上海市网友]  
   我觉得他变性纯碎是想为了换个面孔去偷车吧  
   _2017-07-31 18:22_
 
-- [凤凰网友](//comment.ifeng.com/viewpersonal.php?uname=凤凰网友&guid=64003229) [云南省西双版纳州网友]  
+- [凤凰网友](https://comment.ifeng.com/viewpersonal.php?uname=凤凰网友&guid=64003229) [云南省西双版纳州网友]  
   这种货活着干什么，去死得了。  
   _2017-07-31 11:58_
 
@@ -40,7 +40,7 @@
   打死  
   _2017-07-31 10:21_
 
-- [凤凰网友](//comment.ifeng.com/viewpersonal.php?uname=凤凰网友&guid=82635584) [山东省济南市网友]  
+- [凤凰网友](https://comment.ifeng.com/viewpersonal.php?uname=凤凰网友&guid=82635584) [山东省济南市网友]  
   真搞不懂这些变性的  
   _2017-07-31 09:30_
 

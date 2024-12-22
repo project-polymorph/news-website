@@ -14,7 +14,7 @@
 
 ![视频封面](https://d.ifengimg.com/w72_h40/img1.ugc.ifeng.com/newugc/20210108/10/wemedia/85729899e0897fe5966e91d061337ffce4ddca6f_size314_w1620_h1080.jpg)
 
-![分享二维码](//qrcode.ifeng.com/2021/04/17/b0f13008470cac72e98f1293f2f799d8.png)
+![分享二维码](https://qrcode.ifeng.com/2021/04/17/b0f13008470cac72e98f1293f2f799d8.png)
 
 **版权信息：** Notice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services.
 

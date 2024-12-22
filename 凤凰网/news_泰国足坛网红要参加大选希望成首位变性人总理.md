@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![泰国足坛网红要参加大选 希望成首位"变性人"总理](//d.ifengimg.com/w121_h75_q90/p0.ifengimg.com/2019_07/2A1681DE36D387E6AF058ECB8083C8B9CD972F99_w550_h365.jpg)
+![泰国足坛网红要参加大选 希望成首位"变性人"总理](https://d.ifengimg.com/w121_h75_q90/p0.ifengimg.com/2019_07/2A1681DE36D387E6AF058ECB8083C8B9CD972F99_w550_h365.jpg)
 
 **来源：** 海外网  
 **时间：** 2019年02月15日 15:39:06  

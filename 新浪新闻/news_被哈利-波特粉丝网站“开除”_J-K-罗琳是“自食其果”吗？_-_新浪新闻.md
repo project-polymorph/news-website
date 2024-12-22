@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![J.K. Rowling](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/41bb-24c971da1316d17de47caa3c1b099cb2.jpg)
+![J.K. Rowling](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/41bb-24c971da1316d17de47caa3c1b099cb2.jpg)
 
 ## 新京报 { data-search-exclude }
 
@@ -21,7 +21,7 @@
 
 此后罗琳这条留言遭到大量网友和好莱坞演员的指责。曾主演其小说改编电影《神奇动物在哪里》系列的“小雀斑”埃迪·雷德梅恩率先发声，明确表示不同意罗琳关于跨性别者的言论，提出应该尊重跨性别者的社会性别。在电影《丹麦女孩》中，“小雀斑”就曾扮演一位跨性别女性。
 
-![“小雀斑”埃迪·雷德梅恩与J·K·罗琳。](//k.sinaimg.cn/n/sinakd20200716s/592/w812h580/20200716/3f76-iwhseiu9072324.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![“小雀斑”埃迪·雷德梅恩与J·K·罗琳。](https://k.sinaimg.cn/n/sinakd20200716s/592/w812h580/20200716/3f76-iwhseiu9072324.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 《哈利·波特》系列电影中赫敏的扮演者艾玛·沃森、金妮的扮演者邦妮·怀特也相继表明立场。艾玛·沃森分享了一张自己穿着跨性别T恤的照片，配文：“跨性别人群无需他人来定义。”而邦妮·怀特则说：“跨性别女性也是女性，我看到你，并爱着你。”
 

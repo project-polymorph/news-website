@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性之后](//www.sinaimg.cn/dy/slidenews/1_img/2016_03/33131_656738_534816.jpg)
+![变性之后](https://www.sinaimg.cn/dy/slidenews/1_img/2016_03/33131_656738_534816.jpg)
 
 **来源:** 新浪网  
 **摄影:** Stamlee  
@@ -101,7 +101,7 @@ TA们有很多共性的地方。比如，都有压抑和不堪回首的青春期
 
 **评论:** 10408条  
 **版权:** 版权所有 请勿转载  
-**推荐:** [新浪图片](//photo.sina.com.cn/) | [看见](//www.weibo.com/) | [秦翼](//www.weibo.com/)
+**推荐:** [新浪图片](https://photo.sina.com.cn/) | [看见](https://www.weibo.com/) | [秦翼](https://www.weibo.com/)
 
 ## 摘要与附加信息
 

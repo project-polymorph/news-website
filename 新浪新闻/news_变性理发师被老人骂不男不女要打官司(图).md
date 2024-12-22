@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：四川新闻网-成都商报 { data-search-exclude }
 ## 时间：2004.02.28 03:42 { data-search-exclude }
@@ -30,7 +30,7 @@
 
 张琳事后告诉记者，她是为了爱才变性的，她希望大家能够以平常的心来看待这件事，让她和男友杨启成能够在当地好好地生活。周大爷当众道歉的举动令她感到欣慰，她原谅了对方。目前，他们正在筹备婚礼，“准备布置一个温暖的家！”本报记者梁兰摄影甘霖
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 ![评论图标](https://tp3.sinaimg.cn/1392597202/50/0/1)

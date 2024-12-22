@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![武僧一龙有麻烦了！日本伪娘曝光KO一龙比赛截图，期待三番战](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2020/A85645D4F58F70FE00FEE3A32C1C4CB667B56465_size396_w1080_h1050.jpeg)
+![武僧一龙有麻烦了！日本伪娘曝光KO一龙比赛截图，期待三番战](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2020/A85645D4F58F70FE00FEE3A32C1C4CB667B56465_size396_w1080_h1050.jpeg)
 
 [拳击时空](https://ishare.ifeng.com/mediaShare/home/8140/media)
 

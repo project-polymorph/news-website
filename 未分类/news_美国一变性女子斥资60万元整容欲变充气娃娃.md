@@ -7,7 +7,7 @@
 编辑：李莎宁  
 时间：2014-03-24 09:27:29
 
-![时刻新闻](//j.rednet.cn/images/qr-shike1.png)
+![时刻新闻](https://j.rednet.cn/images/qr-shike1.png)
 
 ![美国一变性女子斥资60万元整容欲变充气娃娃](http://images.rednet.cn/articleimage/2014/03/24/93041868.jpg)
 

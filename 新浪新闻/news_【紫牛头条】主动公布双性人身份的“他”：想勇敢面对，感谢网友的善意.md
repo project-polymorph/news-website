@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![小千照片](//tvax1.sinaimg.cn/crop.0.0.1080.1080.180/0077zapPly8fy61o545emj30u00u075y.jpg)
+![小千照片](https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/0077zapPly8fy61o545emj30u00u075y.jpg)
 
 ## 来源 { data-search-exclude }
 扬子晚报网
@@ -11,7 +11,7 @@
 ## 时间 { data-search-exclude }
 2021.02.08 21:25
 
-![相关图片](//k.sinaimg.cn/n/sinakd202128s/297/w1080h1617/20210208/8d95-kiweitv6010635.jpg/w300h300z1l10t10q100672.jpg)
+![相关图片](https://k.sinaimg.cn/n/sinakd202128s/297/w1080h1617/20210208/8d95-kiweitv6010635.jpg/w300h300z1l10t10q100672.jpg)
 
 > 扬子晚报·紫牛新闻未经授权不得转载   
 > 转载拒绝任何形式删改     
@@ -27,7 +27,7 @@
 
 2014年以前，小千的妈妈从来没怀疑过自己儿子的性别，虽然在成长的过程中，他会像女孩一样，喜欢柔软可爱的布娃娃，喜欢商店衣橱里漂亮的裙子。但除此之外，她没察觉到儿子和别的男生有什么不同。
 
-![男生打扮的小千](//k.sinaimg.cn/n/sinakd202128s/297/w1080h1617/20210208/8d95-kiweitv6010635.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![男生打扮的小千](https://k.sinaimg.cn/n/sinakd202128s/297/w1080h1617/20210208/8d95-kiweitv6010635.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 但18岁的暑期，即将职高毕业的小千突然肚子疼，胸腔处也时不时像针扎一样疼痛，半年不到的时间，他身体的隐私处开始有血冒出。
 
@@ -95,7 +95,7 @@
 **编辑**｜张冰晶  
 **主编**｜陈迪晨  
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)  
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)  
 
 ![新浪新闻官方](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)  
 

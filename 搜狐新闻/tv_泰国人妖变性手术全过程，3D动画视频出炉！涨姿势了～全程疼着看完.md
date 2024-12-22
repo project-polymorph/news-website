@@ -2,12 +2,12 @@
 
 ## 正文 { data-search-exclude }
 
-![](//css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
+![](https://css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
 
-![视频封面](//e3f49eaa46b57.cdn.sohucs.com/c_fit,w_400,h_400,c_cut,x_40,y_40,w_318,h_318/group3/M08/C8/D3/MTAuMTAuODguODM=/MTAwMTE0XzE1MDY2NTQxMjA2NDI=.webp)
+![视频封面](https://e3f49eaa46b57.cdn.sohucs.com/c_fit,w_400,h_400,c_cut,x_40,y_40,w_318,h_318/group3/M08/C8/D3/MTAuMTAuODguODM=/MTAwMTE0XzE1MDY2NTQxMjA2NDI=.webp)
 
 ## 视频信息 { data-search-exclude }
-- 来源: [搜狐视频](//tv.sohu.com/)
+- 来源: [搜狐视频](https://tv.sohu.com/)
 - 播放时间: 01:52
 - 标签: 健康, 医学科普, 变性手术
 
@@ -26,9 +26,9 @@ _(评论评价可进行举报，相关选项为：色情淫秽、广告垃圾、
 ---
 
 ### 版权信息
-Copyright © 2024 All Rights Reserved. 请仔细阅读 [搜狐视频隐私政策](//tv.sohu.com/upload/privacy/index.html) 、[版权声明](https://intro.sohu.com/#/copyright) 、[反盗版和反盗链权利声明](//tv.sohu.com/s2016/piracy/index.shtml) 
+Copyright © 2024 All Rights Reserved. 请仔细阅读 [搜狐视频隐私政策](https://tv.sohu.com/upload/privacy/index.html) 、[版权声明](https://intro.sohu.com/#/copyright) 、[反盗版和反盗链权利声明](https://tv.sohu.com/s2016/piracy/index.shtml) 
 
-![二维码](//photocdn.tv.itc.cn/img/20240723/pic_org_ba10b91f-2bc9-46c0-8595-92c47f9c237b.avif)
+![二维码](https://photocdn.tv.itc.cn/img/20240723/pic_org_ba10b91f-2bc9-46c0-8595-92c47f9c237b.avif)
 
 ## 摘要与附加信息
 

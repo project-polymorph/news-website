@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/358/w179h179/20221207/5c0d-ee7e90d3c48d7f87a3b69a0580d5a27a.jpg)
+![](https://n.sinaimg.cn/sinakd10200/358/w179h179/20221207/5c0d-ee7e90d3c48d7f87a3b69a0580d5a27a.jpg)
 
 ## 界面新闻 { data-search-exclude }
 
@@ -14,7 +14,7 @@
 
 原标题：第一位跨性别女性登上女性文学奖长名单，评审团哀叹年长作家的缺席
 
-![从左到右：阿里·史密斯、托雷·彼得斯和道恩·弗伦奇 图片来源：Getty Images; Natasha Gornik; Rex Features](//k.sinaimg.cn/n/sinakd2021319s/298/w700h398/20210319/b94b-kmrcuky8242085.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![从左到右：阿里·史密斯、托雷·彼得斯和道恩·弗伦奇 图片来源：Getty Images; Natasha Gornik; Rex Features](https://k.sinaimg.cn/n/sinakd2021319s/298/w700h398/20210319/b94b-kmrcuky8242085.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 托雷·彼得斯凭借其广受好评的处女作《终止变性，宝贝》（Detransition, Baby）入围女性小说奖长名单，奖金3万英镑。这是跨性别女性首次获得女性小说奖提名。
 
@@ -26,7 +26,7 @@
 
 彼得斯的对手是前获奖者阿莉·史密斯，这次入选是她的“季节小说四部曲”中的最后一部《夏》（Summer）。从喜剧演员转为小说家的道恩·弗伦奇凭借《因为你》（Because of You）中“温暖、富有同情心、有趣”的母性观入选。
 
-![“温暖、富有同情心、有趣”……道恩·弗伦奇。图片来源：Matt Crossick/PA Matt Crossick/PA](//k.sinaimg.cn/n/sinakd2021319s/320/w700h420/20210319/043d-kmrcuky8242084.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![“温暖、富有同情心、有趣”……道恩·弗伦奇。图片来源：Matt Crossick/PA Matt Crossick/PA](https://k.sinaimg.cn/n/sinakd2021319s/320/w700h420/20210319/043d-kmrcuky8242084.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 “女性文学奖是针对女性小说的，并不是为文学小说而设——人们有时会认为这就是这个奖项的意义，实际上不是。有一些出色的作家不一定会被归类为文学作家，但他们是真正优秀的讲故事的高手，”艾瓦里斯托说，“我们同时提名了道恩·弗兰奇和阿莉·史密斯，她们的作品都有与众不同的地方。”
 

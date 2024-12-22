@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![汪茂鹂](//n.sinaimg.cn/sinakd10200/360/w180h180/20230119/5fa1-a04f8752fa5d8405eae42c12eea924fc.jpg)
+![汪茂鹂](https://n.sinaimg.cn/sinakd10200/360/w180h180/20230119/5fa1-a04f8752fa5d8405eae42c12eea924fc.jpg)
 
 ## 来源 { data-search-exclude }
 **重庆晚报**  
@@ -56,7 +56,7 @@
 **记者**：孟祥伟 文/图  
 **网络编辑**：李平
 
-![新浪新闻](//n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 ## 摘要与附加信息
 

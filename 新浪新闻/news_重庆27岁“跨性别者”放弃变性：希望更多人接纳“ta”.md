@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![重庆27岁“跨性别者”放弃变性](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
+![重庆27岁“跨性别者”放弃变性](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 ## 来源：澎湃新闻   { data-search-exclude }
 ### 时间：2020.10.13 13:35  

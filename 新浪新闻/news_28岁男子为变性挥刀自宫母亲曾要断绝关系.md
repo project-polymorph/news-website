@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![重要图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
+![重要图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
 
 **来源**: 红网  
 **作者**: 王梦颖  

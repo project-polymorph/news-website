@@ -47,7 +47,7 @@
 - 网络综合整理 
 
 #### 评论
-- [![](//static.yidianzixun.com/modules/images/mobile/shouye.png)](//www.yidianzixun.com)
+- [![](https://static.yidianzixun.com/modules/images/mobile/shouye.png)](https://www.yidianzixun.com)
 
 ## 摘要与附加信息
 

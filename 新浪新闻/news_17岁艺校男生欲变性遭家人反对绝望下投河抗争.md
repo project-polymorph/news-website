@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//tva1.sinaimg.cn/crop.0.0.199.199.180/005RyDCrjw1eo3m51rgosj305k05kdg0.jpg)
+![图片](https://tva1.sinaimg.cn/crop.0.0.199.199.180/005RyDCrjw1eo3m51rgosj305k05kdg0.jpg)
 
 ## 桂龙新闻网 { data-search-exclude }
 
@@ -39,7 +39,7 @@
 
 据小晓透露，目前成都某整形医院已同意为小晓做变性手术，而他的初期变性手术：面部、胸部塑形手术将于明日进行。据院方称，手术费用除给予小晓一定优惠外，可能采取合约形式由其分期付款。另据该整形医院称，17岁的小晓接受变性手术，将开创我国截止目前为至年龄最小的变性人记录。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

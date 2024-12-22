@@ -6,7 +6,7 @@
 (2010-07-02 01:21:51)
 
 **标签：** 转载  
-**分类：** [Views](//blog.sina.com.cn/s/articlelist_1762928124_1_1.html)  
+**分类：** [Views](https://blog.sina.com.cn/s/articlelist_1762928124_1_1.html)  
 **作者：** [7号薄荷糖](http://blog.sina.com.cn/u/1175380083 "7号薄荷糖")  
 **原文地址：** [异装癖？](http://blog.sina.com.cn/s/blog_460ee0730100hqbz.html "异装癖？")  
 

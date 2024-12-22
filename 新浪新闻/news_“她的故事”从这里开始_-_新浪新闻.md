@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 瞭望东方周刊 { data-search-exclude }
 
@@ -21,7 +21,7 @@
 
 这些问题可以在“她的故事”中找到答案……
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/r0vn-fyqwiqk1966573.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/r0vn-fyqwiqk1966573.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 肖佳，北京
 
@@ -39,7 +39,7 @@
 
 肖佳正通过自己的努力，赢得财务自由、获得尊重；不仅如此，她积极的生活态度还激励着更多的视障人士去追求更多彩、美好的人生。
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/uLQy-fyqwiqk1966689.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/uLQy-fyqwiqk1966689.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 胡彦平，北京
 
@@ -55,7 +55,7 @@
 
 热心爽快的胡大姐获得了顾客与同事的一致好评。
 
-![](//k.sinaimg.cn/n/translate/w1080h720/20180124/mZy7-fyqwiqk1966774.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h720/20180124/mZy7-fyqwiqk1966774.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 朱丽仙，上海
 
@@ -71,7 +71,7 @@
 
 2015年年末，她与公司的员工志愿者们还一起去了中国最北端漠河，为百余名生活在严冬中的学生送去了让他们安全过冬的“温暖包”。除了经常参与拜耳中国志愿者协会的志愿活动，她也在推动数字健康、女性平权等活动中贡献自己的力量。
 
-![](//k.sinaimg.cn/n/translate/w1080h720/20180124/7PkR-fyqwiqk1966857.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h720/20180124/7PkR-fyqwiqk1966857.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 张宁，上海
 
@@ -85,7 +85,7 @@
 
 印度、英国、中国的长期工作和生活，使她感悟到中国女性的执行力和专注力非常强，前期职业晋升较快，但是成为高级管理层还是需要在勇敢、理性和坚定方面大幅度提高。创建公司后，她鼓励女员工多表达、多分析和多坚持。她希望越来越多的女性成为各大企业的核心管理层。
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/ahy_-fyqwiqk1966933.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/ahy_-fyqwiqk1966933.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 李莹，北京
 
@@ -101,7 +101,7 @@
 
 李莹有一个幸福的家庭，支持她的丈夫和乖巧的女儿。在李律师看来，她工作最大的意义在于不仅仅帮助受害人获得救济和补偿，更重要的是让她们在事件处理的过程中获得成长，获得重新开始的信心和勇气。
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/dny--fyqwiqk1967104.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/dny--fyqwiqk1967104.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 刘畅，北京
 
@@ -119,7 +119,7 @@
 
 她希望能够通过“她的故事”，诉说女性团体在城市发展规划中所做出的杰出贡献。
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/p-pD-fyqwiqk1967230.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/p-pD-fyqwiqk1967230.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 陈涓玲，上海
 
@@ -135,7 +135,7 @@
 
 谈到中国现代职业女性工作、生活、学习的平衡，她的秘诀是真诚待人、乐享工作、美丽生活、志愿奉献，以正能量影响周围的小小世界，她就是——陈涓玲 Jenny
 
-![](//k.sinaimg.cn/n/translate/w1080h718/20180124/zlRH-fyqwiqk1967315.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h718/20180124/zlRH-fyqwiqk1967315.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 李玥，北京
 
@@ -151,7 +151,7 @@
 
 李玥的兢兢业业，女儿都看在眼里，耳濡目染之下，还学会了不少像克罗恩病这样的医学名词。对妈妈的工作，她深感骄傲，也希望妈妈能继续帮助更多的人。
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/pq6O-fyqwiqk1967407.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/pq6O-fyqwiqk1967407.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 赵颖，广东深圳
 
@@ -167,7 +167,7 @@
 
 作为一名职业飞行员，赵颖把飞行作为一种信念、一种追求、一种境界来对待。
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/C7IW-fyqwiqk1967510.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/C7IW-fyqwiqk1967510.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 张宝林，广东深圳
 
@@ -183,7 +183,7 @@
 
 对张宝林来说，厨房就是一个没有围墙的大学，在这里工作就像学习新专业一样，她希望新的专业能够让自己变得更加美好，给家人更好的生活，并且把自己的爱传递给其他女性，让她们在摇摆不定的职业路口找到心中的方向，不忘初心。
 
-![](//k.sinaimg.cn/n/translate/w1066h1600/20180124/ociN-fyqwiqk1967617.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1066h1600/20180124/ociN-fyqwiqk1967617.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### Agi Veres 文霭洁，北京
 
@@ -199,7 +199,7 @@
 
 文霭洁还是三个孩子的母亲。每到工作日，她早上五点半起床，锻炼一小时，再为全家做早餐，八点准时出门上班。她既是国际组织的领导者，也是一名尽责的母亲，更是兼顾工作与家庭的杰出女性。
 
-![](//k.sinaimg.cn/n/translate/w1080h753/20180124/1il8-fyqwiqk1967739.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h753/20180124/1il8-fyqwiqk1967739.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 李婴宁，上海
 
@@ -221,7 +221,7 @@
 
 这就是李婴宁想要推广的教育戏剧理念，让孩子们在戏剧中变成更好的自己。
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/NHKO-fyqwiqk1967833.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/NHKO-fyqwiqk1967833.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 梅燕，四川成都
 
@@ -241,7 +241,7 @@
 
 2016年初梅燕结婚了，丈夫也是熊猫基地的饲养员，梅燕在山头的月亮产房，丈夫在山下的太阳产房，两地相距600米，虽为照顾熊猫也经常是聚少离多，但看着渐渐长大的小熊猫，“还是觉得很有成就感”。
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/0lDm-fyqwiqk1968079.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/0lDm-fyqwiqk1968079.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 王超，北京
 
@@ -261,7 +261,7 @@
 
 “为了兼顾家庭和生活，会更注重事情的轻重缓急，关注优先级，所以时间上没被影响，工作和生活反而更加泾渭分明。”
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/oavZ-fyqwiqk1968312.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/oavZ-fyqwiqk1968312.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 张娜，上海
 
@@ -279,7 +279,7 @@
 
 在张娜看来，每一件衣服都代表一个时代，每一件旧衣裳都有故事，她希望这些衣服能够继续被人们喜爱并穿着，无论他们是因为时尚还是恋旧、热爱环保还是拥有情怀。而如今“再造衣银行”也得到了越来越多人的认同。
 
-![](//k.sinaimg.cn/n/translate/w1080h730/20180124/3pkj-fyqwiqk1968579.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h730/20180124/3pkj-fyqwiqk1968579.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 辛颖，北京
 
@@ -297,7 +297,7 @@
 
 作为一名性少数女性领导者，她经常鼓励团队和其他人要相信自己，行动起来让改变发生。大家都叫她“铁主任”。现在，小铁有一个比自己小七岁的女朋友，妈妈也越来越支持她的选择。
 
-![](//k.sinaimg.cn/n/translate/w1080h719/20180124/02NV-fyqwiqk1968843.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h719/20180124/02NV-fyqwiqk1968843.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 顾兰花，贵州省凯里市
 
@@ -315,7 +315,7 @@
 
 在外顾兰花是坚强、不服输的女支书，在家里她是一位悉心顾家的苗家女人，不仅照顾婆婆，也照顾因病导致了智力障碍的小叔子，还培养出了一双优秀的儿女，邻居提起会说“这家有个好媳妇”。
 
-![](//k.sinaimg.cn/n/translate/w1080h738/20180124/jJy5-fyqwiqk1969079.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h738/20180124/jJy5-fyqwiqk1969079.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 莫安琪（班长） 
 
@@ -335,7 +335,7 @@
 
 她曾获得湖南卫视《超级女声》2016年全国第十名的成绩，并作为NBA荣誉队长与克利夫兰骑士队的主唱进行交流学习与表演。2017年，她参加了浙江卫视《中国新歌声》并成为周杰伦战队的一员。
 
-![](//k.sinaimg.cn/n/translate/w1080h724/20180124/v7G0-fyqwiqk1969486.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/translate/w1080h724/20180124/v7G0-fyqwiqk1969486.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ### 田薇，北京
 

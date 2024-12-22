@@ -3,11 +3,11 @@
 ## 正文 { data-search-exclude }
 
 
-![搜狐视频](//css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
+![搜狐视频](https://css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
 
 **时间**: 2013-04-18  
 **作者**: 为萍鑫动  
-**来源**: [搜狐视频](//tv.sohu.com)  
+**来源**: [搜狐视频](https://tv.sohu.com)  
 **标签**: 健康, 医学科普, 医学常识  
 
 ### 正文
@@ -21,7 +21,7 @@
 
 ---
 
-**版权信息**: Copyright © 2024 All Rights Reserved. 请仔细阅读 [搜狐视频隐私政策](//tv.sohu.com/upload/privacy/index.html)、[版权声明](https://intro.sohu.com/#/copyright)、[反盗版和反盗链权利声明](//tv.sohu.com/s2016/piracy/index.shtml)  
+**版权信息**: Copyright © 2024 All Rights Reserved. 请仔细阅读 [搜狐视频隐私政策](https://tv.sohu.com/upload/privacy/index.html)、[版权声明](https://intro.sohu.com/#/copyright)、[反盗版和反盗链权利声明](https://tv.sohu.com/s2016/piracy/index.shtml)  
 **举报邮箱**: [jubaosohu@sohu-inc.com](mailto:jubaosohu@sohu-inc.com)   
 
 ---
@@ -33,11 +33,11 @@
 
 ### 精彩直播
 
-![二维码](//photocdn.tv.itc.cn/img/bd_mc_jf_zj.png)  
+![二维码](https://photocdn.tv.itc.cn/img/bd_mc_jf_zj.png)  
 
 ### 推荐出品人
 
-[加入自媒体](//tv.sohu.com/s/my/user/media/index.html) 
+[加入自媒体](https://tv.sohu.com/s/my/user/media/index.html) 
 
 ---
 

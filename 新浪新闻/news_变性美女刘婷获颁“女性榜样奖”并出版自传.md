@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性美女刘婷](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![变性美女刘婷](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 ## 来源：中国新闻网 { data-search-exclude }
 
@@ -11,11 +11,11 @@
 
 原标题：变性美女刘婷获颁“女性榜样奖”并出版自传
 
-![刘婷获奖](//k.sinaimg.cn/n/translate/20160121/3jlz-fxnuvwu4370806.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![刘婷获奖](https://k.sinaimg.cn/n/translate/20160121/3jlz-fxnuvwu4370806.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 曾获全国道德模范称号的变性美女刘婷，获得联合国妇女署颁发“2015女性传媒大奖女性榜样奖”，并于21日在穗举行自传《我本佳人》首发式。 刘卫勇 摄
 
-![刘婷新书发布](//k.sinaimg.cn/n/translate/20160121/LQS_-fxnuvwu4370808.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![刘婷新书发布](https://k.sinaimg.cn/n/translate/20160121/LQS_-fxnuvwu4370808.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 中新网广州1月21日电 (王华 璐旎)曾获全国道德模范称号的变性美女刘婷，获得联合国妇女署颁发“2015女性传媒大奖女性榜样奖”，并于21日在穗举行自传《我本佳人》首发式。
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//static.ws.126.net/utf8/3g/touch/images/share-logo.png)
+![](https://static.ws.126.net/utf8/3g/touch/images/share-logo.png)
 
 ## 新闻列表 { data-search-exclude }
 
@@ -48,7 +48,7 @@
 - [网传华东师大一男生潜入女浴室偷窥被抓，校方：警方已介入](https://m.163.com/v/video/VH457LEGN.html?spss=sps_sem)  
   来源: 中国网教育 2022-04-16
 
-![](//static.ws.126.net/163/frontend/images/toast-download.png)
+![](https://static.ws.126.net/163/frontend/images/toast-download.png)
 
 ## 摘要与附加信息
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![刘霆](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![刘霆](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：环球时报 { data-search-exclude }
 
@@ -119,7 +119,7 @@
 
 （原标题：道德模范刘霆变性后穿黑色短裙受访 将演电影）
 
-![电影相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![电影相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻官方](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

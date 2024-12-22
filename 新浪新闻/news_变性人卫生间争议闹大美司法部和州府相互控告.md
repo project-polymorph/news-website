@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性人卫生间争议](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![变性人卫生间争议](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -17,7 +17,7 @@
 
 中新网5月10日电 据美媒报道，美国就变性人的权利问题争议9日急剧升温：美国北卡罗莱纳州和联邦政府就该州要求人们根据出生时的性别使用卫生间的法律而相互控告。
 
-![图片](//k.sinaimg.cn/n/translate/20160510/QBJ--fxrytex7439435.jpg/w300h300z1l10t10q100b48.jpg)
+![图片](https://k.sinaimg.cn/n/translate/20160510/QBJ--fxrytex7439435.jpg/w300h300z1l10t10q100b48.jpg)
 
 报道称，北卡罗莱纳州长麦克罗利(Pat McCrory)宣布控告联邦政府错误地将联邦民权法适用于变性人之后几个小时，司法部又控告北卡罗莱纳对变性人实施“州府发起的歧视”。
 
@@ -41,7 +41,7 @@
 
 司法部5月4日发函称，“使用同性别认同相一致的男女卫生间或其它工作场所设施是雇员的条件和权利。……允许同一地方的非变性雇员使用那些设施，却拒绝性别认同同出生时性别不同的变形人使用，违背民权法第七章。”
 
-![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

@@ -3,14 +3,14 @@
 ## 正文 { data-search-exclude }
 
 
-![药娘](//tvax1.sinaimg.cn/crop.0.0.720.720.180/006QWimvly8fi4bkalsgwj30k00k0ta5.jpg)
+![药娘](https://tvax1.sinaimg.cn/crop.0.0.720.720.180/006QWimvly8fi4bkalsgwj30k00k0ta5.jpg)
 
 ## 探观 { data-search-exclude }
 
 **时间**: 2021.10.10 14:33  
 **来源**: 猛犸新闻  
 
-![图片1](//k.sinaimg.cn/n/default/crawl/132/w399h533/20211010/1130-b3aa1184d37ad30c84d04e9c669632fc.jpg/w300h300z1l10t10q100984.jpg)  
+![图片1](https://k.sinaimg.cn/n/default/crawl/132/w399h533/20211010/1130-b3aa1184d37ad30c84d04e9c669632fc.jpg/w300h300z1l10t10q100984.jpg)  
 ![图片2](http://n.sinaimg.cn/default/crawl/132/w399h533/20211010/ce99-25cce09a0ec69a43c7b5eb4b7b2f9fac.jpg)
 
 跨性别群体，不是一个新鲜的词汇。
@@ -35,13 +35,13 @@
 
 张立25岁，出生在河北石家庄。直到2019年，她才下定决心，第一次尝试女装。
 
-![图片3](//k.sinaimg.cn/n/default/crawl/132/w399h533/20211010/1130-b3aa1184d37ad30c84d04e9c669632fc.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片3](https://k.sinaimg.cn/n/default/crawl/132/w399h533/20211010/1130-b3aa1184d37ad30c84d04e9c669632fc.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 在她小时候，有性别意识之前，爸爸妈妈带她去人民商场，在一家小小的玩具店，她一把就抓起了一直洋娃娃。“就是那种你摆动她的身体，她的眼睛也会动的那种，很可爱。”她记得父亲没有说什么话，不耐烦地拍了一下她的手，娃娃掉回了桌子上。
 
 这让她很早就意识到，她应该有个“男孩样”。她克制自己收集彩色糖纸的冲动，极力表现出对碎花裙子充满厌恶、强迫自己去和男生一起玩跳山羊。可是她天生性格里的那些温柔、细腻、谨慎的特质，在男孩群体里只会显得格格不入。她不只一次地成为了校园霸凌的对象。
 
-![图片4](//k.sinaimg.cn/n/default/crawl/158/w550h408/20211010/5e8e-de1e87390f8d4fe09de816a4abf748a5.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片4](https://k.sinaimg.cn/n/default/crawl/158/w550h408/20211010/5e8e-de1e87390f8d4fe09de816a4abf748a5.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 这种与天性的对抗，是尖锐的、痛苦的，也是漫长的、无力的。2019年，毕业后的张立，没有找到合适的工作。就到了叔叔在唐山开的餐馆里帮忙。
 
@@ -137,7 +137,7 @@
 
 周末，王之遥花了一个小时化了一个很好的妆，再开一个半小时的车，就可以到另一座城市，那里有一个她称之为蝴蝶园的咖啡店。每周末，咖啡店的西南角，都是一个独属于药娘们的角落。她们在那面讨论电视剧，分享“小鲜肉”们的八卦。让她们印象深刻的是，老板是一个话不多的中年人，不过每次点单，都会过分郑重地大声问一句：姑娘们，这次打算喝点什么？
 
-![微博](//n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+![微博](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 <!-- 评论 -->
 ![评论](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)

@@ -3,12 +3,12 @@
 ## 正文 { data-search-exclude }
 
 
-![作者头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![作者头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 **时间**: 2017.07.29 08:57  
 **来源**: 界面新闻  
 
-![有关跨性别者的照片1](//k.sinaimg.cn/n/translate/20170729/r-8O-fyiphwc3332088.jpg/w700d1q75cms.jpg?by=cms_fixed_width)  
+![有关跨性别者的照片1](https://k.sinaimg.cn/n/translate/20170729/r-8O-fyiphwc3332088.jpg/w700d1q75cms.jpg?by=cms_fixed_width)  
 *7月27日，陆军参谋长米莱出席新闻发布会谈论跨性别者服兵役问题。来源：视觉中国*
 
 美国总统[特朗普](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E7%89%B9%E6%9C%97%E6%99%AE)于本周三在社交媒体推特上发文称将禁止变性人在美国军中服役，一时引起轩然大波。上至军方高层，下到普通民众，都对这一突然的决定感到十分意外。
@@ -31,7 +31,7 @@
 
 短时间内引起如此大的社会反响，特朗普已成功将人们的部分注意力从医保投票失利等不利局面上转移开。这次事件也给军方敲响了警钟，身为三军统帅的特朗普下次再有这种惊人之举，也应该不至于手足无措了。
 
-![有关跨性别者的照片2](//k.sinaimg.cn/n/translate/20170707/wRFo-fyhwres7539921.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![有关跨性别者的照片2](https://k.sinaimg.cn/n/translate/20170707/wRFo-fyhwres7539921.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 更多专业报道，请点击下载“界面新闻”APP
 

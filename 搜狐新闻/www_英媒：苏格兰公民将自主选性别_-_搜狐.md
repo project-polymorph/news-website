@@ -33,7 +33,7 @@ _首赞_
 
 最新评论
 
-![评论用户头像](//p8.itc.cn/q_70,c_lfill,w_50,h_50,g_face/images03/20221001/46c88bfd71964cf0b49dc20ea2760390.gif)
+![评论用户头像](https://p8.itc.cn/q_70,c_lfill,w_50,h_50,g_face/images03/20221001/46c88bfd71964cf0b49dc20ea2760390.gif)
 
 狐狐网友  
 这就是传说中的民主自由？  

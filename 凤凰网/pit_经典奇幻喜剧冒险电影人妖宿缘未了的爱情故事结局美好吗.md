@@ -14,7 +14,7 @@
 
 Notice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services.”
 
-![二维码](//qrcode.ifeng.com/2024/11/09/e46678730381631c7fe366f056cbc987.png)
+![二维码](https://qrcode.ifeng.com/2024/11/09/e46678730381631c7fe366f056cbc987.png)
 
 --- 
 

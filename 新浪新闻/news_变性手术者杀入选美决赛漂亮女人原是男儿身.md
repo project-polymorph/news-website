@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性手术者](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
+![变性手术者](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
 
 ## 来源：红网 { data-search-exclude }
 **作者**：周斌　颜家文　冯清  

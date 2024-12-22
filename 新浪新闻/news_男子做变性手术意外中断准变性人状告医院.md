@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![高婷婷](//tva1.sinaimg.cn/crop.0.0.250.250.180/005TLYMvjw8f742770d8cj306y06ywff.jpg)
+![高婷婷](https://tva1.sinaimg.cn/crop.0.0.250.250.180/005TLYMvjw8f742770d8cj306y06ywff.jpg)
 
 ## 来源：温州新闻网   { data-search-exclude }
 **时间：2004.08.25 10:29**
@@ -32,7 +32,7 @@
 
 随后，记者在高婷婷的户籍资料中发现，今年30岁的他有个与之同龄的老婆，以及一对5岁的双胞胎女儿。在问及将来变性手术成功后他将如何面对妻子时，高婷婷说，如果妻子与他合不来，可以离婚，至于两个小孩，他可以和妻子各养一个。快报记者宗一多张波（来源：现代快报）
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻官方](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

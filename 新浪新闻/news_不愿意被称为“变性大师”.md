@@ -49,7 +49,7 @@
 
 　　陈焕然：以前因为我常在媒体上实话实说，所以经常接到恐吓电话。但我想我是从一个医生科学严谨的态度去做我认为该做的事情，所以也就无所畏惧。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

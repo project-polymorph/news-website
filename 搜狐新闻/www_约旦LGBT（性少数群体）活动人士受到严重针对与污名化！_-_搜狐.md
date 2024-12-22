@@ -7,7 +7,7 @@
 来源: [红枫湾](https://www.sohu.com/a/756782383_527250?spm=smpc.content-abroad.content.1.1730993467370SefyzHG)  
 发布于：北京市
 
-![图片](//q7.itc.cn/images01/20240206/9d23ab9f55d5427e8fcfc5f1e4e952d6.jpeg)
+![图片](https://q7.itc.cn/images01/20240206/9d23ab9f55d5427e8fcfc5f1e4e952d6.jpeg)
 
 人权观察组织今天表示，约旦当局系统地针对女同性恋、男同性恋、双性恋和跨性别者权利活动家，并协调非法镇压围绕性别和性取向的言论和集会。
 

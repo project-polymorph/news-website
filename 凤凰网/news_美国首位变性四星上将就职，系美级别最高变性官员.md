@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![美国首位变性四星上将就职，系美级别最高变性官员](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2021/4D9AECA3D6985BEFBECF13D2B8A68C0C6D90EB38_size478_w1024_h683.jpeg)
+![美国首位变性四星上将就职，系美级别最高变性官员](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2021/4D9AECA3D6985BEFBECF13D2B8A68C0C6D90EB38_size478_w1024_h683.jpeg)
 
 【环球时报记者 思雨】现年63岁的美国助理卫生部长蕾切尔·莱文19日宣誓就任四星海军上将，成为美国历史上首位变性四星上将，也是美国级别最高的变性官员。
 

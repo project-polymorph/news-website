@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![人妖遇匪方显男儿本色](//n.sinaimg.cn/sinakd10202/360/w180h180/20221210/7c4c-79b80457409d0f5417a34fccac098a24.jpg)
+![人妖遇匪方显男儿本色](https://n.sinaimg.cn/sinakd10202/360/w180h180/20221210/7c4c-79b80457409d0f5417a34fccac098a24.jpg)
 
 ## 青年参考 { data-search-exclude }
 

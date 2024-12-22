@@ -12,7 +12,7 @@
 
 ---
 
-![图片](//p4.img.cctvpic.com/photoAlbum/page/performance/img/2024/5/29/1716964589825_932.jpg)
+![图片](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2024/5/29/1716964589825_932.jpg)
 
 ## 视频简介 { data-search-exclude }
 
@@ -30,10 +30,10 @@
 央视网版权所有
 
 * [央视影音APP随时随地都能看](https://app.cctv.com/index.shtml#page5)  
-* ![](//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/qq_18794.png)QQ  
-* ![](//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/kongjian_18794.png)QQ空间  
-* ![](//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/weibo_18794.png)微博  
-* ![](//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/weixin_18794.png)微信  
+* ![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/qq_18794.png)QQ  
+* ![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/kongjian_18794.png)QQ空间  
+* ![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/weibo_18794.png)微博  
+* ![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1406601454073701/weixin_18794.png)微信  
 
 ---
 

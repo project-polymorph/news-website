@@ -13,7 +13,7 @@
 
 对于被指修例内容未有照顾跨性别人士需要，黎栋国说，未接受整项变性手术的人，能否以其选择的性别结婚，属性别承认的议题，终院未有在W案作任何决定，要由有关工作小组研究。他说，会继续争取立法会支持，在终院命令生效前，通过有关草案。
 
-![关注海峡飞虹央视频号](//p2.cri.cn/M00/4D/3A/wKgACl7xvJaAL7mZAAAAAAAAAAA027.150x150.300x300.jpg)
+![关注海峡飞虹央视频号](https://p2.cri.cn/M00/4D/3A/wKgACl7xvJaAL7mZAAAAAAAAAAA027.150x150.300x300.jpg)
 
 ## 相关新闻 { data-search-exclude }
 

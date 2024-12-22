@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![特朗普政府欲规定性别只能分“男女”](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg)
+![特朗普政府欲规定性别只能分“男女”](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg)
 
 ## 观察者网 { data-search-exclude }
 
@@ -15,7 +15,7 @@
 
 近日，美媒曝料称，特朗普政府正在寻求性别在美国法律中的新定义，将只允许存在两种性别——“男性”和“女性”。此举引发跨性别人群的愤怒，多地爆发示威游行。
 
-![NBC报道截图：22日，跨性别者活动人士在白宫外抗议。](//k.sinaimg.cn/n/news/transform/155/w550h405/20181025/i79X-hmxrkzw2971449.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![NBC报道截图：22日，跨性别者活动人士在白宫外抗议。](https://k.sinaimg.cn/n/news/transform/155/w550h405/20181025/i79X-hmxrkzw2971449.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 《纽约时报》21日获取的一份政府备忘录显示，美国卫生及公共服务部（HHS）正在努力确定性别的法律定义。
 

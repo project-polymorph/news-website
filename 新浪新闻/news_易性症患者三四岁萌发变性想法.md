@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![易性症患者](//tvax1.sinaimg.cn/crop.0.0.640.640.180/652f5916ly8gdimr47he4j20hs0hsad0.jpg)
+![易性症患者](https://tvax1.sinaimg.cn/crop.0.0.640.640.180/652f5916ly8gdimr47he4j20hs0hsad0.jpg)
 
 ## 长安街知事 { data-search-exclude }
 
@@ -47,9 +47,9 @@
 
 *（原标题：易性症患者三四岁萌发变性想法）*
 
-![新浪新闻](//n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
-![评论图标](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![评论图标](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 *新浪新闻官方*
 

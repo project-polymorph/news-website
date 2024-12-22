@@ -21,7 +21,7 @@
 
 **最新评论（0条）**
 
-![用户头像](//s.cncnimg.cn/images/member_nopic.png)
+![用户头像](https://s.cncnimg.cn/images/member_nopic.png)
 
 ---
 

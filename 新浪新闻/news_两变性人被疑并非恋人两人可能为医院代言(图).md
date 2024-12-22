@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：金羊网-新快报 { data-search-exclude }
 **时间：** 2006.06.28 09:35  
@@ -59,7 +59,7 @@
 
 红颜和雪儿小小年纪独自到广东打拼，因为年轻，他们大概也没想到这件事情会演变成现在这个样子。红颜说过，一份合同违约金是10万，而雪儿没有身份证，他是担保人，也就是说，如果他们违约的话，他就要独自承担20万元的赔偿压力。难怪红颜一向快乐的眼神在那天变得忧郁起来。
 
-![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 **新浪网友0**  

@@ -1,4 +1,4 @@
-# ![手机版](//www.news.cn/2022newhomepro/mobile/images/logo.png)
+# ![手机版](https://www.news.cn/2022newhomepro/mobile/images/logo.png)
 
 ![二维码](http://www.xinhuanet.com/detail2020/images/ewm.png)
 

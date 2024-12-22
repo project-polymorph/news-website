@@ -7,7 +7,7 @@
 
 2018年10月25日 08:05 [观察者网](https://www.guancha.cn/internation/2018_10_25_476786.shtml)
 
-![NBC报道截图：22日，跨性别者活动人士在白宫外抗议。](//n.sinaimg.cn/news/crawl/155/w550h405/20181025/nRnE-hmxrkzw3664978.jpg)
+![NBC报道截图：22日，跨性别者活动人士在白宫外抗议。](https://n.sinaimg.cn/news/crawl/155/w550h405/20181025/nRnE-hmxrkzw3664978.jpg)
 
 原标题：特朗普政府欲规定性别只能分“男女”，跨性别者炸了
 
@@ -37,7 +37,7 @@
 
 关键字 : [性别](http://tags.news.sina.com.cn/性别) [纽约时报](http://tags.news.sina.com.cn/纽约时报) [特朗普](http://tags.news.sina.com.cn/特朗普)
 
-![新浪新闻公众号](//simg.sinajs.cn/products/news/items/2017/pc_news_article/img/news-code-f951f4.jpg)
+![新浪新闻公众号](https://simg.sinajs.cn/products/news/items/2017/pc_news_article/img/news-code-f951f4.jpg)
 
 _[5](https://comment5.news.sina.com.cn/comment/skin/default.html?channel=gj&newsid=comos-hmxrkzw3667667)_条评论 | _[60](https://comment5.news.sina.com.cn/comment/skin/default.html?channel=gj&newsid=comos-hmxrkzw3667667)_人参与网友评论
 

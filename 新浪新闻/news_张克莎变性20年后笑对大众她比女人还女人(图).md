@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源: 湖南在线-湖南日报   { data-search-exclude }
 ### 时间: 2003.06.09 13:09  
@@ -31,7 +31,7 @@
 (本报记者 易禹琳 实习生 资雅莹 曾秀良)  
 (本报记者王小华摄)
 
-![重要图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png) 
+![重要图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png) 
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

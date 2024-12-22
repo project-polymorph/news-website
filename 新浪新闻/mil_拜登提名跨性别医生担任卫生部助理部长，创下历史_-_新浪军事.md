@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
+![图片](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 ## 来源 { data-search-exclude }
 澎湃新闻  
@@ -21,7 +21,7 @@
 
 目前，拜登已经提名了卫生部长等多个卫生领域的职位人选，食品药品监督管理局和（FDA）与医疗保险和医疗补助服务中心（CMS）的负责人人选仍有待确定。
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 评论 { data-search-exclude }
 ### 热门评论点击查看更多

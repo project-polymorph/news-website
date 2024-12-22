@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![蕾切尔·莱文资料图](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
+![蕾切尔·莱文资料图](https://n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
 ## 来源：环球网 { data-search-exclude }
 
@@ -16,7 +16,7 @@
 
 美国《华盛顿邮报》19日报道称，莱文履职的美国公共卫生服务军团共有约6000名军人，主要负责应对国内的各种卫生危机，比如管理新冠疫苗及飓风后的运输服务等。莱文也是该组织首位女性四星上将。美国卫生部长泽维尔·贝塞拉称，莱文的上任是“美国走向平等的一大步。”
 
-![蕾切尔·莱文资料图](//k.sinaimg.cn/n/spider20211021/107/w1024h683/20211021/c0c4-b3b2ffe2bea714c45018d1407f92ce34.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![蕾切尔·莱文资料图](https://k.sinaimg.cn/n/spider20211021/107/w1024h683/20211021/c0c4-b3b2ffe2bea714c45018d1407f92ce34.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 但一些保守人士认为，莱文的上任是美国政府的政治手段，保守派法律组织“司法观察”主席汤姆·费顿就在社交媒体上发文称：“拜登政府又在公共卫生服务上玩政治配额了。”
 

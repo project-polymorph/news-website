@@ -3,14 +3,14 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 **来源**: 新京报  
 **时间**: 2015.03.18 22:18  
 **作者**: 杨敏  
 **编辑**: 赵力, 李丰  
 
-![](//k.sinaimg.cn/www/dy/c/2015-03-20/1426849222_gZHRAN.jpg/w300h300z1l10t10q100e63.jpg)
+![](https://k.sinaimg.cn/www/dy/c/2015-03-20/1426849222_gZHRAN.jpg/w300h300z1l10t10q100e63.jpg)
 
 日本驻华公使和田充广勇敢做自己，今年2月在日本驻华大使馆召开的工作人员联谊会上，54岁的和田身着女装出席，更有他穿女装忘情跳舞的照片流出。
 
@@ -20,7 +20,7 @@
 
 ## “女装癖”or“伪娘”傻傻分不清? { data-search-exclude }
 
-![](//www.sinaimg.cn/dy/c/2015-03-20/1426849222_gZHRAN.jpg)
+![](https://www.sinaimg.cn/dy/c/2015-03-20/1426849222_gZHRAN.jpg)
 
 如果说“女扮男装”在日本社会很流行，那么“伪娘”便是名符其实的由日本制造继而推向三次元的角色。TA们最初出现在日本动漫里，特指那些“比女人还美的男人”。“女装癖”和“伪娘”虽然都是在男女界限上模糊的角色，但是两者却有着本质的差别。
 

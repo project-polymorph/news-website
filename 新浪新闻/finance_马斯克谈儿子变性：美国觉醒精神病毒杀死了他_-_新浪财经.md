@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![马斯克与彼得森](//n.sinaimg.cn/spider20240724/200/w600h400/20240724/9298-c9124c02ab005fa9d6e7aa0aa4cabb82.jpg)
+![马斯克与彼得森](https://n.sinaimg.cn/spider20240724/200/w600h400/20240724/9298-c9124c02ab005fa9d6e7aa0aa4cabb82.jpg)
 
 2024年07月24日 06:40 [快科技](https://news.mydrivers.com/1/993/993141.htm)
 
@@ -19,7 +19,7 @@
 
 彼得森博士对此表示赞同，他认为没有确凿证据支持性别认同的困扰会导致自杀率上升，而自杀率上升的根源在于潜在的抑郁与焦虑。
 
-![责任编辑：雪花](//n.sinaimg.cn/spider20240724/200/w600h400/20240724/9298-c9124c02ab005fa9d6e7aa0aa4cabb82.jpg)
+![责任编辑：雪花](https://n.sinaimg.cn/spider20240724/200/w600h400/20240724/9298-c9124c02ab005fa9d6e7aa0aa4cabb82.jpg)
 
 关键词 : [马斯克](http://tags.tech.sina.com.cn/马斯克) [彼得森](http://tags.tech.sina.com.cn/彼得森)
 

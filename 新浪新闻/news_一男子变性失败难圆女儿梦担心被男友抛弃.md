@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![默认头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 四川新闻网-成都商报 { data-search-exclude }
 
@@ -43,7 +43,7 @@
 
 曾经为小柯主刀的邹医生告诉记者，自己是严格按照手术程序操作的，“效果不理想不排除他是疤痕体质的缘故，因为这种体质的人手术伤痕恢复较差。”邹医生同时称，小柯的手术伤痕还是可以通过手术弥补的。(本报记者 郑蕾 摄影 王志)
 
-![重要图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![重要图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

@@ -27,7 +27,7 @@
 
 我投给了“A.黄色”~ 池梓灿（池健聪）同学造谣并制作色情图片的行为极度不道德然而学校非但没有严肃处理此事反而选择包庇维护，所以我想讽刺这所学校的标志色就是“黄色”。“黄色”不仅是指色情的含义，也暗指学校在应对这些问题时态度暧昧、缺乏正气，给人一种不健康、不负责任的感觉。
 
-[@浙江传媒学院](https://m.weibo.cn/u/1854671854?luicode=10000011&lfid=1005057494833629&featurecode=sinanews20170424): [#这船媒问题#](https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%BF%99%E8%88%B9%E5%AA%92%E9%97%AE%E9%A2%98%23&extparam=%23%E8%BF%99%E8%88%B9%E5%AA%92%E9%97%AE%E9%A2%98%23&luicode=10000011&lfid=1005057494833629&featurecode=sinanews20170424) 浙江传媒学院的校标是什么颜色的？ [![](//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png) 网页链接](http://t.cn/A6EmZVTQ)
+[@浙江传媒学院](https://m.weibo.cn/u/1854671854?luicode=10000011&lfid=1005057494833629&featurecode=sinanews20170424): [#这船媒问题#](https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%BF%99%E8%88%B9%E5%AA%92%E9%97%AE%E9%A2%98%23&extparam=%23%E8%BF%99%E8%88%B9%E5%AA%92%E9%97%AE%E9%A2%98%23&luicode=10000011&lfid=1005057494833629&featurecode=sinanews20170424) 浙江传媒学院的校标是什么颜色的？ [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png) 网页链接](http://t.cn/A6EmZVTQ)
 
 ![](https://wx4.sinaimg.cn/large/6e8c0beely8hujbo3jwm8j20np0nptdw.jpg)
 

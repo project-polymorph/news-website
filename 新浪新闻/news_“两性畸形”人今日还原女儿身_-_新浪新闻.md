@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-_![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
+_![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 汉网-长江日报 { data-search-exclude }
 
@@ -11,7 +11,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 **作者**: 记者傅克强  
 **来源**: 汉网-长江日报  
 
-![](//www.sinaimg.cn/dy/c/2010-01-05/1262628511_dpRsSp.jpg)
+![](https://www.sinaimg.cn/dy/c/2010-01-05/1262628511_dpRsSp.jpg)
 
 本报讯 （记者傅克强）昨日下午，武汉大学人民医院整形科病房里，17岁的小芳（化名）和10岁的小婷（化名）姐妹俩陪着舅妈边看电视边聊天，话语间充满了期待。今天上午，姐姐将走进手术室，通过手术还其女儿身。
 
@@ -22,7 +22,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 图为姐妹俩在病房里玩耍。
 
 记者傅克强 摄  
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-![变性人参军解禁](//n.sinaimg.cn/sinakd10200/360/w180h180/20230526/9235-5b764839635f7db7af4282f685456ea8.jpg)
+![变性人参军解禁](https://n.sinaimg.cn/sinakd10200/360/w180h180/20230526/9235-5b764839635f7db7af4282f685456ea8.jpg)
 
 ## 来源 { data-search-exclude }
 广州日报  
 发布时间：2016.06.26 06:01
 
-![图中的美国变性人士兵透露，自己曾被要求穿女性制服出席会议。](//k.sinaimg.cn/n/news/transform/20160626/rT5x-fxtniax7971202.jpg)
+![图中的美国变性人士兵透露，自己曾被要求穿女性制服出席会议。](https://k.sinaimg.cn/n/news/transform/20160626/rT5x-fxtniax7971202.jpg)
 
 新华社电 美国媒体24日援引消息人士的话报道，五角大楼计划今年7月给变性人“解禁”，解除对这一群体参军时的种种约束。
 

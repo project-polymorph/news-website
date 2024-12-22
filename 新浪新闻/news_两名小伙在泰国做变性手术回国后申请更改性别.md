@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 ## 来源：中国新闻网 { data-search-exclude }
 
@@ -30,7 +30,7 @@
 
 最后，在公证书上，小钱把两位公证申请人的性别仍旧写作了“男”。小钱说，在户籍性别没更改之前，两人在法律上仍然是男性，等到更改生效后，她们就能过上法律意义上的女性生活。
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

@@ -6,7 +6,7 @@
 性別新聞  
 2022-02-23
 
-![「這是人類的勝利！」紐西蘭立法禁止LGBT迴轉治療](//cdn.cybassets.com/s/files/3891/ckeditor/pictures/content_b83a6acd-3d2b-494b-b52d-aed45685e93d.jpg)
+![「這是人類的勝利！」紐西蘭立法禁止LGBT迴轉治療](https://cdn.cybassets.com/s/files/3891/ckeditor/pictures/content_b83a6acd-3d2b-494b-b52d-aed45685e93d.jpg)
 
 **「這是人類的勝利！」紐西蘭立法禁止LGBT迴轉治療**
 

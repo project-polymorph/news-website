@@ -8,7 +8,7 @@
 
 当地时间2002年10月31日，美国西好莱坞万圣节人妖(Drag Queens)狂欢派对在圣塔摩尼卡大道(Santa Monica Blvd)举行。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

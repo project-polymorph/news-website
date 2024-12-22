@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
 
 ## 国际在线 { data-search-exclude }
 
@@ -60,7 +60,7 @@
 
 一位25岁的潼男帅小伙陈波一直认为自己“是个女孩”，为了追求爱情，摆脱性别错位给自己带来的困扰，变成真正的漂亮女人。他作出惊人之举———公开决定要做变性手术，昨日手术成顺利出院。（记者 唐国利）
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

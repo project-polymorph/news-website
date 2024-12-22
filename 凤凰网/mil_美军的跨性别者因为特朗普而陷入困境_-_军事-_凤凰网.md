@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![美军的跨性别者因为特朗普而陷入困境](//d.ifengimg.com/w121_h75_q90/img1.ugc.ifeng.com/newugc/20190130/13/wemedia/57059ea13d13783123a422ab0650577d6debed35_size83_w1200_h675.jpg)
+![美军的跨性别者因为特朗普而陷入困境](https://d.ifengimg.com/w121_h75_q90/img1.ugc.ifeng.com/newugc/20190130/13/wemedia/57059ea13d13783123a422ab0650577d6debed35_size83_w1200_h675.jpg)
 
 [地球参谋处](https://ishare.ifeng.com/mediaShare/home/840927/media)
 

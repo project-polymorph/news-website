@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![女排名将被认定是男性！身体从小就特殊，已完成第一阶段矫正手术](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2021/50A645479D164DF0FEF42A96A74C6D4C5F117C88_size189_w640_h463.jpeg)
+![女排名将被认定是男性！身体从小就特殊，已完成第一阶段矫正手术](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2021/50A645479D164DF0FEF42A96A74C6D4C5F117C88_size189_w640_h463.jpeg)
 
 ![三十年莱斯特城球迷](https://ishare.ifeng.com/mediaShare/home/1379093/media)
 
@@ -16,8 +16,8 @@
 **来源**: 凤凰网
 
 **评论**: 
-- [17人参与](//gentie.ifeng.com/c/comment/84V1QSjYezT)
-- [5评论](//gentie.ifeng.com/c/comment/84V1QSjYezT)
+- [17人参与](https://gentie.ifeng.com/c/comment/84V1QSjYezT)
+- [5评论](https://gentie.ifeng.com/c/comment/84V1QSjYezT)
 
 ---
 

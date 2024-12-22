@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![韩国变性军人边某](//n.sinaimg.cn/sinacn17/174/w87h87/20180315/2b0c-fyshfup8142498.jpg)
+![韩国变性军人边某](https://n.sinaimg.cn/sinacn17/174/w87h87/20180315/2b0c-fyshfup8142498.jpg)
 
 ## 海外网 { data-search-exclude }
 
@@ -13,17 +13,17 @@
 
 **作者 | 刘强**
 
-![▲ 韩国变性军人边某](//k.sinaimg.cn/n/sinakd202134s/55/w396h459/20210304/4fc4-kkxpczc3468442.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![▲ 韩国变性军人边某](https://k.sinaimg.cn/n/sinakd202134s/55/w396h459/20210304/4fc4-kkxpczc3468442.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 据韩联社报道，韩国警方3日消息称，当天下午5时49分，接受变性手术后被勒令退役的前陆军士官边某被发现死于家中。
 
 当天，韩国清州市上党区精神健康中心向消防部门申报，无法与边某取得联系。边某一直在该中心接受治疗，曾自杀未遂，而且从1月28日之后联系不上。
 
-![消防部门出动](//k.sinaimg.cn/n/sinakd202134s/32/w477h355/20210304/47d5-kkxpczc3468685.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![消防部门出动](https://k.sinaimg.cn/n/sinakd202134s/32/w477h355/20210304/47d5-kkxpczc3468685.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 消防部门接到举报后紧急出动，但边某已经死亡。从遗体腐败程度来推测，消防部门认为边某死亡已过多日。警方正在调查边某死亡经过。据悉，警方没有发现遗书。
 
-![▲ 韩国变性军人边某](//k.sinaimg.cn/n/sinakd202134s/294/w463h631/20210304/16e4-kkxpczc3468686.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![▲ 韩国变性军人边某](https://k.sinaimg.cn/n/sinakd202134s/294/w463h631/20210304/16e4-kkxpczc3468686.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 边某曾在韩国京畿道北部某部队作为坦克驾驶员服役，2019年休假期间赴泰国接受变性手术，归队后表示愿以女兵身份继续服役。但是军方对边某身体变化进行调查，并判处身心障碍3级，2020年1月做出退役决定。
 

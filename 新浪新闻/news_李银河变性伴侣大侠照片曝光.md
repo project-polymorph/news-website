@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![李银河与伴侣](//n.sinaimg.cn/sinacn10212/348/w174h174/20191010/cdd7-ifrwayx5094465.jpg)
+![李银河与伴侣](https://n.sinaimg.cn/sinacn10212/348/w174h174/20191010/cdd7-ifrwayx5094465.jpg)
 
 ## 南都周刊 { data-search-exclude }
 
@@ -127,7 +127,7 @@
 
 大侠：谁说小众感情不长久？我不这么认为。你看我们长久吗？
 
-![热门评论](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![热门评论](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

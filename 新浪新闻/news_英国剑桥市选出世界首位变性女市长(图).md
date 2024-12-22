@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![市长珍妮·贝利](//n.sinaimg.cn/sinacn/20170516/1212-fyfeutq0813373.jpg)
+![市长珍妮·贝利](https://n.sinaimg.cn/sinacn/20170516/1212-fyfeutq0813373.jpg)
 
 ## 新闻晨报 { data-search-exclude }
 
@@ -42,7 +42,7 @@
 
 不过，对于一个变性人担任市长，剑桥市民仍然反应不一。一名女市民说：“我认为这实在太惊人了。”但剑桥市木匠托德·格朗斯却说：“只要他能履行好市长的职责，我认为这毫无关系。”江玮(中国日报特稿)
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

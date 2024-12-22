@@ -7,7 +7,7 @@
 **来源**：[红枫湾](https://www.sohu.com/a/778439728_527250?spm=smpc.content-abroad.content.1.1730994053120LwqiHEz)  
 **发布地点**：北京市  
 
-![研究图片](//q4.itc.cn/images01/20240513/873aa9b9dad34293ae5df69dded6957b.jpeg)
+![研究图片](https://q4.itc.cn/images01/20240513/873aa9b9dad34293ae5df69dded6957b.jpeg)
 
 研究表明，女同性恋、男同性恋、双性恋、跨性别者和酷儿（LGBTQ）青少年自杀以及抑郁和焦虑等心理健康问题的风险增加。最令人震惊的统计数据之一是：LGBTQ青少年考虑自杀与自杀未遂率约为全国青少年自杀率的四倍。
 

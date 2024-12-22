@@ -7,7 +7,7 @@
 
 发布于：北京市
 
-![LGBT调查](//p5.itc.cn/images01/20231219/7c105fd0582c4de387f3e58226149b4b.jpeg)
+![LGBT调查](https://p5.itc.cn/images01/20231219/7c105fd0582c4de387f3e58226149b4b.jpeg)
 
 2023年LGBT+骄傲调查发现，在30个国家，平均9%的成年人认为自己是LGBT+，代际差异很大。
 

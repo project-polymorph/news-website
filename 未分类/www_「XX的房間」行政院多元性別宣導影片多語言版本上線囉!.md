@@ -30,7 +30,7 @@
 
 建議使用Chrome瀏覽器  
 
-- ![我的E政府](//www.gov.tw/ "[另開新視窗]我的E政府 [另開新視窗]")  
+- ![我的E政府](https://www.gov.tw/ "[另開新視窗]我的E政府 [另開新視窗]")  
 - ![通過AA等級無障礙網頁檢測](https://accessibility.moda.gov.tw/Applications/Detail?category=20231016102631 "[另開新視窗]通過AA等級無障礙網頁檢測")
 
 ## 摘要与附加信息

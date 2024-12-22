@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：沈阳今报   { data-search-exclude }
 ## 时间：2003.12.07 11:44   { data-search-exclude }
@@ -14,7 +14,7 @@
 
 11月6日，雪梅接受性别确认手术并获得成功，经过医院两周术后治疗，雪梅身体已完全康复。医生表示，现在雪梅已进入激素调理阶段，一年或者两年之后，她才有望完全表现为女性特征。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

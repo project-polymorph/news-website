@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![封面新闻](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/1a02-2366e83a0687902c7c77d1f31727c30f.jpg)
+![封面新闻](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/1a02-2366e83a0687902c7c77d1f31727c30f.jpg)
 
 ## 封面新闻 { data-search-exclude }
 **来源**: 华西都市报  
@@ -28,7 +28,7 @@
 
 至于刘丽离婚后的结婚问题，成都市民政局表示，目前有关法规还没有对这一特定人群作出具体规定，变性人同我国其他公民一样，有权按照婚姻法与异性自愿登记结婚，这在法律上没有任何障碍设置。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

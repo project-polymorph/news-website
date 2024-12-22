@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![这部泰国人妖纪录片，绝对颠覆你对变性人的认知](//d.ifengimg.com/w121_h75_q90/p0.ifengimg.com/pmop/2018/0530/ADBC0FA7E414BC730EB7617651B0E6A7E5161CE77_size324_w640_h145.gif)
+![这部泰国人妖纪录片，绝对颠覆你对变性人的认知](https://d.ifengimg.com/w121_h75_q90/p0.ifengimg.com/pmop/2018/0530/ADBC0FA7E414BC730EB7617651B0E6A7E5161CE77_size324_w640_h145.gif)
 
 [君君电影院](https://ishare.ifeng.com/mediaShare/home/1020155/media)
 

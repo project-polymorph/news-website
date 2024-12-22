@@ -1,4 +1,4 @@
-# ![现场一片混乱！上百泰国和菲律宾变性人在曼谷市中心爆发冲突](//x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
+# ![现场一片混乱！上百泰国和菲律宾变性人在曼谷市中心爆发冲突](https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
 
 # 现场一片混乱！上百泰国和菲律宾变性人在曼谷市中心爆发冲突
 

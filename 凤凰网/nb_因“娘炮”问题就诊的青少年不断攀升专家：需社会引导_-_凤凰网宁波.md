@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//y3.ifengimg.com/a/2016/0414/ab605e5e0631dd6size71_w300_h300.jpg)
+![图片](https://y3.ifengimg.com/a/2016/0414/ab605e5e0631dd6size71_w300_h300.jpg)
 
 **时间**：2018年09月12日  
 **来源**：[浙江新闻](https://zj.zjol.com.cn/news/1028190.html)  
@@ -13,7 +13,7 @@
 
 用微信扫描二维码分享至好友和朋友圈
 
-![二维码](//h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+![二维码](https://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
 此文发布后，“娘炮”现象引起了公众的强烈关注。有网友争辩，“娘炮”究竟只是多元文化的体现，是个人自由；另一部分网友则与新华社持相同观点，“阴柔之风”的确是审美病态的体现，它不应该成为“社会流行色”。
 

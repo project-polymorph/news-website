@@ -3,9 +3,9 @@
 ## 正文 { data-search-exclude }
 
 
-![搜狐视频](//css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
+![搜狐视频](https://css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
 
-![变性人](//e3f49eaa46b57.cdn.sohucs.com/c_pad,w_160,h_90,blur_80/group1/M07/69/CE/MTAuMTAuODguNzk=/6_13cce8d8a2eg102_51551341_7_1b.jpg)
+![变性人](https://e3f49eaa46b57.cdn.sohucs.com/c_pad,w_160,h_90,blur_80/group1/M07/69/CE/MTAuMTAuODguNzk=/6_13cce8d8a2eg102_51551341_7_1b.jpg)
 
 **[变性人](http://my.tv.sohu.com/pl/5536067.shtml "变性人")**
 
@@ -69,7 +69,7 @@
 - **[50岁德普订婚](http://my.tv.sohu.com/pl/6570457/index.shtml)**
 
 版权声明：Copyright © 2024 Sohu.com Inc. All Rights Reserved.  
-请仔细阅读 [版权声明](https://intro.sohu.com/#/copyright) 、[反盗版和反盗链权利声明](//tv.sohu.com/s2016/piracy/index.shtml)  
+请仔细阅读 [版权声明](https://intro.sohu.com/#/copyright) 、[反盗版和反盗链权利声明](https://tv.sohu.com/s2016/piracy/index.shtml)  
 举报邮箱：[jubaosohu@sohu-inc.com](mailto:jubaosohu@sohu-inc.com)  
 备案号：[京ICP证030367号-1](https://beian.miit.gov.cn/)
 

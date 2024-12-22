@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![回击第一夫人变性谣言，马克龙出面护妻](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/A497B84B8EE41BB91672CC07CD144669B4E4D9A8_size68_w739_h415.jpg)
+![回击第一夫人变性谣言，马克龙出面护妻](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/A497B84B8EE41BB91672CC07CD144669B4E4D9A8_size68_w739_h415.jpg)
 
 时间：2024年03月11日 05:38:43 来自北京市  
 来源：[环球网](https://ishare.ifeng.com/mediaShare/home/767468/media)

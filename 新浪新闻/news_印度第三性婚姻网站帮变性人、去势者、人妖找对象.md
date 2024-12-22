@@ -3,9 +3,9 @@
 ## 正文 { data-search-exclude }
 
 
-![一名“海吉拉斯”过去和现在的对比照](//www.sinaimg.cn/dy/o/2009-11-12/1258009189_EEQb0y.jpg)
+![一名“海吉拉斯”过去和现在的对比照](https://www.sinaimg.cn/dy/o/2009-11-12/1258009189_EEQb0y.jpg)
 
-![该网站首页](//www.sinaimg.cn/dy/o/2009-11-12/1258009189_YHOVHM.jpg)
+![该网站首页](https://www.sinaimg.cn/dy/o/2009-11-12/1258009189_YHOVHM.jpg)
 
 来源: 国际在线  
 时间: 2009.11.12 15:00  

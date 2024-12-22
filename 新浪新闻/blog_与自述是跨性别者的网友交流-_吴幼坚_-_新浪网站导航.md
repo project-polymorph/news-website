@@ -15,7 +15,7 @@
 - 与跨性别者交流  
 - 情感  
 
-**分类：** [出柜话题](//blog.sina.com.cn/s/articlelist_1266309985_6_1.html)  
+**分类：** [出柜话题](https://blog.sina.com.cn/s/articlelist_1266309985_6_1.html)  
 
 ![与自述是跨性别者的网友交流](https://s15.sinaimg.cn/mw690/001nHj4Bzy8aV1o2KOb6f&690)  
 **本文照片由76岁的退休编辑、同志母亲吴幼坚2023年12月10日、13日摄于广州东山湖公园。图为游艇慢慢驶近白鹭。**
@@ -54,23 +54,23 @@
 
 **按时间顺序发12月10日、13日东山湖公园随手拍：**
 
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
-![与自述是跨性别者的网友交流](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)   
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)  
+![与自述是跨性别者的网友交流](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)   
 
 ---
 

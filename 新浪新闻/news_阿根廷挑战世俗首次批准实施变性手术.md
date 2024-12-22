@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性手术](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6d62-6e393c6cd18267730e6b994bdc59d07e.jpg)
+![变性手术](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6d62-6e393c6cd18267730e6b994bdc59d07e.jpg)
 
 ## 来源：北京青年报 { data-search-exclude }
 

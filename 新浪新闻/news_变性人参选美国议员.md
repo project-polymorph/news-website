@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性人参选美国议员](//n.sinaimg.cn/sinakd10200/360/w180h180/20230526/9235-5b764839635f7db7af4282f685456ea8.jpg)
+![变性人参选美国议员](https://n.sinaimg.cn/sinakd10200/360/w180h180/20230526/9235-5b764839635f7db7af4282f685456ea8.jpg)
 
 ## 来源：广州日报   { data-search-exclude }
 **时间：2016.07.01 03:05**  
@@ -22,7 +22,7 @@
 
 两人将与共和党对手展开激烈竞争，对方都是现任议员，而且在民意调查中保持领先。事实上，由于所处选区是传统共和党“红色”选区，斯诺和普洛赖特当选的可能性很低。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

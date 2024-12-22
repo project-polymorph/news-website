@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![万斯暗示，中上层阶级白人孩子可能会为了进名校而成为跨性别者](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2024_44/F76ECB5F1116220672FA06EB0933792F66964BE4_size45_w1280_h214.png)
+![万斯暗示，中上层阶级白人孩子可能会为了进名校而成为跨性别者](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2024_44/F76ECB5F1116220672FA06EB0933792F66964BE4_size45_w1280_h214.png)
 
 **来源**: 凤凰网  
 **时间**: 2024年11月01日 08:38:15 来自北京市  

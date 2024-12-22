@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![跨性别女孩](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/5488-f44788ac472043e856889cad813b4a5a.jpg)
+![跨性别女孩](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/5488-f44788ac472043e856889cad813b4a5a.jpg)
 
 ## 来源 { data-search-exclude }
 新浪新闻  
@@ -14,7 +14,7 @@
 
 等待她的是一段残酷的性别扭转治疗，包括注射、电击、限制人身自由。
 
-![跨性别女孩](//k.sinaimg.cn/n/news/crawl/116/w550h366/20200722/f09b-iwtqvyk0155427.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![跨性别女孩](https://k.sinaimg.cn/n/news/crawl/116/w550h366/20200722/f09b-iwtqvyk0155427.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 跨性别，指性别认同异于原生性别的人。
 
@@ -159,9 +159,9 @@
 
 ## 众多新闻客户端用户正在参与精彩热评，快快加入吧！   { data-search-exclude }
 
-![用户头像](//mjs.sinaimg.cn/umd/bazaar/2020-4-29/avatar_1.png)  
-![用户头像](//mjs.sinaimg.cn/umd/bazaar/2020-4-29/avatar_2.png)  
-![用户头像](//mjs.sinaimg.cn/umd/bazaar/2020-4-29/avatar_3.png)  
+![用户头像](https://mjs.sinaimg.cn/umd/bazaar/2020-4-29/avatar_1.png)  
+![用户头像](https://mjs.sinaimg.cn/umd/bazaar/2020-4-29/avatar_2.png)  
+![用户头像](https://mjs.sinaimg.cn/umd/bazaar/2020-4-29/avatar_3.png)  
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)  
 

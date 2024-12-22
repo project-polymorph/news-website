@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![封面新闻](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/1a02-2366e83a0687902c7c77d1f31727c30f.jpg)
+![封面新闻](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/1a02-2366e83a0687902c7c77d1f31727c30f.jpg)
 
 **来源：** 封面新闻  
 **时间：** 2006.07.29 07:20  
@@ -101,9 +101,9 @@
 
 **小晓：** 眼下我不会再提变性的事，等到完成学业再说。毕竟很多人都说，变性是一条不归路！
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-![新浪新闻](//n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 ## 摘要与附加信息
 

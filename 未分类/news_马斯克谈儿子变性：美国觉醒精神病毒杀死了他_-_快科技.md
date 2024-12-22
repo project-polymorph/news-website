@@ -3,14 +3,14 @@
 ## 正文 { data-search-exclude }
 
 
-![马斯克谈儿子变性：美国觉醒精神病毒杀死了他](//img1.kkeji.com/img/2005/20241112/100449760.gif)
+![马斯克谈儿子变性：美国觉醒精神病毒杀死了他](https://img1.kkeji.com/img/2005/20241112/100449760.gif)
 
 **时间**: 2024-07-24 06:40:45  
 **出处**: [游民星空](https://www.gamersky.com/news/202407/1791366.shtml)  
 **作者**: Noir  
 **编辑**: 雪花  
 **人气**: 10141 次  
-**评论**: [0](//comment8.mydrivers.com/review/993141-1.htm)
+**评论**: [0](https://comment8.mydrivers.com/review/993141-1.htm)
 
 ## 正文内容 { data-search-exclude }
 
@@ -26,7 +26,7 @@
 
 彼得森博士对此表示赞同，他认为没有确凿证据支持性别认同的困扰会导致自杀率上升，而自杀率上升的根源在于潜在的抑郁与焦虑。
 
-![马斯克谈儿子变性：美国觉醒精神病毒杀死了他](//img1.mydrivers.com/img/20240724/s_93369d2aff764b51ba03e09f0236cb86.jpg)
+![马斯克谈儿子变性：美国觉醒精神病毒杀死了他](https://img1.mydrivers.com/img/20240724/s_93369d2aff764b51ba03e09f0236cb86.jpg)
 
 **责任编辑**: 雪花
 
@@ -44,9 +44,9 @@
 
 ### 标签
 
-- [_#_马斯克](//news.mydrivers.com/tag/masike.htm)
-- [_#_埃隆马斯克](//news.mydrivers.com/tag/ailongmasike.htm)
-- [_#_美国](//news.mydrivers.com/tag/meiguo.htm)
+- [_#_马斯克](https://news.mydrivers.com/tag/masike.htm)
+- [_#_埃隆马斯克](https://news.mydrivers.com/tag/ailongmasike.htm)
+- [_#_美国](https://news.mydrivers.com/tag/meiguo.htm)
 
 ### 文章作者
 

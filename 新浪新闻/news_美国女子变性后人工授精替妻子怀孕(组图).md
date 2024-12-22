@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-_![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
+_![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 来源：金羊网-新快报   { data-search-exclude }
 **时间：2008.03.27 01:47**
@@ -28,7 +28,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 托马斯称，尽管他现在身怀六甲，但他内心仍认为自己是个男人。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

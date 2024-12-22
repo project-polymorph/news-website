@@ -13,7 +13,7 @@
 
 人权组织和活动人士关注法案将个人身份定罪，剥夺基本人权。联合国警告，法律将在加纳制造国家支持的歧视和暴力体系，针对LGBTQ+人士。外界忧虑法案将引发对LGBTQ+人士及倡议者的猎巫行动，迫使部分人躲藏。
 
-![加纳定LGBTQ+罪 囚三年](//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pupil_washes_hands_during_COVID-19_pandemic_in_Ghana.jpg/250px-Pupil_washes_hands_during_COVID-19_pandemic_in_Ghana.jpg)
+![加纳定LGBTQ+罪 囚三年](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pupil_washes_hands_during_COVID-19_pandemic_in_Ghana.jpg/250px-Pupil_washes_hands_during_COVID-19_pandemic_in_Ghana.jpg)
 
 ### 主要条文？
 
@@ -35,7 +35,7 @@
 - 骚扰被指LGBT+人士者：囚六个月至三年
 - 政府可引渡根据法案被定罪者
 
-![加纳定LGBTQ+罪 囚三年](//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Children_learning_to_play_the_local_drum_in_northern_Region_of_Ghana_03.jpg/250px-Children_learning_to_play_the_local_drum_in_northern_Region_of_Ghana_03.jpg)
+![加纳定LGBTQ+罪 囚三年](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Children_learning_to_play_the_local_drum_in_northern_Region_of_Ghana_03.jpg/250px-Children_learning_to_play_the_local_drum_in_northern_Region_of_Ghana_03.jpg)
 
 ### 加纳通过严厉反LGBTQ+法案　最高可囚五年
 
@@ -49,7 +49,7 @@
 
 法案现待总统阿库福-阿多（Nana Akufo-Addo）签署成法。加纳公民社会组织准备提出法律挑战。总统曾表示，如果大多数加纳人希望他签署该法案，他会照做。法案能否生效，取决于总统是否签署。
 
-![加纳定LGBTQ+罪 囚三年](//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Young_Girls_Strike_a_Pose_-_Busua_-_Ghana_%284737816187%29.jpg/250px-Young_Girls_Strike_a_Pose_-_Busua_-_Ghana_%284737816187%29.jpg)
+![加纳定LGBTQ+罪 囚三年](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Young_Girls_Strike_a_Pose_-_Busua_-_Ghana_%284737816187%29.jpg/250px-Young_Girls_Strike_a_Pose_-_Busua_-_Ghana_%284737816187%29.jpg)
 
 ### 加纳法案或引发对LGBTQ+群体的猎巫行动
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//tva1.sinaimg.cn/crop.0.0.180.180.180/b7246b83jw1e8qgp5bmzyj2050050aa8.jpg)
+![](https://tva1.sinaimg.cn/crop.0.0.180.180.180/b7246b83jw1e8qgp5bmzyj2050050aa8.jpg)
 
 ## 南方新闻网 { data-search-exclude }
 
@@ -33,7 +33,7 @@
 
 (来源：南方都市报)
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

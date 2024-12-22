@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：大华网-特区青年报 { data-search-exclude }
 
@@ -37,7 +37,7 @@
 
 （王欣 陈晓波）
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻logo](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

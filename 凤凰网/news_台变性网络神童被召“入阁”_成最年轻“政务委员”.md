@@ -3,11 +3,11 @@
 ## 正文 { data-search-exclude }
 
 
-![台变性网络神童被召“入阁” 成最年轻“政务委员”](//d.ifengimg.com/w121_h75_q90/p0.ifengimg.com/ifengimcp/pic/20160826/99f6b89000f10ecc90b6_size169_w750_h560.jpg)
+![台变性网络神童被召“入阁” 成最年轻“政务委员”](https://d.ifengimg.com/w121_h75_q90/p0.ifengimg.com/ifengimcp/pic/20160826/99f6b89000f10ecc90b6_size169_w750_h560.jpg)
 
 **来源：** 观察者网  
 **时间：** 2016年08月26日 13:21:20  
-**评论：** [25评论](//gentie.ifeng.com/c/comment/7fbsDidCvf6)
+**评论：** [25评论](https://gentie.ifeng.com/c/comment/7fbsDidCvf6)
 
 原标题：台湾变性网络神童唐凤被召“入阁” 成为最年轻“政务委员”
 

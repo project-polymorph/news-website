@@ -30,7 +30,7 @@
 
 这篇文章含有[维基记者](/wiki/Wikinews:%E7%BB%B4%E5%9F%BA%E8%AE%B0%E8%80%85 "Wikinews:维基记者")的[第一手新闻](/wiki/Wikinews:%E5%8E%9F%E5%88%9B%E6%8A%A5%E5%AF%BC "Wikinews:原创报导")。请参看[对话页](/wiki/Talk:%E8%B2%B7%E6%BF%80%E7%B4%A0%E6%AF%94%E8%B2%B7%E6%AF%92%E8%97%A5%E9%9B%A3_%E4%B8%AD%E5%9C%8B%E8%B7%A8%E5%A5%B3%E6%8E%80%E8%87%AA%E6%AE%BA%E6%BD%AE "Talk:买激素比买毒药难 中国跨女掀自杀潮")了解详情。
 
-[![](//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/40px-Padlock-silver-medium.svg.png)](/wiki/File:Padlock-silver-medium.svg)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/40px-Padlock-silver-medium.svg.png)](/wiki/File:Padlock-silver-medium.svg)
 
 **本篇报道已经[存档](/wiki/Wikinews:%E5%AD%98%E6%AA%94%E5%B8%B8%E8%A6%8F "Wikinews:存档常规")，不能再作修订。**
 

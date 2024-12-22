@@ -10,7 +10,7 @@
 
 ---
 
-![Image](//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/40px-Padlock-silver-medium.svg.png)
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Padlock-silver-medium.svg/40px-Padlock-silver-medium.svg.png)
 
 **【2024年4月15日讯】**
 

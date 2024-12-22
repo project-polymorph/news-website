@@ -7,35 +7,35 @@
 
 近日，33岁的日本伪娘拳王长岛雄一郎正做着复出的打算，他通过社交连续发文表达了内心的求战意愿，希望可以在不久后重返擂台，此举被视为向武僧一龙三番战有迈近了一步。
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/c37023c346e14d31a38203cebf1c45d4.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/c37023c346e14d31a38203cebf1c45d4.jpeg)
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/60722dc378f4451ab50440e52fc6aa74.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/60722dc378f4451ab50440e52fc6aa74.jpeg)
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/4cbd0ac9192b4c8daa674e8c6c10e6f7.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/4cbd0ac9192b4c8daa674e8c6c10e6f7.jpeg)
 
 长岛雄一郎通过社交平台相继上传了多张训练和场外的照片，包括与羽量级世界第一考的合照，与妻子在K-1大赛现场的同框。“训练！我想参加头衔争夺战！”他自信满满地写到。
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/4b971ff9a06a427f934f92275dda7858.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/4b971ff9a06a427f934f92275dda7858.jpeg)
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/b5caa6c2a6224cbcb930f1c4cfca5c3a.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/b5caa6c2a6224cbcb930f1c4cfca5c3a.jpeg)
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/354c52a91b984669a5a17426c96e4a55.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/354c52a91b984669a5a17426c96e4a55.jpeg)
 
 对此，一位中国拳迷大胆猜测长岛雄一郎未来的对手人选：“又去打一龙”。尽管长岛本人并未给予回应，但网民们似乎已经找到了初期的答案。长岛雄一郎是目前为止唯一两战一龙保持不败的外国拳手，双方曾在2014和2015年有过交手，长岛雄一郎取得一胜一平的成绩，正因为与一龙比赛得心应手，长岛曾多次在社交平台讽刺一龙，引来众多网友的围观。
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/3b187966a77648db95794372598a2de0.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/3b187966a77648db95794372598a2de0.jpeg)
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/8290cd63250946868fe0ad3a43620983.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/8290cd63250946868fe0ad3a43620983.jpeg)
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/32779d69fd7f4ce49f84eb0f359f0653.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/32779d69fd7f4ce49f84eb0f359f0653.jpeg)
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/718a839e6bed42e1b118697b48ba3662.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/718a839e6bed42e1b118697b48ba3662.jpeg)
 
 据悉，一龙将在今年11月出战“一龙王者挑战赛”总决赛，对手极有可能在世界排名第一的西提猜和世界排名第六的阿拉佐夫之间产生，无论此二人谁能脱颖而出与一龙会师巅峰对决，所带来的挑战性都远远大于长岛雄一郎。因此，一龙如能爆冷战胜西提猜或阿拉佐夫，无疑将为他树立极大的自信，同时为三番战“伪娘拳王”埋下微妙的伏笔。
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/30cbf3b2af7f4d13a093e5d97c2d3b2d.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/30cbf3b2af7f4d13a093e5d97c2d3b2d.jpeg)
 
-![](//5b0988e595225.cdn.sohucs.com/images/20170817/8a48fc4874774f0faad7cb645daa9510.jpeg)
+![](https://5b0988e595225.cdn.sohucs.com/images/20170817/8a48fc4874774f0faad7cb645daa9510.jpeg)
 
 拳击时空致力于拳击/搏击动态热点事件挖掘，分享重竞技体育的独特视角，呈现最精彩的搏击评说。敬请关注“拳击时空”公众号aiquanji。
 

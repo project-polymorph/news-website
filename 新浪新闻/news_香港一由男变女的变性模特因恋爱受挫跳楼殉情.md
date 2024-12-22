@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性模特莎莎](//tvax1.sinaimg.cn/crop.24.3.657.657.180/002uLDeXly8glmohn698dj60j60j6q3b02.jpg)
+![变性模特莎莎](https://tvax1.sinaimg.cn/crop.24.3.657.657.180/002uLDeXly8glmohn698dj60j60j6q3b02.jpg)
 
 ## 来源：人民网   { data-search-exclude }
 **时间：2004年9月24日 15:54**
@@ -18,7 +18,7 @@
 
 至早上10，警员陪同洋汉到达天台，莎莎马上站起身，微笑回望爱郎一眼，即转身大叫一声跳下身亡。 (陈晓钟)
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

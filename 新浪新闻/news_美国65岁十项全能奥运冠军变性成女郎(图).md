@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinacn/20170516/1212-fyfeutq0813373.jpg)
+![](https://n.sinaimg.cn/sinacn/20170516/1212-fyfeutq0813373.jpg)
 
 ## 新闻晨报 { data-search-exclude }
 
@@ -57,7 +57,7 @@
 
 (原标题：65岁美奥运“全能先生”变身成女郎)
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

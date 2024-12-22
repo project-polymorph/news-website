@@ -7,7 +7,7 @@
 **时间：** 未注明  
 **标签：** 游戏，伪娘
 
-![](//beacon.sina.com.cn/a.gif?noScript)
+![](https://beacon.sina.com.cn/a.gif?noScript)
 
 ![](http://i3.sinaimg.cn/gm/topic/touweinangjfla.jpg)
 

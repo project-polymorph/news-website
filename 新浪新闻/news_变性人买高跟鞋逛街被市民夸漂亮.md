@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//tva1.sinaimg.cn/crop.0.0.180.180.180/b7246b83jw1e8qgp5bmzyj2050050aa8.jpg)
+![图片](https://tva1.sinaimg.cn/crop.0.0.180.180.180/b7246b83jw1e8qgp5bmzyj2050050aa8.jpg)
 
 ## 来源 { data-search-exclude }
 南方新闻网
@@ -40,7 +40,7 @@
 **本报记者**：秦鸿雁  
 **实习生**：陈丹淳  
 
-![宣传图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![宣传图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

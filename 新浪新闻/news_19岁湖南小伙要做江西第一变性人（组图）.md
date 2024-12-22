@@ -3,21 +3,21 @@
 ## 正文 { data-search-exclude }
 
 
-![申清清](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
+![申清清](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
 
 ## 红网 { data-search-exclude }
 
 红网官方账号 2009.04.08 23:14
 
-![](//www.sinaimg.cn/dy/o/2009-04-08/5c5a46dc230e7633c7f81701882cdba2.jpg)
+![](https://www.sinaimg.cn/dy/o/2009-04-08/5c5a46dc230e7633c7f81701882cdba2.jpg)
 
 申清清（右）与一群真正的女人同台竞技表现丝毫不逊
 
-![](//www.sinaimg.cn/dy/o/2009-04-08/cd28f688fe8eeb193a163231ced3fa21.jpg)
+![](https://www.sinaimg.cn/dy/o/2009-04-08/cd28f688fe8eeb193a163231ced3fa21.jpg)
 
 申清清演唱歌曲《萍聚》时，无论声音、形象、气质都宛如一个真正的女人
 
-![](//www.sinaimg.cn/dy/o/2009-04-08/4baa7961aa5b463247f980067377c35d.jpg)
+![](https://www.sinaimg.cn/dy/o/2009-04-08/4baa7961aa5b463247f980067377c35d.jpg)
 
 申清清（前排右一）与参加选秀节目的部分获奖选手合影
 

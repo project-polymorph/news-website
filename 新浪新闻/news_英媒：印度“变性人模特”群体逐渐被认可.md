@@ -3,15 +3,15 @@
 ## 正文 { data-search-exclude }
 
 
-![变性人模特](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
+![变性人模特](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
 
 ## 来源：环球时报   { data-search-exclude }
 ### 发布时间：2016.09.18 22:37
 
 原标题：英媒：印度“变性人模特”群体逐渐被认可
 
-![变性人模特](//k.sinaimg.cn/n/translate/20160918/0u-_-fxvyzus2024826.jpg/w300h300z1l10t10q100481.jpg)  
-![变性人模特](//k.sinaimg.cn/n/translate/20160918/0u-_-fxvyzus2024826.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![变性人模特](https://k.sinaimg.cn/n/translate/20160918/0u-_-fxvyzus2024826.jpg/w300h300z1l10t10q100481.jpg)  
+![变性人模特](https://k.sinaimg.cn/n/translate/20160918/0u-_-fxvyzus2024826.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 印度一名变性模特在变性之前，以及变性之后的模样。
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![封面](//n.sinaimg.cn/sinacn10201/360/w180h180/20191010/caa9-ifrwayx3219145.jpg)
+![封面](https://n.sinaimg.cn/sinacn10201/360/w180h180/20191010/caa9-ifrwayx3219145.jpg)
 
 **时间**：2018.03.25 21:44  
 **来源**：英国《每日邮报》  
@@ -13,23 +13,23 @@
 
 原标题：澳大利亚21岁小伙花43万元整容变性，最后惊觉自己喜欢的是女人
 
-![图片1](//k.sinaimg.cn/n/news/crawl/100/w540h360/20180325/A8wU-fysnevn0965419.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片1](https://k.sinaimg.cn/n/news/crawl/100/w540h360/20180325/A8wU-fysnevn0965419.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 据英国《每日邮报》报道，澳大利亚黄金海岸一名变性女子茱莲妮（Jolene Dawson）在花费9万澳元（约43.7万元人民币）做整容变性手术后发现，原来自己喜欢的是女人！她自称已和男人约会过100次，现在很高兴自己没有接受完全的变性手术，还留着男人的性器官。
 
-![图片2](//k.sinaimg.cn/n/news/crawl/289/w540h549/20180325/2Lv9-fysnevn0965527.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片2](https://k.sinaimg.cn/n/news/crawl/289/w540h549/20180325/2Lv9-fysnevn0965527.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 茱莲妮表示，在过去几个月，她在社交网络上和差不多1000个男人匹配过，其中约会了100次，但内心始终比较挣扎，直到最终发现自己喜欢的是女人。茱莲妮今年21岁，从小就不想成为一个男人，而觉得自己是个女人，“我和很多年纪大、有钱的男人约会过，现在开始和女人约会我反倒很兴奋”。
 
-![图片3](//k.sinaimg.cn/n/news/crawl/265/w540h525/20180325/W3P1-fysnevn0965548.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片3](https://k.sinaimg.cn/n/news/crawl/265/w540h525/20180325/W3P1-fysnevn0965548.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 从什么时候开始发现自己喜欢女人的了？茱莲妮对媒体表示，那是在一个月前，当她开始和一对夫妇约会，然后发现自己更享受跟女方的接触。“我觉得和女人在一起会有完全不一样的动力，我能照顾她、购物、溺爱她，我已经等不及去找女人约会了”茱莲妮表示。
 
-![图片4](//k.sinaimg.cn/n/news/crawl/103/w540h363/20180325/xXJ7-fysnevn0965566.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片4](https://k.sinaimg.cn/n/news/crawl/103/w540h363/20180325/xXJ7-fysnevn0965566.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 而茱莲妮至今已经向家人坦白了三种不同的身份，第一次是作为同性恋男孩、第二次是作为一个跨性别的女人、第三次又变成了一个女同性恋者。而茱莲妮称自己已经在整容和变性方面花费了高达92500澳元，包括丰胸、隆鼻、削下巴骨、垫额头等手术。
 
-![图片5](//k.sinaimg.cn/n/news/crawl/126/w540h386/20180325/q2ZJ-fysnevn0965588.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片5](https://k.sinaimg.cn/n/news/crawl/126/w540h386/20180325/q2ZJ-fysnevn0965588.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 虽然茱莲妮发现自己喜欢的是女人，但她并不想变回男人，接下来她还要继续整容，想让自己变得更像一贝兹娃娃。
 

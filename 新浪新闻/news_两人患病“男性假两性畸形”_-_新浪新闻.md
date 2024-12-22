@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//beacon.sina.com.cn/a.gif?noScript)
+![图片](https://beacon.sina.com.cn/a.gif?noScript)
 
 **来源**: 生活新报  
 **时间**: 2003年07月17日13:15  

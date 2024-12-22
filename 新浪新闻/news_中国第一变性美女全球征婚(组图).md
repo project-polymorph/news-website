@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![寒冰冰](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![寒冰冰](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：大河网-河南商报 { data-search-exclude }
 
@@ -97,7 +97,7 @@
 
 - 商报记者臧金生 实习生樊莹／文 记者丁洁／图
 
-![艺术作品](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![艺术作品](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

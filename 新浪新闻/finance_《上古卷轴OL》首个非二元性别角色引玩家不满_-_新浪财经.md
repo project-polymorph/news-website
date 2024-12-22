@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![image](//beacon.sina.com.cn/a.gif?noScript)
+![image](https://beacon.sina.com.cn/a.gif?noScript)
 
 2024年11月03日 14:21 [中关村在线](https://search.zol.com.cn/search/article_view.php?did=9145492)
 
@@ -17,7 +17,7 @@
 
 关键词 : [上古卷轴OL](http://tags.tech.sina.com.cn/上古卷轴OL)
 
-![新浪科技公众号](//n.sinaimg.cn/tech/content/tech_qr2x.png)
+![新浪科技公众号](https://n.sinaimg.cn/tech/content/tech_qr2x.png)
 
 新浪科技公众号
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![默认头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：大众网-齐鲁晚报 { data-search-exclude }
 ### 时间：2006.01.22 08:20
@@ -16,7 +16,7 @@
 
 最后法医在法庭上出示的医学报告证明，“他们”此前通过变性手术变成了女人，其中孟空已经当了10年女人。法庭最后终于同意免除对这两名“变性女”的15下鞭刑，把他们送到女子监狱进行劳教。
 
-![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

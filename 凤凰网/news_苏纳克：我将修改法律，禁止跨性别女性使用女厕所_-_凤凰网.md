@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![苏纳克：我将修改法律，禁止跨性别女性使用女厕所](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2024_23/A0588D364C3168971793A37B0E516E523D075F42_size61_w1280_h214.png)
+![苏纳克：我将修改法律，禁止跨性别女性使用女厕所](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2024_23/A0588D364C3168971793A37B0E516E523D075F42_size61_w1280_h214.png)
 
 ![苏纳克：我将修改法律，禁止跨性别女性使用女厕所](https://x0.ifengimg.com/ucms/2024_23/A0588D364C3168971793A37B0E516E523D075F42_size61_w1280_h214.png)
 
@@ -33,7 +33,7 @@
 
 **时间**: 2024年06月03日 18:46:01 来自北京市  
 **来源**: 凤凰网  
-**评论**: [29评论](//gentie.ifeng.com/c/comment/8a7NPuDoiwI) [160人参与](//gentie.ifeng.com/c/comment/8a7NPuDoiwI)
+**评论**: [29评论](https://gentie.ifeng.com/c/comment/8a7NPuDoiwI) [160人参与](https://gentie.ifeng.com/c/comment/8a7NPuDoiwI)
 
 ---
 

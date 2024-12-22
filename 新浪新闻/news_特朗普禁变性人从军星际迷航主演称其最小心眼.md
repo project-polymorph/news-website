@@ -3,14 +3,14 @@
 ## 正文 { data-search-exclude }
 
 
-![资料图：美国总统特朗普](//k.sinaimg.cn/n/news/transform/20170727/LOYS-fyiiahz3785360.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![资料图：美国总统特朗普](https://k.sinaimg.cn/n/news/transform/20170727/LOYS-fyiiahz3785360.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 **来源：海外网**  
 **时间：2017.07.27 10:48**
 
 **原标题：[特朗普](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E7%89%B9%E6%9C%97%E6%99%AE)禁变性人从军 星际迷航主演：最小心眼总统**
 
-![特朗普推特截图](//k.sinaimg.cn/n/news/crawl/20170727/x_tc-fyiiahz3785548.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![特朗普推特截图](https://k.sinaimg.cn/n/news/crawl/20170727/x_tc-fyiiahz3785548.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 **海外网7月27日电** 当地时间7月26日，特朗普在个人推特上宣布，美国不允许变性人参军。他强调，此决定是希望帮助美国取得全面胜利，不容许变性人成为美军的负累。这一消息发布后，迅速得到上万的转发与评论，也遭到美国各界的口诛笔伐。
 

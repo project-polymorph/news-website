@@ -7,7 +7,7 @@
 **来源：** [红枫湾](https://www.sohu.com/a/819422558_527250?spm=smpc.content-abroad.content.1.1730996205021a0fIsMA)  
 **发布地点：** 北京市  
 
-![相关图片](//q0.itc.cn/q_70/images01/20240314/4ac13b2c210c4970bf726bebd275bae4.jpeg)
+![相关图片](https://q0.itc.cn/q_70/images01/20240314/4ac13b2c210c4970bf726bebd275bae4.jpeg)
 
 研究人员发现，在200多名12岁及以上的人中，只有4%的人在开始医疗保健时感到某种形式的后悔。对青少年的性别肯定护理通常是指身体可逆的青春期阻断剂或激素等药物。
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![奥运拳手46秒将对手打退赛后陷性别争议，哈里斯沉默，特朗普声讨](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2024_31/A0588D364C3168971793A37B0E516E523D075F42_size61_w1280_h214.png)
+![奥运拳手46秒将对手打退赛后陷性别争议，哈里斯沉默，特朗普声讨](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2024_31/A0588D364C3168971793A37B0E516E523D075F42_size61_w1280_h214.png)
 
 ![![2024年8月1日星期四，在巴黎举行的夏季奥运会上，伊马内·赫利夫（左）与安吉拉·卡里尼（Angela Carini）战斗。（美联社照片/约翰·洛彻）](https://x0.ifengimg.com/ucms/2024_31/3DB71DAFC893794CCAA5E8ED85463CFBD4EF499C_size29_w720_h405.webp)](https://x0.ifengimg.com/ucms/2024_31/3DB71DAFC893794CCAA5E8ED85463CFBD4EF499C_size29_w720_h405.webp)
 

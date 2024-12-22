@@ -24,7 +24,7 @@
 据悉，何清濂教授作过的154例变性手术，出院后表现均是正常的。“至于易性病的病因，到现在也没有定论。”(李锐)
 
 [发表评论](http://comment4.news.sina.com.cn/comment/comment4.html?channel=kj&newsid=2-1-725805)  
-![广告图](//beacon.sina.com.cn/a.gif?noScript)
+![广告图](https://beacon.sina.com.cn/a.gif?noScript)
 
 ---
 

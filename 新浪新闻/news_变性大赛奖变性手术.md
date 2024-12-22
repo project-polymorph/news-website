@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20230526/9235-5b764839635f7db7af4282f685456ea8.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20230526/9235-5b764839635f7db7af4282f685456ea8.jpg)
 
 ## 广州日报 { data-search-exclude }
 
@@ -19,7 +19,7 @@
 
 变性小姐大赛是墨尔本同性艺术节的一部分。这一艺术节始创于1989年，每年举办一次。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

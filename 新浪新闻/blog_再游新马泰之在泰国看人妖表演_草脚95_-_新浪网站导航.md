@@ -9,7 +9,7 @@
 **时间**：2014-09-30 20:08:34  
 **来源**：[新浪博客](http://blog.sina.com.cn/u/1173203607)  
 **标签**：泰国, 曼谷, 演出, 人妖, 杂谈  
-**分类**：[再游新马泰](//blog.sina.com.cn/s/articlelist_1173203607_3_1.html)
+**分类**：[再游新马泰](https://blog.sina.com.cn/s/articlelist_1173203607_3_1.html)
 
 ---
 
@@ -21,36 +21,36 @@
 
 1. 演出前，在剧场门前有游客和打招呼的人妖拍照，我是捡几个暂时无人合影的拍摄留念：
    [![再游新马泰之在泰国看人 妖表演](http://s4.sinaimg.cn/mw690/001hoDQPgy6MquMNlD503&690)](http://album.sina.com.cn/pic/001hoDQPgy6MquMNlD503&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNN16sdc&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNT7kh1d&690)  
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNN16sdc&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNT7kh1d&690)  
 
 2. 进入剧场，把场内景象大概拍摄一下：
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquMMpKRfd&690)
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquMMpKRfd&690)
 
 3. 演出中的人物场景：
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquO317v9d&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquO4Sct9d&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOcnlg02&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOeg202c&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOn9J537&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOq3Yzc7&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOz8Aaaa&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOza5P59&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOFPfo1e&690)        
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquO317v9d&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquO4Sct9d&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOcnlg02&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOeg202c&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOn9J537&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOq3Yzc7&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOz8Aaaa&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOza5P59&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOFPfo1e&690)        
 
 4. 演出人员（有不是人妖的）的特写镜头拍摄：
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquMK3vcea&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquMK3N842&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquMKq7Q9e&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquN1SCFfd&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNm6mna3&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNsvLhdf&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNAVj634&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNBUuY08&690) 
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNN0n2dc&690)        
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquMK3vcea&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquMK3N842&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquMKq7Q9e&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquN1SCFfd&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNm6mna3&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNsvLhdf&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNAVj634&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNBUuY08&690) 
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquNN0n2dc&690)        
 
 5. 演出结束，还有游客与人妖合影：
-   [![再游新马泰之在泰国看人 妖表演](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOLzw6ba&690)
+   [![再游新马泰之在泰国看人 妖表演](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)](http://album.sina.com.cn/pic/001hoDQPgy6MquOLzw6ba&690)
 
 离开剧场，上车赶到旅社休息，明天上午，要船游湄南河，但愿不要下雨。
 

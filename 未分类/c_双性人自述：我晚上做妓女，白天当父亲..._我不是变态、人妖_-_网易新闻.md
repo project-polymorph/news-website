@@ -5,7 +5,7 @@
 
 ![双性人自述](https://static.ws.126.net/163/frontend/images/logo-netease.png)
 
-![双性人照片](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0918%2Ff1d2cf88j00rief73000gc000dc007mm.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
+![双性人照片](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0918%2Ff1d2cf88j00rief73000gc000dc007mm.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 **来源：西瓜纪录**  
 **时间：2022-09-18 17:20 河北**

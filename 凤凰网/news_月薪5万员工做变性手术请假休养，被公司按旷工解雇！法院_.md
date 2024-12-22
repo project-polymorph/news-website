@@ -1,4 +1,4 @@
-# ![月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院判决亮了](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/EF60577BAA2106C4CF747F400E02024378A793AC_size16_w400_h438.jpg)
+# ![月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院判决亮了](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/EF60577BAA2106C4CF747F400E02024378A793AC_size16_w400_h438.jpg)
 
 # 月薪5万员工做变性手术请假休养，被公司按旷工解雇！法院判决亮了
 

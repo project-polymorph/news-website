@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//tva1.sinaimg.cn/crop.0.0.180.180.180/82ce3eebjw1e8qgp5bmzyj2050050aa8.jpg)
+![图片](https://tva1.sinaimg.cn/crop.0.0.180.180.180/82ce3eebjw1e8qgp5bmzyj2050050aa8.jpg)
 
 **来源**: 时代商报  
 **时间**: 2004.05.14 01:43  
@@ -26,7 +26,7 @@
 
 珍妮特称，她相信如果当年美国医生没有给她儿子做那场使他后来饱受折磨的毁灭性变性实验，她的儿子现在可能还活在世上。
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

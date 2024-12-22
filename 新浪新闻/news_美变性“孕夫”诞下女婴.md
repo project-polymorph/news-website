@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![美变性孕夫](//n.sinaimg.cn/sinakd10201/360/w180h180/20240801/4c94-85fefc46c5a74cc79994588f07e91dfd.jpg)
+![美变性孕夫](https://n.sinaimg.cn/sinakd10201/360/w180h180/20240801/4c94-85fefc46c5a74cc79994588f07e91dfd.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -43,9 +43,9 @@
 
 （新华社供本报特稿）
 
-![刚刚降生的女婴](//www.sinaimg.cn/dy/w/2008-07-05/f29f4e13ceb02ec06a5b1b362480b5f4.jpg)
+![刚刚降生的女婴](https://www.sinaimg.cn/dy/w/2008-07-05/f29f4e13ceb02ec06a5b1b362480b5f4.jpg)
 
-![孕夫贝蒂](//www.sinaimg.cn/dy/w/2008-07-05/3347b70786a434865c336e5cff38f2ec.jpg)
+![孕夫贝蒂](https://www.sinaimg.cn/dy/w/2008-07-05/3347b70786a434865c336e5cff38f2ec.jpg)
 
 ## 链接 { data-search-exclude }
 
@@ -57,7 +57,7 @@
 
 虽然美国加利福尼亚州日前已经通过法律允许同性恋者结婚，但是能否接受男人怀孕和变性男女生孩子的问题，仍是对社会容忍度的极大考验，尤其在北部比较保守的俄勒冈州，对于非传统的婚姻和生育并不容易被接受。(欧叶)
 
-![热门资讯](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![热门资讯](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻官方](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

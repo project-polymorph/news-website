@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//beacon.sina.com.cn/a.gif?noScript)
+![](https://beacon.sina.com.cn/a.gif?noScript)
 
 跨性别者的生存自白：身体器官不能决定我的性别
 
@@ -17,9 +17,9 @@
 
 撰文 | 倪蒹葭
 
-![](//n.sinaimg.cn/translate/458/w1080h178/20181203/5lhk-hprknvs8843034.jpg)
+![](https://n.sinaimg.cn/translate/458/w1080h178/20181203/5lhk-hprknvs8843034.jpg)
 
-![](//n.sinaimg.cn/translate/201/w1080h721/20181203/G_Wg-hprknvs8843056.jpg)
+![](https://n.sinaimg.cn/translate/201/w1080h721/20181203/G_Wg-hprknvs8843056.jpg)
 
 跨性别者在挑选女装
 
@@ -27,7 +27,7 @@
 
 跨性别有3种情况：跨性别女性（生来是男性、认为自己是女性），跨性别男性（生来是女性、认为自己是男性），性别酷儿（认为自己不完全属于男性或女性）。
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/GVwH-hprknvs8843092.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/GVwH-hprknvs8843092.jpg)
 
 在性少数群体（简称为LGBT）中，跨性别者列居末尾，是最小众的一群。他们也受着最深的误解和歧视。
 
@@ -43,7 +43,7 @@
 
 全国跨性别热线发起人  
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/KVCH-hprknvs8843118.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/KVCH-hprknvs8843118.jpg)
 
 核桃是一个看上去很酷的女生。她的出生性别是男性，穿裙子的同时，她会大方地露出喉结，想笑的时候用男性化的嗓音开心地笑出来。
 
@@ -53,7 +53,7 @@
 
 那个时候很鄙视自己，觉得自己是不是社会上所说的“变态”。
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/P60b-hprknvs8843143.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/P60b-hprknvs8843143.jpg)
 
 核桃给自己化妆
 
@@ -61,7 +61,7 @@
 
 那一刻我特别激动，困惑我十几年的事情，突然有了答案：我是一名男跨女的跨性别者。而且我可以以一个跨性别者的身份，过一个正常人的生活。
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/Qd7v-hprknvs8843183.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/Qd7v-hprknvs8843183.jpg)
 
 核桃在大学
 
@@ -69,7 +69,7 @@
 
 穿着女装的我，在校园和大街上通行无阻，这更增添了我的信心。然而我没有想到的是，最不能接纳我的人，竟然是我的父母。
 
-![](//n.sinaimg.cn/translate/199/w1080h719/20181203/6slG-hprknvs8843204.jpg)
+![](https://n.sinaimg.cn/translate/199/w1080h719/20181203/6slG-hprknvs8843204.jpg)
 
 核桃14岁
 
@@ -83,7 +83,7 @@
 
 这一年里，他们到处找我，甚至半夜12点来敲我的门，逼我回家。我就到处逃。
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/e7V--hprknvs8843253.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/e7V--hprknvs8843253.jpg)
 
 核桃会选择女生洗手间
 
@@ -93,15 +93,15 @@
 
 2017年11月，有一个回家的机会，我就回去住了三天。大概是太久没有回去了，父母的态度发生了一些微妙的改变，不再像以前那么强硬了。他们认为我是他们的儿子，我认为自己是他们的女儿。一个共同点就是，我们都是亲人，只是表述的方式不太一样。
 
-![](//n.sinaimg.cn/translate/199/w1080h719/20181203/HalF-hprknvs8843283.jpg)
+![](https://n.sinaimg.cn/translate/199/w1080h719/20181203/HalF-hprknvs8843283.jpg)
 
 后来我回大学继续念书。2018年6月，我大学毕业，在北京找工作，简历上第一句话就是“跨性别女性”。
 
 我面试了四家公司，有三家没有问到性别问题，目前有了一份全职工作，在一家NGO做短视频的编导。
 
-![](//n.sinaimg.cn/translate/249/w1080h769/20181203/jv9--hprknvs8843326.jpg)
+![](https://n.sinaimg.cn/translate/249/w1080h769/20181203/jv9--hprknvs8843326.jpg)
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/AKab-hprknvs8843349.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/AKab-hprknvs8843349.jpg)
 
 核桃正在用文字聊天的方式接线
 
@@ -115,7 +115,7 @@ Kelly，北京人，29岁
 
 跨性别热线的早期接线员  
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/5-3o-hprknvs8843376.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/5-3o-hprknvs8843376.jpg)
 
 Kelly的言谈举止，都是温和细腻的女性的样子，几乎看不出从前的男性痕迹。但经历的焦虑和苦难的痕迹，很难完全抹去。她不愿意暴露自己的照片，这是跨性别电影《人生密密缝》的剧照。
 
@@ -129,7 +129,7 @@ Kelly的言谈举止，都是温和细腻的女性的样子，几乎看不出从
 
 有时候真的很无奈：我到底该做什么才能让你知道，这才是我呢？
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/PANx-hprknvs8843402.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/PANx-hprknvs8843402.jpg)
 
 《人生密密缝》，生田斗真（左一）饰演跨性别女性
 
@@ -141,7 +141,7 @@ Kelly的言谈举止，都是温和细腻的女性的样子，几乎看不出从
 
 我的问题是，一个女生落到男生的身体里，该怎么办？我要找个方式生活，想个办法把自己的人生找回来。
 
-![](//n.sinaimg.cn/translate/201/w1080h721/20181203/N4pt-hprknvs8843430.jpg)
+![](https://n.sinaimg.cn/translate/201/w1080h721/20181203/N4pt-hprknvs8843430.jpg)
 
 21岁以前，我受了很多罪。21岁以后，我就想当一个普通人，成为一个普通女性，而不是一个“跨性别女性”。
 
@@ -149,7 +149,7 @@ Kelly的言谈举止，都是温和细腻的女性的样子，几乎看不出从
 
 对于我这样的跨性别者来说，悖论就在于，我对自己的性别认同没有灰色地带。我认为我自己就是一个100%的女性，只是生错了身体。
 
-![](//n.sinaimg.cn/translate/584/w880h504/20181203/_6th-hprknvs8843471.jpg)
+![](https://n.sinaimg.cn/translate/584/w880h504/20181203/_6th-hprknvs8843471.jpg)
 
 调查表明，跨性别人群失业率是11.87%
 
@@ -167,7 +167,7 @@ Hitomi，19岁，中日混血
 
 北京跨性别热线创始人  
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/WRBi-hprknvs8843498.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/WRBi-hprknvs8843498.jpg)
 
 在采访中，经常会听到Hitomi这个名字。2015年12月，他还在念高中，就创办了北京跨性别热线，后来演变成现在的全国跨性别热线。
 
@@ -177,7 +177,7 @@ Hitomi，19岁，中日混血
 
 我1999年在日本出生，有个双胞胎姐姐，父亲是日本人，母亲是中国人。我3岁时父母离异，我跟着妈妈来到了北京，在北京长大。
 
-![](//n.sinaimg.cn/translate/496/w568h728/20181203/GLlP-hprknvs8843531.jpg)
+![](https://n.sinaimg.cn/translate/496/w568h728/20181203/GLlP-hprknvs8843531.jpg)
 
 Hitomi小时候
 
@@ -191,7 +191,7 @@ Hitomi小时候
 
 上游泳课的时候，我就使用老师的更衣室，是不分性别的。学校也有无性别洗手间可以使用。
 
-![](//n.sinaimg.cn/translate/533/w800h533/20181203/0hLl-hprknvs8843554.jpg)
+![](https://n.sinaimg.cn/translate/533/w800h533/20181203/0hLl-hprknvs8843554.jpg)
 
 左三是Hitomi
 
@@ -203,7 +203,7 @@ Hitomi小时候
 
 我的妈妈是一家医疗平台公司的董事。有些跨性别者，会因为外表改变了，但身份证上的性别没有修改，找工作遇到困难。但我妈妈决定，她在的公司不会因为跨性别，去否定一个面试者。
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/IN8s-hprknvs8843584.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/IN8s-hprknvs8843584.jpg)
 
 我会鼓励身边的跨性别朋友说，一定不要把自己的跨性别身份当做一个借口：我是跨性别，就没法变得幸福。
 
@@ -221,9 +221,9 @@ Hitomi小时候
 
 对于某个个人遇到的困难而言，热线的作用有限。但是只要热线存在下去，就能告诉跨性别者，你不是孤独的。
 
-![](//n.sinaimg.cn/translate/458/w1080h178/20181203/DFIr-hprknvs8843644.jpg)
+![](https://n.sinaimg.cn/translate/458/w1080h178/20181203/DFIr-hprknvs8843644.jpg)
 
-![](//n.sinaimg.cn/translate/252/w640h412/20181203/H7aY-hprknvs8843675.jpg)
+![](https://n.sinaimg.cn/translate/252/w640h412/20181203/H7aY-hprknvs8843675.jpg)
 
 李银河与恋人大侠
 
@@ -233,13 +233,13 @@ Hitomi小时候
 
 十几年来，“跨性别”的议题在中国又一次大规模地走入公众的视野之中。
 
-![](//n.sinaimg.cn/translate/119/w1080h1439/20181203/odWt-hprknvs8843691.jpg)
+![](https://n.sinaimg.cn/translate/119/w1080h1439/20181203/odWt-hprknvs8843691.jpg)
 
 舞蹈家金星，来源于金星微博
 
 上一次“跨性别”引起如此轰动，是1990年代，著名舞蹈家金星公开接受了变性手术，生理上从一名男性变成了一名女性。
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/cYXG-hprknvs8843717.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/cYXG-hprknvs8843717.jpg)
 
 电影《普通女人》剧照
 
@@ -249,23 +249,23 @@ Hitomi小时候
 
 许多跨性别者因此学会了更好地隐藏自己。在一次采访中，我和面前的跨性别女性聊了一个多小时，才猛然发现她就是我大学时就见过的一位学长。现在，她身边很多人都不知道她的跨性别身份，过去渐渐成为秘密。
 
-![](//n.sinaimg.cn/translate/434/w752h482/20181203/ldSx-hprknvs8843738.jpg)
+![](https://n.sinaimg.cn/translate/434/w752h482/20181203/ldSx-hprknvs8843738.jpg)
 
 《2017年中国跨性别群体生存现状调查报告》显示，90%以上的跨性别者在18岁以前，就已经认同自己的内心有另外一个性别的存在了。迄今为止，没有任何案例能说明通过扭转治疗，能够改变他们的这种认同。
 
 对于跨性别者而言，对自己性别最焦虑的时间段，一般都是青春期。然而，就我们现在的医疗和法律资源而言，对18岁以下的跨性别者的援助和引导，恰恰最受限。
 
-![](//n.sinaimg.cn/translate/352/w760h392/20181203/3bqa-hprknvs8843757.jpg)
+![](https://n.sinaimg.cn/translate/352/w760h392/20181203/3bqa-hprknvs8843757.jpg)
 
 62%的跨性别者有激素治疗的需求，但是大部分人都很难获得医生的指导，科学地进行激素治疗。
 
-![](//n.sinaimg.cn/translate/302/w766h336/20181203/W2Xc-hprknvs8843796.jpg)
+![](https://n.sinaimg.cn/translate/302/w766h336/20181203/W2Xc-hprknvs8843796.jpg)
 
 实际生活中，大部分人获取激素类药物的主要渠道是上网从药店买，或者从朋友那里获得。
 
 最主要的使用方式是“自行阅读说明书或查询资料”（72%）和“参照朋友的意见”（66%），因此有不少安全隐患。
 
-![](//n.sinaimg.cn/translate/632/w808h624/20181203/Xdpg-hprknvs8843815.jpg)
+![](https://n.sinaimg.cn/translate/632/w808h624/20181203/Xdpg-hprknvs8843815.jpg)
 
 两个跨性别者里面，就有一个有性别重置手术的需求。但是真正能够做上手术的人，才只有十分之一。
 
@@ -273,11 +273,11 @@ Hitomi小时候
 
 近九成的原生家庭不能完全接受跨性别孩子。853位曾向父母或监护人表达自己身份诉求的受访者中，十个人里面只有一个，能被父母完全接受。
 
-![](//n.sinaimg.cn/translate/752/w806h746/20181203/pdaR-hprknvs8843845.jpg)
+![](https://n.sinaimg.cn/translate/752/w806h746/20181203/pdaR-hprknvs8843845.jpg)
 
 几乎每五个跨性别者就有四个曾渴望阻止发育、掩盖或改变自己的性征。在无法获得安全、有效的激素治疗情况下，其中5%会尝试自行切除生殖器官。
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/IdaG-hprknvs8843865.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/IdaG-hprknvs8843865.jpg)
 
 电影《女孩》剧照，想成为芭蕾舞者的跨性别女性
 
@@ -287,7 +287,7 @@ Kelly接过的热线电话里，就有一位被迫走了极端的跨性别女性
 
 今年10月23号，她在家里，自己给自己动了手术。从打麻药到切下睾丸，都是一个人，最后因为止不住血，朋友赶来送她去了医院，才抢救回了她的生命。
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/klqJ-hprknvs8843891.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/klqJ-hprknvs8843891.jpg)
 
 电影《女孩》剧照，想成为芭蕾舞者的跨性别女性
 
@@ -295,7 +295,7 @@ Kelly接过的热线电话里，就有一位被迫走了极端的跨性别女性
 
 “我们明白要说服来访者停止吃药，那是不可能的，只能说服他定期去检查自己的身体。”
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/RU1t-hprknvs8843922.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/RU1t-hprknvs8843922.jpg)
 
 热线接线员欢喜，性别酷儿，国家三级心理咨询师
 
@@ -305,7 +305,7 @@ Kelly接过的热线电话里，就有一位被迫走了极端的跨性别女性
 
 “我们不会去回答，‘我是不是跨性别者’这样的问题，我们只是分享跨性别的信息，以陪伴和倾听为主”。
 
-![](//n.sinaimg.cn/translate/200/w1080h720/20181203/QgEo-hprknvs8843935.jpg)
+![](https://n.sinaimg.cn/translate/200/w1080h720/20181203/QgEo-hprknvs8843935.jpg)
 
 《黑客帝国》的导演沃卓斯基姐妹
 
@@ -317,7 +317,7 @@ Vera Anderson/WireImage
 
 跨性别曾经被学术界认为是一种“性别认同疾患”。然而，今年6月18日，世界卫生组织（ WHO ）正式发表了最新一版的《国际疾病分类第十一版》，首次把 “性别不一致”（Gender Incongruence）从精神病中除名，接着改列于性健康的章节中。
 
-![](//n.sinaimg.cn/translate/149/w1034h715/20181203/J5K8-hprknvs8843955.jpg)
+![](https://n.sinaimg.cn/translate/149/w1034h715/20181203/J5K8-hprknvs8843955.jpg)
 
 核桃在等地铁
 

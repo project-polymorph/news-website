@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![跨性别者](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
+![跨性别者](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 ## 来源 { data-search-exclude }
 澎湃新闻  
@@ -102,7 +102,7 @@
 ### 版权信息
 来源：赵丽/法制日报
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 摘要与附加信息
 

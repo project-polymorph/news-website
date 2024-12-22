@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![为什么大家突然不爱看电影了？](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/BEDA3CBDCEAAA897C8DB28714841AC8D25FB5F6A_size185_w1080_h772.jpg)
+![为什么大家突然不爱看电影了？](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/BEDA3CBDCEAAA897C8DB28714841AC8D25FB5F6A_size185_w1080_h772.jpg)
 
 [中国新闻周刊](https://ishare.ifeng.com/mediaShare/home/287882/media)  |  2024年10月26日 07:01:21 来自北京
 
@@ -126,7 +126,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 ---
 
 【评论】
-[33](//gentie.ifeng.com/c/comment/8dzH34mQYkC) 条评论/[153](//gentie.ifeng.com/c/comment/8dzH34mQYkC) 人参与网友评论｜[跟帖管理](//gentie.ifengimg.com/commentManage)｜[举报](//gentie.ifeng.com/superviseReport)
+[33](https://gentie.ifeng.com/c/comment/8dzH34mQYkC) 条评论/[153](https://gentie.ifeng.com/c/comment/8dzH34mQYkC) 人参与网友评论｜[跟帖管理](https://gentie.ifengimg.com/commentManage)｜[举报](https://gentie.ifeng.com/superviseReport)
 
 ## 摘要与附加信息
 

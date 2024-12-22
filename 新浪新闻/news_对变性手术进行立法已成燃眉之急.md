@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性手术](//n.sinaimg.cn/sinacn/20170106/cec7-fxzkfvn0496499.jpg)
+![变性手术](https://n.sinaimg.cn/sinacn/20170106/cec7-fxzkfvn0496499.jpg)
 
 ## 南方周末 { data-search-exclude }
 
@@ -58,7 +58,7 @@
 
 然而这只是一个默认的行业规范，并不具备法律的强制效力。“对变性手术进行立法，已经成了燃眉之急。”陈焕然说。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)  
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)  
   
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)  
 

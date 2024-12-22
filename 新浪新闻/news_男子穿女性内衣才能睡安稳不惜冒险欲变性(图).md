@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![用户头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![用户头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 **来源**: 金羊网-新快报  
 **时间**: 2005.05.09 04:32  
@@ -37,7 +37,7 @@
 
 “做这样的手术，我觉得最对不起的人就是我老婆，她人那么好……”李文的声音有少许哽咽，不太明显的喉结上下滚动了几下，“儿女缺少父爱，父母少个儿子，倒是都没有太大关系，我会照顾好他们，他们以后也会明白我的。”
 
-![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

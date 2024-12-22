@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性女囚](//n.sinaimg.cn/sinakd10200/360/w180h180/20221201/1b8c-9180bc10a6b8eafde1c04127eabc2ba4.jpg)
+![变性女囚](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221201/1b8c-9180bc10a6b8eafde1c04127eabc2ba4.jpg)
 
 ## 来源: 新文化报   { data-search-exclude }
 ### 作者: 新文化报官方账号  

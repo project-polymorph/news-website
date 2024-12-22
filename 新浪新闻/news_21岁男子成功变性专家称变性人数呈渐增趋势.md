@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性手术](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![变性手术](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 ## 来源：中国新闻网   { data-search-exclude }
 **时间：2011.09.08 02:35**  
@@ -21,7 +21,7 @@
 
 郭树忠表示，随着中国社会包容度的提升，民众对易性病患者经历了一个从排斥到逐步接纳的过程。近年来该院接诊的易性病患者呈上升趋势，他已完成此类手术数十例。(完)
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 ### 余康4567  

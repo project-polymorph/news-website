@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![作者头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![作者头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源: 中新网   { data-search-exclude }
 ## 时间: 2015.06.15 15:55 { data-search-exclude }
@@ -34,7 +34,7 @@
 
 （原标题：受美国明星变性影响 不少澳青少年表示渴望变性）
 
-![名利场杂志](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![名利场杂志](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

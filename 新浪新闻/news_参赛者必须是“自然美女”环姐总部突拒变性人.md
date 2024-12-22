@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![陈莉莉](//n.sinaimg.cn/sinacn/20170516/1212-fyfeutq0813373.jpg)
+![陈莉莉](https://n.sinaimg.cn/sinacn/20170516/1212-fyfeutq0813373.jpg)
 
 ## 新闻晨报 { data-search-exclude }
 

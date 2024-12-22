@@ -9,7 +9,7 @@
 
 2011年，外国网友Young Buck在油管上上传了一则标题为 **《Don't watch an anime called Boku》（千万不要看那个名为“Boku”的动画）**的视频。
 
-![YOOOOO](//p1.itc.cn/q_70/images03/20230613/b36f47aba78a40e191012571e2ccff29.jpeg)
+![YOOOOO](https://p1.itc.cn/q_70/images03/20230613/b36f47aba78a40e191012571e2ccff29.jpeg)
 
 在此视频中，他一直在跟网友们强调别看《Boku》，因为他朋友给了他《Boku》的三集资源，他出于好奇去看了一集，当即“YOOOOOOOO！！”
 
@@ -19,7 +19,7 @@
 
 最后，他承认，因为《Boku》，自己已将灵魂卖给了路西法。
 
-![内容概述](//p2.itc.cn/q_70/images03/20230613/c07fa02454314f57b319cbaab839394c.jpeg)
+![内容概述](https://p2.itc.cn/q_70/images03/20230613/c07fa02454314f57b319cbaab839394c.jpeg)
 
 [_展开全文_](javascript:;)
 
@@ -37,7 +37,7 @@
 
 恰好， **2011年，一款名为《女装山脉》的galgame发售，一时间，将YOOOOO梗推向了疯狂。**疯狂到一度让不了解的网友以为，《女装山脉》就是YOOOO的出处。
 
-![女装山脉](//p7.itc.cn/q_70/images03/20230613/d946fc650c884e1c849707ed9cd0ef7a.jpeg)
+![女装山脉](https://p7.itc.cn/q_70/images03/20230613/d946fc650c884e1c849707ed9cd0ef7a.jpeg)
 
 那么《女装山脉》又是啥玩意呢？
 
@@ -71,7 +71,7 @@
 
 而担任编剧与导演的西田一，几年后与部分成员跳槽至の～すとらいく（No Strike），又接连开发了《女装学园（孕）》《阔别女装》《女装千年王国》《女装神社》《女装神话》《女装创世纪》，而且所有女装系列的世界观是共通的，主打的就是一个伪娘攻略，全员有好、坏结局，全员可怀孕。
 
-![女装系列](//p7.itc.cn/q_70/images03/20230613/117d7853d84542b1b4452cf0ce41c369.jpeg)
+![女装系列](https://p7.itc.cn/q_70/images03/20230613/117d7853d84542b1b4452cf0ce41c369.jpeg)
 
 为什么可以怀孕？这要去谈设定了，姬不想再谈了，姬什么都不知道，别问，问就是YOOOOOOOOOOOOOOO——
 
@@ -79,11 +79,11 @@
 
 让姬没想到的是，在《女装山脉》发售12年后，游戏平台JUST官方宣布，本作将登录Steam，考虑到游戏2年前 登录JUST时加入了官方中文，那Steam版大概率也会有了。
 
-![Steam公告](//p4.itc.cn/q_70/images03/20230613/4e16b87875fd4df6a2d72c0e214d2e0d.jpeg)
+![Steam公告](https://p4.itc.cn/q_70/images03/20230613/4e16b87875fd4df6a2d72c0e214d2e0d.jpeg)
 
 而且这官方比谁都懂YOOOOO……
 
-![官方宣传](//p6.itc.cn/q_70/images03/20230613/53252153763e40ad8a9c9a5ff1f250d7.jpeg)
+![官方宣传](https://p6.itc.cn/q_70/images03/20230613/53252153763e40ad8a9c9a5ff1f250d7.jpeg)
 
 姬只能说：Don't play a galgame called Josou Sanmyaku.You will like YOOOOOOOOOOOOOOOOO!IT WAS THREEEEEEEEEEEEEEEEEEEEE!!!!!!!!!
 

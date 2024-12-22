@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![韩国变性军人边熙秀](//k.sinaimg.cn/n/sinakd202134s/759/w675h884/20210304/1c65-kkxpczc4235551.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![韩国变性军人边熙秀](https://k.sinaimg.cn/n/sinakd202134s/759/w675h884/20210304/1c65-kkxpczc4235551.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 来源：海外网  
 时间：03月04日 15:53  
@@ -14,7 +14,7 @@
 
 海外网3月4日电 据韩联社报道，3日下午，韩国前陆军士官边熙秀被发现死于家中，终年22岁，据推测已经去世多日。边某曾赴泰国接受变性手术，随后被军方强制退伍。最近他一直在接受精神健康治疗，曾自杀未遂。韩国国防部4日就边某去世一事致哀。
 
-![边某死亡后，家门被贴上封条](//k.sinaimg.cn/n/sinakd202134s/165/w1096h669/20210304/4cc7-kkxpczc4235552.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![边某死亡后，家门被贴上封条](https://k.sinaimg.cn/n/sinakd202134s/165/w1096h669/20210304/4cc7-kkxpczc4235552.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 韩国国防部发言人文洪植4日在例行记者会上表示，已故边某之死令人惋惜，在此致哀。问及是否考虑改善变性人服役制度时，文洪植回答，目前没有具体讨论这一问题。
 

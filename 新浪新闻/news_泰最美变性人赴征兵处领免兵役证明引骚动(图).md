@@ -3,21 +3,21 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 **来源：环球网**  
 **时间：2017.04.06 10:43**  
 **作者：郭鹏飞**  
 
-![照片1](//k.sinaimg.cn/n/news/transform/20170406/psd2-fyeceza1369667.jpg/w300h300z1l10t10q100983.jpg)
+![照片1](https://k.sinaimg.cn/n/news/transform/20170406/psd2-fyeceza1369667.jpg/w300h300z1l10t10q100983.jpg)
 
 原标题：泰国最美变性人赴征兵处领免兵役证明 引现场骚动（图）
 
-![照片2](//k.sinaimg.cn/n/news/transform/20170406/psd2-fyeceza1369667.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![照片2](https://k.sinaimg.cn/n/news/transform/20170406/psd2-fyeceza1369667.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![照片3](//k.sinaimg.cn/n/news/transform/20170406/D7_h-fyeceza1369719.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![照片3](https://k.sinaimg.cn/n/news/transform/20170406/D7_h-fyeceza1369719.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![照片4](//k.sinaimg.cn/n/news/transform/20170406/Cgyh-fyecrxv3446469.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![照片4](https://k.sinaimg.cn/n/news/transform/20170406/Cgyh-fyecrxv3446469.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 泰国实施征兵制，每年4月军方会大举招募新血。近来网络疯传一张照片，征兵审核的队伍中，出现“美女”让人惊艳，原来是变性人皇后纳迪亚帕塔（纳迪亚帕塔），亮丽的身影，引发在场所有人骚动。
 
@@ -31,7 +31,7 @@
 
 纳迪亚帕塔荣获两届变性人选美冠军，不但有着高挑性感身材，更有张标致的五官，可以说是99%的女人，但他还是要参加兵役体检。
 
-![照片5](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![照片5](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![刘昌福](//n.sinaimg.cn/sinakd10200/360/w180h180/20240512/9a22-2f8d9cf423a06c460993df40ac954c91.jpg)
+![刘昌福](https://n.sinaimg.cn/sinakd10200/360/w180h180/20240512/9a22-2f8d9cf423a06c460993df40ac954c91.jpg)
 
 ## 来源：深圳特区报 { data-search-exclude }
 **时间**：2007.11.22 15:20
@@ -58,7 +58,7 @@
 
 (记者方胜文／图)
 
-![评论](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![评论](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

@@ -7,7 +7,7 @@
 **作者**: 志幻春秋  
 **来源**: [新浪博客](http://blog.sina.com.cn/u/1394039322)  
 **标签**: 南亚观光, 泰国人妖, 伯荣, 旅游  
-**分类**: [伯荣诗书画](//blog.sina.com.cn/s/articlelist_1394039322_5_1.html)  
+**分类**: [伯荣诗书画](https://blog.sina.com.cn/s/articlelist_1394039322_5_1.html)  
 
 ## 正文 { data-search-exclude }
 
@@ -71,8 +71,8 @@
 **版权**: Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved.  
 **链接**: [新浪博客](http://blog.sina.com.cn/u/1394039322)  
 
-前一篇：[东南亚观光 ——（四）水调歌头  芭提雅](//blog.sina.com.cn/s/blog_53175a1a0102y704.html)  
-后一篇：[东南亚观光 ——（六）清平乐 游黄金屋](//blog.sina.com.cn/s/blog_53175a1a0102ygpm.html)
+前一篇：[东南亚观光 ——（四）水调歌头  芭提雅](https://blog.sina.com.cn/s/blog_53175a1a0102y704.html)  
+后一篇：[东南亚观光 ——（六）清平乐 游黄金屋](https://blog.sina.com.cn/s/blog_53175a1a0102ygpm.html)
 
 ## 摘要与附加信息
 

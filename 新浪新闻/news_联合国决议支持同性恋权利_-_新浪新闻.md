@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源 { data-search-exclude }
 东方早报
@@ -94,7 +94,7 @@
 
 录入编辑：任凭
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

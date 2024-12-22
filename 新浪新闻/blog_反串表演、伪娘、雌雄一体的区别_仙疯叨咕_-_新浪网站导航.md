@@ -50,7 +50,7 @@
 
 分享：
 
-![二维码分享](//comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_54a3cbea0102eg3j.html)
+![二维码分享](https://comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_54a3cbea0102eg3j.html)
 
 阅读(11583) ┊ 收藏(9) ┊ 喜欢(24)
 

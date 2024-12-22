@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![北晚新视觉](//static.takefoto.cn/img/2016/logo1.png)
+![北晚新视觉](https://static.takefoto.cn/img/2016/logo1.png)
 
 ![图](http://static.takefoto.cn/img/2017_pc.jpg)
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![黄恩岭](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![黄恩岭](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 合肥报业网--江淮晨报 { data-search-exclude }
 
@@ -53,7 +53,7 @@
 
 “我绝不会像‘莉莉’那样大肆炒作自己，我也不会在演艺界作一个另类的‘明星’；我有自己的公司，我有自己的事业，我要用劳动膜拜我的重生！”本报记者 万毅 通讯员 许开踟
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

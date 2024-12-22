@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![Image](//tva1.sinaimg.cn/crop.0.0.299.299.180/6a8c1e07gw1efgokalrxdj208c08cq37.jpg)
+![Image](https://tva1.sinaimg.cn/crop.0.0.299.299.180/6a8c1e07gw1efgokalrxdj208c08cq37.jpg)
 
 ## 199IT { data-search-exclude }
 
@@ -21,37 +21,37 @@
 
 媒体是一切发挥作用的地方，好的、坏的、以及介于两者之间的一切。重要的是，广告投放不同于广告曝光。虽然数据和技术可以帮助营销人员识别受众并与他们互动，但品牌无法控制受众如何分享他们的信息。这就是品牌完整性发挥作用的地方。
 
-![Image](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/b00a-76ea97ea1eb3b0d250f7a78ffe5dac7a.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![Image](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/b00a-76ea97ea1eb3b0d250f7a78ffe5dac7a.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/5acc-b28dcab55c7b30201c7c0bc8e59ff079.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/5acc-b28dcab55c7b30201c7c0bc8e59ff079.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/be27-db1e0f93be9923f5fb8a31ae62257ed3.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/be27-db1e0f93be9923f5fb8a31ae62257ed3.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/8dbe-db9e809f925f26e327ce1f340a8dbb0d.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/8dbe-db9e809f925f26e327ce1f340a8dbb0d.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/c4c6-82b6ce4fb6a9ec7020474a1d04cfc9af.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/c4c6-82b6ce4fb6a9ec7020474a1d04cfc9af.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/cc28-cf3512ceda1178cb4691268883660118.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/cc28-cf3512ceda1178cb4691268883660118.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/b1ed-f945b7f0e54f8b18bf51be16bd3d14fb.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/b1ed-f945b7f0e54f8b18bf51be16bd3d14fb.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/f37e-bb4efde7b42723c763d13f5dd7db5300.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/f37e-bb4efde7b42723c763d13f5dd7db5300.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/7b4d-e17a97a038bc3a84d92ecc316d7bd77d.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/7b4d-e17a97a038bc3a84d92ecc316d7bd77d.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/7115-b4f97c37b72c98ff8b5279a1510aa54c.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/7115-b4f97c37b72c98ff8b5279a1510aa54c.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/2275-e4ee5a142b75cb57da47afdcdf0dd6b2.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/2275-e4ee5a142b75cb57da47afdcdf0dd6b2.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/52af-a75ed20c396f78cd1be257aa1062ec7c.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/52af-a75ed20c396f78cd1be257aa1062ec7c.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/b850-fe98fb2e2c548a0e80be2c8023424855.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/b850-fe98fb2e2c548a0e80be2c8023424855.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/aeaa-9aca3939479ea9c7313cfb6e8eb34959.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/aeaa-9aca3939479ea9c7313cfb6e8eb34959.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/273d-792937251b8bb08c3ee9b620182d79cc.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/273d-792937251b8bb08c3ee9b620182d79cc.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/9b0e-7c9e47348d7b211ebc32f42fc6036991.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/spider20240301/160/w2040h1320/20240301/9b0e-7c9e47348d7b211ebc32f42fc6036991.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![手术](//n.sinaimg.cn/sinakd10200/360/w180h180/20230321/3ed3-b21751e378d306cc834f9f4b7e2b2825.jpg)
+![手术](https://n.sinaimg.cn/sinakd10200/360/w180h180/20230321/3ed3-b21751e378d306cc834f9f4b7e2b2825.jpg)
 
 ## 来源：都市快报 { data-search-exclude }
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：金羊网-新快报 { data-search-exclude }
 
@@ -18,7 +18,7 @@
 
 （夏天／编制）
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

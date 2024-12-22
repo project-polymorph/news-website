@@ -34,7 +34,7 @@
 
 口欲期固结的人一般都会比较贪婪，她们的人生信条是关注=爱。或者说关注是获得爱的方式。而获得关注的方式正是通过性的取悦，而把裸露的照片贴在网上应该就可以视作一种性的取悦。中国目前就是处于一个口欲期社会阶段，这也是目前会出现如此多的“网络裸露”的一个重要原因。
 
-![分享](//comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_492564890101b9pm.html)
+![分享](https://comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_492564890101b9pm.html)
 
 **阅读**: 1584  
 **评论**: 0  

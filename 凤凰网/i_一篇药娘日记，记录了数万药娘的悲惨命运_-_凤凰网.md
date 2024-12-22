@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![一篇药娘日记，记录了数万药娘的悲惨命运](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2020/7F31978AB486FFB9D28EFB33DC1DC4628EC13E6F_size130_w1080_h1792.jpeg)
+![一篇药娘日记，记录了数万药娘的悲惨命运](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2020/7F31978AB486FFB9D28EFB33DC1DC4628EC13E6F_size130_w1080_h1792.jpeg)
 
 ### 来源于凤凰网
 

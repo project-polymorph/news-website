@@ -2,7 +2,7 @@
 
 ## 正文 { data-search-exclude }
 
-![新闻开讲](//p1.img.cctvpic.com/photoAlbum/page/performance/img/2024/5/29/1716964589825_932.jpg)
+![新闻开讲](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2024/5/29/1716964589825_932.jpg)
 
 **来源**: 央视网  
 **发布时间**: 2017年02月18日 18:31  

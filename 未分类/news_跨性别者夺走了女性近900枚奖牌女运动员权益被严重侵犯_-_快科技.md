@@ -3,15 +3,15 @@
 ## 正文 { data-search-exclude }
 
 
-![跨性别者夺走了女性近900枚奖牌 女运动员权益被严重侵犯](//img1.kkeji.com/img/2005/20241112/100449760.gif)
+![跨性别者夺走了女性近900枚奖牌 女运动员权益被严重侵犯](https://img1.kkeji.com/img/2005/20241112/100449760.gif)
 
 **时间**: 2024-11-01 21:11:31  
 **来源**: [游民星空](https://www.gamersky.com/news/202410/1835700.shtml)  
 **作者**: 益达兄  
 **编辑**: 雪花  
 **人气**: 7241 次  
-**评论**: [227](//comment8.mydrivers.com/review/1011658-1.htm)  
-**标签**: [_#_女性](//news.mydrivers.com/tag/nvxing_2579.htm) [_#_变性](//news.mydrivers.com/tag/bianxing.htm)
+**评论**: [227](https://comment8.mydrivers.com/review/1011658-1.htm)  
+**标签**: [_#_女性](https://news.mydrivers.com/tag/nvxing_2579.htm) [_#_变性](https://news.mydrivers.com/tag/bianxing.htm)
 
 ---
 
@@ -21,7 +21,7 @@
 
 报告指出：“将女性体育类别替换为混合类别导致越来越多的女性运动员失去机会，包括获得奖牌的机会，因为她们与男性运动员竞争。”根据联合国的数据，截至2024年3月30日，超过600名运动员在400多场比赛中失去了890多枚奖牌，涉及29个不同的体育项目。
 
-![相关图片](//img1.mydrivers.com/img/20241101/s_a2d1a3e800b84d2f918260481a5a9e41.jpg)
+![相关图片](https://img1.mydrivers.com/img/20241101/s_a2d1a3e800b84d2f918260481a5a9e41.jpg)
 
 **责任编辑**: 雪花
 

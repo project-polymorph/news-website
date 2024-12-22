@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![新西兰一举重选手成为首位参加奥运会的变性运动员](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2021_26/7A3C4E7280D6C6265FDEFA2CC6D46650F45D4C87_size46_w640_h360.jpg)
+![新西兰一举重选手成为首位参加奥运会的变性运动员](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2021_26/7A3C4E7280D6C6265FDEFA2CC6D46650F45D4C87_size46_w640_h360.jpg)
 
 **来源:** 凤凰网  
 **时间:** 2021年06月21日 15:07:00  
@@ -21,7 +21,7 @@
 
 **发表评论:** 凤凰账号/新浪微博
 
-[查看全部评论>>](//gentie.ifeng.com/c/comment/87FtgLr4Yq1)
+[查看全部评论>>](https://gentie.ifeng.com/c/comment/87FtgLr4Yq1)
 
 ## 摘要与附加信息
 

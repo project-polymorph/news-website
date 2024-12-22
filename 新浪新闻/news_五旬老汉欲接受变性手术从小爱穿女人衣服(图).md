@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-_![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
+_![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 ## 星辰在线-长沙晚报 { data-search-exclude }
 
@@ -41,7 +41,7 @@ _![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 
 “避免性心理障碍，关键在于青春前期的性别引导。”陈晋东提醒广大家长，要注意按照孩子本身的性别角色来安排孩子的饮食起居，进行潜意识引导，否则可能给孩子带来性别成长的困扰。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

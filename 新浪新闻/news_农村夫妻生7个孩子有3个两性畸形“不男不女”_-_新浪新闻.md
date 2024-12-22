@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinacn/20170106/8c5c-fxzkssy0920894.jpg)
+![图片](https://n.sinaimg.cn/sinacn/20170106/8c5c-fxzkssy0920894.jpg)
 
 ## 来源 { data-search-exclude }
 未来网  
@@ -42,7 +42,7 @@
 
 最近一次去医科大开住院证，是在去年11月。医生说每个孩子需要动3次手术，每人每次费用是2万元左右，三个人共需18万元左右。由于家里没有那么多钱，黄至今都没带孩子去做手术。
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 评论区 { data-search-exclude }
 

@@ -7,7 +7,7 @@
 来源: [红枫湾](https://www.sohu.com/a/793681470_527250?spm=smpc.content-abroad.content.1.1730994690181HptyQgu)  
 发布于：北京市
 
-![研究相关图片](//q1.itc.cn/images01/20240716/898f6e866e574f0286eba5b5d97bd75b.png)
+![研究相关图片](https://q1.itc.cn/images01/20240716/898f6e866e574f0286eba5b5d97bd75b.png)
 
 一项新研究表明，每10名变性人中只有一人认为他们正在被社区支持。不仅绝大多数跨性别者感到“不被支持”，而且也不愿意与社区成员合作，担心遭到强烈反对。
 

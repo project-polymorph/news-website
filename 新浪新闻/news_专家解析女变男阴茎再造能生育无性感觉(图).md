@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![男性生殖器再造示意图](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![男性生殖器再造示意图](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 **来源**: 中国新闻网  
 **时间**: 2006.07.06 10:01  

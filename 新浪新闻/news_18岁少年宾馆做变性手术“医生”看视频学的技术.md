@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6276-230472c4677cc56129a3fdd7fa8a68eb.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6276-230472c4677cc56129a3fdd7fa8a68eb.jpg)
 
 ## 来源：青年时报 { data-search-exclude }
 
@@ -39,7 +39,7 @@
 
 （文中人物均为化名）
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

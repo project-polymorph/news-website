@@ -13,8 +13,8 @@
 
 中国两名男子前往泰国见网友，结果发现对方是人妖，引发冲突并遭到殴打。
 
-![泰国人妖](//statics.haiwainet.cn/tpl/2015-10-30/images/app-n.jpg)
-![泰国人妖](//statics.haiwainet.cn/tpl/2015-10-30/images/wap.jpg)
+![泰国人妖](https://statics.haiwainet.cn/tpl/2015-10-30/images/app-n.jpg)
+![泰国人妖](https://statics.haiwainet.cn/tpl/2015-10-30/images/wap.jpg)
 
 --- 
 

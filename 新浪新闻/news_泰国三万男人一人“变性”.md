@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10213/360/w180h180/20210329/27cc-knaqvqn0742969.jpg)
+![](https://n.sinaimg.cn/sinakd10213/360/w180h180/20210329/27cc-knaqvqn0742969.jpg)
 
 ## 来源：哈尔滨日报   { data-search-exclude }
 **时间：2004.02.27 09:38**
@@ -12,7 +12,7 @@
 
 与会的塔瓦察博士说，认为自己生下来就性别出错的泰国人在增长。他认为，尽管“变性”手术正变得越来越平常，医生应当只能为十八岁以上的人做“变性”手术，并且手术前他们应先作为异性生活至少六个月。医学专家们强调，任何人在做“变性”手术前必须经过严格的精神疾病测试。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

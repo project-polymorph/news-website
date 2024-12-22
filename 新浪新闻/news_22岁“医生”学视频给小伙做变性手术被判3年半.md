@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![相关图片](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
+![相关图片](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 ## 来源：澎湃新闻 { data-search-exclude }
 
@@ -27,7 +27,7 @@
 
 经警方调查，给小斌做手术的“医生”小俊，并未取得医生执业资格，也未接受过任何医学教育，小斌是他尝试给别人做变性手术的第一人。而他所谓的手术技能，只是从网上看视频学会的“江湖技艺”。
 
-![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

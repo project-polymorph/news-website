@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
 
 ## 来源：国际在线   { data-search-exclude }
 **时间**：2010.01.14 08:47
@@ -22,7 +22,7 @@
 
 变性完成后，这名16岁的西班牙少年成为世界上年龄最小的变性人之一。目前最年轻的变性人是2009年2月接受手术的德国16岁少年佩特拉斯(Tim Petras)。
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

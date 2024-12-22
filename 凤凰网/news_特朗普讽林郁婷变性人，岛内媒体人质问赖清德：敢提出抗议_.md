@@ -1,4 +1,4 @@
-# ![特朗普讽林郁婷变性人，岛内媒体人质问赖清德：敢提出抗议吗？](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/E492308042EAA60F018D2A692047FB7B245CA7DB_size31_w640_h424.jpg)
+# ![特朗普讽林郁婷变性人，岛内媒体人质问赖清德：敢提出抗议吗？](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/E492308042EAA60F018D2A692047FB7B245CA7DB_size31_w640_h424.jpg)
 
 # 特朗普讽林郁婷变性人，岛内媒体人质问赖清德：敢提出抗议吗？
 
@@ -9,7 +9,7 @@
 
 **时间：** 2024年08月19日 15:33:38 来自福建省
 
-##### [48人参与](//gentie.ifeng.com/c/comment/8cAyW68n3Aj) [10评论](//gentie.ifeng.com/c/comment/8cAyW68n3Aj)
+##### [48人参与](https://gentie.ifeng.com/c/comment/8cAyW68n3Aj) [10评论](https://gentie.ifeng.com/c/comment/8cAyW68n3Aj)
 
 美国前总统特朗普近日再度发表争议言论，称在刚落幕的巴黎奥运会中“有两名变性人”，暗讽中国台北拳手林郁婷和阿尔及利亚拳手凯利夫，此事引起岛内资深媒体人黄扬明好奇，不知道台湾地区领导人赖清德敢不敢出手，对特朗普的发言提出抗议？
 
@@ -22,7 +22,7 @@
 针对此事，国民党民代翁晓玲也呼吁台当局，“快拿出组成‘释宪’律师团的速度”，组成一个跨境律师团队帮林郁婷提告、维护林郁婷的名誉。”
 
 ### 评论
-[10](//gentie.ifeng.com/c/comment/8cAyW68n3Aj) 条评论 / [48](//gentie.ifeng.com/c/comment/8cAyW68n3Aj) 人参与网友评论 | [跟帖管理](//gentie.ifeng.com/commentManage) | [举报](//gentie.ifeng.com/superviseReport)
+[10](https://gentie.ifeng.com/c/comment/8cAyW68n3Aj) 条评论 / [48](https://gentie.ifeng.com/c/comment/8cAyW68n3Aj) 人参与网友评论 | [跟帖管理](https://gentie.ifeng.com/commentManage) | [举报](https://gentie.ifeng.com/superviseReport)
 
 文明上网，不传谣言，登录评论！  
 
@@ -30,7 +30,7 @@
 
 凤凰账号/新浪微博
 
-[查看全部评论>>](//gentie.ifeng.com/c/comment/8cAyW68n3Aj)
+[查看全部评论>>](https://gentie.ifeng.com/c/comment/8cAyW68n3Aj)
 
 ## 摘要与附加信息
 

@@ -4,7 +4,7 @@
 
 
 发稿时间：2023-07-26 16:21:00  
-来源：[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23993069) [中国青年网](//www.youth.cn)
+来源：[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_23993069) [中国青年网](https://www.youth.cn)
 
 世界泳联（World Aquatics）7月25日表示，将在游泳赛事中试行“开放组别”，并允许跨性别运动员参与该组别赛事。
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![JK罗琳再次发表言论引争议：男跨性别者并不是女性](//img1.mydrivers.com/img/20231019/S10e7776e-2646-44e4-b498-40509ce7259a.jpg)
+![JK罗琳再次发表言论引争议：男跨性别者并不是女性](https://img1.mydrivers.com/img/20231019/S10e7776e-2646-44e4-b498-40509ce7259a.jpg)
 
 ## 时间 { data-search-exclude }
 2023-10-19 17:47:36
@@ -21,8 +21,8 @@ liyunfei
 6176 次
 
 ## 标签 { data-search-exclude }
-- [_#_罗琳](//news.mydrivers.com/tag/luolin.htm)
-- [_#_男性](//news.mydrivers.com/tag/nanxing.htm)
+- [_#_罗琳](https://news.mydrivers.com/tag/luolin.htm)
+- [_#_男性](https://news.mydrivers.com/tag/nanxing.htm)
 
 ## 正文内容 { data-search-exclude }
 近日《哈利波特》作者J·K·罗琳再次发布反跨言论引起争议。

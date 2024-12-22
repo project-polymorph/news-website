@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![罗琳的《哈利·波特与魔法石》 被英国大学打上了“性别预警”](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2022/63AA2CC2D6795098DDA4DE4F49092FB3CC3896CA_size65_w1129_h383.png)
+![罗琳的《哈利·波特与魔法石》 被英国大学打上了“性别预警”](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2022/63AA2CC2D6795098DDA4DE4F49092FB3CC3896CA_size65_w1129_h383.png)
 
 [观察者网](https://ishare.ifeng.com/mediaShare/home/311993/media)
 
@@ -14,7 +14,7 @@
 **时间**: 2022年01月29日 18:00:16  
 **来源**: 观察者网  
 **地点**: 上海市  
-**评论**: [2人参与](//gentie.ifeng.com/c/comment/8DCaXTCa7Ix) [1评论](//gentie.ifeng.com/c/comment/8DCaXTCa7Ix)
+**评论**: [2人参与](https://gentie.ifeng.com/c/comment/8DCaXTCa7Ix) [1评论](https://gentie.ifeng.com/c/comment/8DCaXTCa7Ix)
 
 （观察者网讯）据英媒27日消息，《哈利·波特》系列小说的第一部《哈利·波特与魔法石》，被英国一所大学标注上了“内容预警”，称其可能导致学生陷入“关于性别、种族、性取向”等方面的认同困难。
 

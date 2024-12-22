@@ -7,7 +7,7 @@
 **来源：** [红枫湾](https://www.sohu.com/a/768664441_527250?spm=smpc.content-abroad.content.1.1730993700325YeeJeFb)  
 **发布地点：** 北京市  
 
-![](//q3.itc.cn/q_70/images01/20240402/7165f19a5ea4498a869b3da9bdf0e6d2.jpeg)
+![](https://q3.itc.cn/q_70/images01/20240402/7165f19a5ea4498a869b3da9bdf0e6d2.jpeg)
 
 英国著名LGBT活动家Dee Lou Whitnell在接受采访时谈到了他们为跨性别可见性日（3月31日）开展的工作，他坦率地观察了英国反跨性别政治的现状及其对社区和广大公众的影响。
 

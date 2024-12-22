@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![高婷婷](//tvax1.sinaimg.cn/crop.0.0.640.640.180/652f5916ly8gdimr47he4j20hs0hsad0.jpg)
+![高婷婷](https://tvax1.sinaimg.cn/crop.0.0.640.640.180/652f5916ly8gdimr47he4j20hs0hsad0.jpg)
 
 ## 长安街知事 { data-search-exclude }
 
@@ -11,7 +11,7 @@
 **记者**: 郭晓明  
 **来源**: 手机新浪网
 
-![证据](//z2.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fc%2F2007-03-27%2Fe03024d6ce298250185bd792074707ba.jpg&size=328_218)
+![证据](https://z2.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fc%2F2007-03-27%2Fe03024d6ce298250185bd792074707ba.jpg&size=328_218)
 
 变性人高婷婷出示证据。  
 本报记者 王俭 摄 本报讯 （记者郭晓明）变性人高婷婷在法庭上显得很疲惫。他曾经梦想做世界级模特，他因变性没成功而打官司，他为打工的酒店做广告引发更大争议。昨天，高婷婷为了给自己维权，坐到了东城法院的法庭上。被诉的几家单位表示，高婷婷所谓的隐私都是他自己向媒体公开的。高婷婷反驳，“那不证明我没有隐私。”
@@ -67,7 +67,7 @@
 
 记者: 郭晓明
 
-![新浪新闻](//n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 ## 摘要与附加信息
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10203/358/w179h179/20200407/2e40-irtymmw7857041.jpg)
+![](https://n.sinaimg.cn/sinakd10203/358/w179h179/20200407/2e40-irtymmw7857041.jpg)
 
 ## 二三里资讯 { data-search-exclude }
 
@@ -49,7 +49,7 @@
 
 小南的照片被本地一媒体刊登出来后，本来想置身于公众之外的小南，不得不重新考虑如何应对来自各方面的压力了。“我和她只能一起来面对，别无退路。”
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 --- 
 

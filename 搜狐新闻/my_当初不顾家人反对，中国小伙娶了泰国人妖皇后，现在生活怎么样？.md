@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![搜狐视频](//css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
+![搜狐视频](https://css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
 
 **视频状态查询**
 
@@ -18,7 +18,7 @@ _分享到：_
 - **作者**: 花姐看世界
 - **日期**: 2024-04-28
 - **时长**: 00:46
-- **来源**: [搜狐视频](//tv.sohu.com)
+- **来源**: [搜狐视频](https://tv.sohu.com)
 
 ![视频截图](http://e3f49eaa46b57.cdn.sohucs.com/c_pad,w_170,h_110,blur_80/sscs/2024/4/28/20/25/6_18f3d313455g128SysCutcloudSrcimag_537170340_7_1b.webp)
 
@@ -43,7 +43,7 @@ _分享到：_
 
 ---
 
-_版权信息：请仔细阅读 [搜狐视频隐私政策](//tv.sohu.com/upload/privacy/index.html) 、[版权声明](https://intro.sohu.com/#/copyright) 。 Copyright © 2024 All Rights Reserved._
+_版权信息：请仔细阅读 [搜狐视频隐私政策](https://tv.sohu.com/upload/privacy/index.html) 、[版权声明](https://intro.sohu.com/#/copyright) 。 Copyright © 2024 All Rights Reserved._
 
 ## 摘要与附加信息
 

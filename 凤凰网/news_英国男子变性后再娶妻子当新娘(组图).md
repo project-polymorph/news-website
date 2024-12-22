@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![英国男子变性后再娶妻子当新娘(组图)](//x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
+![英国男子变性后再娶妻子当新娘(组图)](https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
 
 **来源：现代快报**  
 **时间：2008年05月03日 09:14:54**

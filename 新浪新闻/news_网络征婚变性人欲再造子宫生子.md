@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![黄宁倩](//n.sinaimg.cn/sinakd10200/360/w180h180/20231215/912f-8e6f6d95bf934be5bae1840e2951cb33.jpg)
+![黄宁倩](https://n.sinaimg.cn/sinakd10200/360/w180h180/20231215/912f-8e6f6d95bf934be5bae1840e2951cb33.jpg)
 
 ## 扬子晚报 { data-search-exclude }
 
@@ -58,7 +58,7 @@
 - **女变男 能生育**：美国加州已经有了案例。
 - **男变女 理论上可行，尚无成功案例**：理论上可以进行男性生育，但缺乏成功生育案例。
 
-![孕夫案例](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![孕夫案例](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 --- 
 

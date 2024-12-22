@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![高婷婷](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/41bb-24c971da1316d17de47caa3c1b099cb2.jpg)
+![高婷婷](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/41bb-24c971da1316d17de47caa3c1b099cb2.jpg)
 
 ## 来源：新京报 { data-search-exclude }
 
@@ -25,7 +25,7 @@
 
 高婷婷曾于今年5月底报名参加第56届世界小姐大赛中国赛区北京大赛，因其变性人身份，遭到组委会的拒绝。
 
-![图片](//z0.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fs%2F2006-06-29%2F1ace512c7ca147209e3dcfc70805f81a.jpg&size=328_218)
+![图片](https://z0.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fs%2F2006-06-29%2F1ace512c7ca147209e3dcfc70805f81a.jpg&size=328_218)
 
 ---
 

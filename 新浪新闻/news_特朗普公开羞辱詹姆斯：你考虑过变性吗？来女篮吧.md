@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![特朗普](//tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1730517526&ssig=UK60DD9xZM)
+![特朗普](https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1730517526&ssig=UK60DD9xZM)
 
 ## 来源：观察者网 { data-search-exclude }
 
@@ -13,7 +13,7 @@
 
 据美国《新闻周刊》等媒体27日报道，特朗普在当地时间周二（26日）的演讲中借跨性别运动员话题公开羞辱詹姆斯，“你考虑过变性吗？来我的女子篮球队吧。”
 
-![相关图片](//k.sinaimg.cn/n/spider20220728/519/w791h528/20220728/6383-1b8fde083faeb768ad1efd800ead9309.png)
+![相关图片](https://k.sinaimg.cn/n/spider20220728/519/w791h528/20220728/6383-1b8fde083faeb768ad1efd800ead9309.png)
 
 当地时间26日，特朗普在“美国第一研究所”演讲中提到了近来在美国争议极大的跨性别运动员问题。
 
@@ -27,15 +27,15 @@
 
 有国外网民表示，特朗普是在强调跨性别运动员在女子项目中拥有的巨大优势。
 
-![特朗普发言1](//n.sinaimg.cn/spider20220728/62/w587h275/20220728/7adb-0815bac9ccf15044a97d9ea7bc62fab9.png)
+![特朗普发言1](https://n.sinaimg.cn/spider20220728/62/w587h275/20220728/7adb-0815bac9ccf15044a97d9ea7bc62fab9.png)
 
 但更多人只是抱着看乐子的心态，讽刺美国政客“像个小丑”。“人们一再投票的对象，竟然是这种家伙。。。一群小丑。”
 
-![特朗普发言2](//n.sinaimg.cn/spider20220728/61/w592h269/20220728/08db-ea0d978a81bc84387f809c8fd6a0bf08.png)
+![特朗普发言2](https://n.sinaimg.cn/spider20220728/61/w592h269/20220728/08db-ea0d978a81bc84387f809c8fd6a0bf08.png)
 
 “这到底是集会演讲还是一场喜剧表演？”
 
-![特朗普发言3](//n.sinaimg.cn/spider20220728/24/w613h211/20220728/a112-ba803ac271c12e63a4117916fe932278.png)
+![特朗普发言3](https://n.sinaimg.cn/spider20220728/24/w613h211/20220728/a112-ba803ac271c12e63a4117916fe932278.png)
 
 值得注意的是，这并非特朗普首次在跨性别问题上羞辱詹姆斯。2021年，在菲尼克斯的一场集会中，特朗普也曾公开取笑詹姆斯，“如果做了变性手术，勒布朗在场上会怎样？”
 
@@ -57,7 +57,7 @@
 
 ![特朗普发言5](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
 
-![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 摘要与附加信息
 

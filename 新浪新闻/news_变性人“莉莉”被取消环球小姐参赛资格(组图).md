@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![莉莉](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![莉莉](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 人民网-江南时报 { data-search-exclude }
 
@@ -91,7 +91,7 @@
 
 曹主任：目前为止，我们还没有碰到过变性人参加此类比赛的。
 
-![评论区](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![评论区](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

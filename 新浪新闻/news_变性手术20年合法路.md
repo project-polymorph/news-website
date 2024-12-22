@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![杨忠婷](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![杨忠婷](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 《法律与生活》杂志 { data-search-exclude }
 ### 2009.08.28 15:36
@@ -95,7 +95,7 @@
 
 *(摘自《法律与生活》半月刊2009年8月下半月刊)*
 
-![新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

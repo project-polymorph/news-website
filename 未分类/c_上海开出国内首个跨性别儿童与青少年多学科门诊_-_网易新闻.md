@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![跨性别儿童与青少年多学科门诊](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2Fsfkk8B8tm8GPBhdj7ytp9ffDoUxLHWEHZvfEFg6agRddJ1523503149759.jpeg&thumbnail=90x2147483647&quality=75&type=jpeg)
+![跨性别儿童与青少年多学科门诊](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2Fsfkk8B8tm8GPBhdj7ytp9ffDoUxLHWEHZvfEFg6agRddJ1523503149759.jpeg&thumbnail=90x2147483647&quality=75&type=jpeg)
 
 **来源**: 澎湃新闻  
 **时间**: 2021-11-04 14:47  

@@ -3,15 +3,15 @@
 ## 正文 { data-search-exclude }
 
 
-![《上古卷轴OL》加LGBT角色引不满 制作人回应骂声](//img1.mydrivers.com/img/20241103/825f7b3e-fad1-408d-bd1a-7c052db8b736.jpg)
+![《上古卷轴OL》加LGBT角色引不满 制作人回应骂声](https://img1.mydrivers.com/img/20241103/825f7b3e-fad1-408d-bd1a-7c052db8b736.jpg)
 
 **时间:** 2024-11-03 13:48:30  
 **出处:** [游民星空](https://www.gamersky.com/news/202411/1839035.shtml)  
 **作者:** 灰色的月华  
 **编辑:** 拾柒  
 **人气:** 5619 次  
-**评论:** [(46)](//comment8.mydrivers.com/review/1011811-1.htm)  
-**标签:** [_#_上古卷轴](//news.mydrivers.com/tag/shanggujuanzhou.htm), [_#_LGBT](//news.mydrivers.com/tag/lgbt.htm)
+**评论:** [(46)](https://comment8.mydrivers.com/review/1011811-1.htm)  
+**标签:** [_#_上古卷轴](https://news.mydrivers.com/tag/shanggujuanzhou.htm), [_#_LGBT](https://news.mydrivers.com/tag/lgbt.htm)
 
 ---
 
@@ -21,7 +21,7 @@
 
 Slavicsek 强调，“让坦洛林成为非二元性别感觉是正确的”。**设计像坦洛林这样的新角色需要团队合作，“以确保我们将演员与他们扮演的角色相匹配。”因此，让非二元性别演员扮演坦洛林这个角色“极其重要”。**
 
-![坦洛林角色](//img1.mydrivers.com/img/20241103/b42581c1-bb46-4ba6-8eb7-2f8ec02793f7.png)
+![坦洛林角色](https://img1.mydrivers.com/img/20241103/b42581c1-bb46-4ba6-8eb7-2f8ec02793f7.png)
 
 对Slavicsek的发声，网友们并不买账。有网友表示：**官方没有尊重任何玩家，甚至是LGBT群体，他们只是强行插入此类角色满足“政确”指标罢了。**而TheGamer作为游戏媒体，早已烂透（TheGamer曾多次写文指责玩家群体，扣上各种帽子）。
 

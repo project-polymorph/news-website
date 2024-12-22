@@ -5,7 +5,7 @@
 
 ## 谈谈“异性装扮癖” { data-search-exclude }
 
-![异性装扮癖](//beacon.sina.com.cn/a.gif?noScript)
+![异性装扮癖](https://beacon.sina.com.cn/a.gif?noScript)
 
 来源：人民网-健康时报  
 时间：2001年09月27日11:20  

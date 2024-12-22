@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![刘芯](//n.sinaimg.cn/sinakd10214/360/w180h180/20220608/db23-faa626e2fd4f9b574946fad568d13cf9.jpg)
+![刘芯](https://n.sinaimg.cn/sinakd10214/360/w180h180/20220608/db23-faa626e2fd4f9b574946fad568d13cf9.jpg)
 
 ## 来源：云南网 { data-search-exclude }
 ### 时间：2009.12.27 13:46
@@ -30,7 +30,7 @@
 
 记者：刘玲  实习记者：周忠芳 （都市时报） 
 
-![讨论](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![讨论](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

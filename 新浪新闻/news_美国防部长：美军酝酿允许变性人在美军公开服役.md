@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![资料图：美国防长卡特](//www.sinaimg.cn/dy/cr/2015/0714/3232388513.jpg)
+![资料图：美国防长卡特](https://www.sinaimg.cn/dy/cr/2015/0714/3232388513.jpg)
 
 ## 来源：中国新闻网 { data-search-exclude }
 

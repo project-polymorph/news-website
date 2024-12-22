@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![药娘](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Fa0cfe1cfj00rwjyf7000kc000mt0048m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![药娘](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Fa0cfe1cfj00rwjyf7000kc000mt0048m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 **作者**: 八卦疯叔  
 **时间**: 2023-06-20 20:55  
@@ -13,7 +13,7 @@
 
 所谓药娘，指的是通过抗雄激素和雌激素与孕激素药物将男性性征女性化的群体，他们胸部隆起，生殖器失去功能并停止发育，从外观上向女性靠拢，他们以未成年人居多。
 
-![药娘](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0710%2F7970f7ecj00sgee3m000dd000910091p.jpg&thumbnail=90x2147483647&quality=75&type=jpg)
+![药娘](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0710%2F7970f7ecj00sgee3m000dd000910091p.jpg&thumbnail=90x2147483647&quality=75&type=jpg)
 
 对药娘来说，药是扭转自己性别的前期工具。
 
@@ -21,7 +21,7 @@
 
 和药娘的接触始于2020年6月，在某不知名网站上，小悦留下了自己的《药娘日记》。
 
-![药娘日记](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F1b82288aj00rwjyf7000pc000n500aym.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![药娘日记](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F1b82288aj00rwjyf7000pc000n500aym.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 由此，疯叔开始小心翼翼地认识他们。
 
@@ -31,7 +31,7 @@
 
 或许是因为家庭环境，或许是因为校园暴力，或许像我加入的药娘群成员一样，只是简单地认为，自己本就该是女生。
 
-![药娘故事](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Fb7376c22j00rwjyf7000pc000n000dim.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![药娘故事](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Fb7376c22j00rwjyf7000pc000n000dim.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 每一个艰难的故事开局，往往都隐藏着伤疤。当你想要详细询问她们具体缘由的时候，她们就会转移话题或者闭口不谈。
 
@@ -43,7 +43,7 @@
 
 在“药娘吧”里，你经常可以看见性别难辨的吧友留下的帖子。所有关于药的疑问，在这里都能得到解答。
 
-![药娘吧](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F178e8143j00rwjyf70019c000mk00mtm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![药娘吧](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F178e8143j00rwjyf70019c000mk00mtm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 在药娘圈里，她们更喜欢称药为“糖”，似乎这样就能缓解药物和人生的苦味。而在青春期吃糖，则能获得最大的药效。
 
@@ -65,23 +65,23 @@
 
 要是选择去医院开一份程序复杂的跨性别诊断证明书然后去药房取药，往往会让药娘暴露身份，这与药娘隐瞒身份的初衷背道而驰。
 
-![性身份认同障碍诊断证明书](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Fb20944c9j00rwjyf7000bc000gf0085m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![性身份认同障碍诊断证明书](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Fb20944c9j00rwjyf7000bc000gf0085m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 而第二种购药方式——“熟人”途径，则比较好理解，就是跟圈子里的朋友、QQ群的群主或者贴吧的网友等人购买。
 
-![熟人途径](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F899b1837j00rwjyf70011c000if00cym.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![熟人途径](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F899b1837j00rwjyf70011c000if00cym.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 有时可以遇到变性前的药娘卖药**，“挖洞”即指变性手术**。
 
 不过通过熟人购买依然需要承担巨大的风险，假药商随处可见。
 
-![药商](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F31ff48d6j00rwjyf70012c000mx00o0m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![药商](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F31ff48d6j00rwjyf70012c000mx00o0m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 于是电商H市应运而生。
 
 秋名源是其中做得比较好的一家，药娘圈子开玩笑称其为“药娘领袖”。
 
-![秋名源](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F14a3a269j00rwjyf900fnc000ms0162m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![秋名源](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F14a3a269j00rwjyf900fnc000ms0162m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 看价格，疯叔说是普通花盆你信吗？
 
@@ -93,7 +93,7 @@
 - 国色天香 = 国产色谱龙
 - 琪树冉冉 = 琪宁黄体酮
 
-![药品暗号](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F21dc0c3bj00rwjyf70019c000lw00nwm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![药品暗号](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F21dc0c3bj00rwjyf70019c000lw00nwm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 物极必反，秋名源因为出货量大，它的药品质量不仅受到了怀疑，这家店也被推到了舆论的风口浪尖，没多久就被封禁了。
 
@@ -101,7 +101,7 @@
 
 相比于副作用的危害，他们更执着的是改变身体，他们站在镜子前看到最明显的变化是胸部的隆起、皮肤白皙和肌肉脂肪的变化。同时，性器官也开始逐渐萎缩且难勃起。
 
-![变化](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F2f3bb0e1j00rwjyf7000ic000ex00dem.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![变化](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F2f3bb0e1j00rwjyf7000ic000ex00dem.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 王家卫曾说过：这世上有一种鸟，它生来就没有脚，一生都只能在天上飞，它累了，就睡在风里，这种鸟一辈子就只能落地一次，那就是它死的时候。
 
@@ -109,7 +109,7 @@
 
 2014年左右，百度贴吧掀起扫黄大潮**，诱导未成年人吃糖的药娘吧，被冠上色情敏感的名头率先沦陷。**
 
-![扫黄大潮](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F5e098fffj00rwjyf7000fc000il0065m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![扫黄大潮](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F5e098fffj00rwjyf7000fc000il0065m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 当知乎成为贴吧后的新世代社区时，知乎上曾出现众多相关话题，但到了2018年3月左右，药娘一词也成了敏感词，在知乎几近绝迹。
 
@@ -127,13 +127,13 @@
 
 而作为LGBT中的T（Transgender，跨性别者）在发达国家的生存状况较好，但在国内属于极度弱势的群体。
 
-![现实生活](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Faba8f4e8j00rwjyf7000ec000id007om.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![现实生活](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Faba8f4e8j00rwjyf7000ec000id007om.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 澎湃新闻曾报道一事件。还是男生的时候，罗月（化名）在家里最常听到的话就是“你是男生，所以你要......”，望子成龙的巨大压力让罗月身心俱疲。
 
 再加上本身对男性身份的不认同，于是在18岁的时候，罗月吃下了第一粒“糖”。
 
-![罗月](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F5ae6453bj00rwjyf7000hc000ig009sm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![罗月](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F5ae6453bj00rwjyf7000hc000ig009sm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 家人试图阻止罗月吃糖，失败了，于是家人扭送罗月进行了心理治疗。心理治疗失败后，家长的怒气就发泄在了罗月身上。
 
@@ -151,7 +151,7 @@
 
 之后张浩丧失生育能力，姜某被定性为非法行医罪。该事件被各大媒体争相报道。
 
-![事件报道](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F7b87d920j00rwjyf70004c000ig002im.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![事件报道](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F7b87d920j00rwjyf70004c000ig002im.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 这两年，这类私下小作坊手术并没有消失，反而变本加厉。
 
@@ -167,7 +167,7 @@
 
 只是不知大家有没有想过，隐瞒身份的未成年药娘，买药钱从哪里来的呢？
 
-![未成年药娘](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F37d5fb58j00rwjyf7001dc000fv00e0m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![未成年药娘](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F37d5fb58j00rwjyf7001dc000fv00e0m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 推特糖果市场9月22日行情，外网手续费高↑
 
@@ -175,7 +175,7 @@
 
 在生活逼迫下，她们想尽一切办法赚钱：
 
-![赚钱方式](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F2070f3e6j00rwjyf7000oc000fx00ahm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![赚钱方式](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F2070f3e6j00rwjyf7000oc000fx00ahm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 在《药娘日记》里，逃离家乡的小悦就先后做过电话客服、工厂员工，然后被一个人“收留”，接着便发生了如上的事件，幸运的是逃离了魔爪。
 
@@ -191,19 +191,19 @@
 
 在国内，有很多人愿意为药娘的一夜买单，而H中介也能赚得盆满钵满。
 
-![一夜买单](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Fc5a7413aj00rwjyf7000nc000ih00bfm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![一夜买单](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Fc5a7413aj00rwjyf7000nc000ih00bfm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 药娘圈子和二次元圈子在COSPLAY领域相交，有的药娘会兜售自己的COSPLAY照，胆子大一点的，会放一些更大尺度的照片。
 
-![COSPLAY](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Ff4ce2abbj00rwjyf7000rc000i900b9m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![COSPLAY](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Ff4ce2abbj00rwjyf7000rc000i900b9m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 但卖照片总归是来钱慢，一次线下的钱色交易，少说可以换来六七百元，足够买好5盒土耳其色谱龙，按每天50mg来算，可以吃300天。
 
-![金钱交易](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F126aafc5j00rwjyf70013c000ia00e8m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![金钱交易](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2F126aafc5j00rwjyf70013c000ia00e8m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 援交的药娘中，很多人中学辍学，学历普遍不高，只能通过X交易换取赖以生存的金钱，而换来的钱都还给了“糖果”和变性手术。
 
-![辍学药娘](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Fd94cddbfj00rwjyf7000ic000ik009vm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![辍学药娘](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0620%2Fd94cddbfj00rwjyf7000ic000ik009vm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 或许到最后，也有一些药娘，最后如愿以偿地过上了平凡的生活。
 

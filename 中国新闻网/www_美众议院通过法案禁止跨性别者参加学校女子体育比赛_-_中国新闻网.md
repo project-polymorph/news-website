@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![中国新闻网](//image.cns.com.cn/default/5ddb9ec3/20210721/2.jpg)
+![中国新闻网](https://image.cns.com.cn/default/5ddb9ec3/20210721/2.jpg)
 
 **时间**: 2023年04月21日 10:04  
 **来源**: [中国新闻网](http://www.chinanews.com)  

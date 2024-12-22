@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
+![](https://n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
 ## 来源：环球网 { data-search-exclude }
 ### 日期：2019.05.03 16:39
@@ -25,11 +25,11 @@
 
 ## 受害者利卡斯 { data-search-exclude }
 
-![受害者利卡斯](//k.sinaimg.cn/n/spider20190503/200/w640h360/20190503/--Yp-hwfpcxn7664312.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![受害者利卡斯](https://k.sinaimg.cn/n/spider20190503/200/w640h360/20190503/--Yp-hwfpcxn7664312.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 凶手米哈伊尔•吉洪诺夫 { data-search-exclude }
 
-![凶手米哈伊尔•吉洪诺夫](//k.sinaimg.cn/n/spider20190503/200/w640h360/20190503/Okc0-hwfpcxn7664330.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![凶手米哈伊尔•吉洪诺夫](https://k.sinaimg.cn/n/spider20190503/200/w640h360/20190503/Okc0-hwfpcxn7664330.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

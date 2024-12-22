@@ -16,7 +16,7 @@
 
 **【财新网】**中国在1997年废除了将同性性行为入罪的流氓罪、在2001年实现了同性恋去病化，然而多半LGBTQ性少数群体仍面临着来自主流社会的排斥甚至歧视。（LGBTQ：女同性恋者Lesbian、男同性恋者Gay、双性恋者Bisexual、跨性别者Transgender和疑性恋Questioning的英文首字母缩写。）
 
-![](//file.caixin.com/file/content/images/loading.gif) 页面加载中...
+![](https://file.caixin.com/file/content/images/loading.gif) 页面加载中...
 
 财新通会员可畅读全文
 
@@ -52,7 +52,7 @@
 
 [关于我们](http://corp.caixin.com/aboutus/) | [加入我们](http://corp.caixin.com/joinus/) | [啄木鸟公益基金会](http://www.woodpeckerfoundation.org/) | [意见与反馈](mailto:service@caixin.com) | [提供新闻线索](http://service.caixin.com/contribute/) | [联系我们](http://corp.caixin.com/contactus/) | [友情链接](http://other.caixin.com/links/)
 
-![](//file.caixin.com/file/content/images/new/logo_bottom.png)
+![](https://file.caixin.com/file/content/images/new/logo_bottom.png)
 
 ![](https://apollo.caixin.com/count.gif?GUID=938791113&GID30=938791113&TGUID=1731411169442&ENTITY_FROM=null&ENTITY_COUNT=0&cur=https%3A%2F%2Fdatanews.caixin.com%2F2019-05-05%2F101411360.html&title=%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%81%9A%E4%B8%80%E4%B8%AA%E6%80%A7%E5%B0%91%E6%95%B0%E5%AD%A6%E7%94%9F%E9%9D%A2%E4%B8%B4%E5%93%AA%E4%BA%9B%E5%9B%B0%E5%A2%83%EF%BC%9F_%E6%95%B0%E5%AD%97%E8%AF%B4%E9%A2%91%E9%81%93_%E8%B4%A2%E6%96%B0%E7%BD%91&urr=&email=&keyWord=&st=0&daye=17314111694441394076351&pageurl=https%3A%2F%2Fdatanews.caixin.com%2F2019-05-05%2F101411360.html&id=101411360&channel=158&category=100594224%3B100594247%3B101411360&tags=&tagNames=&type=&rootId=&location=%E4%B8%AD%E5%9B%BD&originReferrer=&extNum2=5)
 

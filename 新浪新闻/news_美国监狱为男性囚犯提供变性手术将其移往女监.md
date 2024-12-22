@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//tvax1.sinaimg.cn/crop.0.0.996.996.180/7ece7745ly8g0ltxxsj6nj20ro0roq47.jpg)
+![图片](https://tvax1.sinaimg.cn/crop.0.0.996.996.180/7ece7745ly8g0ltxxsj6nj20ro0roq47.jpg)
 
 ## 中国日报网 { data-search-exclude }
 
@@ -23,7 +23,7 @@
 
 官员也同意另一名男性囚犯居住在女监。与此同时，认为自己是男性的女囚只要提出申请，都可移往男监。
 
-![评论部分图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![评论部分图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

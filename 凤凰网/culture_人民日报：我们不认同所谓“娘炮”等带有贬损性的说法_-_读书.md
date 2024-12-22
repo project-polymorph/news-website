@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![人民日报：我们不认同所谓“娘炮”等带有贬损性的说法](//d.ifengimg.com/w121_h75_q90/p1.ifengimg.com/2018_36/10B4AB7727946113AA8F0575FE28C569F8DFC907_w550_h325.jpg)
+![人民日报：我们不认同所谓“娘炮”等带有贬损性的说法](https://d.ifengimg.com/w121_h75_q90/p1.ifengimg.com/2018_36/10B4AB7727946113AA8F0575FE28C569F8DFC907_w550_h325.jpg)
 
 **来源**: 凤凰网  
 **时间**: 2018年09月07日 12:22:16  

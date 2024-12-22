@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![default_avatar](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![default_avatar](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 四川新闻网-成都晚报 { data-search-exclude }
 **时间**: 2005.12.04 04:47  
@@ -31,7 +31,7 @@
 
 昨日，小小分别给学校老师和远在家乡的父母打去电话，说了自己要做手术的事。马上就要做手术了，小小内心充满期待，幻想着自己变成女人后，一定要像一个平凡女人一样恋爱，结婚。
 
-![女人花](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![女人花](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 摘要与附加信息
 

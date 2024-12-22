@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinacn11/358/w179h179/20180318/f167-fyshfur1454932.jpg)
+![](https://n.sinaimg.cn/sinacn11/358/w179h179/20180318/f167-fyshfur1454932.jpg)
 
 ## 来源 { data-search-exclude }
 中青在线
@@ -42,7 +42,7 @@
 ## 作者 { data-search-exclude }
 庞源
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

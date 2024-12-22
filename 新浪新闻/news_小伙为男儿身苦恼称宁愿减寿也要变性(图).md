@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![小伙图片](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![小伙图片](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：广西新闻网-南国早报 { data-search-exclude }
 ## 时间：2009.12.30 11:11 { data-search-exclude }
@@ -36,7 +36,7 @@
 
 责任编辑：chenggong SN009
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

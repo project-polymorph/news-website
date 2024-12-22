@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![相关图片](//n.sinaimg.cn/sinacn/20170105/85b4-fxzkfvn0305758.png)
+![相关图片](https://n.sinaimg.cn/sinacn/20170105/85b4-fxzkfvn0305758.png)
 
 **来源：正义网**  
 **时间：2015.11.12 07:05**  
@@ -12,7 +12,7 @@
 
 原标题：15岁男孩网约做变性手术 实习医生无证下刀被追责
 
-![相关图片](//k.sinaimg.cn/n/translate/20151112/T7jQ-fxksqqh7472653.jpg/w300h300z1l10t10q100f0b.jpg)
+![相关图片](https://k.sinaimg.cn/n/translate/20151112/T7jQ-fxksqqh7472653.jpg/w300h300z1l10t10q100f0b.jpg)
 
 姚雯/漫画
 
@@ -58,7 +58,7 @@
 
 卫生部规定，只有三级甲等医院或三级甲等整形外科专科医院才可以开展变性手术。手术的主刀医生，须从事整形外科临床10年以上，有5年以上参与变性手术临床工作的经验，曾独立完成10例以上的生殖器再造术，具有副主任医师及以上专业技术职务任职资格，且术前医院需与患者签署知情同意书。(正义网电/傅鉴 贺薇)
 
-![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻官方](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

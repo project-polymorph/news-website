@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![小王](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
+![小王](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
 
 ## 来源：国际在线   { data-search-exclude }
 **时间：2008.05.29 10:55**  
@@ -37,7 +37,7 @@
 
 曾对小王进行过心理辅导的国家高级心理咨询师缪虹表示，变性手术后的小王在身心上，都认可了自己的女性角色，这很好。“学会一技之长是非常重要的，有了生存技能，这才能真正在社会上立足。”缪虹说，小王很可能会在出院的日子里遇到各种问题，需要长期的心理援助和辅导。
 
-![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 相关视频   { data-search-exclude }
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![刘霆变性新闻发布会](//k.sinaimg.cn/www/dy/s/2015-04-09/U11414P1T1D31695591F21DT20150409042412.jpg)
+![刘霆变性新闻发布会](https://k.sinaimg.cn/www/dy/s/2015-04-09/U11414P1T1D31695591F21DT20150409042412.jpg)
 
 ## 来源 { data-search-exclude }
 金羊网-新快报

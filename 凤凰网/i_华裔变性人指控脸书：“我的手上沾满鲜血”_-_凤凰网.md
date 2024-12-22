@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![华裔变性人指控脸书：“我的手上沾满鲜血”](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2021_43/8B5288D0DF531A25309D542C83934BB6AA41AC0B_size45_w1080_h565.jpg)
+![华裔变性人指控脸书：“我的手上沾满鲜血”](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2021_43/8B5288D0DF531A25309D542C83934BB6AA41AC0B_size45_w1080_h565.jpg)
 
 [冰汝看美国](https://ishare.ifeng.com/mediaShare/home/1249526/media)
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![遭电击治疗，一位跨性别者决定起诉](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/1A5C9149D59D750A54F0C085FA3EB1DEFEDF30AF_size382_w950_h713.jpg)
+![遭电击治疗，一位跨性别者决定起诉](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/1A5C9149D59D750A54F0C085FA3EB1DEFEDF30AF_size382_w950_h713.jpg)
 
 [澎湃新闻](https://ishare.ifeng.com/mediaShare/home/310821/media)
 

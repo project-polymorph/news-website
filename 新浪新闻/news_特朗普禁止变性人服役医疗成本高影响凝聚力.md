@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：新华网 { data-search-exclude }
 ## 时间：2017.07.27 12:03 { data-search-exclude }
@@ -28,7 +28,7 @@
 
 美国国防部拒绝公布服役中变性军人的数量。但根据美国智库兰德公司2016年一份研究报告，美国现役军人约130万人，在现役和预备役军人中有数千至上万名变性人。报告认为，允许变性人公开身份服役对军队战斗力和医疗开支“影响极小”。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

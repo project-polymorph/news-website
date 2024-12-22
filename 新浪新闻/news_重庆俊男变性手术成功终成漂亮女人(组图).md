@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10203/358/w179h179/20200407/2e40-irtymmw7857041.jpg)
+![](https://n.sinaimg.cn/sinakd10203/358/w179h179/20200407/2e40-irtymmw7857041.jpg)
 
 ## 二三里资讯 { data-search-exclude }
 
@@ -70,7 +70,7 @@
   
 - 9月22日，经过12天休养的陈波伤口愈合得很好，伤口拆线。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

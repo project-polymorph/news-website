@@ -7,17 +7,17 @@
 **来源**: [青苹果记录生活](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730993528709UUvZK8h)  
 **发布于**: 山西省  
 
-![](//q7.itc.cn/q_70/images03/20240305/ba32bdeabec344549a80879af3639598.jpeg)
+![](https://q7.itc.cn/q_70/images03/20240305/ba32bdeabec344549a80879af3639598.jpeg)
 
 ——"这位女士，您的账户不能刷前列腺药物"  
 
 ——“你居然胆敢假定我的性别？？”
 
-![](//q6.itc.cn/q_70/images03/20240305/7017a2358d12411396fbb8c29207046c.jpeg)
+![](https://q6.itc.cn/q_70/images03/20240305/7017a2358d12411396fbb8c29207046c.jpeg)
 
 一上来就杀死了比赛  
 
-![](//q0.itc.cn/q_70/images03/20240305/a9d1f898dcca4dd8885c597f02c41c3b.jpeg)
+![](https://q0.itc.cn/q_70/images03/20240305/a9d1f898dcca4dd8885c597f02c41c3b.jpeg)
 
 [_展开全文_](javascript:;)
 
@@ -25,45 +25,45 @@
 
 这回复也太地狱了  
 
-![](//q8.itc.cn/q_70/images03/20240305/6ce7f0185aa04d9587c660ce830dd7ab.jpeg)
+![](https://q8.itc.cn/q_70/images03/20240305/6ce7f0185aa04d9587c660ce830dd7ab.jpeg)
 
-![](//q2.itc.cn/q_70/images03/20240305/d1042825452848d799ea2b24d9f66b7a.jpeg)
+![](https://q2.itc.cn/q_70/images03/20240305/d1042825452848d799ea2b24d9f66b7a.jpeg)
 
 免费打台球，还能顺便打劫一遍店长...  
 
-![](//q1.itc.cn/q_70/images03/20240305/11ed86ff2d194a4ea08d9d037094b2fc.jpeg)
+![](https://q1.itc.cn/q_70/images03/20240305/11ed86ff2d194a4ea08d9d037094b2fc.jpeg)
 
 向阳花木易为春  
 
-![](//q3.itc.cn/q_70/images03/20240305/810123faffe843bd935261c0508c79dd.jpeg)
+![](https://q3.itc.cn/q_70/images03/20240305/810123faffe843bd935261c0508c79dd.jpeg)
 
 工作简历：曾经打官司赢过迪士尼  
 
-![](//q2.itc.cn/q_70/images03/20240305/e7a545f6ffc24c158881973de5672f9d.jpeg)
+![](https://q2.itc.cn/q_70/images03/20240305/e7a545f6ffc24c158881973de5672f9d.jpeg)
 
 为什么我当年寒假作业后面的答案都被撕掉了？  
 
-![](//q7.itc.cn/q_70/images03/20240305/d77e80ae9b4144838028212b74883866.jpeg)
+![](https://q7.itc.cn/q_70/images03/20240305/d77e80ae9b4144838028212b74883866.jpeg)
 
 “是的，我想练习美式截停了”  
 
-![](//q5.itc.cn/q_70/images03/20240305/4f31ce4f10f4426eade07b91fc82e19d.jpeg)
+![](https://q5.itc.cn/q_70/images03/20240305/4f31ce4f10f4426eade07b91fc82e19d.jpeg)
 
 ……
 
-![](//q1.itc.cn/q_70/images03/20240305/721406e49e3b46ae98a8c98d2e3fefaf.jpeg)
+![](https://q1.itc.cn/q_70/images03/20240305/721406e49e3b46ae98a8c98d2e3fefaf.jpeg)
 
 食材飞升啦！  
 
-![](//q2.itc.cn/q_70/images03/20240305/6ffb245c21a94b82b13cba1fe4725e0b.jpeg)
+![](https://q2.itc.cn/q_70/images03/20240305/6ffb245c21a94b82b13cba1fe4725e0b.jpeg)
 
 毒枭泪崩  
 
-![](//q2.itc.cn/q_70/images03/20240305/a020bd2e7b8b41a8a28bdbd253bfc5c6.jpeg)
+![](https://q2.itc.cn/q_70/images03/20240305/a020bd2e7b8b41a8a28bdbd253bfc5c6.jpeg)
 
 我要下载一套《四库全书》，找她一张一张打印！  
 
-![](//q3.itc.cn/q_70/images03/20240305/7978d02fff5640a39781f9b911cae0fe.jpeg)
+![](https://q3.itc.cn/q_70/images03/20240305/7978d02fff5640a39781f9b911cae0fe.jpeg)
 
 一战时传下来的？  
 

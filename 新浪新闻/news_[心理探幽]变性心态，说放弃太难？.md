@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性心态](//tvax1.sinaimg.cn/crop.24.3.657.657.180/002uLDeXly8glmohn698dj60j60j6q3b02.jpg)
+![变性心态](https://tvax1.sinaimg.cn/crop.24.3.657.657.180/002uLDeXly8glmohn698dj60j60j6q3b02.jpg)
 
 ## 来源 { data-search-exclude }
 人民网

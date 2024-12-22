@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0817%2F22529915j00rziuxl000wc000u000gvm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0817%2F22529915j00rziuxl000wc000u000gvm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 **你听说过“药娘”吗？**
 

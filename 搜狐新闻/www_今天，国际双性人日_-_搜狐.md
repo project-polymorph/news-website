@@ -7,7 +7,7 @@
 **来源：** [太阳生活圈](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730990523289EZ6aJ2j)  
 **发布于：** 山西省
 
-![国际双性人日合影](//p4.itc.cn/q_70/images03/20221026/d839731417e64a8482e0cf96d6af4faa.jpeg)
+![国际双性人日合影](https://p4.itc.cn/q_70/images03/20221026/d839731417e64a8482e0cf96d6af4faa.jpeg)
 
 10月26日，国际双性人意识日。
 

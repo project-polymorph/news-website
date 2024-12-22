@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-_![](//n.sinaimg.cn/sinakd10204/275/w138h137/20200407/7352-irtymmw7884003.jpg)_
+_![](https://n.sinaimg.cn/sinakd10204/275/w138h137/20200407/7352-irtymmw7884003.jpg)_
 
 ## 来源: 东南早报 { data-search-exclude }
 ### 时间: 2005.03.19 04:14
@@ -73,7 +73,7 @@ _![](//n.sinaimg.cn/sinakd10204/275/w138h137/20200407/7352-irtymmw7884003.jpg)_
 
 2002年，耿子爱上了一位常来快餐店就餐的女职员。然而，两人最终还是没有成功，于今年初分手了。为了能过上自己想要的生活，拥有一个属于自己的家，耿子决定在厦门进行变性手术。
 
-_![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)_
+_![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)_
 
 --- 
 

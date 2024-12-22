@@ -3,15 +3,15 @@
 ## 正文 { data-search-exclude }
 
 
-![搜狐视频](//css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
+![搜狐视频](https://css.tv.itc.cn/channel/header-images/logo-tv-mini.gif)
 
 ---
 
 **时间**: 2017-08-01
 
-**来源**: [搜狐视频](//tv.sohu.com)  
+**来源**: [搜狐视频](https://tv.sohu.com)  
 
-**作者**: [小狐狸281321014](//my.tv.sohu.com/user/281321014)
+**作者**: [小狐狸281321014](https://my.tv.sohu.com/user/281321014)
 
 ---
 
@@ -34,7 +34,7 @@ _讨论区_
 
 ---
 
-**版权声明**: Copyright © 2024 All Rights Reserved. 请仔细阅读 [搜狐视频隐私政策](//tv.sohu.com/upload/privacy/index.html) 、[版权声明](https://intro.sohu.com/#/copyright) 。  
+**版权声明**: Copyright © 2024 All Rights Reserved. 请仔细阅读 [搜狐视频隐私政策](https://tv.sohu.com/upload/privacy/index.html) 、[版权声明](https://intro.sohu.com/#/copyright) 。  
 举报邮箱：[jubaosohu@sohu-inc.com](mailto:jubaosohu@sohu-inc.com)
 
 ## 摘要与附加信息

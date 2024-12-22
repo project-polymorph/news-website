@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![新浪科技](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![新浪科技](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -18,15 +18,15 @@
 
 在这段视频里可以看到一名准备接受手术的患者躺在手术台上，膝盖弯曲。随手医生会将一根导尿管插入其尿道以帮助排出尿液。在手术正式开始时，医生会在患者阴囊上切开切口，拉开皮肤并切除两侧的睾丸。
 
-![医生正在切开患者的阴囊并切除两侧的睾丸](//k.sinaimg.cn/n/tech/transform/20151209/nPID-fxmifzh4423484.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![医生正在切开患者的阴囊并切除两侧的睾丸](https://k.sinaimg.cn/n/tech/transform/20151209/nPID-fxmifzh4423484.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 随后，向阴茎传递神经信号的背神经丛被切除，紧接着是龟头以及尿道，医生会将其与海绵体分离，海绵体是让阴茎得以顺利勃起的可充血结构。
 
 到了这一步，医生会进一步抬起病人的腿部，随后将阴茎海绵体完全切除，尽可能切除地彻底，一直切到下方的耻骨为止。
 
-![医生将包裹阴茎的皮肤切开并割下](//k.sinaimg.cn/n/tech/transform/20151209/sj4j-fxmisxu6317242.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![医生将包裹阴茎的皮肤切开并割下](https://k.sinaimg.cn/n/tech/transform/20151209/sj4j-fxmisxu6317242.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![通过深切操作，医生会将阴茎海绵体完全切除，尽可能切除地彻底，一直切到下方的耻骨为止](//k.sinaimg.cn/n/tech/transform/20151209/XjUl-fxmifzh4423514.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![通过深切操作，医生会将阴茎海绵体完全切除，尽可能切除地彻底，一直切到下方的耻骨为止](https://k.sinaimg.cn/n/tech/transform/20151209/XjUl-fxmifzh4423514.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 此时，原先的男性外生殖器只剩下了尿道。随后医生将尿道切短，随后将会将其安置到人造阴道的合适位置，就像真正的女人那样，手术后的病人将和真正的女性那样排尿。
 
@@ -50,7 +50,7 @@
 
 他还表示，外生殖器的改造只不过是整个性别重塑过程的一部分。有很多人还会进行手术，将自己的鼻子和喉部结构也塑造为女性的样子。(晨风)
 
-![新浪新闻](//n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 ---
 

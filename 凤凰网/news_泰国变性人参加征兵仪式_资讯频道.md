@@ -27,7 +27,7 @@
 - [MAODUN120](https://gentie.ifeng.com/myComments?guid=2345049) \[广东省广州市网友\]
 
     不明所以，泰国当兵有这么恐怖吗？难道军队里面黑暗到如此地步？
-- [凤凰网友](//comment.ifeng.com/viewpersonal.php?uname=凤凰网友&guid=78244726) \[湖北省武汉市网友\]
+- [凤凰网友](https://comment.ifeng.com/viewpersonal.php?uname=凤凰网友&guid=78244726) \[湖北省武汉市网友\]
 
     .......只能网上看看就可以了，我吃不消
 

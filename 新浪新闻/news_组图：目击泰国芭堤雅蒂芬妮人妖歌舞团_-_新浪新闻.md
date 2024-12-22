@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![人妖表演](//tvax1.sinaimg.cn/crop.24.3.657.657.180/002uLDeXly8glmohn698dj60j60j6q3b02.jpg)
+![人妖表演](https://tvax1.sinaimg.cn/crop.24.3.657.657.180/002uLDeXly8glmohn698dj60j60j6q3b02.jpg)
 
 **来源**：人民网  
 **时间**：2003.09.11 18:51

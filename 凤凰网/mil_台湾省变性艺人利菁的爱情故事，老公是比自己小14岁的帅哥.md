@@ -15,7 +15,7 @@
 [凤凰视频](http://v.ifeng.com/#_v_mininav_logo_pc)
 
 #### 下载客户端独家抢先看
-[![](//x0.ifengimg.com/ucms/qr/2021_09/870CE559BCBD54DB36A25BFBFF6A8155BD3FAD3D_size1_w260_h260.png)](https://a.ifeng.com/?from=pcVideo)
+[![](https://x0.ifengimg.com/ucms/qr/2021_09/870CE559BCBD54DB36A25BFBFF6A8155BD3FAD3D_size1_w260_h260.png)](https://a.ifeng.com/?from=pcVideo)
 
 **评论**:  
 “特朗普赢得大选，普京讲了3句话，但美俄能否会谈，仍是一个谜团” (评论内容略)  

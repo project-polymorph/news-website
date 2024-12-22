@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![美国女子后悔变性，警告称人们25岁前不该被允许做手术](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/633F0CA437584B5419D9B4EA0EF864CADDB80F03_size157_w796_h221.jpg)
+![美国女子后悔变性，警告称人们25岁前不该被允许做手术](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/633F0CA437584B5419D9B4EA0EF864CADDB80F03_size157_w796_h221.jpg)
 
 **来源：** 观察者网  
 **时间：** 2023年03月16日 20:35:30 来自上海市  

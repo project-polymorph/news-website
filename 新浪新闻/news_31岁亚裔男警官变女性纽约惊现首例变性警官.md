@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![琼·罗](//n.sinaimg.cn/sinakd10203/238/w119h119/20221208/7ed3-a58e018751ed10b2d3ef2d3808732c16.jpg)
+![琼·罗](https://n.sinaimg.cn/sinakd10203/238/w119h119/20221208/7ed3-a58e018751ed10b2d3ef2d3808732c16.jpg)
 
 ## 来源: 新华网   { data-search-exclude }
 **作者:** 新华网官方账号  

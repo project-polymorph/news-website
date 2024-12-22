@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![美媒：美国首位变性四星上将就职](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/4beb-82bb39e0eb95b37325e30443608deca9.jpg)
+![美媒：美国首位变性四星上将就职](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/4beb-82bb39e0eb95b37325e30443608deca9.jpg)
 
 ## 参考消息 { data-search-exclude }
 
@@ -19,7 +19,7 @@
 
 据报道，莱文现年64岁，原来是一名男性。这位前宾夕法尼亚州卫生局长今年3月在获得总统拜登提名后，成为美国最高级别公开身份的跨性别官员。
 
-![相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

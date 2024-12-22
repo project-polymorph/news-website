@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//beacon.sina.com.cn/a.gif?noScript)
+![](https://beacon.sina.com.cn/a.gif?noScript)
 
 来源: [新文化报](http://www.xwhb.com)  
 时间: 2009年11月22日02:41

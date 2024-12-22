@@ -119,7 +119,7 @@
 
 2004年5月1日，章琳和杨启成结婚。
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

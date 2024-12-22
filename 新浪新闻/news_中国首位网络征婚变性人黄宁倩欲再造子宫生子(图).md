@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![黄宁倩靓照](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
+![黄宁倩靓照](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
 
 **来源：国际在线**  
 **时间：2011.01.03 12:52**  

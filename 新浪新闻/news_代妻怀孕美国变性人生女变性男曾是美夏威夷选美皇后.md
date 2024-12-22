@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![代妻怀孕](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/649a-8937b714f1dda06c46992bd1b0968b66.jpg)
+![代妻怀孕](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/649a-8937b714f1dda06c46992bd1b0968b66.jpg)
 
 ## 猛犸新闻 { data-search-exclude }
 
@@ -37,7 +37,7 @@
 
 “真正了解我们、爱我们的人给予了我们很多支持。支持多到让我们还想再生几个。”贝蒂说。在体验过为人父母的感受后，他和妻子将考虑是否继续生育。新华社特稿
 
-![微博分享](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![微博分享](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性人骗婚案例](//n.sinaimg.cn/sinacn/20170105/85b4-fxzkfvn0305758.png)
+![变性人骗婚案例](https://n.sinaimg.cn/sinacn/20170105/85b4-fxzkfvn0305758.png)
 
 **来源**: 正义网  
 **时间**: 2010.12.28 11:04  
@@ -15,7 +15,7 @@
 
 法院认为，程某以非法占有为目的，骗取他人财物，数额较大，已构成诈骗罪。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

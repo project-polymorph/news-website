@@ -3,15 +3,15 @@
 ## 正文 { data-search-exclude }
 
 
-![default_avatar](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![default_avatar](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：中国新闻网 { data-search-exclude }
 
 **时间：2015.03.31 13:40**
 
-![gallery image](//k.sinaimg.cn/www/dy/cr/2015/0331/3086706305.jpg/w300h300z1l10t10q1009cb.jpg)
+![gallery image](https://k.sinaimg.cn/www/dy/cr/2015/0331/3086706305.jpg/w300h300z1l10t10q1009cb.jpg)
 
-![gallery image](//www.sinaimg.cn/dy/cr/2015/0331/3086706305.jpg)
+![gallery image](https://www.sinaimg.cn/dy/cr/2015/0331/3086706305.jpg)
 
 香港平机会指执法部门对跨性别人士认识不足。（图：香港《大公报》）
 

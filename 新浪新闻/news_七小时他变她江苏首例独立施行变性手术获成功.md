@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![手术后的黄恩岭](//n.sinaimg.cn/sinacn/20170111/6663-fxzkfvn1535964.jpg)
+![手术后的黄恩岭](https://n.sinaimg.cn/sinacn/20170111/6663-fxzkfvn1535964.jpg)
 
 ## 来源：龙虎网 { data-search-exclude }
 

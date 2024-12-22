@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：大河网-河南商报 { data-search-exclude }
 
@@ -117,7 +117,7 @@
 
 说到以后的生活，张向阳说：“如果手术成功后，我也要结婚，但选择的伴侣不考虑正常人，因正常人我不可能给她幸福，最好选择找一个变性人为伴，只求能成为感情伴侣。”■本报记者胡志强　
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

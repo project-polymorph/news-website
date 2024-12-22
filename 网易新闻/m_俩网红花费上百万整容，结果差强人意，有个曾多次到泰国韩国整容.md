@@ -53,7 +53,7 @@
 
 ---
 
-![下载图片提示](//static.ws.126.net/163/frontend/images/toast-download.png)
+![下载图片提示](https://static.ws.126.net/163/frontend/images/toast-download.png)
 
 ## 摘要与附加信息
 

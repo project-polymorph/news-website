@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![施若](//n.sinaimg.cn/sinakd10200/360/w180h180/20210713/92fa-279702cc9926ad8ba1a4a797f83a8e29.jpg)
+![施若](https://n.sinaimg.cn/sinakd10200/360/w180h180/20210713/92fa-279702cc9926ad8ba1a4a797f83a8e29.jpg)
 
 ## 信息时报 { data-search-exclude }
 
@@ -59,7 +59,7 @@
 
 不管退役特种老兵施若的这场因为变性引发的官司最后结果如何，相信她以后在生活上工作上的麻烦还会接踵而来。
 
-![评论区](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![评论区](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

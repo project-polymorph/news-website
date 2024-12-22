@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/ce7e-7915fccf18698f95eefe259dea9c792e.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/ce7e-7915fccf18698f95eefe259dea9c792e.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -43,7 +43,7 @@
 
 他建议，家长首先要调整好自己的心态，对孩子的错误行为不要太紧张，可以暂时假装没看到，等他做事情比较有男孩行为的时候再去和他讲话玩游戏，通过这种方式来强化他的正常行为。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

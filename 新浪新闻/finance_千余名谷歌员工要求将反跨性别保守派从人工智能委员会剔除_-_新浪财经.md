@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//beacon.sina.com.cn/a.gif?noScript)
+![图片](https://beacon.sina.com.cn/a.gif?noScript)
 
 **发布时间**: 2019年04月02日 11:16  
 **来源**: [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_3239253)  
@@ -43,7 +43,7 @@ LGBTQ指性少数群体，即女同性恋者、男同性恋者、双性恋者、
 
 上述委员会的其中一位成员、卡耐基梅隆大学从事数字隐私问题研究的亚历山德罗•阿奎斯蒂（Alessandro Acquisti）教授于3月30日宣布，他不会担任谷歌人工智能委员会的职务。他在推特上说：“虽然我致力于研究如何在人工智能中处理公平、权利和包容等关键伦理问题，但我不认为这是我从事这项重要工作的合适场所。”
 
-![亚历山德罗•阿奎斯蒂的推特文章](//n.sinaimg.cn/translate/562/w1266h896/20190402/uZZC-hvcmeux4773342.png)
+![亚历山德罗•阿奎斯蒂的推特文章](https://n.sinaimg.cn/translate/562/w1266h896/20190402/uZZC-hvcmeux4773342.png)
 
 以下为谷歌员工起草的公开信全文：
 
@@ -68,7 +68,7 @@ LGBTQ指性少数群体，即女同性恋者、男同性恋者、双性恋者、
 
 **文章关键词**: [科尔斯](http://tags.finance.sina.com.cn/科尔斯) [谷歌](http://tags.finance.sina.com.cn/谷歌) [人工智能](http://tags.finance.sina.com.cn/人工智能)
 
-![新浪财经公众号](//n.sinaimg.cn/finance/home/article_880180.png)
+![新浪财经公众号](https://n.sinaimg.cn/finance/home/article_880180.png)
 
 Copyright © 1996-2019 SINA Corporation 
 All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)

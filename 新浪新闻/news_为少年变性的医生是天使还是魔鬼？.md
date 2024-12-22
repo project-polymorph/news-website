@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![医生](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
+![医生](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/6996-f61d7d9fa1e0defff9079fb329bbe345.jpg)
 
 ## 红网 { data-search-exclude }
 
@@ -29,7 +29,7 @@
 
 文/徐甫祥
 
-![相关图片](//k.sinaimg.cn/n/translate/20150808/m-d-fxftkpn9731565.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![相关图片](https://k.sinaimg.cn/n/translate/20150808/m-d-fxftkpn9731565.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

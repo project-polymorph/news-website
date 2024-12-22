@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性人婚姻生活](//n.sinaimg.cn/sinakd10200/360/w180h180/20231215/912f-8e6f6d95bf934be5bae1840e2951cb33.jpg)
+![变性人婚姻生活](https://n.sinaimg.cn/sinakd10200/360/w180h180/20231215/912f-8e6f6d95bf934be5bae1840e2951cb33.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -68,7 +68,7 @@
 
 ---
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 新浪新闻官方
 

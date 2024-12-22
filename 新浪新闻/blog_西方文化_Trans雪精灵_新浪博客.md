@@ -12,14 +12,14 @@
 ## 作者 { data-search-exclude }
 Trans雪精灵
 
-![新浪博客](//simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif)
+![新浪博客](https://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif)
 
 ## 正文 { data-search-exclude }
 系统维护中，博文仅作者可见。登陆后可查看本人文章。
 
 ## 版权信息 { data-search-exclude }
 Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved  
-新浪公司 [版权所有](//www.sina.com.cn/intro/copyright.shtml)
+新浪公司 [版权所有](https://www.sina.com.cn/intro/copyright.shtml)
 
 ## 摘要与附加信息
 

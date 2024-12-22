@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/03fb-9bcbe8883c37d08ce916a67f0ff60a59.jpg)
+![图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/03fb-9bcbe8883c37d08ce916a67f0ff60a59.jpg)
 
 ## 来源：三秦都市报   { data-search-exclude }
 **作者:** 张毅伟 实习生 邹铭车  

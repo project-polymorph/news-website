@@ -42,7 +42,7 @@
 京剧, 反串, 跨性别 
 
 ### 重要图片
-![toast-download](//static.ws.126.net/163/frontend/images/toast-download.png)
+![toast-download](https://static.ws.126.net/163/frontend/images/toast-download.png)
 
 ## 摘要与附加信息
 

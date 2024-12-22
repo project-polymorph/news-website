@@ -9,7 +9,7 @@ _![](https://n.sinaimg.cn/sinacn10201/360/w180h180/20191012/8158-ifvwfti7747406.
 
 2018.12.25 13:36
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![隐藏在日本漫画里的跨性别，构造了我最早的多元性别观](http://k.sinaimg.cn/n/front/0/w800h800/20181225/f9fB-hqqzpkv6648023.jpg/w700d1q75cms.jpg)
 

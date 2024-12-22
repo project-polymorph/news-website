@@ -3,15 +3,15 @@
 ## 正文 { data-search-exclude }
 
 
-![凯恩变性前](//www.sinaimg.cn/dy/o/2010-11-09/1289243937_zBvtlW.jpg)
+![凯恩变性前](https://www.sinaimg.cn/dy/o/2010-11-09/1289243937_zBvtlW.jpg)
 
 1987年实施第一次变性手术以前的凯恩。
 
-![凯恩变性后](//www.sinaimg.cn/dy/o/2010-11-09/1289243937_yefinp.jpg)
+![凯恩变性后](https://www.sinaimg.cn/dy/o/2010-11-09/1289243937_yefinp.jpg)
 
 变性手术之后，凯恩变成了一位时尚女郎。
 
-![凯恩与未婚妻](//www.sinaimg.cn/dy/o/2010-11-09/1289243937_qRsksS.jpg)
+![凯恩与未婚妻](https://www.sinaimg.cn/dy/o/2010-11-09/1289243937_qRsksS.jpg)
 
 凯恩与未婚妻埃姆斯的合影。埃姆斯身穿红裙，看起来比实际年龄28岁年轻。
 

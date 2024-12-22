@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![世卫组织重新归类](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
+![世卫组织重新归类](https://n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
 ## 环球网 { data-search-exclude }
 
@@ -29,7 +29,7 @@
 
 这并不是ICD第一次改变与性有关的分类。1990年，世界卫生组织就宣布“性取向本身不应被视为一种障碍。”
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 请在此处输入评论内容。
 

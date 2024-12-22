@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
 
 ## 环球时报 { data-search-exclude }
 **来源**: 环球时报官方账号  
@@ -19,7 +19,7 @@
 
 事实上，体育赛事一直在包容性和公平性之间寻求平衡。美国女足名将拉皮诺欢迎跨性别选手加入美国女足，她认为不应该剥夺跨性别选手的权利。而反跨性别活动家认为，跨性别女性参赛是对女性运动的最大威胁——游泳运动员托马斯是首位赢得美国全国大学体育协会（NCAA）一级联赛冠军的跨性别运动员，不过根据国际泳联新规，托马斯将无法参加巴黎奥运会。（李佳寅）▲
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

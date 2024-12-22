@@ -96,7 +96,7 @@
 
 民警陈思、薄洋认真梳理层层线索
 
-![警方查案](//static.bjd.com.cn/dams-res/editing/image/202411/01/67245c0fd5de8b5bd96c474f.jpg)
+![警方查案](https://static.bjd.com.cn/dams-res/editing/image/202411/01/67245c0fd5de8b5bd96c474f.jpg)
 
 最终远赴外地将嫌疑人抓获
 
@@ -132,7 +132,7 @@
 
 特向民警送上锦旗
 
-![锦旗致谢](//static.bjd.com.cn/dams-res/editing/image/202411/01/67245b84d5de8b5bd96c46fe.jpg)
+![锦旗致谢](https://static.bjd.com.cn/dams-res/editing/image/202411/01/67245b84d5de8b5bd96c46fe.jpg)
 
 小安最后还得老生常谈：
 

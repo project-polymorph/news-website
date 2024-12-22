@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![白岩变性手术](//n.sinaimg.cn/sinakd10200/360/w180h180/20231128/3b24-6df10b84073067dce3c1f59832122b0e.jpg)
+![白岩变性手术](https://n.sinaimg.cn/sinakd10200/360/w180h180/20231128/3b24-6df10b84073067dce3c1f59832122b0e.jpg)
 
 ## 现代金报 { data-search-exclude }
 
@@ -55,7 +55,7 @@
 
 医生开始为他做隆胸术。在白岩的胸部植入进口假体。由于他曾用过一段时间的激素，因此他的胸部本来就比男人丰满一些，因此，此次隆胸只是使他的胸部“海拔”再增高3厘米。
 
-![评论草图](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![评论草图](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ### 热门评论
 

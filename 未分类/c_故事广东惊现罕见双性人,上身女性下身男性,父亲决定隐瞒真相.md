@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0704%2Fcf5b6a63j00reh8fr000dd000780078p.jpg&thumbnail=90x2147483647&quality=75&type=jpg)
+![](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0704%2Fcf5b6a63j00reh8fr000dd000780078p.jpg&thumbnail=90x2147483647&quality=75&type=jpg)
 
 小小故事汇
 

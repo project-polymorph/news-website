@@ -9,7 +9,7 @@
 
 **作者**: 方谦华 摄
 
-![变性大学生直播变脸](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![变性大学生直播变脸](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![凯特琳·詹娜](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
+![凯特琳·詹娜](https://n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
 ## 环球网 { data-search-exclude }
 
@@ -19,7 +19,7 @@
 
 报道称，凯特琳若竞选成功，将成为加州史上首位变性人州长。然而许多LGBT人士并不支持凯特琳参选，因为她高调支持[特朗普](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E7%89%B9%E6%9C%97%E6%99%AE)，曾极力说服该群体支持特朗普。《今日美国报》辛辣评论称，凯特琳从政的目的就是借着知名度图权力，与平权事业毫无关联，“她不仅没有公职经验，甚至极少参与投票”。
 
-![评论](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![评论](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

@@ -5,7 +5,7 @@
 
 ![图片](https://static.ws.126.net/163/frontend/images/logo-netease.png)
 
-![图片](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0308%2Fadc7cddbj00rr6pqk0012d000u000h7m.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
+![图片](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0308%2Fadc7cddbj00rr6pqk0012d000u000h7m.jpg&thumbnail=750x2147483647&quality=75&type=jpg)
 
 **来源**：三只狼说事儿  
 **时间**：2023-03-08 12:34 河南  
@@ -15,11 +15,11 @@
 
 **结婚一年多了，老公为人处事很稳重，没对我发过脾气，感情方面也没出过任何问题，但有一点最不让人接受，最近两个月才发现的，我本人比较爱穿搭，喜欢贴身的衣服，工作或其他场合经常会穿短裙打底裤或光月退神器，衣服脏了都是我自己洗，自己把衣服叠好的。**
 
-![图片](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0308%2Fadc7cddbj00rr6pqk0012d000u000h7m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![图片](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0308%2Fadc7cddbj00rr6pqk0012d000u000h7m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 有一次我刚回家里敲门喊了半天他才应声，等他开门我发现他慌慌张张的，我说你怎么了，他说他没事，进屋之后我换上我另一件黑色的打底裤，然后我就发现裤子叠的样子和放的位置和我叠的根本就不一样，我对他说，你下次拿你的衣服能不能别把衣柜翻的乱七八糟，他表情非常紧张，说知道了，我也没敢再问他了，后面几次也都是这样。
 
-![图片](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0308%2F16bc7587j00rr6ps10027d000u000tlm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![图片](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0308%2F16bc7587j00rr6ps10027d000u000tlm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 **——女士无法接受，想和老公谈谈.**
 
@@ -37,7 +37,7 @@
 
 如果不能接受，对自己心理很不舒服，那就指出。或者让他自己去买，别当着你面，也别让你知道。眼不见心不烦。
 
-![图片](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0308%2Fd17679b4j00rr6ptt000vd000u000kdm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![图片](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0308%2Fd17679b4j00rr6ptt000vd000u000kdm.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 我还看过一位男士分享本人本身就有女装癖，只是没跟老婆说过，高跟丝袜女性内衣都买过。婚前肯定都扔了。婚后给老婆买长筒袜，希望她穿，她没穿结果自己穿了。
 
@@ -45,7 +45,7 @@
 
 老婆生完孩子在医院那会，他陪护时，那几天全是穿的老婆一次性的女士的。虽然是特殊情况，但是老婆连说都没说。
 
-![图片](//nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0308%2Fd81684b9j00rr6pvd0016d000u000e6m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
+![图片](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2023%2F0308%2Fd81684b9j00rr6pvd0016d000u000e6m.jpg&thumbnail=750x2147483647&quality=75&type=webp)
 
 **对于癖好，有的人大众一些，就像抽烟喝酒，有的人就是不喜欢。有的人癖好特殊一些。**
 
@@ -75,7 +75,7 @@
 
 扫码去网易新闻APP浏览
 
-![扫码图片](//static.ws.126.net/163/frontend/images/toast-download.png)
+![扫码图片](https://static.ws.126.net/163/frontend/images/toast-download.png)
 
 ## 摘要与附加信息
 

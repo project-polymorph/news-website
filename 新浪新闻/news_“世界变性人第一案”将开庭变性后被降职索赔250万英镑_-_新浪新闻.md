@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//beacon.sina.com.cn/a.gif?noScript)
+![](https://beacon.sina.com.cn/a.gif?noScript)
 
 **来源**: 上海青年报  
 **时间**: 2006年05月30日09:00  

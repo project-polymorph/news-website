@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//beacon.sina.com.cn/a.gif?noScript)
+![](https://beacon.sina.com.cn/a.gif?noScript)
 
 **来源**: 江南晚报  
 **时间**: 2004年07月17日08:56  

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//tva1.sinaimg.cn/crop.0.0.250.250.180/005TLYMvjw8f742770d8cj306y06ywff.jpg)
+![图片](https://tva1.sinaimg.cn/crop.0.0.250.250.180/005TLYMvjw8f742770d8cj306y06ywff.jpg)
 
 ## 来源：温州新闻网 { data-search-exclude }
 **时间：2006.01.10 08:54**
@@ -44,7 +44,7 @@
 
 昨日晚8时，已经回到老家的吴龙得知小晓的手术还在进行中时，她关切地说，我只能在远方遥祝他平安。
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

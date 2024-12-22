@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//tvax1.sinaimg.cn/crop.0.0.412.412.180/8d90f0bbly8gdi6o5cos5j20bg0bgdgd.jpg)
+![](https://tvax1.sinaimg.cn/crop.0.0.412.412.180/8d90f0bbly8gdi6o5cos5j20bg0bgdgd.jpg)
 
 ## 参考消息网 { data-search-exclude }
 
@@ -19,7 +19,7 @@
 
 责任编辑：陈琰 SN225
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

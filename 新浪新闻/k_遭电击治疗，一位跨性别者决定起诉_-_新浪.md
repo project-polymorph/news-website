@@ -11,7 +11,7 @@ _![](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.
 
 关注
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 她记得被送去医院那天，被约束带固定在病床上；记得第一次经历MECT（改良电休克）治疗；也记得离家一年后回家，母亲重重关上的门。
 

@@ -18,7 +18,7 @@
 
 图片来源：www.photocome.com
 
-![重要图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![重要图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

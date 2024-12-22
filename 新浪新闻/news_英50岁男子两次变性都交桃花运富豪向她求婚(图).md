@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0a9-96bff058837bb3a4d8d2d4bca94a4cdb.jpg)
 
 ## 来源: 国际在线 { data-search-exclude }
 
@@ -11,7 +11,7 @@
 
 两次变性前的萨姆·哈斯米。
 
-![](//www.sinaimg.cn/dy/o/2010-11-09/1289265086_il45rZ.jpg)
+![](https://www.sinaimg.cn/dy/o/2010-11-09/1289265086_il45rZ.jpg)
 
 性感女郎“萨曼莎”。
 
@@ -23,7 +23,7 @@
 
 “萨曼莎”从来就不缺少追求对象，一名富有的英国地主也沦为了她的“裙下之臣”，并向她展开了求婚。尽管“萨曼莎”曾和他短暂订过婚，但当“她”透露自己是一名“变性人”后，那名富翁仍然打了退堂鼓。
 
-![](//www.sinaimg.cn/dy/o/2010-11-09/1289265086_338rRo.jpg)
+![](https://www.sinaimg.cn/dy/o/2010-11-09/1289265086_338rRo.jpg)
 
 再次变身的查尔斯和他的新女友。
 

@@ -21,16 +21,16 @@
 
 ---
 
-**用户反馈**: [用户反馈](//tie.163.com/gt/special/feedback/?f=gentiefeedback)
+**用户反馈**: [用户反馈](https://tie.163.com/gt/special/feedback/?f=gentiefeedback)
 
 **关于网易**: 
-- [公司简介](//gb.corp.163.com/gb/about/overview.html)
-- [联系方法](//gb.corp.163.com/gb/contactus.html)
-- [招聘信息](//corp.163.com/gb/job/job.html)
-- [客户服务](//gb.corp.163.com/gb/cs.html)
-- [相关法律](//gb.corp.163.com/gb/legal.html)
-- [网络营销](//emarketing.biz.163.com/)
-- [帮助中心](//help.163.com/)
+- [公司简介](https://gb.corp.163.com/gb/about/overview.html)
+- [联系方法](https://gb.corp.163.com/gb/contactus.html)
+- [招聘信息](https://corp.163.com/gb/job/job.html)
+- [客户服务](https://gb.corp.163.com/gb/cs.html)
+- [相关法律](https://gb.corp.163.com/gb/legal.html)
+- [网络营销](https://emarketing.biz.163.com/)
+- [帮助中心](https://help.163.com/)
 
 网易公司版权所有_©1997-2024_
 

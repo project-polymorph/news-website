@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![陈莉莉](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/1a02-2366e83a0687902c7c77d1f31727c30f.jpg)
+![陈莉莉](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/1a02-2366e83a0687902c7c77d1f31727c30f.jpg)
 
 ## 封面新闻 { data-search-exclude }
 

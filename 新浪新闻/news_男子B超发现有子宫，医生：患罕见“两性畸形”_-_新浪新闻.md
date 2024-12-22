@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-![男子B超](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
+![男子B超](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 ## 来源：澎湃新闻 { data-search-exclude }
 **作者：澎湃新闻官方账号**  
 **时间：2023.02.10 20:35**
 
-![视觉中国 图](//k.sinaimg.cn/n/sinakd20230210s/17/w1035h582/20230210/a2af-f66c0cc3ac48a9672772aa90beefac67.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![视觉中国 图](https://k.sinaimg.cn/n/sinakd20230210s/17/w1035h582/20230210/a2af-f66c0cc3ac48a9672772aa90beefac67.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 一名年轻男子经B超检查发现有子宫，16岁时就来了例假，有周期性下腹部疼痛的情况，但染色体46XY，确定为男性。
 
@@ -41,7 +41,7 @@
 
 邱丽华特别强调，对于这样的罕见病例，尤其还要注意其心理方面的治疗，包括逐步建立起患者对自我身份的认同感和接受度，以及更好地对这类疾病进行社会宣传和科普，让大众了解这是一种疾病，不能对这类群体产生偏见或歧视，让他们在良好的生活工作环境下成长，及时去治疗。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻 Logo](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

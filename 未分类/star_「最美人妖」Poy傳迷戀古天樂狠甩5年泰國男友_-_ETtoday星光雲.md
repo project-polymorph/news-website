@@ -38,7 +38,7 @@
 
 ---
 
-※ **版权声明**：本文版權所有，非經授權，不得轉載。\[[ETtoday著作權聲明](//www.ettoday.net/member/clause_copyright.php)\]
+※ **版权声明**：本文版權所有，非經授權，不得轉載。\[[ETtoday著作權聲明](https://www.ettoday.net/member/clause_copyright.php)\]
 
 ## 摘要与附加信息
 

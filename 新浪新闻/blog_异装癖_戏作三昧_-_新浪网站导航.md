@@ -6,7 +6,7 @@
 **发布日期：** 2008-03-10 15:18:45  
 **来源：** [新浪博客](http://blog.sina.com.cn/u/1280045692)  
 **作者：** 戏作三昧  
-**分类：** [闲言碎语八婆](//blog.sina.com.cn/s/articlelist_1280045692_2_1.html)  
+**分类：** [闲言碎语八婆](https://blog.sina.com.cn/s/articlelist_1280045692_2_1.html)  
 **标签：** 生活, 杂谈  
 
 ![戏作三昧](http://p5.sinaimg.cn/1280045692/180/1)
@@ -35,7 +35,7 @@
 
 **分享：**  
 - 微信分享：  
-  ![](//comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_4c4bf27c01008vl9.html)
+  ![](https://comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_4c4bf27c01008vl9.html)
 
 **阅读量：** 512  
 **收藏：** 0  
@@ -44,11 +44,11 @@
 
 ---
 
-**前一篇：** [输不起](//blog.sina.com.cn/s/blog_4c4bf27c01008umw.html)  
-**后一篇：** [在姥姥家院子里的照片](//blog.sina.com.cn/s/blog_4c4bf27c01008vuz.html)  
+**前一篇：** [输不起](https://blog.sina.com.cn/s/blog_4c4bf27c01008umw.html)  
+**后一篇：** [在姥姥家院子里的照片](https://blog.sina.com.cn/s/blog_4c4bf27c01008vuz.html)  
 
 **版权信息：** Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved.  
-新浪公司 [版权所有](//www.sina.com.cn/intro/copyright.shtml)
+新浪公司 [版权所有](https://www.sina.com.cn/intro/copyright.shtml)
 
 ## 摘要与附加信息
 

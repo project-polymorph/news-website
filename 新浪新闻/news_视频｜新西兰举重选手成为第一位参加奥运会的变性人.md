@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinacn/20170919/c987-fykywuc7435594.jpg)
+![](https://n.sinaimg.cn/sinacn/20170919/c987-fykywuc7435594.jpg)
 
 ## 来源：看看新闻KNEWS { data-search-exclude }
 
@@ -11,7 +11,7 @@
 
 原标题：视频｜新西兰举重选手成为第一位参加奥运会的变性人
 
-[![](//p.ivideo.sina.com.cn/video/400/995/475/400995475_220_124.jpg)视频｜新西兰举重选手成为第一位参加奥运会的变性人](JavaScript:void\(0\))
+[![](https://p.ivideo.sina.com.cn/video/400/995/475/400995475_220_124.jpg)视频｜新西兰举重选手成为第一位参加奥运会的变性人](JavaScript:void\(0\))
 
 东京奥运会的举重赛场将出现变性选手的身影！新西兰奥委会20日宣布，新西兰举重运动员劳蕾尔·哈伯德入选东京奥运会国家代表队，将成为第一个参加奥运会的变性人。
 
@@ -23,7 +23,7 @@
 
 之后，哈伯德她在2017年世锦赛上拿到女子90公斤以上级总成绩亚军。2019年萨摩亚太平洋运动会上，哈伯德战胜萨摩亚的英联邦运动会冠军费加伊加·斯托沃斯登上最高领奖台，这让当地民众十分愤怒。
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

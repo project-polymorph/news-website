@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![中国新一代女性艺术家在美联展](//n.sinaimg.cn/collect/290/w1000h90/20190416/cyWT-hvsckth7111064.jpg)
+![中国新一代女性艺术家在美联展](https://n.sinaimg.cn/collect/290/w1000h90/20190416/cyWT-hvsckth7111064.jpg)
 
 _来源：新浪收藏_
 
@@ -21,7 +21,7 @@ _来源：新浪收藏_
 
 2016年8月27日，在美国密歇根州立大学布罗德美术馆开幕的“内燃：中国新一代女性艺术家”展览，成功探讨与呈现了中国青年女性艺术家对以自身身份、个体意识及中国当下社会问题的系列思考。
 
-![策展人王春辰正在为演出化妆](//k.sinaimg.cn/n/collect/transform/20160830/Mvfg-fxvkkcf6315359.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![策展人王春辰正在为演出化妆](https://k.sinaimg.cn/n/collect/transform/20160830/Mvfg-fxvkkcf6315359.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 策展人王春辰正在为演出化妆 { data-search-exclude }
 
@@ -29,13 +29,13 @@ _来源：新浪收藏_
 
 以艺术为例，诸多的中国女艺术家都不愿被称为或自称为女性艺术家，她们拒绝被分类。其中原因复杂，可能实质上这是一种社会的潜意识恐惧：性别歧视的另一种表示。这一问题来源于社会对女性艺术的误读，以及部分女性艺术家对其的拒绝，因为担心被孤立在由男性占支配地位的主流艺术之外。然而，“内燃”将会引燃这种状态的重新调配——给予这些因为性别而边缘化的女性艺术家们力量和声音。
 
-![妆后的王春辰](//k.sinaimg.cn/n/collect/transform/20160830/EnfC-fxvixeq0706987.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![妆后的王春辰](https://k.sinaimg.cn/n/collect/transform/20160830/EnfC-fxvixeq0706987.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 妆后的王春辰 { data-search-exclude }
 
 值得一提的是，王春辰老师以策展人和男性的身份，代替了缺席开幕现场的艺术家罗苇，在开幕式上进行跨性别演出-《美狄亚》。此表演根据具有标志性的古希腊悲剧美狄亚的背景文本改编，在打破身份界定的同时，也转化性别本身的属性。
 
-![《触摸生命5》，刘茜懿，喷墨打印，150 x 225 厘米，2015年](//k.sinaimg.cn/n/collect/transform/20160830/JzD3-fxvixer7448925.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![《触摸生命5》，刘茜懿，喷墨打印，150 x 225 厘米，2015年](https://k.sinaimg.cn/n/collect/transform/20160830/JzD3-fxvixer7448925.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 《触摸生命5》，刘茜懿，喷墨打印，150 x 225 厘米，2015年 { data-search-exclude }
 
@@ -43,7 +43,7 @@ _来源：新浪收藏_
 
 **拒绝沉重的性别标签**
 
-![裴丽削骨手术后的半身像制作过程，作品《艺术应该漂亮，艺术家应该漂亮》的照片记录](//k.sinaimg.cn/n/collect/transform/20160830/VPu--fxvixer7449022.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![裴丽削骨手术后的半身像制作过程，作品《艺术应该漂亮，艺术家应该漂亮》的照片记录](https://k.sinaimg.cn/n/collect/transform/20160830/VPu--fxvixer7449022.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 裴丽削骨手术后的半身像制作过程，作品《艺术应该漂亮，艺术家应该漂亮》的照片记录 { data-search-exclude }
 

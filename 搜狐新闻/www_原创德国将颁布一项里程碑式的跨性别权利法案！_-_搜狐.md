@@ -7,7 +7,7 @@
 来源: [红枫湾](https://www.sohu.com/a/771787584_527250?spm=smpc.content-abroad.content.1.1730993878219lx9ROPd)  
 发布于：北京市  
 
-![图片](//q6.itc.cn/q_70/images01/20240415/c5577d746f6440ccb32bbb87dc2644b6.jpeg)
+![图片](https://q6.itc.cn/q_70/images01/20240415/c5577d746f6440ccb32bbb87dc2644b6.jpeg)
 
 人权观察今天表示，德国议会于2024年4月12日通过了一项具有里程碑意义的法律，允许跨性别者和非二元人群反映其性别认同。该法律将于2024年8月生效。
 

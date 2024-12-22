@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-![药娘](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
+![药娘](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 ## 来源：澎湃新闻 { data-search-exclude }
 **作者：朱莹、谭瑶**  
 **时间：2018.08.16 09:21**
 
-![视频| “药娘”拿激素当糖吃：不吃我会抑郁](//n.sinaimg.cn/front/0/w1024h576/20180816/KDeu-hhvciiv6171449.jpg)
+![视频| “药娘”拿激素当糖吃：不吃我会抑郁](https://n.sinaimg.cn/front/0/w1024h576/20180816/KDeu-hhvciiv6171449.jpg)
 
 原标题：拿激素当糖吃，药娘说“不吃我会抑郁”
 

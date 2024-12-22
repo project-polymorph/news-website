@@ -3,14 +3,14 @@
 ## 正文 { data-search-exclude }
 
 
-![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![默认头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 **来源：** 环球网  
 **时间：** 2017.07.28 04:00  
 **作者：** 环球时报特约记者 刘皓然  
 
-![图片](//k.sinaimg.cn/n/news/transform/20170430/wkpd-fyetwtf9109441.jpg/w300h300z1l10t10q100dd5.jpg)  
-![图片](//k.sinaimg.cn/n/news/transform/20170430/wkpd-fyetwtf9109441.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片](https://k.sinaimg.cn/n/news/transform/20170430/wkpd-fyetwtf9109441.jpg/w300h300z1l10t10q100dd5.jpg)  
+![图片](https://k.sinaimg.cn/n/news/transform/20170430/wkpd-fyetwtf9109441.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 美国国防部废除“禁止变性人公开服役法令”仅一年，总统[特朗普](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E7%89%B9%E6%9C%97%E6%99%AE&wm=)就上演“反转”戏，在推特上公布将再次实施该禁令，让各界始料未及。该消息在美国政界和民间引发广泛争议，美民权组织和LGBT（同性恋、双性恋及变性人）群体对此深表不满。
 
@@ -26,7 +26,7 @@
 
 不过，支持新“禁令”的声音也不在少数。据美国《华盛顿时报》称，在一些舆论看来，特朗普的新举措终于让军方和国防部的工作“回归正轨”——国家安全才是他们应该关注的重点。美国非营利机构“家庭研究理事会”主席佩金斯称：“特朗普叫停了[奥巴马](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E5%A5%A5%E5%B7%B4%E9%A9%AC&wm=)时代的‘社会实践’项目，现在军方终于可以专注于强军、作战事宜。”在他看来，将大笔的国防经费用于变性手术实在是“本末倒置”。密苏里州议员哈茨勒也认为，之前的政策滋生了一定的“不公待遇”，因为情况特殊的士兵根本“无法部署”，这样会拖累其他战友。
 
-![图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

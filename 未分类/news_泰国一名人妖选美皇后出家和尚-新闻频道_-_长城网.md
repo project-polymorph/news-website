@@ -17,12 +17,12 @@
 
 ## 推荐阅读 { data-search-exclude }
 
-- [世界大不同：看看人妖学生罕见的生活](//news.hebei.com.cn/system/2013/04/02/012673568.shtml)
-- [泰国人妖皇后选美现场 性感华服妖艳无比(组图)](//news.hebei.com.cn/system/2012/07/11/011962599.shtml)
+- [世界大不同：看看人妖学生罕见的生活](https://news.hebei.com.cn/system/2013/04/02/012673568.shtml)
+- [泰国人妖皇后选美现场 性感华服妖艳无比(组图)](https://news.hebei.com.cn/system/2012/07/11/011962599.shtml)
 
 ---
 
-版权所有  [长城网](//www.hebei.com.cn/)  互联网新闻信息服务许可证编号  13120170001号  [冀ICP备10001396号-1](https://beian.miit.gov.cn/)
+版权所有  [长城网](https://www.hebei.com.cn/)  互联网新闻信息服务许可证编号  13120170001号  [冀ICP备10001396号-1](https://beian.miit.gov.cn/)
 
 ## 摘要与附加信息
 

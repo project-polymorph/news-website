@@ -17,10 +17,10 @@
 
 《龙腾世纪：影障守护者》已经上市，可在PS5、Xbox Series X/S和PC平台上玩到。
 
-![新浪众测](//n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png)
-![新浪众测](//n.sinaimg.cn/tech/zcapp2018/doc_qrcode2.png)
+![新浪众测](https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png)
+![新浪众测](https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode2.png)
 
-![新浪科技公众号](//n.sinaimg.cn/tech/content/tech_qr2x.png)
+![新浪科技公众号](https://n.sinaimg.cn/tech/content/tech_qr2x.png)
 
 新浪科技公众号
 

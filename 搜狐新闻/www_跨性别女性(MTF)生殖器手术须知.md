@@ -32,7 +32,7 @@
 
 **手术风险和可能并发症告知及相应处理**
 
-![](//p1.itc.cn/images01/20230407/38b0c20829ca44918bc1e1abc7ace382.jpeg)
+![](https://p1.itc.cn/images01/20230407/38b0c20829ca44918bc1e1abc7ace382.jpeg)
 
 **手术前准备**
 

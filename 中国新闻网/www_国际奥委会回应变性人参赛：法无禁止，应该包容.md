@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![中国新闻网](//www.chinanews.com/fileftp/2020/03/2020-03-11/U719P4T47D46411F24532DT20200311090628.png)
+![中国新闻网](https://www.chinanews.com/fileftp/2020/03/2020-03-11/U719P4T47D46411F24532DT20200311090628.png)
 
 **来源**：[中国新闻网](http://www.chinanews.com/)  
 **时间**：2021年07月29日 18:49  

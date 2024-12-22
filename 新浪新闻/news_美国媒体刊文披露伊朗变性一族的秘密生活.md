@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 ## 来源 { data-search-exclude }
 中国新闻网  
@@ -37,7 +37,7 @@
 
 迪加拉利是变性手术的积极推动者，在15年的时间里，他将320个男人变成了女人，将70个男人变成了女人。但他指出，变性手术并不是谁想做就给谁做，事实上，亲自到他的办公室求他做变性手术的人中有一半被他拒绝。他透露，希望做手术的人必须首先通过三名心理医生的检查。(固山)
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

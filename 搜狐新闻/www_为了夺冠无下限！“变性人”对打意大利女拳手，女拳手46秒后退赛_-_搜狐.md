@@ -13,7 +13,7 @@
 
 为了赢冠军脸都不要了，真是**滑天下之大稽！**
 
-![Image](//q1.itc.cn/images01/20240806/0186fa99891c410fa22f8cbb272ba3b4.jpeg)
+![Image](https://q1.itc.cn/images01/20240806/0186fa99891c410fa22f8cbb272ba3b4.jpeg)
 
 在巴黎奥运会女子**66公斤**级拳击赛中。
 
@@ -21,7 +21,7 @@
 
 这可不是临阵脱逃，真的是有苦难言啊！
 
-![Image](//q1.itc.cn/images01/20240806/054769ff2f6d4dc8b27f1c7a1f07609b.jpeg)
+![Image](https://q1.itc.cn/images01/20240806/054769ff2f6d4dc8b27f1c7a1f07609b.jpeg)
 
 她的对手是来自**阿尔及利亚的哈利夫**，一个身高1.8米的"女性"选手。
 
@@ -31,7 +31,7 @@
 
 谁想到奥运会赛场上竟然出现了这么荒唐的事情？
 
-![Image](//q1.itc.cn/images01/20240806/420cfb5dadcc4b03b1e865338ceca9ad.jpeg)
+![Image](https://q1.itc.cn/images01/20240806/420cfb5dadcc4b03b1e865338ceca9ad.jpeg)
 
 从图中可以看出。
 
@@ -39,7 +39,7 @@
 
 而被迫退赛的意大利姑娘只能**低头默默哭泣！**
 
-![Image](//q8.itc.cn/images01/20240806/43039a679e074dafa5bc989fdeb36fbe.jpeg)
+![Image](https://q8.itc.cn/images01/20240806/43039a679e074dafa5bc989fdeb36fbe.jpeg)
 
 回看比赛画面会发现，哈利夫一拳就打掉了卡里尼的护手。
 
@@ -51,7 +51,7 @@
 
 试问谁不想得奖牌？但是为了保护自身安全，卡里尼不得不做出这个艰难而痛苦的决定！
 
-![Image](//q1.itc.cn/images01/20240806/11a9244e741f4984a86f0fd4baf9bba3.jpeg)
+![Image](https://q1.itc.cn/images01/20240806/11a9244e741f4984a86f0fd4baf9bba3.jpeg)
 
 哈利夫究竟有着怎样的身份？
 
@@ -63,7 +63,7 @@
 
 哈利夫的参赛资格哪里来的？各国观众都表示不理解。
 
-![Image](//q1.itc.cn/images01/20240806/0f19a7a2c7e942a5a1c8d0225a02474f.jpeg)
+![Image](https://q1.itc.cn/images01/20240806/0f19a7a2c7e942a5a1c8d0225a02474f.jpeg)
 
 > 信息来源：微资讯官方账号
 
@@ -75,7 +75,7 @@
 
 最后阿尔及利亚组委会给出的决定是，哈利夫的护照上面是女性。
 
-![Image](//q1.itc.cn/images01/20240806/7c68ed8e3f2645bf968a532a818f7aec.jpeg)
+![Image](https://q1.itc.cn/images01/20240806/7c68ed8e3f2645bf968a532a818f7aec.jpeg)
 
 但是一切仅凭一个护照就轻易下定论是不是太过于草率，**公平竞争的体育精神又在何处？**
 
@@ -85,19 +85,19 @@
 
 反对者则担心这会给生理女性运动员造成不公平竞争！
 
-![Image](//q7.itc.cn/images01/20240806/5fdd8035fa364362904561f1f865117b.jpeg)
+![Image](https://q7.itc.cn/images01/20240806/5fdd8035fa364362904561f1f865117b.jpeg)
 
 有网友表示：“简直可笑，在这种神圣的奥运会上，竟然出现这样的事；简直可耻，在神圣的奥运会上，竟然出现这样的人”。
 
-![Image](//q5.itc.cn/images01/20240806/8a26ac9d22d74f10855983c2b88bf40c.jpeg)
+![Image](https://q5.itc.cn/images01/20240806/8a26ac9d22d74f10855983c2b88bf40c.jpeg)
 
 也有网友给卡里尼大大点了一个赞，对不合理的规则就是要大声说不！
 
-![Image](//q8.itc.cn/images01/20240806/fcea4753dd8e40828cb3a75484a67380.jpeg)
+![Image](https://q8.itc.cn/images01/20240806/fcea4753dd8e40828cb3a75484a67380.jpeg)
 
 哈利夫并非个案。这让人不禁想起南非的田径选手**塞门娅·卡斯特**被认定为**“生物学上的男性”**，如果她想继续参加女子比赛，就必须服用睾酮素抑制剂。
 
-![Image](//q8.itc.cn/images01/20240806/972d670188d94129bde78e726c1548c5.jpeg)
+![Image](https://q8.itc.cn/images01/20240806/972d670188d94129bde78e726c1548c5.jpeg)
 
 这些争议案例不仅涉及个人权益，更关乎整个奥运会的公平性。
 
@@ -105,7 +105,7 @@
 
 如果性别可以模糊处理，那么尿检和药检等防作弊手段是否还有意义？
 
-![Image](//q1.itc.cn/images01/20240806/6460a52bee1f4ab498db2ccd8330d26f.jpeg)
+![Image](https://q1.itc.cn/images01/20240806/6460a52bee1f4ab498db2ccd8330d26f.jpeg)
 
 **为了夺金牌，为了名利双收，难道就没有底线了吗？**
 
@@ -119,7 +119,7 @@
 
 这些都在一定程度上损害了奥运会的公信力！
 
-![Image](//q3.itc.cn/images01/20240806/b0040195b2f648f7ae0ca0ad8068dbe4.jpeg)
+![Image](https://q3.itc.cn/images01/20240806/b0040195b2f648f7ae0ca0ad8068dbe4.jpeg)
 
 更令人担忧的是，这些争议可能会影响年轻运动员对体育的热爱和追求。
 
@@ -127,7 +127,7 @@
 
 会不会对体育事业产生怀疑？
 
-![Image](//q3.itc.cn/images01/20240806/b9e3e7a520184ed2a2bd15d4f747c66d.jpeg)
+![Image](https://q3.itc.cn/images01/20240806/b9e3e7a520184ed2a2bd15d4f747c66d.jpeg)
 
 面对这些质疑，国际奥委会和各项目协会需要采取更加严格和科学的措施来确保比赛的公平性！
 
@@ -135,7 +135,7 @@
 
 同时，也需要加强对运动员、教练和相关人员的道德教育，强调体育精神的重要性。
 
-![Image](//q3.itc.cn/images01/20240806/4fdf387e632f4ed6bcea7b72cee389e6.jpeg)
+![Image](https://q3.itc.cn/images01/20240806/4fdf387e632f4ed6bcea7b72cee389e6.jpeg)
 
 奖牌固然重要，但是保持公平公正，彰显体育精神比奖牌更加重要！
 
@@ -145,7 +145,7 @@
 
 在追求卓越成绩的同时，我们更需要关注比赛的**公平性、运动员的权益以及体育精神的传承！**
 
-![Image](//q0.itc.cn/images01/20240806/dea9061a61da4d538964ad2ee5f96db0.jpeg)
+![Image](https://q0.itc.cn/images01/20240806/dea9061a61da4d538964ad2ee5f96db0.jpeg)
 
 只有确保每一位运动员都能在公平的环境中竞争，奥运会的价值和意义才能够真正体现出来！
 
@@ -153,7 +153,7 @@
 
 这才是奥运会的真正魅力所在，也是我们应该为之努力的方向！
 
-![Image](//q9.itc.cn/images01/20240806/0dc251222f58415183aefaa4356fdcef.jpeg)
+![Image](https://q9.itc.cn/images01/20240806/0dc251222f58415183aefaa4356fdcef.jpeg)
 
 它不仅关乎体育界的未来，更关乎我们如何构建一个更加包容、公平的社会。
 

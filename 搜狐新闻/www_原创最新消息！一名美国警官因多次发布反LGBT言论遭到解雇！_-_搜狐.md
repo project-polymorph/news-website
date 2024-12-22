@@ -7,7 +7,7 @@
 **来源：** [红枫湾](https://www.sohu.com/a/644090544_527250?spm=smpc.content-abroad.content.1.1730991604127pzufZ5i)  
 **发布地点：** 北京市  
 
-![图片](//p5.itc.cn/images01/20230221/f6568c991d6f44b2973cbd3cb309e104.png)
+![图片](https://p5.itc.cn/images01/20230221/f6568c991d6f44b2973cbd3cb309e104.png)
 
 近期，一名维多利亚州高级警官因其天主教“基督教信仰”而为其反LGBTQ言论辩护，但他现已被解雇。
 

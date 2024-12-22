@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/5488-f44788ac472043e856889cad813b4a5a.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/5488-f44788ac472043e856889cad813b4a5a.jpg)
 
 ## 新浪新闻 { data-search-exclude }
 
@@ -16,7 +16,7 @@
 
 他在一场讲话中，炮轰了参加女子举重比赛的运动员劳雷尔·哈伯德——不是因为她是女人，而是因为她曾经是男人。
 
-![](//k.sinaimg.cn/n/english/crawl/67/w550h317/20210727/6f33-6e8e52c3cbb5a39fb95db3c42ea0a07b.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/english/crawl/67/w550h317/20210727/6f33-6e8e52c3cbb5a39fb95db3c42ea0a07b.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 在参加东京奥运会的11092运动员中，劳雷尔·哈伯德绝对是最特殊的那个。
 
@@ -26,7 +26,7 @@
 
 6月21日，新西兰奥林匹克委员会官员对外证实，该国的变性运动员劳雷尔·哈伯德（Laurel Hubbard）被选入国家代表队，成为史上第一个跨性别奥运选手。
 
-![](//k.sinaimg.cn/n/english/crawl/126/w550h376/20210727/6847-817c4d527c38b178c20cc57930e36881.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/english/crawl/126/w550h376/20210727/6847-817c4d527c38b178c20cc57930e36881.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 劳雷尔·哈伯德。最近，有些人不满，为什么媒体总是选举重运动员呲牙咧嘴的图。
 
@@ -54,7 +54,7 @@
 
 能明白这一点，国际体育组织用了八十多年的时间。
 
-![](//k.sinaimg.cn/n/english/crawl/652/w550h102/20210727/e7d3-0c5d0e7d55673e9d9e53a915160dff21.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/english/crawl/652/w550h102/20210727/e7d3-0c5d0e7d55673e9d9e53a915160dff21.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 “这个男子气概的女人”
 

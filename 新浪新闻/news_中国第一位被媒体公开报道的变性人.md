@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![秦惠英](//n.sinaimg.cn/sinacn/20170106/cec7-fxzkfvn0496499.jpg)
+![秦惠英](https://n.sinaimg.cn/sinacn/20170106/cec7-fxzkfvn0496499.jpg)
 
 ## 南方周末 { data-search-exclude }
 
@@ -47,7 +47,7 @@
 
 **记者**: 戴敦峰
 
-![评论图标](//tp3.sinaimg.cn/1392597202/50/0/1)
+![评论图标](https://tp3.sinaimg.cn/1392597202/50/0/1)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

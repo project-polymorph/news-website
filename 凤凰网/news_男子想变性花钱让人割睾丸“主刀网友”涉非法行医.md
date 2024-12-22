@@ -9,7 +9,7 @@
 
 2016年07月25日 15:40 来源：[澎湃新闻网](http://www.thepaper.cn/newsDetail_forward_1503663)
 
-![](//h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
+![](https://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
 用微信扫描二维码分享至好友和朋友圈
 

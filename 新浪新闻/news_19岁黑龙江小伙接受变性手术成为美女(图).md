@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![默认头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：安徽在线-新安晚报 { data-search-exclude }
 
@@ -15,7 +15,7 @@
 
 专程抵蚌施行手术的国内整形专家欧阳天祥博士导师告诉记者，“异性癖”在常人的发病率中为十万分之一，只有对真正的“异性癖”患者，且经过认真核实多项保证后才可施行手术，他本人并不赞同开展这项手术，整个学术界对手术变性从国情、民情、舆情上考虑也是不提倡、不赞成、不反对。但欧阳博士同时认为，当今社会里，大家也应充分理解这件事情，给他（她）们构造一个外界和谐的环境。 （本报记者 李勇）
 
-![320X320](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![320X320](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

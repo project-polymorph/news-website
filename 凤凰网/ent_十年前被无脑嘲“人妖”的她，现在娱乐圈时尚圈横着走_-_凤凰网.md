@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![十年前被无脑嘲“人妖”的她，现在娱乐圈时尚圈横着走](//d.ifengimg.com/w121_h75_q90/e0.ifengimg.com/04/2019/0508/320BAAFEEAB420E8456872032D115B6717C51594_size65_w750_h915.jpeg)
+![十年前被无脑嘲“人妖”的她，现在娱乐圈时尚圈横着走](https://d.ifengimg.com/w121_h75_q90/e0.ifengimg.com/04/2019/0508/320BAAFEEAB420E8456872032D115B6717C51594_size65_w750_h915.jpeg)
 
 [新氧App](https://ishare.ifeng.com/mediaShare/home/1148548/media)
 

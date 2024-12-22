@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
+![图片](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 ## 澎湃新闻 { data-search-exclude }
 
@@ -11,7 +11,7 @@
 来源：果壳  
 时间：2021.08.06 11:11  
 
-![图片](//k.sinaimg.cn/n/sinakd20210806s/200/w1080h720/20210806/28d0-7762c07d3ce63d5230061620ed025836.jpg/w300h300z1l10t10q1000e3.jpg)
+![图片](https://k.sinaimg.cn/n/sinakd20210806s/200/w1080h720/20210806/28d0-7762c07d3ce63d5230061620ed025836.jpg/w300h300z1l10t10q1000e3.jpg)
 
 原标题：奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？
 
@@ -19,7 +19,7 @@
 
 她就是新西兰运动员劳雷尔·哈伯德（Laurel Hubbard），在这次奥运会上，她参与87公斤以上级的女子举重比赛。
 
-![新西兰运动员Laurel Hubbard](//k.sinaimg.cn/n/sinakd20210806s/200/w1080h720/20210806/28d0-7762c07d3ce63d5230061620ed025836.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![新西兰运动员Laurel Hubbard](https://k.sinaimg.cn/n/sinakd20210806s/200/w1080h720/20210806/28d0-7762c07d3ce63d5230061620ed025836.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 新西兰运动员Laurel Hubbard | Luca Bruno, AP
 

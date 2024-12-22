@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![温泽仁](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![温泽仁](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -35,7 +35,7 @@
 
 (原标题：跨性人入境台湾 证件性别栏注明“X性”(图))
 
-![ 新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![ 新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
+![图片](https://n.sinaimg.cn/sinakd10219/360/w180h180/20221207/d7a2-a5770dd64bcda5d2beb4f24c6c87b532.jpg)
 
 ## 来源 { data-search-exclude }
 环球网
@@ -21,11 +21,11 @@
 
 实际上，“娘炮”一类现象的产生，是社会的不同结构不断得到媒介释放的自然结果。它在我国改革开放以来的流行文化现象当中，并不是第一次出现。早在1988年，“王朔年”之前，现在已经身为“老戏骨”的唐国强、陈宝国等一批男演员，就因为面相英俊有阴柔气，而被戏称作“奶油小生”，与之清晰对应的，是后来以葛优、梁天为代表的所谓“丑星”。
 
-![唐国强年轻照（左）](//k.sinaimg.cn/n/news/transform/130/w550h380/20180903/_PB0-fzrwica2303985.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![唐国强年轻照（左）](https://k.sinaimg.cn/n/news/transform/130/w550h380/20180903/_PB0-fzrwica2303985.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 2004年湖南卫视《超级女声》横空出世，以李宇春、周笔畅为代表的中性风女歌手走红一时，被舆论调侃为“春哥”，这与当今流量“娘炮”明星已经非常类似。
 
-![李宇春早期照片](//k.sinaimg.cn/n/news/transform/162/w550h412/20180903/onq4-hiqtcan3002551.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![李宇春早期照片](https://k.sinaimg.cn/n/news/transform/162/w550h412/20180903/onq4-hiqtcan3002551.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 为何青少年喜欢追捧性征模糊的“大哥哥、大姐姐”？这是他们在青春期这个心理和生理未成熟阶段，对自我的自然投射，而一旦完成性发育阶段，这种诉求将在绝大多数孩子身上自然消失。并不是有些人所担心的，已经成为社会主流文化的大趋势。
 

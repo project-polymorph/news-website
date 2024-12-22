@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![调查图片](//tva1.sinaimg.cn/crop.0.0.299.299.180/6a8c1e07gw1efgokalrxdj208c08cq37.jpg)
+![调查图片](https://tva1.sinaimg.cn/crop.0.0.299.299.180/6a8c1e07gw1efgokalrxdj208c08cq37.jpg)
 
 ## 199IT { data-search-exclude }
 
@@ -26,19 +26,19 @@ Trevor Project将以研究简报和研究报告的形式发布这个多样化样
 - 在过去一年，60% 想要心理健康护理的 LGBTQ 青年未能获得需要的服务。
 - 生活在接受 LGBTQ 人群的社区中的 LGBTQ 青年报告的自杀未遂率明显低于那些不接受的。
 
-![调查统计1](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/0f3d-078dff5140359713d2f6e5d0d4ea6df3.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计2](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/4427-441dbd67d1821af2cf744c179c2456a2.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计3](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/60a2-6b6d2cad02ea625610f82cecd253c870.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计4](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/8749-bf6ef26d2ed6ae78769bb6a93e484808.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计5](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/1611-16ebb03fd9744aa6ee0fe11b5e17b167.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计6](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/1514-84d1cb47360aa553405e033a9c75a94a.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计7](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/0e50-6aeb84c277767f583f401734cec975ed.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计8](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/cfda-cbba79087140adf04f70f693dacc03e1.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计9](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/166a-cf475346b526a7660508154cc6041909.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计10](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/8c7a-1ba49a8d0c6087cdade4764d483cc0af.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计11](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/808a-24e6a2ffc30086d414b8aba4eac6baca.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计12](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/d0d7-aedbe0078fd7112bb575439c40135d3e.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
-![调查统计13](//k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/51ac-2e262acf215cba0f8a0986786f6794eb.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计1](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/0f3d-078dff5140359713d2f6e5d0d4ea6df3.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计2](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/4427-441dbd67d1821af2cf744c179c2456a2.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计3](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/60a2-6b6d2cad02ea625610f82cecd253c870.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计4](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/8749-bf6ef26d2ed6ae78769bb6a93e484808.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计5](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/1611-16ebb03fd9744aa6ee0fe11b5e17b167.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计6](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/1514-84d1cb47360aa553405e033a9c75a94a.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计7](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/0e50-6aeb84c277767f583f401734cec975ed.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计8](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/cfda-cbba79087140adf04f70f693dacc03e1.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计9](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/166a-cf475346b526a7660508154cc6041909.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计10](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/8c7a-1ba49a8d0c6087cdade4764d483cc0af.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计11](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/808a-24e6a2ffc30086d414b8aba4eac6baca.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计12](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/d0d7-aedbe0078fd7112bb575439c40135d3e.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![调查统计13](https://k.sinaimg.cn/n/spider20230326/740/w1020h1320/20230326/51ac-2e262acf215cba0f8a0986786f6794eb.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

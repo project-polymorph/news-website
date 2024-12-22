@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性后的陈瑜](//n.sinaimg.cn/sinakd10200/360/w180h180/20240726/a327-3c91e28e329fa27f13a323a54d985ca7.jpg)
+![变性后的陈瑜](https://n.sinaimg.cn/sinakd10200/360/w180h180/20240726/a327-3c91e28e329fa27f13a323a54d985ca7.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -17,7 +17,7 @@
 
 据介绍，陈瑜以前毕业于上海某重点中专学校，并且自费到海关和民航学校参加过进出口和物流的培训，曾经还做过某物流杂志的记者等。由于性别趋向问题，陈瑜最终辞职变性。“过完春节，我将以一个漂亮的女记者的形象出现。”陈瑜说。一直希望成为一名体育记者的陈瑜目前已经被湖南长沙某报社录取，春节后将正式上班。(丁保权)
 
-![新浪新闻](//z3.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fs%2F2006-01-14%2Fcf017be7ea21804653219989e3681ca1.jpg&size=328_218)
+![新浪新闻](https://z3.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fs%2F2006-01-14%2Fcf017be7ea21804653219989e3681ca1.jpg&size=328_218)
 
 --- 
 

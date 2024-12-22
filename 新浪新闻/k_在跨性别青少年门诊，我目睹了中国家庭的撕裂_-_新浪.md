@@ -11,7 +11,7 @@ _![](https://n.sinaimg.cn/sinakd10201/360/w180h180/20200407/e50c-irtymmw7775468.
 
 关注
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 本期主播丨宁语
 

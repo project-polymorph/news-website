@@ -21,12 +21,12 @@
 
 ##### 评论
 
-[1条评论](//gentie.ifeng.com/c/comment/86kUg247z8z) / [4人参与](//gentie.ifeng.com/c/comment/86kUg247z8z)  
-网友评论｜[跟帖管理](//gentie.ifeng.com/commentManage)｜[举报](//gentie.ifeng.com/superviseReport)  
+[1条评论](https://gentie.ifeng.com/c/comment/86kUg247z8z) / [4人参与](https://gentie.ifeng.com/c/comment/86kUg247z8z)  
+网友评论｜[跟帖管理](https://gentie.ifeng.com/commentManage)｜[举报](https://gentie.ifeng.com/superviseReport)  
 文明上网，不传谣言，登录评论！  
 发表评论  
 
-凤凰账号/新浪微博 | [查看全部评论>>](//gentie.ifeng.com/c/comment/86kUg247z8z)
+凤凰账号/新浪微博 | [查看全部评论>>](https://gentie.ifeng.com/c/comment/86kUg247z8z)
 
 ## 摘要与附加信息
 

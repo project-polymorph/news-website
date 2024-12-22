@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变成“女孩”后 他开始劝人别轻易做手术](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2021/6A70D4BFB1560A3D56A6DBCA7BA056B532D9A92C_size71_w900_h500.jpeg)
+![变成“女孩”后 他开始劝人别轻易做手术](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2021/6A70D4BFB1560A3D56A6DBCA7BA056B532D9A92C_size71_w900_h500.jpeg)
 
 来源：[凤凰网](https://ishare.ifeng.com/mediaShare/home/1586743/media)  
 时间：2021年11月25日 12:03:15  

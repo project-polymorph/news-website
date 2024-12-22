@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![4岁小孩变性全家力挺！儿童变性成“流行文化”，外网吵翻：爸妈是人渣](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2021/7197E400CE66E0C8408593C9BCD03D0F3FA2B9E1_size61_w814_h544.jpeg)
+![4岁小孩变性全家力挺！儿童变性成“流行文化”，外网吵翻：爸妈是人渣](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2021/7197E400CE66E0C8408593C9BCD03D0F3FA2B9E1_size61_w814_h544.jpeg)
 
 **来源**: 凤凰网  
 **时间**: 2021年05月12日 21:18:35 来自安徽省  

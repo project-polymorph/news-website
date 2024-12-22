@@ -3,9 +3,9 @@
 ## 正文 { data-search-exclude }
 
 
-![北晚新视觉](//static.takefoto.cn/img/2016/logo1.png)
+![北晚新视觉](https://static.takefoto.cn/img/2016/logo1.png)
 
-![banner](//static.takefoto.cn/img/2016/wanbao.png)
+![banner](https://static.takefoto.cn/img/2016/wanbao.png)
 
 **时间：** 2016-09-01 15:59  
 **编辑：** admin  

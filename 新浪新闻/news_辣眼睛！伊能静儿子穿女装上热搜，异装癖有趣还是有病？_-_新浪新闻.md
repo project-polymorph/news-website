@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/2551-65df6b4c2ef6b75c1af1d62174317200.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/2551-65df6b4c2ef6b75c1af1d62174317200.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -13,19 +13,19 @@
 
 近日，伊能静儿子哈利在微博上晒出女装照，冲上热搜。他穿着粉色纱裙，化上了粉色桃花妆，加上挑染发色，显得十分妩媚。
 
-![](//k.sinaimg.cn/n/sinakd2020928s/693/w896h597/20200928/9f76-izwfpys3305056.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/693/w896h597/20200928/9f76-izwfpys3305056.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/sinakd2020928s/641/w898h543/20200928/d033-izwfpys3305124.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/641/w898h543/20200928/d033-izwfpys3305124.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/sinakd2020928s/307/w612h495/20200928/b341-izwfpys3305125.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/307/w612h495/20200928/b341-izwfpys3305125.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ▲哈利在微博上晒女装照
 
 这并不是伊能静儿子第一次晒女装了。此前他曾多次晒女装造型，还曾因此上过多次热搜。
 
-![](//k.sinaimg.cn/n/sinakd2020928s/175/w939h836/20200928/6008-izwfpys3305215.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/175/w939h836/20200928/6008-izwfpys3305215.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/sinakd2020928s/200/w640h360/20200928/24f1-izwfpys3305210.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/200/w640h360/20200928/24f1-izwfpys3305210.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ▲哈利曾多次晒女装照
 
@@ -37,26 +37,26 @@
 > “他每次晒的都很漂亮～而且自得其乐”  
 > “其实很好看啊，男生为什么不能穿裙子？”
 
-![](//k.sinaimg.cn/n/sinakd2020928s/437/w1080h157/20200928/c4a4-izwfpys3305297.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/437/w1080h157/20200928/c4a4-izwfpys3305297.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/sinakd2020928s/494/w1080h214/20200928/3499-izwfpys3305309.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/494/w1080h214/20200928/3499-izwfpys3305309.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/sinakd2020928s/482/w1080h202/20200928/f04e-izwfpys3305347.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/482/w1080h202/20200928/f04e-izwfpys3305347.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/sinakd2020928s/437/w1080h157/20200928/c7ba-izwfpys3305346.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/437/w1080h157/20200928/c7ba-izwfpys3305346.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 但也有人表示不解，甚至有人直言“变态”，揣测是因为家庭原因导致了哈利变得“不正常”。
 
 > “个人感觉不舒服，辣眼睛，想吐”  
 > “感觉是一种病”
 
-![](//k.sinaimg.cn/n/sinakd2020928s/437/w1080h157/20200928/2874-izwfpys3305412.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/437/w1080h157/20200928/2874-izwfpys3305412.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
-![](//k.sinaimg.cn/n/sinakd2020928s/440/w1080h160/20200928/195f-izwfpys3305409.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/440/w1080h160/20200928/195f-izwfpys3305409.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 实际上，男穿女装并不是什么新奇的事情了，甚至形成了“女装大佬”“伪娘”这一群体。
 
-![](//k.sinaimg.cn/n/sinakd2020928s/681/w414h267/20200928/a91f-izwfpys3305475.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![](https://k.sinaimg.cn/n/sinakd2020928s/681/w414h267/20200928/a91f-izwfpys3305475.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 比如说“女装大佬”这个词最早出现在二次元中，是指扮女装技术很高的男人，在cosplay中常常会有男生反串cos女性动漫人物的现象。这么一群人坦荡荡地穿着女装出街，还会彼此交流穿女装的经验，以期达到“以假乱真”的效果。
 

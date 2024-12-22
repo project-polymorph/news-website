@@ -48,7 +48,7 @@ _首赞_
 
 最新评论
 
-![用户头像](//sucimg.itc.cn/avatarimg/5e265b2fd0c844eebad2279ea2744670_1489042335771)
+![用户头像](https://sucimg.itc.cn/avatarimg/5e265b2fd0c844eebad2279ea2744670_1489042335771)
 
 **甜椒文化**
 

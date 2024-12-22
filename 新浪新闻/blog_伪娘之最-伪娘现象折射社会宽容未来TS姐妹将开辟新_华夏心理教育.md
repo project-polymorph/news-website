@@ -14,7 +14,7 @@
 - 中国  
 - 情感  
 
-分类： [华夏心理五月份主题活动](//blog.sina.com.cn/s/articlelist_1736265481_1_1.html)
+分类： [华夏心理五月份主题活动](https://blog.sina.com.cn/s/articlelist_1736265481_1_1.html)
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 
-![](//beacon.sina.com.cn/a.gif?noScript)
+![](https://beacon.sina.com.cn/a.gif?noScript)
 
 【环球网报道】瑞士资讯12月11日援引法新社报道称，美国一位联邦法官于当地时间12月11日否决美总统特朗普执政团队的要求，拒绝延后跨性别人士从军的起始日，为他们2018年1月1日得以入伍打开通道。
 
@@ -26,7 +26,7 @@
 ---
 
 Copyright © 1996-2017 SINA Corporation  
-All Rights Reserved 新浪公司 [版权所有](//corp.sina.com.cn/chn/copyright.html)
+All Rights Reserved 新浪公司 [版权所有](https://corp.sina.com.cn/chn/copyright.html)
 
 ## 摘要与附加信息
 

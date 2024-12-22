@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![明查｜华盛顿通过法案允许政府合法带走变性儿童？误导](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/1D5794553DB07B1D6957A9FC1AFC731D2252E2DA_size1044_w1035_h582.png)
+![明查｜华盛顿通过法案允许政府合法带走变性儿童？误导](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/1D5794553DB07B1D6957A9FC1AFC731D2252E2DA_size1044_w1035_h582.png)
 
 **时间**: 2023年04月26日 06:20:05  
 **来源**: [澎湃新闻](https://ishare.ifeng.com/mediaShare/home/310821/media)  

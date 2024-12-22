@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![刘人维](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/fa4c-19a543aa664c56fbf8e1cc6fc524890f.jpg)
+![刘人维](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/fa4c-19a543aa664c56fbf8e1cc6fc524890f.jpg)
 
 ## 江南都市报 { data-search-exclude }
 **时间**：2009.12.18 13:33  
@@ -45,7 +45,7 @@
 
 四男生刘人维的变性梦想能实现吗？他能否找到帮助自己实现愿望的人呢？广大读者对他的行为又有何看法？欢迎拨打本报热线13970051316。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 点击查看更多

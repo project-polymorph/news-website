@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![默认头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：四川新闻网-成都晚报 { data-search-exclude }
 
@@ -35,7 +35,7 @@
 
 昨日，小小分别给学校老师和远在家乡的父母打去电话，说了自己要做手术的事，向学校申请休学一年。马上就要手术了，小小内心充满期待，幻想着自己变成女人后，一定要像一个平凡女人一样恋爱，结婚。
 
-![插图](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![插图](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

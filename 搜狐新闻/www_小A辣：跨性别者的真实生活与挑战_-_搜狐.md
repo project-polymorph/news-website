@@ -23,7 +23,7 @@
 
 简单AI链接（免费，长按复制链接致浏览器体验）：[简单AI链接](https://ai.sohu.com/pc/generate?trans=030001_jdaiylmn1)
 
-![小A辣](//q9.itc.cn/q_70/images03/20241018/12e367b204bd4120942a5be01835af79.gif)
+![小A辣](https://q9.itc.cn/q_70/images03/20241018/12e367b204bd4120942a5be01835af79.gif)
 
 **责任编辑**: 
 

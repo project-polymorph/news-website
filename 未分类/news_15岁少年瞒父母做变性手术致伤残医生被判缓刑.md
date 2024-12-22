@@ -15,28 +15,28 @@
 
 ![中国青年网](../../images/youth_sjy_logo.png)
 
-![女子大脑有蛔虫](//news.youth.cn/bx/tszh/202308/W020230830565302588839.png)  
+![女子大脑有蛔虫](https://news.youth.cn/bx/tszh/202308/W020230830565302588839.png)  
 [女子大脑有蛔虫](https://d.youth.cn/shrgch/202308/t20230830_14752942.htm)
 
-![酒厂拔掉葡萄藤](//news.youth.cn/bx/tszh/202308/W020230830564880273190.jpg)  
+![酒厂拔掉葡萄藤](https://news.youth.cn/bx/tszh/202308/W020230830564880273190.jpg)  
 [酒厂拔掉葡萄藤](https://d.youth.cn/shrgch/202308/t20230829_14751728.htm)
 
-![他收藏751个小汽车](//news.youth.cn/bx/tszh/202308/W020230823541150849068.jpg)  
+![他收藏751个小汽车](https://news.youth.cn/bx/tszh/202308/W020230823541150849068.jpg)  
 [他收藏751个小汽车](https://d.youth.cn/shrgch/202308/t20230823_14738479.htm)
 
-![月售车票0张](//news.youth.cn/bx/tszh/202308/W020230823540579850504.jpg)  
+![月售车票0张](https://news.youth.cn/bx/tszh/202308/W020230823540579850504.jpg)  
 [月售车票0张](https://d.youth.cn/shrgch/202308/t20230822_14736278.htm)
 
-![英千架航班取消](//news.youth.cn/bx/tsgzn/202308/W020230830566272602928.jpg)  
+![英千架航班取消](https://news.youth.cn/bx/tsgzn/202308/W020230830566272602928.jpg)  
 [英千架航班取消](https://d.youth.cn/shrgch/202308/t20230830_14752940.htm)
 
-![捡到4年前漂流瓶](//news.youth.cn/bx/tsgzn/202308/W020230830565776936704.png)  
+![捡到4年前漂流瓶](https://news.youth.cn/bx/tsgzn/202308/W020230830565776936704.png)  
 [捡到4年前漂流瓶](https://d.youth.cn/shrgch/202308/t20230829_14751277.htm)
 
-![辞职带娃周游世界](//news.youth.cn/bx/tsgzn/202308/W020230823542141176732.png)  
+![辞职带娃周游世界](https://news.youth.cn/bx/tsgzn/202308/W020230823542141176732.png)  
 [辞职带娃周游世界](https://d.youth.cn/shrgch/202308/t20230822_14736322.htm)
 
-![四居室租给40人](//news.youth.cn/bx/tsgzn/202308/W020230823541698756844.jpg)  
+![四居室租给40人](https://news.youth.cn/bx/tsgzn/202308/W020230823541698756844.jpg)  
 [四居室租给40人](https://d.youth.cn/shrgch/202308/t20230823_14737547.htm)
 
 ---

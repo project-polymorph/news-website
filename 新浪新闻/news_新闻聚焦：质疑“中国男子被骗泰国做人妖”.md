@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![默认头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![默认头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 南京《周末》 { data-search-exclude }
 **时间**: 2004.04.14 13:46  
@@ -81,7 +81,7 @@
 
 为了维持女性的皮肤和身姿形态，原本身为男性的人妖必须人为地打针、吃药，使内分泌失调，这种逆生命规律而行的做法会导致生理机能全部打乱，从而使人妖的体质下降。所以，人妖的寿命一般都不长，40岁左右为正常死亡年龄。
 
-![人妖相关图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![人妖相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 **新浪网友0**

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![孙艺萱](//n.sinaimg.cn/sinakd10200/360/w180h180/20221201/1b8c-9180bc10a6b8eafde1c04127eabc2ba4.jpg)
+![孙艺萱](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221201/1b8c-9180bc10a6b8eafde1c04127eabc2ba4.jpg)
 
 ## 新文化报 { data-search-exclude }
 
@@ -122,7 +122,7 @@
 
 ## 热门评论点击查看更多 { data-search-exclude }
 
-![评论](//tp3.sinaimg.cn/1392597202/50/0/1)
+![评论](https://tp3.sinaimg.cn/1392597202/50/0/1)
 
 **新浪网友0** 6  
 **要去正规医院**  

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//tvax1.sinaimg.cn/crop.1.0.436.436.180/61e89b74ly1gdiq06vjw9j20c60c4aac.jpg)
+![](https://tvax1.sinaimg.cn/crop.1.0.436.436.180/61e89b74ly1gdiq06vjw9j20c60c4aac.jpg)
 
 ## 新浪科技综合 { data-search-exclude }
 
@@ -13,13 +13,13 @@
 
 近年来，随着像是Caitlyn Jenner和Laverne Cox这样的名人成为了边缘人群的标志性面孔，跨性别者的权利也成为了一个主流的政治问题。
 
-![图片版权：ANA YAEL](//k.sinaimg.cn/n/tech/crawl/59/w550h309/20200807/d643-ixkvvue0253888.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![图片版权：ANA YAEL](https://k.sinaimg.cn/n/tech/crawl/59/w550h309/20200807/d643-ixkvvue0253888.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 人们正在接受这样的观点，那就是应该用别人认为最合适的名字和代词来指代他们，不管这些名字和代词是否与出生证明相符，或者是否与男性和女性的分类相符。
 
 然而，对于跨性别者在出生性别和认同性别之间的差异，生物学上的理解仍然很难。近年来，功能磁共振成像（fMRI）等技术已经开始为性别焦虑症的生物学基础提供线索。特别是，研究人员正在鉴定跨性别者和顺性别者大脑结构和功能方面的异同，这有助于解释一个人为什么会认为自己的性别和出生性别不匹配。顺性别者是与跨性别者相对的一个词，指那些性别认同及表达与出生时的生理性别相符的人。
 
-![1976 年奥运十项全能冠军、演员、卡戴珊母亲的前夫Bruce Jenner（左）于2015年宣布变性，并易名为Caitlyn Jenner（右）。](//k.sinaimg.cn/n/tech/crawl/59/w550h309/20200807/3570-ixkvvue0253958.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![1976 年奥运十项全能冠军、演员、卡戴珊母亲的前夫Bruce Jenner（左）于2015年宣布变性，并易名为Caitlyn Jenner（右）。](https://k.sinaimg.cn/n/tech/crawl/59/w550h309/20200807/3570-ixkvvue0253958.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 阿姆斯特丹自由大学医学中心研究的Baudewijntje Kreukels一直在研究性别不一致，她指出，这类鉴定结果可能对性别焦虑症的诊断和治疗没有太大影响。“有一点非常重要，那就是不要把这类研究当作‘在大脑中看到（性别焦虑症），它就是真的。’”不过，这类研究的洞察可以很大程度上帮助一些跨性别者理解自身境况的根源。搞清楚认同性别与出生性别之间的差异，是否能够经由测量大脑反映得出，总归是一件好事。
 

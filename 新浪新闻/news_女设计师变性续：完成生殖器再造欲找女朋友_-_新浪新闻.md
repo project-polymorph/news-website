@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![女设计师变性续](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/761a-b3583e0cab836172ee79a6e6e424e011.jpg)
+![女设计师变性续](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/761a-b3583e0cab836172ee79a6e6e424e011.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -86,7 +86,7 @@
 
 昨晚6时许，耿子被推出手术室，她仍在半清醒状态。她一边说痛，一边忙不迭地问医生手术做得怎么样。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

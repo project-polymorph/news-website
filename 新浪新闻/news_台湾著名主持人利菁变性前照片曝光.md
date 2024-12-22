@@ -3,14 +3,14 @@
 ## 正文 { data-search-exclude }
 
 
-![利菁变性前照片](//n.sinaimg.cn/sinacn10208/358/w179h179/20191010/a4d2-ifrwayx3596876.jpg)
+![利菁变性前照片](https://n.sinaimg.cn/sinacn10208/358/w179h179/20191010/a4d2-ifrwayx3596876.jpg)
 
 ## 来源：台海网 { data-search-exclude }
 ### 日期：2009.05.07 16:39
 
 利菁老公并不嫌弃利菁的过去
 
-![利菁变性前照片](//www.sinaimg.cn/dy/s/2009-05-07/ca73b8978e8dbd4669c12895204ec4ef.bmp)
+![利菁变性前照片](https://www.sinaimg.cn/dy/s/2009-05-07/ca73b8978e8dbd4669c12895204ec4ef.bmp)
 
 利菁变性前照片曝光
 

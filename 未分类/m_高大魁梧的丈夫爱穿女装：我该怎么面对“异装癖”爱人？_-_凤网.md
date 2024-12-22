@@ -49,12 +49,12 @@
 
 你可以让他回忆童年或青少年时期的生活经历，寻找他喜欢穿“异装”的早期成因，然后，有针对性地寻找解决方案。如果在此遇到了困难，可以向心理医生或心理咨询师请教。夫妻俩一起了解异装癖，让彼此获得理解，加大彼此之间的包容和支持。
 
-![图片](//m.fengone.com/images/dz.png?v=662380e230b28) 赞
+![图片](https://m.fengone.com/images/dz.png?v=662380e230b28) 赞
 
 ### 标签
-- [情感](//m.fengone.com/tag/%E6%83%85%E6%84%9F/ "情感")
-- [门诊](//m.fengone.com/tag/%E9%97%A8%E8%AF%8A/ "门诊")
-- [凤网情感](//m.fengone.com/tag/%E5%87%A4%E7%BD%91%E6%83%85%E6%84%9F/ "凤网情感")
+- [情感](https://m.fengone.com/tag/%E6%83%85%E6%84%9F/ "情感")
+- [门诊](https://m.fengone.com/tag/%E9%97%A8%E8%AF%8A/ "门诊")
+- [凤网情感](https://m.fengone.com/tag/%E5%87%A4%E7%BD%91%E6%83%85%E6%84%9F/ "凤网情感")
 
 ## 摘要与附加信息
 

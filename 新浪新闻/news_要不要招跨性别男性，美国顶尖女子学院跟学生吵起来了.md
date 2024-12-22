@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![韦尔斯利学院](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg)
+![韦尔斯利学院](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg)
 
 ## 观察者网 { data-search-exclude }
 
@@ -13,7 +13,7 @@
 
 不过，学院校长已公开反对这一公投，此前她在一份信中警告称，公投的结果不会对学校的政策或实践产生任何影响，并重申学校只考虑那些“以女性身份生活并始终认为自己是女性”的申请者，该学院在2015年开始招收跨性别女性（“男跨女”）。但校长的这封信招致强烈反对，学生报的编辑委员会甚至批评校方发表“跨性别恐惧症言论”。
 
-![美国哥伦比亚广播公司（CBS）报道截图](//k.sinaimg.cn/n/spider20230315/561/w1022h339/20230315/ec0b-7defada1d3b707f5cc6b6d461ec7b50c.png/w700d1q75cms.jpg?by=cms_fixed_width)
+![美国哥伦比亚广播公司（CBS）报道截图](https://k.sinaimg.cn/n/spider20230315/561/w1022h339/20230315/ec0b-7defada1d3b707f5cc6b6d461ec7b50c.png/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 美国哥伦比亚广播公司（CBS）报道截图 { data-search-exclude }
 
@@ -21,7 +21,7 @@
 
 作为美国顶尖女子文理学院，该校拥有一大批著名校友，包括前美国第一夫人希拉里·克林顿、美国历史上第一位女性国务卿马德琳·奥尔布赖特、美国知名电影制片人诺拉·艾芙伦，以及中国的宋美龄、冰心。
 
-![韦尔斯利学院](//k.sinaimg.cn/n/spider20230315/383/w2048h1535/20230315/1791-1e7b19dc0a24f5926ab3b408c01741a7.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![韦尔斯利学院](https://k.sinaimg.cn/n/spider20230315/383/w2048h1535/20230315/1791-1e7b19dc0a24f5926ab3b408c01741a7.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## 韦尔斯利学院 { data-search-exclude }
 

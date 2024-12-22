@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-![英国一跨性别女性因强奸两名女性获罪 将被送往女子监狱](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/490AB9E362D8D5AF01478D07AC6F516F428835B9_size139_w2761_h773.jpg)
+![英国一跨性别女性因强奸两名女性获罪 将被送往女子监狱](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/490AB9E362D8D5AF01478D07AC6F516F428835B9_size139_w2761_h773.jpg)
 
 ![图片来源](https://d.ifengimg.com/q100/img1.ugc.ifeng.com/newugc/20200405/16/wemedia/874b68a41191f328babce0e8ff4dbdc366a0dba9_size63_w200_h200.png)
 
 来源: [观察者网](https://ishare.ifeng.com/mediaShare/home/311993/media)  
 时间: 2023年01月25日 14:20:59 来自上海市  
-评论: [1840人参与](//gentie.ifeng.com/c/comment/8MrUmJMDM7s) [147评论](//gentie.ifeng.com/c/comment/8MrUmJMDM7s)
+评论: [1840人参与](https://gentie.ifeng.com/c/comment/8MrUmJMDM7s) [147评论](https://gentie.ifeng.com/c/comment/8MrUmJMDM7s)
 
 （观察者网讯）综合英国广播公司、《每日邮报》、《每日电讯报》等英媒1月24日报道，英国一跨性别者因强奸两名女性而被定罪，现该跨性别强奸犯将被送往女子监狱等待宣判。
 
@@ -54,7 +54,7 @@
 “特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。”
 
 **责任编辑：徐如一 PN370**  
-评论: [147 条评论](//gentie.ifeng.com/c/comment/8MrUmJMDM7s) / [1840 人参与网友评论](//gentie.ifeng.com/c/comment/8MrUmJMDM7s)  
+评论: [147 条评论](https://gentie.ifeng.com/c/comment/8MrUmJMDM7s) / [1840 人参与网友评论](https://gentie.ifeng.com/c/comment/8MrUmJMDM7s)  
 
 文明上网，不传谣言，登录评论！  
 发表评论  

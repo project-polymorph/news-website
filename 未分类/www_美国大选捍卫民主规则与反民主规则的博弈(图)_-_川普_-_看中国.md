@@ -6,7 +6,7 @@
 作者：何清涟  
 发表：2024-10-29 09:25
 
-![川普](//img6.secretchina.com/pic/2024/10-28/p3555301a246662195-ss.jpg) 2024 年 10 月 27 日，美国前总统、共和党总统候选人唐纳德-特朗普在纽约麦迪逊广场花园举行的竞选集会上发表讲话。（图片来源：Photo by ANGELA WEISS/AFP via Getty Images）
+![川普](https://img6.secretchina.com/pic/2024/10-28/p3555301a246662195-ss.jpg) 2024 年 10 月 27 日，美国前总统、共和党总统候选人唐纳德-特朗普在纽约麦迪逊广场花园举行的竞选集会上发表讲话。（图片来源：Photo by ANGELA WEISS/AFP via Getty Images）
 
 【看中国2024年10月29日讯】[美国](https://www.secretchina.com/news/gb/tag/美国)2024大选日即将到来，贯串这轮选举的主线明显是共和党一方坚持选举规则与民主党一方反规则。主要表现在两点，一是民主党掌控的15个州完全不验投票者ID，还有几个民主党州则将验证ID变成验证驾照，因为民主党政府早就下令让非法移民在全国范围内获颁发驾照。二是仿2020舞弊经验，违反选举日当天公布结果的惯例，目前有四大摇摆州宣布要延迟5-15天。现在，美国现在没人说得清这场选举将以什么形式落幕。以下是近日选情分析。
 
@@ -68,10 +68,10 @@
 
 （文章仅代表作者个人立场和观点）
 
-**来源**: [上报](//search.secretchina.com/news/gb/tag/上报)  
-**标签**: [美国](//search.secretchina.com/news/gb/tag/%E7%BE%8E%E5%9B%BD), [大选](//search.secretchina.com/news/gb/tag/%E5%A4%A7%E9%80%89), [川普](//search.secretchina.com/news/gb/tag/%E5%B7%9D%E6%99%AE), [民主](//search.secretchina.com/news/gb/tag/%E6%B0%91%E4%B8%BB), [政府](//search.secretchina.com/news/gb/tag/%E6%94%BF%E5%BA%9C), [舞弊](//search.secretchina.com/news/gb/tag/%E8%88%9E%E5%BC%8A)
+**来源**: [上报](https://search.secretchina.com/news/gb/tag/上报)  
+**标签**: [美国](https://search.secretchina.com/news/gb/tag/%E7%BE%8E%E5%9B%BD), [大选](https://search.secretchina.com/news/gb/tag/%E5%A4%A7%E9%80%89), [川普](https://search.secretchina.com/news/gb/tag/%E5%B7%9D%E6%99%AE), [民主](https://search.secretchina.com/news/gb/tag/%E6%B0%91%E4%B8%BB), [政府](https://search.secretchina.com/news/gb/tag/%E6%94%BF%E5%BA%9C), [舞弊](https://search.secretchina.com/news/gb/tag/%E8%88%9E%E5%BC%8A)
 
-![善举如烛《看中国》与您相约(图)](//img5.secretchina.com/pic/2024/7-7/p3512061a940287834.jpg)
+![善举如烛《看中国》与您相约(图)](https://img5.secretchina.com/pic/2024/7-7/p3512061a940287834.jpg)
 
 ## 摘要与附加信息
 

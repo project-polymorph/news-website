@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![ 上海52岁男子做变性手术成女人 盼按女性身份退休](//x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
+![ 上海52岁男子做变性手术成女人 盼按女性身份退休](https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
 
 **时间**: 2011年12月24日 19:59:59  
 **来源**: 凤凰网  

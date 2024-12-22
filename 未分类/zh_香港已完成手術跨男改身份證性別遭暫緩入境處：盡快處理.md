@@ -15,7 +15,7 @@
 
 > 海仔是一位女跨男的聾人，去年11月已完成性別重置手術。今年一月，他按程序向入境處申請更改身份證性別。
 
-![香港入境處](//upload.wikimedia.org/wikipedia/commons/thumb/7/79/HK_ImmgrationTower_Entrance.JPG/220px-HK_ImmgrationTower_Entrance.JPG)
+![香港入境處](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HK_ImmgrationTower_Entrance.JPG/220px-HK_ImmgrationTower_Entrance.JPG)
 
 終審法院二月裁定，入境處要求跨性別人士，必須接受完整性別重置手術，才可更改身份證性別的政策違憲後，處方重新審視規定，暫停了更改身份證性別的申請。
 
@@ -28,7 +28,7 @@
 
 香港傳媒《集誌社》3月10日報道有關事件，其後再作跟進，入境處今日再回覆《集誌社》查詢指，會盡快處理已完成性別重置手術人士，更改身份證性別記項的申請。
 
-![香港入境處](//upload.wikimedia.org/wikipedia/commons/thumb/1/19/HK_Wan_Chai_North_Gloucester_Road_Wanchai_Immigration_Tower_n_red_flower_cotton_tree_March_2021_SS2_01.jpg/220px-HK_Wan_Chai_North_Gloucester_Road_Wanchai_Immigration_Tower_n_red_flower_cotton_tree_March_2021_SS2_01.jpg)
+![香港入境處](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/HK_Wan_Chai_North_Gloucester_Road_Wanchai_Immigration_Tower_n_red_flower_cotton_tree_March_2021_SS2_01.jpg/220px-HK_Wan_Chai_North_Gloucester_Road_Wanchai_Immigration_Tower_n_red_flower_cotton_tree_March_2021_SS2_01.jpg)
 
 入境處認為，處理已完成性別重置手術人士提出更改性別記項申請，並不會抵觸終審法院的判決。
 
@@ -53,7 +53,7 @@
 
 《集誌社》記者其後再追問入境處，有那些政府部門涉及今次的政策檢視，及會否先恢復已完成性別重置手術人士更改身份證性別的申請？
 
-![香港入境處](//upload.wikimedia.org/wikipedia/commons/thumb/5/56/HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_Immigration_Tower_name_sign_January_2020_SSG.jpg/220px-HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_Immigration_Tower_name_sign_January_2020_SSG.jpg)
+![香港入境處](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_Immigration_Tower_name_sign_January_2020_SSG.jpg/220px-HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_Immigration_Tower_name_sign_January_2020_SSG.jpg)
 
 入境處發言人今日（17日）回覆指，會盡快處理已完成性別重置手術人士，提出更改身份證上性別記項的申請。
 
@@ -77,7 +77,7 @@
 
 協助海仔的Pride Lab也表示，報道刊出後，也收到另一位跨女的求助，看到入境處最新回覆，希望會在三月內收到消息。畢竟，按過往程序，海仔應已能完成更換身份證。
 
-![香港入境處](//upload.wikimedia.org/wikipedia/commons/thumb/7/79/HZMB_HK_Passenger_Clearance_Building_Immigration_Department_Backdrop.jpg/220px-HZMB_HK_Passenger_Clearance_Building_Immigration_Department_Backdrop.jpg)
+![香港入境處](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HZMB_HK_Passenger_Clearance_Building_Immigration_Department_Backdrop.jpg/220px-HZMB_HK_Passenger_Clearance_Building_Immigration_Department_Backdrop.jpg)
 
 > 《集誌社》表示，採訪多年，記者面對政策問題、社會不公義，持之以恆的跟進，往往沒有成果；但努力跟進，拒絕遺忘，繼續見證記錄，是他們從事新聞工作的初衷。
 
@@ -86,7 +86,7 @@
 -   [已完成手術跨男改身份證性別遭暫緩　入境處：盡快處理，不抵觸終院判決](https://thecollectivehk.com/%e5%b7%b2%e5%ae%8c%e6%88%90%e6%89%8b%e8%a1%93%e8%b7%a8%e7%94%b7%e6%94%b9%e8%ba%ab%e4%bb%bd%e8%ad%89%e6%80%a7%e5%88%a5%e9%81%ad%e6%9a%ab%e7%b7%a9%e3%80%80%e5%85%a5%e5%a2%83%e8%99%95%ef%bc%9a%e7%9b%a1/)，[集誌社](https://zh.wikipedia.org/wiki/%E9%9B%86%E8%AA%8C%E7%A4%BE "w:集誌社")，2023年3月26日。
 -   [《集誌社》電子報 2023.03.25](https://thecollectivehongkong.substack.com/p/20230325?utm_source=post-email-title&publication_id=1328312&post_id=110186853&isFreemail=true&utm_medium=email)，[集誌社](https://zh.wikipedia.org/wiki/%E9%9B%86%E8%AA%8C%E7%A4%BE "w:集誌社")。
 
-![版权说明](//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/30px-PD-icon.svg.png)
+![版权说明](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/30px-PD-icon.svg.png)
 
 這篇新聞報道的全部或部分內容，來自[集誌社](https://thecollectivehk.com/%e5%b7%b2%e5%ae%8c%e6%88%90%e6%89%8b%e8%a1%93%e8%b7%a8%e7%94%b7%e6%94%b9%e8%ba%ab%e4%bb%bd%e8%ad%89%e6%80%a7%e5%88%A5%e9%81%ad%e6%9a%ab%e7%b7%a9%e3%80%80%e5%85%a5%e5%a2%83%e8%99%95%ef%bc%9a%e7%9b%a1/)。[集誌社的所有文章、資訊圖片均按均在 Creative Commons 之條款下提供予維基新聞](https://thecollectivehk.com/%e7%89%88%e6%ac%8a%e8%81%b2%e6%98%8e/)。
 

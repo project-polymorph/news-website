@@ -22,7 +22,7 @@
 
 如需下载客户端以获取更多信息，请访问[这里](https://a.ifeng.com/?from=pcVideo)。
 
-![](//qrcode.ifeng.com/2023/04/06/0116ce83bc61faedae930ef04f74b1c7.png)
+![](https://qrcode.ifeng.com/2023/04/06/0116ce83bc61faedae930ef04f74b1c7.png)
 
 请注意，评论区和其他网页信息已被省略。
 

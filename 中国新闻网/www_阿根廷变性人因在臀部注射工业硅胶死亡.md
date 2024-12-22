@@ -23,9 +23,9 @@
 
 以下留言仅代表网友个人观点  
 [国际频道:](/world/index.shtml)  
-[大千世界](//channel.chinanews.com/cns/cl/gj-dqsj.shtml)  
-[国际人物](//channel.chinanews.com/cns/cl/gj-rwbg.shtml)  
-[世界观](//channel.chinanews.com/cns/cl/gj-zxsjg.shtml)  
+[大千世界](https://channel.chinanews.com/cns/cl/gj-dqsj.shtml)  
+[国际人物](https://channel.chinanews.com/cns/cl/gj-rwbg.shtml)  
+[世界观](https://channel.chinanews.com/cns/cl/gj-zxsjg.shtml)  
 
 ---
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![山西晚报](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0d8-cbd48563dc9d8c31bb0b7bd26c8cd1ed.jpg)
+![山西晚报](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/b0d8-cbd48563dc9d8c31bb0b7bd26c8cd1ed.jpg)
 
 ## 来源: 山西晚报 { data-search-exclude }
 ## 时间: 2006.06.20 03:31 { data-search-exclude }

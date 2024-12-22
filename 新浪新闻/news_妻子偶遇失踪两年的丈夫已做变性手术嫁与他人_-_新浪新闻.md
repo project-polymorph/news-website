@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![placeholder](//beacon.sina.com.cn/a.gif?noScript)
+![placeholder](https://beacon.sina.com.cn/a.gif?noScript)
 
 **来源**: 武汉晚报  
 **时间**: 2004年09月25日08:52  

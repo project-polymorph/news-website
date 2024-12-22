@@ -3,18 +3,18 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：华商网-华商报   { data-search-exclude }
 **时间：2012.08.03 04:38**
 
-![](//k.sinaimg.cn/www/ent/s/u/2012-08-03/U7393P28T3D3701901F326DT20120803043821.jpg)
+![](https://k.sinaimg.cn/www/ent/s/u/2012-08-03/U7393P28T3D3701901F326DT20120803043821.jpg)
 
-![导演拉里沃卓斯基变性后](//www.sinaimg.cn/ent/s/u/2012-08-03/U7393P28T3D3701901F326DT20120803043821.jpg)
+![导演拉里沃卓斯基变性后](https://www.sinaimg.cn/ent/s/u/2012-08-03/U7393P28T3D3701901F326DT20120803043821.jpg)
 
 ## 导演拉里沃卓斯基变性后 { data-search-exclude }
 
-![](//www.sinaimg.cn/ent/s/u/2012-08-03/U7393P28T3D3701901F329DT20120803043821.jpg)
+![](https://www.sinaimg.cn/ent/s/u/2012-08-03/U7393P28T3D3701901F329DT20120803043821.jpg)
 
 ## 变性前后对比 { data-search-exclude }
 
@@ -34,7 +34,7 @@
 
 但2007年和沃卓斯基合作多次的电影制片人乔尔斯利福终于忍不住站出来，替拉里澄清变性传闻，“那些传闻都不真实，他不参加访谈，是媒体在添油加醋。”类似言论也得到电影《极速赛车手》片场工作人员的再次证实，有人指出：“在工作手册上，还是叫他拉里。”可这些澄清并未能堵住悠悠众口，因为时不时有狗仔偷拍到生活中的拉里着女装留长发仪态万方，简直就是百分百女人。还有，拉里与前妻离婚时，女方声称离婚原因之一是自己“无法满足拉里那些变态愿望”。更可怕的是，拉里妻子的前夫也跳出来爆料凑热闹，“当他和我的前妻走在红地毯上时，其实他那身剪裁贴身的西装下穿戴的是胸罩和女式内衣。” 综合
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论点击查看更多 { data-search-exclude }
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![avatar](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![avatar](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：法制早报 { data-search-exclude }
 
@@ -131,7 +131,7 @@
 
 高婷婷说，在打官司的同时，他也在联系医院，下一步要做隆胸手术和生殖器手术，而且，他还想做个面部去皱。本报记者：张娜
 
-![image](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![image](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

@@ -7,7 +7,7 @@
 
 发布于：江西省
 
-![纪录片图片](//q1.itc.cn/images01/20240514/d8db4f12e5354de4961ad5c21b597bc9.jpeg)
+![纪录片图片](https://q1.itc.cn/images01/20240514/d8db4f12e5354de4961ad5c21b597bc9.jpeg)
 
 **纪录片部落**官网分享：
 

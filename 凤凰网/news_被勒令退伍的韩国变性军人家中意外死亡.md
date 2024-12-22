@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![被勒令退伍的韩国变性军人家中意外死亡](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2021_10/6107518F1357A6F5632CC3E7CD4350195CAC1416_size1103_w1543_h871.png)
+![被勒令退伍的韩国变性军人家中意外死亡](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2021_10/6107518F1357A6F5632CC3E7CD4350195CAC1416_size1103_w1543_h871.png)
 
 **来源：凤凰网**  
 **时间：2021年03月04日 18:32:02**  
@@ -21,7 +21,7 @@
 
 凤凰账号/新浪微博
 
-[查看全部评论>>](//gentie.ifeng.com/c/comment/84LDfUegI4B)
+[查看全部评论>>](https://gentie.ifeng.com/c/comment/84LDfUegI4B)
 
 ## 摘要与附加信息
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//p7.itc.cn/q_70,c_lfill,w_140,h_140,g_face/mpbp/pro/20201010/5803eb73a00a4d39b35103420a78a0b8.jpeg)
+![](https://p7.itc.cn/q_70,c_lfill,w_140,h_140,g_face/mpbp/pro/20201010/5803eb73a00a4d39b35103420a78a0b8.jpeg)
 
 #### 来源：[ITBEAR科技资讯](https://mp.sohu.com/profile?xpt=c29odXptdGhsc21zaHRAc29odS5jb20=&spm=smpc.content.author.2.1730961217231LusrQDU)
 
@@ -14,7 +14,7 @@
 
 【ITBEAR】在备受瞩目的游戏《龙腾世纪：影障守护者》中，一个引人注目的新元素引发了玩家们的热议——非二元性别角色的引入。这不仅是该系列首次出现此类角色，还允许玩家自身扮演非传统性别角色，深入探索性别认同的多样性。
 
-![](//q4.itc.cn/q_70/images03/20241102/1f3ba3d7e22a49ca9232c0673be391f0.jpeg)
+![](https://q4.itc.cn/q_70/images03/20241102/1f3ba3d7e22a49ca9232c0673be391f0.jpeg)
 
 游戏中的角色塔什，以其独特的性别认同成为了话题的焦点。塔什的性别发现之旅是游戏情节的重要组成部分，解释了为何在宣传中其性别代词使用上的模糊处理。这种处理方式既保持了剧情的神秘感，也体现了制作方BioWare对性别议题的细致考量。
 

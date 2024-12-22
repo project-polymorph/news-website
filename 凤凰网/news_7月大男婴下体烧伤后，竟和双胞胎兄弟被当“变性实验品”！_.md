@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![7月大男婴下体烧伤后，竟和双胞胎兄弟被当“变性实验品”！雌雄莫辨痛苦长大，两人相继自杀](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/66D7BA1C74F4C3472913D92E88CA58C5554BCE64_size78_w1080_h567.jpg)
+![7月大男婴下体烧伤后，竟和双胞胎兄弟被当“变性实验品”！雌雄莫辨痛苦长大，两人相继自杀](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/66D7BA1C74F4C3472913D92E88CA58C5554BCE64_size78_w1080_h567.jpg)
 
 [英国报姐](https://ishare.ifeng.com/mediaShare/home/9656/media)
 

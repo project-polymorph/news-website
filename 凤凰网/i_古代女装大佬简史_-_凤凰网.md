@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![古 代 女 装 大 佬 简 史](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2022_13/55F08AFEAD61B0D2BE178560C796B8E7369A04D9_size67_w573_h300.jpg)
+![古 代 女 装 大 佬 简 史](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2022_13/55F08AFEAD61B0D2BE178560C796B8E7369A04D9_size67_w573_h300.jpg)
 
 [凤凰网读书](https://ishare.ifeng.com/mediaShare/home/1221974/media)
 

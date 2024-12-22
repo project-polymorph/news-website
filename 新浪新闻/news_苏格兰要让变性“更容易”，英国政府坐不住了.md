@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![苏格兰要让变性“更容易”，英国政府坐不住了](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg)
+![苏格兰要让变性“更容易”，英国政府坐不住了](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg)
 
 ## 来源 { data-search-exclude }
 
@@ -23,7 +23,7 @@
 
 当前，苏格兰的这条法案只要获得英国王室许可即可实行，但英国政府有权阻止法案的推行，而1月19日是最后的期限。
 
-![苏纳克和斯特金在12日会晤 官方图](//k.sinaimg.cn/n/spider20230115/530/w800h530/20230115/2247-372071c3da4887adb77dae81dc62e593.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![苏纳克和斯特金在12日会晤 官方图](https://k.sinaimg.cn/n/spider20230115/530/w800h530/20230115/2247-372071c3da4887adb77dae81dc62e593.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 12日，苏纳克前往苏格兰，并与苏格兰首席部长斯特金举行了私人晚宴。随后他表示，他对这一法案对整个英国的影响感到“担忧”。
 

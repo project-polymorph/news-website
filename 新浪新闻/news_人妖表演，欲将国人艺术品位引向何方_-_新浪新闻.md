@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![人妖表演](//beacon.sina.com.cn/a.gif?noScript)
+![人妖表演](https://beacon.sina.com.cn/a.gif?noScript)
 
 **时间：** 2012年10月13日00:54  
 **来源：** [红网](http://hlj.rednet.cn/c/2012/10/13/2776595.htm)  

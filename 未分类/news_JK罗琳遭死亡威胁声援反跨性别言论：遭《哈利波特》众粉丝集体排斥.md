@@ -3,11 +3,11 @@
 ## 正文 { data-search-exclude }
 
 
-![JK罗琳遭死亡威胁 声援反跨性别言论：遭《哈利波特》众粉丝集体排斥](//img1.mydrivers.com/img/20211123/s_63f2438f6c494d458b257d6f5fe976d0.png)
+![JK罗琳遭死亡威胁 声援反跨性别言论：遭《哈利波特》众粉丝集体排斥](https://img1.mydrivers.com/img/20211123/s_63f2438f6c494d458b257d6f5fe976d0.png)
 
 **时间：** 2021-11-23 20:43:57  
 **来源：** 快科技  
-**作者：** [雪花](//passport.mydrivers.com/author/944168.html "雪花的主页")  
+**作者：** [雪花](https://passport.mydrivers.com/author/944168.html "雪花的主页")  
 **编辑：** 雪花  
 **人气：** 15950 次
 
@@ -22,7 +22,7 @@
 ***  
 【本文结束】如需转载请务必注明出处：快科技  
 
-**标签：** [#哈利波特](//news.mydrivers.com/tag/halibote.htm) [#网友热议](//news.mydrivers.com/tag/wangyoureyi.htm)  
+**标签：** [#哈利波特](https://news.mydrivers.com/tag/halibote.htm) [#网友热议](https://news.mydrivers.com/tag/wangyoureyi.htm)  
 
 **评论（0）**
 

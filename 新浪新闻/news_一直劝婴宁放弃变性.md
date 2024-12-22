@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![婴宁](//n.sinaimg.cn/sinakd10202/360/w180h180/20221208/88a5-948434ce358a79d3b13998c854ada80f.jpg)
+![婴宁](https://n.sinaimg.cn/sinakd10202/360/w180h180/20221208/88a5-948434ce358a79d3b13998c854ada80f.jpg)
 
 ## 每日新报 { data-search-exclude }
 
@@ -29,7 +29,7 @@
 
 新报记者 万力闻
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 

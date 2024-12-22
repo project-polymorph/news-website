@@ -8,7 +8,7 @@
 **发布时间：** 2014-04-10
 
 **标签：** 杂谈  
-**分类：** [社会与生活](//blog.sina.com.cn/s/articlelist_1743951792_4_1.html)
+**分类：** [社会与生活](https://blog.sina.com.cn/s/articlelist_1743951792_4_1.html)
 
 ![PFLAG](http://photos.state.gov/libraries/amgov/3234/Week_1/04032014_AP05062609126_jpg_600.jpg)
 

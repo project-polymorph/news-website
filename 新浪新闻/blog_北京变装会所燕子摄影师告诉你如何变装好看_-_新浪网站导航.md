@@ -7,7 +7,7 @@
 **时间**：2018-12-21 15:54:15  
 **来源**：[新浪博客](http://blog.sina.com.cn/u/5330886634)  
 **标签**：反串摄影，摄影师15611681896，男扮女装摄影  
-**分类**：[反串摄影](//blog.sina.com.cn/s/articlelist_5330886634_6_1.html)  
+**分类**：[反串摄影](https://blog.sina.com.cn/s/articlelist_5330886634_6_1.html)  
 
 ![用户5330886634](http://portrait3.sinaimg.cn/5330886634/blog/180)
 
@@ -46,15 +46,15 @@
 
 从一位专业摄影师、一名职业摄影老师从事开办变装会所，可能全中国就我一个；会所走上变装摄影这条路子有很多原因，最重要的原因有两个：一是本人从小就有变装爱好意识，但实施不多；二是受到变装姐妹们的鼓励，在做婚纱影楼的日子里就有CD姐妹要求我来为她们拍摄变装艺术照（后称变装写真），她们发现我很理解很支持变装后，就希望我能做一个专门为CD服务的摄影会所。基于这两个重要原因，我冒险做了，很长一段时光，都是赔钱苦熬，但我的坚持没有白费，我即使赔钱也在不断完善内部，增加变装特定的大码服装和装备，慢慢换来了CD姐妹们的支持与厚爱。对外投资做广告、做网站，2011年已经做到了全国一流变装摄影会所的规模和知名度。享受男扮女装乐趣，会所还做变装绳艺体验和拍摄。
 
-![分享](//comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_13dbedfea0102yayq.html)
+![分享](https://comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_13dbedfea0102yayq.html)
 
 阅读(4398)  
 
-前一篇：[CD变装艺术照拍摄注意事项](//blog.sina.com.cn/s/blog_13dbedfea0102yayp.html)  
-后一篇：[北京拍形象照图片好的摄影工作室](//blog.sina.com.cn/s/blog_13dbedfea0102yayt.html)  
+前一篇：[CD变装艺术照拍摄注意事项](https://blog.sina.com.cn/s/blog_13dbedfea0102yayp.html)  
+后一篇：[北京拍形象照图片好的摄影工作室](https://blog.sina.com.cn/s/blog_13dbedfea0102yayt.html)  
 
 Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved  
-新浪公司 [版权所有](//www.sina.com.cn/intro/copyright.shtml)
+新浪公司 [版权所有](https://www.sina.com.cn/intro/copyright.shtml)
 
 ## 摘要与附加信息
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10203/360/w180h180/20221208/105b-80aa0451359415b89b3859bdd57b5f0e.jpg)
+![](https://n.sinaimg.cn/sinakd10203/360/w180h180/20221208/105b-80aa0451359415b89b3859bdd57b5f0e.jpg)
 
 ## 东亚经贸新闻 { data-search-exclude }
 
@@ -87,7 +87,7 @@
 
 (东亚经贸新闻供稿）
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 摘要与附加信息
 

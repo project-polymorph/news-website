@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![作者头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![作者头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源: 金羊网-新快报 { data-search-exclude }
 ## 时间: 2005.07.20 09:39 { data-search-exclude }

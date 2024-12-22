@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![张克莎](//n.sinaimg.cn/sinakd10203/238/w119h119/20221208/7ed3-a58e018751ed10b2d3ef2d3808732c16.jpg)
+![张克莎](https://n.sinaimg.cn/sinakd10203/238/w119h119/20221208/7ed3-a58e018751ed10b2d3ef2d3808732c16.jpg)
 
 ## 来源：新华网   { data-search-exclude }
 ### 日期：2003.07.15 11:37  

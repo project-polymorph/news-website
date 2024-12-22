@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//beacon.sina.com.cn/a.gif?noScript)
+![图片](https://beacon.sina.com.cn/a.gif?noScript)
 
 **来源**: 金羊网-新闻周刊  
 **时间**: 2002年01月31日12:07  

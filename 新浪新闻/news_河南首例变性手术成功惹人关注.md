@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：河南报业网-大河报 { data-search-exclude }
 
@@ -15,7 +15,7 @@
 
 据医生介绍，我省作为人口大省，按照十万分之一到十四万分之一的发病率推算，大约近千人患有这种罕见的疾病。(记者 王芷荭)
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)  
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性模特](//n.sinaimg.cn/sinakd10200/360/w180h180/20210713/92fa-279702cc9926ad8ba1a4a797f83a8e29.jpg)
+![变性模特](https://n.sinaimg.cn/sinakd10200/360/w180h180/20210713/92fa-279702cc9926ad8ba1a4a797f83a8e29.jpg)
 
 ## 信息时报 { data-search-exclude }
 
@@ -19,7 +19,7 @@
 
 21日，决心变性男子陈志聪(33岁)，疑因感觉变性手术遥遥无期，在失踪多日后，被发现在寓所烧炭自杀。
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

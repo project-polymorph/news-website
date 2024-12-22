@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 金羊网-羊城晚报 { data-search-exclude }
 
@@ -20,7 +20,7 @@
 
 百合，刚满22岁，身份证上的性别栏为男性，生活中却基本已经是一个实实在在的女人。百合来自安徽，读完了高中，曾考上大学，却放弃了学业做了变性手术，现在广州一家酒楼当女服务员。
 
-![图](//z8.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fo%2F2006-03-23%2Fb4f9f08a0a2ffc245959ba5d6127b9a2.jpg&size=328_218)
+![图](https://z8.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fo%2F2006-03-23%2Fb4f9f08a0a2ffc245959ba5d6127b9a2.jpg&size=328_218)
 
 **图**: 章琳有了新的身份证，性别一栏改为“女”，这是百合最羡慕的(资料图片)
 
@@ -108,7 +108,7 @@
 
 她最大的渴望是能买自己的房子，“我要有一个落脚地方，有正常的生活”。
 
-![与百合相比，四川变性人章琳是变性人中幸运的那一小部分，她变性后结了婚，和丈夫一起开了个理发店。在大众的注目下，堂堂正正地做女人做妻子](//z8.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fo%2F2006-03-23%2F71773074234b3ae24d23a5394b3ece72.jpg&size=328_218)
+![与百合相比，四川变性人章琳是变性人中幸运的那一小部分，她变性后结了婚，和丈夫一起开了个理发店。在大众的注目下，堂堂正正地做女人做妻子](https://z8.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fo%2F2006-03-23%2F71773074234b3ae24d23a5394b3ece72.jpg&size=328_218)
 
 **采访手记：**
 

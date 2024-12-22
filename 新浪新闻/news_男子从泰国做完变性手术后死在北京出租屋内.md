@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![相关图片](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/41bb-24c971da1316d17de47caa3c1b099cb2.jpg)
+![相关图片](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/41bb-24c971da1316d17de47caa3c1b099cb2.jpg)
 
 ## 新京报 { data-search-exclude }
 
@@ -21,7 +21,7 @@
 
 昨天下午，朝阳区新源里派出所值班民警称，程某死亡原因正在调查中。
 
-![默认图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![默认图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

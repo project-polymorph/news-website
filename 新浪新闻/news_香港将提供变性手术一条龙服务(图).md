@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性手术](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
+![变性手术](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/9a5e-68863e2aa95fcb69c00720aa3d256d64.jpg)
 
 ## 来源：中国新闻网 { data-search-exclude }
 
@@ -25,7 +25,7 @@
 
 (原标题：香港变性需求倍增 威院增设“一条龙”服务(图))
 
-![新浪新闻](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

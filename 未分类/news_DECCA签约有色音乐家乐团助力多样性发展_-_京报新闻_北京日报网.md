@@ -37,12 +37,12 @@
 
 **如遇作品内容、版权等问题，请在相关文章刊发之日起30日内与本网联系。版权侵权联系电话：010-85202353**
 
-![二维码](//img.bjd.com.cn/web/skin/images/qrcode.jpg)  
+![二维码](https://img.bjd.com.cn/web/skin/images/qrcode.jpg)  
 
-![微信](//img.bjd.com.cn/web/skin/images/wx.jpg)  
-![微博](//img.bjd.com.cn/web/skin/images/wb.jpg)  
+![微信](https://img.bjd.com.cn/web/skin/images/wx.jpg)  
+![微博](https://img.bjd.com.cn/web/skin/images/wb.jpg)  
 
-![logo](//img.takefoto.cn/web/skin/images/bjd-login-logo.png)  
+![logo](https://img.takefoto.cn/web/skin/images/bjd-login-logo.png)  
 
 长按二维码查看文章详情  
 

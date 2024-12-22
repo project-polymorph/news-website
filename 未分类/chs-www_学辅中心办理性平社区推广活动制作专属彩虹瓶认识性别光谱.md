@@ -15,15 +15,15 @@
 
 许多学员也在活动过程中意识到性别在自己身上所产生的影响力，学员回馈：「我已经很久的一段时间没有为自己想过，都一直在为别人付出，可是我为自己身为女性所拥有的坚强跟韧性感到骄傲，今天这堂课之后，我要好好跟自己在一起。」活动最后，大家选择了认为符合自己特性的颜色制作专属彩虹瓶，里民们能调出不同层次的彩虹光谱，足见每个人都拥有其独特性，黄尹贞讲师再次强调友善多元、尊重彼此并喜爱自己，为活动画下圆满句点。
 
-![01.黄尹贞讲师透过简报让民众认识多元性别的重要性](//my.ksu.edu.tw/img/bbcode/vE27wvZ_i9RcMGHubR67Xriqx24hcP3_qzG_rHW3MmS!4MSLuDHKrifh_n54DD4LjQ!PdnS_ddkKcXjrlR3ZQuVF0zJjFa8g1gOL18acpll_FiLqhkn9YRKZQ5m5rTd766FiIR3dFymrtULHK!Na0A--.jpg)
+![01.黄尹贞讲师透过简报让民众认识多元性别的重要性](https://my.ksu.edu.tw/img/bbcode/vE27wvZ_i9RcMGHubR67Xriqx24hcP3_qzG_rHW3MmS!4MSLuDHKrifh_n54DD4LjQ!PdnS_ddkKcXjrlR3ZQuVF0zJjFa8g1gOL18acpll_FiLqhkn9YRKZQ5m5rTd766FiIR3dFymrtULHK!Na0A--.jpg)
 
 **01.黄尹贞讲师透过简报让民众认识多元性别的重要性**
 
-![02.学员们选出一张符合个人认为自己拥有的性别特色卡片](//my.ksu.edu.tw/img/bbcode/vE27wvZ_i9RcMGHubR67Xriqx24hcP3_qzG_rHW3MmS!4MSLuDHKrifh_n54DD4LjQ!PdnS_ddkKcXjrlR3ZQtEjrFz7GLSN0BCz95X1vO3Wre4JnIgXWvFcI0q7!0hM1tWHtOtJWMQkaMCgYpSQng--.jpg)
+![02.学员们选出一张符合个人认为自己拥有的性别特色卡片](https://my.ksu.edu.tw/img/bbcode/vE27wvZ_i9RcMGHubR67Xriqx24hcP3_qzG_rHW3MmS!4MSLuDHKrifh_n54DD4LjQ!PdnS_ddkKcXjrlR3ZQtEjrFz7GLSN0BCz95X1vO3Wre4JnIgXWvFcI0q7!0hM1tWHtOtJWMQkaMCgYpSQng--.jpg)
 
 **02.学员们选出一张符合个人认为自己拥有的性别特色卡片**
 
-![03.大家透过互动游戏交流分享](//my.ksu.edu.tw/img/bbcode/vE27wvZ_i9RcMGHubR67Xriqx24hcP3_qzG_rHW3MmS!4MSLuDHKrifh_n54DD4LjQ!PdnS_ddkKcXjrlR3ZQoLX!gtvZH0QXO1Ea3f2WG2WMwGh!QtnUB4ENiIMddX8dCcEOQAeirmhiviB_u17cg--.jpg)
+![03.大家透过互动游戏交流分享](https://my.ksu.edu.tw/img/bbcode/vE27wvZ_i9RcMGHubR67Xriqx24hcP3_qzG_rHW3MmS!4MSLuDHKrifh_n54DD4LjQ!PdnS_ddkKcXjrlR3ZQoLX!gtvZH0QXO1Ea3f2WG2WMwGh!QtnUB4ENiIMddX8dCcEOQAeirmhiviB_u17cg--.jpg)
 
 **03.大家透过互动游戏交流分享**
 

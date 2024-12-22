@@ -3,9 +3,9 @@
 ## 正文 { data-search-exclude }
 
 
-![回到顶部](//p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1399431580096718/gotop_140616.jpg)
+![回到顶部](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1399431580096718/gotop_140616.jpg)
 
-![](//p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1400048814847511/X01_140617.jpg) [![央视新闻客户端](//p1.img.cctvpic.com/photoAlbum/page/performance/img/2015/7/9/1436410142930_194.jpg)](http://app.cntv.cn/appkhdxz/ysxwydb/index.shtml)
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1400048814847511/X01_140617.jpg) [![央视新闻客户端](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2015/7/9/1436410142930_194.jpg)](http://app.cntv.cn/appkhdxz/ysxwydb/index.shtml)
 
 [央视新闻客户端点击或扫描下载](http://app.cntv.cn/appkhdxz/ysxwydb/index.shtml)
 
@@ -45,23 +45,23 @@
 
 “政府没有干涉，但有来自社会的压力，”丁顺峰说，“社会压力将此类活动称为娘娘腔和变态的活动。”（编译/文怡）
 
-![扫一扫](//p1.img.cctvpic.com/photoAlbum/page/performance/img/2015/7/11/1436583847241_479.jpg)
+![扫一扫](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2015/7/11/1436583847241_479.jpg)
 
 扫一扫，用手机继续阅读!
 
-![央视网新闻移动端](//p2.img.cctvpic.com/photoAlbum/page/performance/img/2014/5/6/1399367566002_693.png)
+![央视网新闻移动端](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2014/5/6/1399367566002_693.png)
 
 央视新闻客户端[iPhone](https://itunes.apple.com/cn/app/yang-shi-xin-wen/id467289231?mt=8)
 
 央视新闻移动看！
 
-![CBox移动客户端](//p1.img.cctvpic.com/photoAlbum/page/performance/img/2014/5/6/1399367634031_816.png)
+![CBox移动客户端](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2014/5/6/1399367634031_816.png)
 
 [CBox央视影音](http://app.cctv.com/appkhdxz/ydb/index.shtml)
 
 下载到桌面，观看更方便！
 
-[![](//www.cctv.com/nettv/newCMS/endPage/end_files/ghs.png)京公网安备 11000002000018号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000018)
+[![](https://www.cctv.com/nettv/newCMS/endPage/end_files/ghs.png)京公网安备 11000002000018号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000018)
 
 ## 摘要与附加信息
 

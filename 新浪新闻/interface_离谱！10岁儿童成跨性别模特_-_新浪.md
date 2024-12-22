@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![诺埃拉](//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
+![诺埃拉](https://n.sinaimg.cn/sinakd10200/360/w180h180/20221208/84a8-a3261e8a019e4a65b2cd9f489ecd0422.jpg)
 
 ## 环球时报 { data-search-exclude }
 
@@ -15,19 +15,19 @@
 
 今年2月，诺埃拉曾参加2022秋冬纽约时装周，近日，美媒曝光，她不仅会继续参加下个月的2023春夏纽约时装周，还会在明年的巴黎时装周上亮相。在海外社交媒体上，众多网民批评，诺埃拉的父母是在“虐待儿童”，还有网民感慨，“感谢我的妈妈，没有因为我小时候喜欢洋娃娃，直接跑去把我的性别改了……”
 
-![诺埃拉与父母](//k.sinaimg.cn/n/sinakd20220825s/117/w640h277/20220825/0d31-09e1e353b5dbde166e9aefa306483fa1.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![诺埃拉与父母](https://k.sinaimg.cn/n/sinakd20220825s/117/w640h277/20220825/0d31-09e1e353b5dbde166e9aefa306483fa1.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 报道称，诺埃拉和弟弟（其母亲说“弟弟”是男孩，并称想让他保持为一名男孩，不清楚其出生时的性别）是母亲Dee和前夫蒂莫西生的，2019年夫妻二人离婚后，Dee和Ray McMaher作为一家人为两名小朋友办理了收养手续。
 
 Dee和Ray出生时都是女性，但如今两人均自认为非二元性别（non-binary），即LGBTQ+群体中的一员。
 
-![Dee和Ray](//k.sinaimg.cn/n/sinakd20220825s/693/w640h853/20220825/8ded-fdd5f8d62bb00da86ce1bdca45d841cf.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![Dee和Ray](https://k.sinaimg.cn/n/sinakd20220825s/693/w640h853/20220825/8ded-fdd5f8d62bb00da86ce1bdca45d841cf.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 左：Ray McMaher；右：Dee
 
 Dee介绍，诺埃拉从蹒跚学步起就不太喜欢小男孩的衣服，“2岁时，她就告诉我们，自己不是一个男孩，作为父母，我们的工作是让孩子拥抱自己的个人需要，诺埃拉从小就知道自己是谁”，后来，Dee带她去了一家性别认同诊所，此后，诺埃拉开始以一个女孩的状态生活，7岁时，诺埃拉已经完成了法律上的性别认定，成为一名法律上的女孩。
 
-![诺埃拉的首次走秀](//k.sinaimg.cn/n/sinakd20220825s/280/w540h540/20220825/5845-e481dc72ba94f6f58617774db42545a8.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![诺埃拉的首次走秀](https://k.sinaimg.cn/n/sinakd20220825s/280/w540h540/20220825/5845-e481dc72ba94f6f58617774db42545a8.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 Dee专门强调，自己从未强迫诺埃拉做一个女孩。“我们对时尚并不感兴趣，但诺埃拉喜欢亮片、化妆和服饰，我们甚至不知道如何鼓励这种女性气质。我和Ray都是跨性别者，她比我们俩（跨性别的时间）都早，诺埃拉是我们见过最自信的人，我时常告诉她，我希望自己也像她一样。”
 

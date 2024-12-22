@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10200/360/w180h180/20231128/3b24-6df10b84073067dce3c1f59832122b0e.jpg)
+![](https://n.sinaimg.cn/sinakd10200/360/w180h180/20231128/3b24-6df10b84073067dce3c1f59832122b0e.jpg)
 
 ## 来源：现代金报 { data-search-exclude }
 
@@ -19,7 +19,7 @@
 
 记者：姚琼
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

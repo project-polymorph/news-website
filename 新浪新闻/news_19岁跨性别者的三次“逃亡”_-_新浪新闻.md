@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![黄小迪](//n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
+![黄小迪](https://n.sinaimg.cn/sinakd10201/360/w180h180/20201208/5b51-keyancw9430301.jpg)
 
 ## 来源：澎湃新闻 { data-search-exclude }
 
@@ -36,7 +36,7 @@
 
 在父母心中，姐弟三人，小儿子黄小迪乖巧、听话，从不顶嘴，最得长辈的宠爱。
 
-![黄小迪小时候经常脚酸，走几步路就要人抱。本文图片均为澎湃新闻记者 明鹊 摄](//k.sinaimg.cn/n/sinakd2020630s/600/w600h800/20200630/04cb-ivrxcex8023522.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![黄小迪小时候经常脚酸，走几步路就要人抱。本文图片均为澎湃新闻记者 明鹊 摄](https://k.sinaimg.cn/n/sinakd2020630s/600/w600h800/20200630/04cb-ivrxcex8023522.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 黄小迪7岁那一年，奶奶因病过世，三姐弟被接回了葡萄镇。重返葡萄镇，黄小迪上一年级，因为学习成绩差，又是异乡人，她变得愈加内向、自卑。时间一长，她被同学笑话像女孩子一样扭扭捏捏。
 

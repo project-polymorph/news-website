@@ -3,12 +3,12 @@
 ## 正文 { data-search-exclude }
 
 
-![“江西第一变性人”将发写真 梦想今后走T台](//x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
+![“江西第一变性人”将发写真 梦想今后走T台](https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg)
 
 **时间：** 2010年09月08日 13:54:14  
 **来源：** 凤凰网  
 **作者：** 董雷 实习生 张璐  
-**评论：** [49人参与](//gentie.ifeng.com/c/comment/7fYvyOxZOhw)  
+**评论：** [49人参与](https://gentie.ifeng.com/c/comment/7fYvyOxZOhw)  
 
 ---
 

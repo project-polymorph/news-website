@@ -5,7 +5,7 @@
 
 ![新闻中心](http://i3.sinaimg.cn/home/images/logo/sina_xwzx.GIF)
 
-![](//beacon.sina.com.cn/a.gif?noScript)
+![](https://beacon.sina.com.cn/a.gif?noScript)
 
 **时间**: 2008年07月24日06:02  
 **来源**: [四川新闻网-成都晚报](http://www.cdwb.com.cn/)  

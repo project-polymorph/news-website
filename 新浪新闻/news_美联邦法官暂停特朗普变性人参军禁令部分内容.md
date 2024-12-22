@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 来源：中新网   { data-search-exclude }
 ### 时间：2017.10.31 10:17
@@ -16,7 +16,7 @@
 
 克塔莉表示，特朗普政府制定该政策没有任何事实支持，“虽然特朗普坚称该政策将会节约资金，但对军队预算的分析显示，花在变性军人身上的医疗开销并不多”。
 
-![资料图：美国总统特朗普。 中新社记者 廖攀 摄](//k.sinaimg.cn/n/translate/20170729/G9Ko-fyinvyk2086860.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![资料图：美国总统特朗普。 中新社记者 廖攀 摄](https://k.sinaimg.cn/n/translate/20170729/G9Ko-fyinvyk2086860.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 不过，联邦法官做出的暂停决定并不包括特朗普要求在明年3月起暂停变性人在军中进行变性手术的命令。克塔莉裁决称，特朗普政府可以执行这一部分的禁令。
 

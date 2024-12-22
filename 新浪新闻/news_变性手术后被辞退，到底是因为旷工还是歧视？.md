@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性手术](//n.sinaimg.cn/sinacn/20170919/c987-fykywuc7435594.jpg)
+![变性手术](https://n.sinaimg.cn/sinacn/20170919/c987-fykywuc7435594.jpg)
 
 ## 看看新闻KNEWS { data-search-exclude }
 
@@ -13,13 +13,13 @@
 
 这两天，一份今年1月份的判决书突然火了起来，做了变性手术的一位当当网员工，被公司以所请病假没有获得批准为理由，认定为旷工，遭到解雇。在经历了仲裁、一审、二审之后，法院最终认定：双方的劳动合同应当继续履行。
 
-![员工请假](//k.sinaimg.cn/n/sinakd202075s/128/w633h295/20200705/2247-ivwfwmp6976755.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![员工请假](https://k.sinaimg.cn/n/sinakd202075s/128/w633h295/20200705/2247-ivwfwmp6976755.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 其实，抛开员工请病假是因为做变性手术的原因，这个案件其实就显得很简单了：员工的请假流程，如果不符合公司的要求，是不是就一定属于旷工呢？请病假，到底是医生说了算，还是单位的HR，也就是当当网所谓的员工关系管理员说了算呢？
 
 就这个热门的话题，焦焦的同事也咨询了一些专攻劳动法的律师，来听听他们的说法。
 
-![律师咨询](//k.sinaimg.cn/n/sinakd202075s/107/w635h272/20200705/d9e0-ivwfwmp6976754.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+![律师咨询](https://k.sinaimg.cn/n/sinakd202075s/107/w635h272/20200705/d9e0-ivwfwmp6976754.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 ## “旷工”的理由到底成不成立？ { data-search-exclude }
 

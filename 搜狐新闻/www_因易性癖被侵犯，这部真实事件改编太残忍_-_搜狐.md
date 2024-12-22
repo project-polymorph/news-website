@@ -14,7 +14,7 @@
 
 当最后一根稻草被压垮时，他对着镜子，将剪刀伸向了下体……
 
-![图片1](//5b0988e595225.cdn.sohucs.com/images/20191231/3871e929b795479494eadf83ce91f1ea.jpeg)
+![图片1](https://5b0988e595225.cdn.sohucs.com/images/20191231/3871e929b795479494eadf83ce91f1ea.jpeg)
 
 很多人说看完这部电影，瞬间感觉下半身猛地一疼。
 
@@ -26,7 +26,7 @@
 
 **《男孩别哭》**
 
-![图片2](//5b0988e595225.cdn.sohucs.com/images/20191231/722fa0ab06bc4f54a00a2911a35f257d.jpeg)
+![图片2](https://5b0988e595225.cdn.sohucs.com/images/20191231/722fa0ab06bc4f54a00a2911a35f257d.jpeg)
 
 神奇的是，这部1999年的电影，和《女孩》有很多巧合之处。
 
@@ -40,7 +40,7 @@
 
 但这一切，她都无力阻止。
 
-![图片3](//5b0988e595225.cdn.sohucs.com/images/20191231/f1ba76cc09544e98bcecc867379ce55f.jpeg)
+![图片3](https://5b0988e595225.cdn.sohucs.com/images/20191231/f1ba76cc09544e98bcecc867379ce55f.jpeg)
 
 直到进入青春期后。
 
@@ -50,7 +50,7 @@
 
 没错，生理上作为女孩的布兰登，心理上其实是个男孩。
 
-![图片4](//5b0988e595225.cdn.sohucs.com/images/20191231/0330cff6e7e8423589d6b82e2bd6ba6c.gif)
+![图片4](https://5b0988e595225.cdn.sohucs.com/images/20191231/0330cff6e7e8423589d6b82e2bd6ba6c.gif)
 
 而且，还是个坏男孩。
 
@@ -62,7 +62,7 @@
 
 他认真的和女孩们邂逅，牵手，调情，接吻。
 
-![图片5](//5b0988e595225.cdn.sohucs.com/images/20191231/87e84cbe26394bee8eb7dff4fd39ef05.jpeg)
+![图片5](https://5b0988e595225.cdn.sohucs.com/images/20191231/87e84cbe26394bee8eb7dff4fd39ef05.jpeg)
 
 然而，每一次性别被识破，布兰登的下场都很狼狈。
 
@@ -72,7 +72,7 @@
 
 被发现的布兰登，也只能背上“骗感情的拉拉”的锅。
 
-![图片6](//5b0988e595225.cdn.sohucs.com/images/20191231/0b01f87e474b4e0db997f431b55d8770.gif)
+![图片6](https://5b0988e595225.cdn.sohucs.com/images/20191231/0b01f87e474b4e0db997f431b55d8770.gif)
 
 直到他来到一个叫“瀑布城”的地方，才真正找到了认同感。
 
@@ -84,7 +84,7 @@
 
 很明显，布兰登选择了后者。
 
-![图片7](//5b0988e595225.cdn.sohucs.com/images/20191231/8253944c30ef4d86b75d8e26e1ea944a.gif)
+![图片7](https://5b0988e595225.cdn.sohucs.com/images/20191231/8253944c30ef4d86b75d8e26e1ea944a.gif)
 
 他还遇到了那个命中注定的美丽女孩儿，拉娜。
 
@@ -92,7 +92,7 @@
 
 而人群中目光交汇的一刹那，就预示着他们彼此要纠缠一生。
 
-![图片8](//5b0988e595225.cdn.sohucs.com/images/20191231/61ddb60f4d864b42a300e81630b67318.gif)
+![图片8](https://5b0988e595225.cdn.sohucs.com/images/20191231/61ddb60f4d864b42a300e81630b67318.gif)
 
 电影的前半段，更像是《阳光灿烂的日子》。
 
@@ -100,7 +100,7 @@
 
 不知今夕是何年。
 
-![图片9](//5b0988e595225.cdn.sohucs.com/images/20191231/b2a6fb258db743828fc07c8eb372904f.gif)
+![图片9](https://5b0988e595225.cdn.sohucs.com/images/20191231/b2a6fb258db743828fc07c8eb372904f.gif)
 
 就在这个过程中，布兰登和拉娜的感情渐渐升温。
 
@@ -108,11 +108,11 @@
 
 他注意到拉娜喜欢柜台前的廉价蓝宝石戒指，就悄悄的拿走戒指，放在了拉娜的床前。
 
-![图片10](//5b0988e595225.cdn.sohucs.com/images/20191231/592856b65c114d88be05efa11643be81.jpeg)
+![图片10](https://5b0988e595225.cdn.sohucs.com/images/20191231/592856b65c114d88be05efa11643be81.jpeg)
 
 他用相机捕捉她的各种瞬间，安静的，疯癫的，专注的，悠闲的。
 
-![图片11](//5b0988e595225.cdn.sohucs.com/images/20191231/c15ecae608fd41f6a85bd90694d05047.gif)
+![图片11](https://5b0988e595225.cdn.sohucs.com/images/20191231/c15ecae608fd41f6a85bd90694d05047.gif)
 
 他们谈论着未来，憧憬着外面的世界。
 
@@ -122,7 +122,7 @@
 
 尽管布兰登一再掩盖自己的身体特征，敏感的拉娜还是发现了。
 
-![图片12](//5b0988e595225.cdn.sohucs.com/images/20191231/e9b2ba9cc71742fe9d8f3712119f7ef0.jpeg)
+![图片12](https://5b0988e595225.cdn.sohucs.com/images/20191231/e9b2ba9cc71742fe9d8f3712119f7ef0.jpeg)
 
 然而，善良的拉娜并没有戳穿布兰登。
 
@@ -134,7 +134,7 @@
 
 **我不管你是一半猴子还是一半猩猩，我要把你弄出去。**
 
-![图片13](//5b0988e595225.cdn.sohucs.com/images/20191231/5622772da9dd4d84943c9dbd7b692598.jpeg)
+![图片13](https://5b0988e595225.cdn.sohucs.com/images/20191231/5622772da9dd4d84943c9dbd7b692598.jpeg)
 
 这也许，是布兰登在这个世界上遇到的，最后的温柔了吧。
 
@@ -144,7 +144,7 @@
 
 周围仿佛有无数的声音在对他说：骗子，怪物，变态，恶心……
 
-![图片14](//5b0988e595225.cdn.sohucs.com/images/20191231/2d2e631787784c18aa6e69a5d9d43185.gif)
+![图片14](https://5b0988e595225.cdn.sohucs.com/images/20191231/2d2e631787784c18aa6e69a5d9d43185.gif)
 
 电影的片名中，有安慰意味的“别哭”二字，但故事的发展却想让人飚着泪骂娘。
 
@@ -156,13 +156,13 @@
 
 不断提醒着他，你这个变态，不过是一个女孩而已。
 
-![图片15](//5b0988e595225.cdn.sohucs.com/images/20191231/54a3801d56ad4f6ab04b443fb3d59b7f.jpeg)
+![图片15](https://5b0988e595225.cdn.sohucs.com/images/20191231/54a3801d56ad4f6ab04b443fb3d59b7f.jpeg)
 
 最后，受伤的“男孩”蜷缩着半裸的身体，绝望的泪水顺着脸颊流下。
 
 他的灵魂，在被强迫的那一刻就已经死了。
 
-![图片16](//5b0988e595225.cdn.sohucs.com/images/20191231/23f37613bec04295ab2a85e72f61b22b.jpeg)
+![图片16](https://5b0988e595225.cdn.sohucs.com/images/20191231/23f37613bec04295ab2a85e72f61b22b.jpeg)
 
 很多人说，这个虐心的故事，让人根本不敢再看第二遍。
 
@@ -178,7 +178,7 @@
 
 后来似乎只有铁娘子，男人婆一类的角色，才能引起观众的认同。
 
-![图片17](//5b0988e595225.cdn.sohucs.com/images/20191231/b543b8f9ae0c4a9eb61f9b55193606e9.jpeg)
+![图片17](https://5b0988e595225.cdn.sohucs.com/images/20191231/b543b8f9ae0c4a9eb61f9b55193606e9.jpeg)
 
 一个深入人心的角色带来的影响，要想改变尚且困难。
 
@@ -192,7 +192,7 @@
 
 甚至，一度想过要自杀。
 
-![图片18](//5b0988e595225.cdn.sohucs.com/images/20191231/5d27c06dfdfa4eb4ba7cac2f7136127c.jpeg)
+![图片18](https://5b0988e595225.cdn.sohucs.com/images/20191231/5d27c06dfdfa4eb4ba7cac2f7136127c.jpeg)
 
 其实以上的这一切，只因为他们被认为不是“正常”的人。
 
@@ -206,7 +206,7 @@
 
 没错，在真实的事件中，灵魂死去的布兰登，因为不被接受死在了子弹下。
 
-![图片19](//5b0988e595225.cdn.sohucs.com/images/20191231/2c5cd85306054ca09dcb89ab60f819b7.jpeg)
+![图片19](https://5b0988e595225.cdn.sohucs.com/images/20191231/2c5cd85306054ca09dcb89ab60f819b7.jpeg)
 
 扭曲的偏见，真的可以杀死一个人。
 

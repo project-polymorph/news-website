@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinacn/20170523/33f8-fyfkzhs9794054.jpg)
+![](https://n.sinaimg.cn/sinacn/20170523/33f8-fyfkzhs9794054.jpg)
 
 ## 来源：南方日报 { data-search-exclude }
 
@@ -41,7 +41,7 @@
 
 ---
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 摘要与附加信息
 

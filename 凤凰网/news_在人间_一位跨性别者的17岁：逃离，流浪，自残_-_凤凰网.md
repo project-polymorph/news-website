@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![在人间 | 一位跨性别者的17岁：逃离，流浪，自残](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2021_21/188192CFD9D688044F0E2F2E6C762431E92ACDA5_size236_w640_h147.gif)
+![在人间 | 一位跨性别者的17岁：逃离，流浪，自残](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/ucms/2021_21/188192CFD9D688044F0E2F2E6C762431E92ACDA5_size236_w640_h147.gif)
 
 [![下载客户端独家抢先看](http://d.ifengimg.com/q100/img1.ugc.ifeng.com/newugc/20190924/10/wemedia/0df760ed261bd10a90d1313bea599e2f338c320f_size9_w200_h200.png)](https://ishare.ifeng.com/mediaShare/home/2583/media) [![点击查看](http://x0.ifengimg.com/cmpp/2020/0907/1a8b50ea7b17cb0size3_w42_h42.png)](https://ishare.ifeng.com/mediaShare/home/2583/media)
 
@@ -179,12 +179,12 @@ LGBT+群体早已全部去精神病理化。扭转治疗 LGBT+也被证明是无
 
 **推荐**：1139
 
-**最热评论**：[169条评论](//gentie.ifeng.com/c/comment/86JniSEpZQg) / [1061人参与](//gentie.ifeng.com/c/comment/86JniSEpZQg)  
+**最热评论**：[169条评论](https://gentie.ifeng.com/c/comment/86JniSEpZQg) / [1061人参与](https://gentie.ifeng.com/c/comment/86JniSEpZQg)  
 文明上网，不传谣言，登录评论！  
 
 发表评论  
 凤凰账号/新浪微博  
-[查看全部评论>>](//gentie.ifeng.com/c/comment/86JniSEpZQg)
+[查看全部评论>>](https://gentie.ifeng.com/c/comment/86JniSEpZQg)
 
 ## 摘要与附加信息
 

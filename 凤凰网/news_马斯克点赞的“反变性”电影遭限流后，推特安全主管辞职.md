@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/D9393E0D330C1FA7578A67DAF2E32705252F81AB_size45_w590_h291.png)
+![马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2023/D9393E0D330C1FA7578A67DAF2E32705252F81AB_size45_w590_h291.png)
 
 [观察者网](https://ishare.ifeng.com/mediaShare/home/311993/media)
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![浙江小伙接受变性手术](//n.sinaimg.cn/sinacn11/358/w179h179/20180318/f167-fyshfur1454932.jpg)
+![浙江小伙接受变性手术](https://n.sinaimg.cn/sinacn11/358/w179h179/20180318/f167-fyshfur1454932.jpg)
 
 ## 来源：中青在线 { data-search-exclude }
 
@@ -13,7 +13,7 @@
 
 当日，白艳进行了隆胸和切除喉结手术，等上半身伤口拆线后，她还将再进行下半身的生殖器整形。据介绍，目前浙江省内变性人真正到公安部门改变身份的只有零星一两例。白岩愿意以最真实的面貌走进读者视线，他甚至同意记者见证他的整个变性过程，这在浙江省内还是首例。
 
-![图片描述](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![图片描述](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 热门评论 { data-search-exclude }
 

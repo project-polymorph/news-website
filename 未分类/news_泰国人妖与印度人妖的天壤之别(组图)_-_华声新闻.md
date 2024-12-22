@@ -11,7 +11,7 @@
 
 不知何时开始，人妖日渐变成了一个网络谈论热词。其实对于这个特殊的群体，很多人都对“她们”不是很了解。人们只知道，这一类人多集中在泰国。
 
-![二维码](//www.voc.com.cn/images_2016/erweima.jpg)
+![二维码](https://www.voc.com.cn/images_2016/erweima.jpg)
 
 ---
 

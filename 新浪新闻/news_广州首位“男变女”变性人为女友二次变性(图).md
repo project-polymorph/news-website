@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![杨柳变性](//n.sinaimg.cn/sinakd10204/360/w180h180/20200407/1957-irtymmw7884904.jpg)
+![杨柳变性](https://n.sinaimg.cn/sinakd10204/360/w180h180/20200407/1957-irtymmw7884904.jpg)
 
 ## 来源：广州日报 { data-search-exclude }
 ### 时间：2004.12.09 11:29

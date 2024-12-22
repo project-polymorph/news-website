@@ -16,16 +16,16 @@
 新聞來源：華視新聞
 
 ### 標籤
-[芭堤雅](//news.cts.com.tw/news_search.php?keyword=芭堤雅 "芭堤雅")  
-[雌激素](//news.cts.com.tw/news_search.php?keyword=雌激素 "雌激素")  
-[泰國人妖](//news.cts.com.tw/news_search.php?keyword=泰國人妖 "泰國人妖")  
-[搖錢樹](//news.cts.com.tw/news_search.php?keyword=搖錢樹 "搖錢樹")  
+[芭堤雅](https://news.cts.com.tw/news_search.php?keyword=芭堤雅 "芭堤雅")  
+[雌激素](https://news.cts.com.tw/news_search.php?keyword=雌激素 "雌激素")  
+[泰國人妖](https://news.cts.com.tw/news_search.php?keyword=泰國人妖 "泰國人妖")  
+[搖錢樹](https://news.cts.com.tw/news_search.php?keyword=搖錢樹 "搖錢樹")  
 
 ---
 
 2016/07/11 22:33
 
-![分享至Line](//www.cts.com.tw/images/2018cts/btn_Share-LINE02.svg)
+![分享至Line](https://www.cts.com.tw/images/2018cts/btn_Share-LINE02.svg)
 
 --- 
 
@@ -37,7 +37,7 @@
 
 【午間搶先報】獨家! 雌激素恐致癌 台灣5月起禁用
 
-![雌激素恐致癌 台灣5月起禁用](//www.cts.com.tw/images/2018cts/news_default.jpg)
+![雌激素恐致癌 台灣5月起禁用](https://www.cts.com.tw/images/2018cts/news_default.jpg)
 
 雌激素恐致癌 台灣5月起禁用
 
@@ -49,11 +49,11 @@
 
 含雌激素化妝品 5月起禁售
 
-![洗髮精.化妝品 摻雌激素致癌!](//www.cts.com.tw/images/2018cts/news_default.jpg)
+![洗髮精.化妝品 摻雌激素致癌!](https://www.cts.com.tw/images/2018cts/news_default.jpg)
 
 洗髮精.化妝品 摻雌激素致癌!
 
-![化妝品.洗髮精 雌激素致癌禁用](//www.cts.com.tw/images/2018cts/news_default.jpg)
+![化妝品.洗髮精 雌激素致癌禁用](https://www.cts.com.tw/images/2018cts/news_default.jpg)
 
 化妝品.洗髮精 雌激素致癌禁用
 

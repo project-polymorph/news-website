@@ -9,7 +9,7 @@
 
 ---
 
-![](//p1.img.cctvpic.com/photoAlbum/page/performance/img/2024/5/29/1716964589825_932.jpg)
+![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2024/5/29/1716964589825_932.jpg)
 
 ### 视频简介
 江苏苏州：异装癖男子变“女贼”盗窃，监控下逃脱。

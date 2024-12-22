@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![白雨霏](//n.sinaimg.cn/sinacn10215/360/w180h180/20200106/a4a4-imrkkfy3206293.jpg)
+![白雨霏](https://n.sinaimg.cn/sinacn10215/360/w180h180/20200106/a4a4-imrkkfy3206293.jpg)
 
 ## 来源：东方网 { data-search-exclude }
 

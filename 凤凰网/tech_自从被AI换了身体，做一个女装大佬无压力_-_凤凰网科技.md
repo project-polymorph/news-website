@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![自从被AI换了身体，做一个女装大佬无压力](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2019/8856531A24D65910EAB11FA600D46E68B1CB0691_size440_w350_h239.gif)
+![自从被AI换了身体，做一个女装大佬无压力](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2019/8856531A24D65910EAB11FA600D46E68B1CB0691_size440_w350_h239.gif)
 
 ![媒体分享](https://ishare.ifeng.com/mediaShare/home/278/media)
 

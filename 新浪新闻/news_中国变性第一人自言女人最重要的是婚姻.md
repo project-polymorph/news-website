@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
+![头像](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)
 
 ## 工人日报天讯在线 { data-search-exclude }
 
@@ -29,7 +29,7 @@
 
 ---
 
-![签售会图片](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![签售会图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ---
 

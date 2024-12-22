@@ -10,7 +10,7 @@
 
 ---
 
-![图片](//img.mp.sohu.com/upload/20180326/8c9099dba7cf4248b131fb619680df7a)
+![图片](https://img.mp.sohu.com/upload/20180326/8c9099dba7cf4248b131fb619680df7a)
 
 ---
 
@@ -23,7 +23,7 @@
 #### 友情链接
 
 - [首页](https://m.sohu.com/?spm=smwp.vd-land.fx.2.1732243603526ctpM34l)
-- [天气](//weather.sohu.com)
+- [天气](https://weather.sohu.com)
 
 #### 相关标签
 
