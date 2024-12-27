@@ -740,11 +740,4 @@ files:
   size: 9071
   md5: a0be9be67df0c2fa55942ad8ca7ab7a0
   page: view_美媒专栏作者质疑：为什么美国还在假装所谓“性别确认护理”有效？.md
-- name: view_都知道泰国有“人妖”，那么，中国“人妖”最早出现在什么时候？
-  filename: view_都知道泰国有“人妖”，那么，中国“人妖”最早出现在什么时候？.md
-  type: webpage
-  format: Markdown
-  size: 6644
-  md5: b9a0b78b8c5ff56f2940bfa8f777cf90
-  page: view_都知道泰国有“人妖”，那么，中国“人妖”最早出现在什么时候？.md
 subdirs: []
