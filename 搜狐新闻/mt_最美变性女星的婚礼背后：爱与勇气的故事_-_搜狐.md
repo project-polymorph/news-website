@@ -63,7 +63,7 @@ _首赞_
 | Archived Date   | 2024-11-07 11:11:28                             |
 | Original Link   | [https://mt.sohu.com/a/820193577_121798711](https://mt.sohu.com/a/820193577_121798711)                       |
 | Author          | 绘画小精灵                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-25                                 |
 | Tags            | 跨性别, 婚礼, 爱情故事, 勇气, 自我接纳, 心理学, 泰国变性女星                                 |
 >

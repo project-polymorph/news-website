@@ -29,7 +29,7 @@
 | Archived Date   | 2024-11-02 08:09:50                             |
 | Original Link   | [https://news.ifeng.com/c/85tGQMcDBB5](https://news.ifeng.com/c/85tGQMcDBB5)                       |
 | Author          | 凤凰网                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-05-01                                 |
 | Tags            | 跨性别, 性别认同, 家庭支持, 金星, 中国社会, 文化讨论                                 |
 >

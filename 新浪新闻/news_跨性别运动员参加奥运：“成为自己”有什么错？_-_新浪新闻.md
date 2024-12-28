@@ -165,7 +165,7 @@
 | Archived Date   | 2024-11-09 07:25:59                             |
 | Original Link   | [https://news.sina.cn/2021-08-04/detail-ikqciyzk9568173.d.html](https://news.sina.cn/2021-08-04/detail-ikqciyzk9568173.d.html)                       |
 | Author          | 王嘉吟                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-08-04                                 |
 | Tags            | 跨性别, 运动员, 奥运会, 性别认同, 社会环境, 公平竞赛, 法律政策, 心理健康, gender identity, LGBTQIA+                                 |
 >

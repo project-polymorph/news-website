@@ -62,7 +62,7 @@ Copyright © 2016 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp
 | Archived Date   | 2024-11-22 03:22:04                             |
 | Original Link   | [https://sports.sohu.com/20090305/n262622658.shtml](https://sports.sohu.com/20090305/n262622658.shtml)                       |
 | Author          | 搜狐体育                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2009-03-05                                 |
 | Tags            | 跨性别, 体育, 奥运, 生命故事与过渡经历, 社会环境记录                                 |
 >

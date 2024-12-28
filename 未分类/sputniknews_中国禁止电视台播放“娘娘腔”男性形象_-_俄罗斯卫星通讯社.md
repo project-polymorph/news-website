@@ -46,7 +46,7 @@ MIA „Rossiya Segodnya“
 | Archived Date   | 2024-11-12 17:05:12                             |
 | Original Link   | [https://sputniknews.cn/20210903/1034403823.html](https://sputniknews.cn/20210903/1034403823.html)                       |
 | Author          | 俄罗斯卫星通讯社                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-09-03                                 |
 | Tags            | 社会, 性别, 文化政策, 跨性别, 电视媒体                                 |
 >

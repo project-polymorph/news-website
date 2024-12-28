@@ -48,7 +48,7 @@
 | Archived Date   | 2024-11-22 01:49:23                             |
 | Original Link   | [http://news.sohu.com/2004/04/05/98/news219749855.shtml](http://news.sohu.com/2004/04/05/98/news219749855.shtml)                       |
 | Author          | 不详                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2004-04-05                                 |
 | Tags            | 跨性别, 变性人, 人妖文化, 整形手术, 生存故事, 社会接受, 爱情渴望                                 |
 >

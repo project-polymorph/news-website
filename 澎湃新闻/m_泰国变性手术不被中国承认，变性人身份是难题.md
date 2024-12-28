@@ -62,7 +62,7 @@
 | Archived Date   | 2024-11-03 08:51:23                             |
 | Original Link   | [https://m.thepaper.cn/newsDetail_forward_1357343](https://m.thepaper.cn/newsDetail_forward_1357343)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 变性手术, 性别认定, 法律政策, 社会环境, 个人故事, 身份问题, 性别平等                                 |
 >

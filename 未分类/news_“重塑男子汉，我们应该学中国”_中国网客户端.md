@@ -43,7 +43,7 @@
 | Archived Date   | 2024-11-12 06:00:23                             |
 | Original Link   | [http://news.china.com.cn/2021-09/06/content_77734967.htm](http://news.china.com.cn/2021-09/06/content_77734967.htm)                       |
 | Author          | 列伊拉·季托娃                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-09-06                                 |
 | Tags            | 男子汉, 娘炮, 性别角色, 家庭, 社会文化, 中国政府, 俄罗斯                                 |
 >

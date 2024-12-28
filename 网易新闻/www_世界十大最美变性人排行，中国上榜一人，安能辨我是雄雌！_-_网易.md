@@ -57,7 +57,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Archived Date   | 2024-11-08 05:39:04                             |
 | Original Link   | [https://www.163.com/dy/article/D3I7M4HE0528DTP4.html](https://www.163.com/dy/article/D3I7M4HE0528DTP4.html)                       |
 | Author          | 网易                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2017-11-18                                 |
 | Tags            | 变性人, 美丽, 选美, 演艺圈, 社会现象, 跨性别                                 |
 >

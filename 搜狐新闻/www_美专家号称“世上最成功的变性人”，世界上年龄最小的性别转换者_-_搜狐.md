@@ -72,7 +72,7 @@
 | Archived Date   | 2024-11-07 14:57:10                             |
 | Original Link   | [https://www.sohu.com/a/629583420_121274840](https://www.sohu.com/a/629583420_121274840)                       |
 | Author          | 小婷说育儿                               |
-| Region          | 河南省                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-01-14                                 |
 | Tags            | 跨性别, 性别认同, 性别转换, 社会心理, 医学伦理, 大卫·赖默, 约翰·莫尼                                 |
 >

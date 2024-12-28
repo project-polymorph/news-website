@@ -42,7 +42,7 @@
 | Archived Date   | 2024-11-07 15:52:32                             |
 | Original Link   | [https://www.sohu.com/a/793681470_527250](https://www.sohu.com/a/793681470_527250)                       |
 | Author          | 搜狐新闻                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-07-16                                 |
 | Tags            | 跨性别者, 社区包容性, 媒体代表性, LGBTQ+, 社会环境, 性别意识                                 |
 >

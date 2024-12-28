@@ -50,7 +50,7 @@
 | Archived Date   | 2024-11-08 19:46:36                             |
 | Original Link   | [https://news.qq.com/rain/a/20240922A06RZI00](https://news.qq.com/rain/a/20240922A06RZI00)                       |
 | Author          | 缘叶二次元                               |
-| Region          | 湖南                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-09-22                                 |
 | Tags            | 跨性别, 性别表达, 文化差异, 日本动漫, cosplay, 社会评论                                 |
 >

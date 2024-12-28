@@ -320,7 +320,7 @@ Cochran 博士坚称，删除针对同性恋的诊断编码，意味着「同性
 | Archived Date   | 2024-11-08 06:30:18                             |
 | Original Link   | [https://www.163.com/dy/article/GA6VPUE20534TH87.html](https://www.163.com/dy/article/GA6VPUE20534TH87.html)                       |
 | Author          | 王大湿                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-05-17                                 |
 | Tags            | 扭转治疗, 跨性别, 同性恋, 心理治疗, 人权, 性别认同, 社会关注                                 |
 >

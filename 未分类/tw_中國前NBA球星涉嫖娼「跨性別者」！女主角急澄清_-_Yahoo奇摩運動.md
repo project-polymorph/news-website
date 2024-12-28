@@ -47,7 +47,7 @@
 | Archived Date   | 2024-11-12 18:11:20                             |
 | Original Link   | [https://tw.sports.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E5%89%8Dnba%E7%90%83%E6%98%9F%E6%B6%89%E5%AB%96%E5%A8%BC-%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85-%E5%A5%B3%E4%B8%BB%E8%A7%92%E6%80%A5%E6%BE%84%E6%B8%85-021105824.html](https://tw.sports.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E5%89%8Dnba%E7%90%83%E6%98%9F%E6%B6%89%E5%AB%96%E5%A8%BC-%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85-%E5%A5%B3%E4%B8%BB%E8%A7%92%E6%80%A5%E6%BE%84%E6%B8%85-021105824.html)                       |
 | Author          | 李明融，体育中心                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-17                                 |
 | Tags            | 跨性别者, 易建联, 嫖娼, 社会事件, 媒体报道, 名人私生活                                 |
 >

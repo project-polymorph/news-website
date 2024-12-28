@@ -78,7 +78,7 @@ _版权声明：本文来源于199IT_
 | Archived Date   | 2024-11-09 06:37:10                             |
 | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2024-03-01%2Fdoc-inakuawt0800964.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2024-03-01%2Fdoc-inakuawt0800964.shtml)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-03-01                                 |
 | Tags            | LGBTQ+, 媒体, 广告, 跨性别, 社会接受度                                 |
 >

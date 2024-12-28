@@ -75,7 +75,7 @@
 | Archived Date   | 2024-11-21 20:52:47                             |
 | Original Link   | [http://news.sina.com.cn/s/2004-08-29/12304170956.shtml?from=wap](http://news.sina.com.cn/s/2004-08-29/12304170956.shtml?from=wap)                       |
 | Author          | 解放日报                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2004-08-29                                 |
 | Tags            | 跨性别, 人妖, 生命故事, 社会现状, 泰国, 性别认同, 贫困经历                                 |
 >

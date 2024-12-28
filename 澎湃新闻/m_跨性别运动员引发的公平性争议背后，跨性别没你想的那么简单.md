@@ -133,7 +133,7 @@ Gilles-Harrison氏阴茎再造术
 | Archived Date   | 2024-11-03 08:59:35                             |
 | Original Link   | [https://m.thepaper.cn/newsDetail_forward_14217420](https://m.thepaper.cn/newsDetail_forward_14217420)                       |
 | Author          | 柚子                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 体育公平性, 法律政策, 性别认同, 医疗资源, 生存现状, 心理健康, 性别重置手术                                 |
 >

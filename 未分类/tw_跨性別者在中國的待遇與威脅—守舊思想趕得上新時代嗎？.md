@@ -58,7 +58,7 @@
 | Archived Date   | 2024-11-12 17:58:12                             |
 | Original Link   | [https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%BE%85%E9%81%87%E8%88%87%E5%A8%81%E8%84%85-%E5%AE%88%E8%88%8A%E6%80%9D%E6%83%B3%E8%B6%95%E5%BE%97%E4%B8%8A%E6%96%B0%E6%99%82%E4%BB%A3%E5%97%8E-101151826.html](https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%BE%85%E9%81%87%E8%88%87%E5%A8%81%E8%84%85-%E5%AE%88%E8%88%8A%E6%80%9D%E6%83%B3%E8%B6%95%E5%BE%97%E4%B8%8A%E6%96%B0%E6%99%82%E4%BB%A3%E5%97%8E-101151826.html)                       |
 | Author          | NO OFFENSE BUT                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-04-22                                 |
 | Tags            | 跨性别, 法律, 医疗, 社会, 维权, 歧视                                 |
 >

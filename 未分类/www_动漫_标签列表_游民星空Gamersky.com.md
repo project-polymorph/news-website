@@ -162,7 +162,7 @@
 | Archived Date   | 2024-11-12 20:09:35                             |
 | Original Link   | [https://www.gamersky.com/news/378/](https://www.gamersky.com/news/378/)                       |
 | Author          | 游民星空                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-11-12                                 |
 | Tags            | 动漫, 新闻摘要, 文化动态, 动漫产业, 漫画, 日本文化                                 |
 >

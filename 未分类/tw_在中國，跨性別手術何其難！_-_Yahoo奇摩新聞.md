@@ -48,7 +48,7 @@
 | Archived Date   | 2024-11-12 17:25:27                             |
 | Original Link   | [https://tw.news.yahoo.com/%E5%9C%A8%E4%B8%AD%E5%9C%8B-%E8%B7%A8%E6%80%A7%E5%88%A5%E6%89%8B%E8%A1%93%E4%BD%95%E5%85%B6%E9%9B%A3-062000243.html](https://tw.news.yahoo.com/%E5%9C%A8%E4%B8%AD%E5%9C%8B-%E8%B7%A8%E6%80%A7%E5%88%A5%E6%89%8B%E8%A1%93%E4%BD%95%E5%85%B6%E9%9B%A3-062000243.html)                       |
 | Author          | 吴子游                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 性别重置手术, 医疗资源, 法律政策, 跨性别权益, 中国社会                                 |
 >

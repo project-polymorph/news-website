@@ -72,7 +72,7 @@ Volta Rossi是“拥有贵族血统的街头精明流氓”，抛弃了舒适的
 | Archived Date   | 2024-11-08 19:51:15                             |
 | Original Link   | [https://news.qq.com/rain/a/20241024A089S500](https://news.qq.com/rain/a/20241024A089S500)                       |
 | Author          | 黑色玫瑰                               |
-| Region          | 安徽                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-24                                 |
 | Tags            | 跨性别, 非二元性别, 性别多样性, 游戏文化, 社会反响, 使命召唤                                 |
 >

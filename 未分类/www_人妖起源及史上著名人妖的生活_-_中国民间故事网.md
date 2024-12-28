@@ -42,7 +42,7 @@
 | Archived Date   | 2024-11-12 18:40:38                             |
 | Original Link   | [https://www.6mj.com/news/gudai/106181499868GCG8F86HD83GE13JG.htm](https://www.6mj.com/news/gudai/106181499868GCG8F86HD83GE13JG.htm)                       |
 | Author          | 佚名                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 人妖, 跨性别, 历史故事, 中华文化, 同性恋, 性别认同, 明代文学                                 |
 >

@@ -93,7 +93,7 @@
 | Archived Date   | 2024-11-07 04:42:35                             |
 | Original Link   | [http://yule.sohu.com/46/71/article163597146.shtml](http://yule.sohu.com/46/71/article163597146.shtml)                       |
 | Author          | 岷江                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2001-10-15                                 |
 | Tags            | 跨性别, 性别研究, 玛丽莲·梦露, 性染色体异常, 嵌合体, 社会性别, 心理性别                                 |
 >

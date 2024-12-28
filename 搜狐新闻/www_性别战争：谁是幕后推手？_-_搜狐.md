@@ -50,7 +50,7 @@
 | Archived Date   | 2024-11-07 16:18:55                             |
 | Original Link   | [https://www.sohu.com/a/820778666_121885030](https://www.sohu.com/a/820778666_121885030)                       |
 | Author          | 未知                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-27                                 |
 | Tags            | 性别平等, 跨性别权利, 女权主义, 社会运动, 法律政策, 生存现状, LGBTQ+, 性别认同, 文化环境                                 |
 >

@@ -44,7 +44,7 @@ Izzard's prominence has increased in the US after roles in TV series The Riches 
 | Archived Date   | 2024-11-12 12:33:28                             |
 | Original Link   | [https://language.chinadaily.com.cn/news/2009-11/10/content_8943297.htm](https://language.chinadaily.com.cn/news/2009-11/10/content_8943297.htm)                       |
 | Author          | 英语点津 Julie，Helen 编辑                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2009-11-10                                 |
 | Tags            | 异装癖, 跨性别, 社会认知, 艾迪·伊扎德, 反串表演, 性别认同, 变性人                                 |
 >

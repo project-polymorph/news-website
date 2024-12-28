@@ -54,7 +54,7 @@ LGBT群体(女同性恋者Lesbians、男同性恋者Gays、双性恋者Bisexuals
 | Archived Date   | 2024-11-12 20:39:54                             |
 | Original Link   | [https://www.landinglawyer.com/en/news/1069.html](https://www.landinglawyer.com/en/news/1069.html)                       |
 | Author          | 上海兰迪律师事务所                               |
-| Region          | 上海                               |
+| Region          | 中国大陆                               |
 | Date            | 2020-09-03                                 |
 | Tags            | 跨性别, 同性权益, 法律服务, LGBT, 社会平等                                 |
 >

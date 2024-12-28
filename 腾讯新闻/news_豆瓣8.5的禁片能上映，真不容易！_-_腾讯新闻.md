@@ -70,7 +70,7 @@
 | Archived Date   | 2024-11-08 19:15:01                             |
 | Original Link   | [https://news.qq.com/rain/a/20230318A07GPC00](https://news.qq.com/rain/a/20230318A07GPC00)                       |
 | Author          | 人人影视                               |
-| Region          | 上海                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-03-18                                 |
 | Tags            | 跨性别, 电影, 文化, 社会, 性别认知, 巴基斯坦, 乐土, 戛纳电影节                                 |
 >

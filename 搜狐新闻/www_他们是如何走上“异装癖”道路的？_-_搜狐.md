@@ -98,7 +98,7 @@
 | Archived Date   | 2024-11-07 14:44:17                             |
 | Original Link   | [https://www.sohu.com/a/600462510_121403418](https://www.sohu.com/a/600462510_121403418)                       |
 | Author          | 争渡情感咨询                               |
-| Region          | 广东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-10-28                                 |
 | Tags            | 异装癖, 跨性别, 社会认知, 心理咨询, 性别角色, 生理性别, 文化现象                                 |
 >

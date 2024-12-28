@@ -37,7 +37,7 @@
 | Archived Date   | 2024-11-08 10:28:31                             |
 | Original Link   | [https://www.chinanews.com.cn/news/2005/2005-02-04/26/537222.shtml](https://www.chinanews.com.cn/news/2005/2005-02-04/26/537222.shtml)                       |
 | Author          | 中国新闻网                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2005-02-04                                 |
 | Tags            | 跨性别, 变性, 河莉秀, 韩国艺人, 性别认同, 娱乐行业, 社会讨论, 照片曝光                                 |
 >

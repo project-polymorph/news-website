@@ -69,7 +69,7 @@
 | Archived Date   | 2024-11-02 07:52:40                             |
 | Original Link   | [https://news.ifeng.com/c/7fYI85HChNK](https://news.ifeng.com/c/7fYI85HChNK)                       |
 | Author          | 冯强                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2007-01-04                                 |
 | Tags            | 变性, 跨性别, 生命故事, 医疗经历, 性别认同, 社会接受, 自我表达                                 |
 >

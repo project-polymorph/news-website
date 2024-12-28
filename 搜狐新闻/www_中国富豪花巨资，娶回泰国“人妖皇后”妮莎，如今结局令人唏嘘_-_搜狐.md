@@ -247,7 +247,7 @@
 | Archived Date   | 2024-11-07 15:49:51                             |
 | Original Link   | [https://www.sohu.com/a/789123299_120014468](https://www.sohu.com/a/789123299_120014468)                       |
 | Author          | 鲍玺                               |
-| Region          | 陕西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-06-30                                 |
 | Tags            | 跨性别, 爱情故事, 个人经历, 社会偏见, 婚姻, 变性人, 医患关系, 文化冲突, 中国, 泰国                                 |
 >

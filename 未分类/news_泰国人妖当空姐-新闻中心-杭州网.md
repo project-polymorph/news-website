@@ -67,7 +67,7 @@
 | Archived Date   | 2024-11-12 15:02:12                             |
 | Original Link   | [https://news.hangzhou.com.cn/gjxw/content/2011-11/15/content_3958172_6.htm](https://news.hangzhou.com.cn/gjxw/content/2011-11/15/content_3958172_6.htm)                       |
 | Author          | 杭州网                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2011-11-15                                 |
 | Tags            | 跨性别, 人妖, 空姐, 社会现象, 泰国                                 |
 >

@@ -54,7 +54,7 @@
 | Archived Date   | 2024-11-07 06:33:08                             |
 | Original Link   | [https://news.sohu.com/a/821762313_121145173](https://news.sohu.com/a/821762313_121145173)                       |
 | Author          | 说历史的喵小姐                               |
-| Region          | 天津市，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-30                                 |
 | Tags            | 泰国, 人妖, 性别辨识, 旅游文化, 社会现象, 性别认同                                 |
 >

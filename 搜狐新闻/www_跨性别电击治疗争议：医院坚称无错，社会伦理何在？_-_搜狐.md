@@ -55,7 +55,7 @@ _首赞_
 | Archived Date   | 2024-11-07 16:00:47                             |
 | Original Link   | [https://www.sohu.com/a/801031423_122006510](https://www.sohu.com/a/801031423_122006510)                       |
 | Author          | 搜狐                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-15                                 |
 | Tags            | 跨性别, 电击治疗, 医疗伦理, 社会争议, 法律政策, 权益保护                                 |
 >

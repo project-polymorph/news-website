@@ -29,7 +29,7 @@ Chelsea Attonley生下来是个男孩，名字叫Matthew。但是这个可怜的
 | Archived Date   | 2024-11-12 05:18:26                             |
 | Original Link   | [http://jiangsu.china.com.cn/html/jsnews/society/2596679_2.html](http://jiangsu.china.com.cn/html/jsnews/society/2596679_2.html)                       |
 | Author          | 佚名                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2015-10-05                                 |
 | Tags            | 性别焦虑症, 跨性别经历, 生命故事, 社会反响, 变性手术, 性别认同, 心理健康                                 |
 >

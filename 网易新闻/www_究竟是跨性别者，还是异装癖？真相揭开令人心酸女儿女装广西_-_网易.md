@@ -112,7 +112,7 @@
 | Archived Date   | 2024-11-08 08:09:31                             |
 | Original Link   | [https://www.163.com/dy/article/JAUE8UK00528AR4Q.html](https://www.163.com/dy/article/JAUE8UK00528AR4Q.html)                       |
 | Author          | 少年与网红                               |
-| Region          | 广西, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-31                                 |
 | Tags            | 跨性别, 生命故事, 社会现状, 医疗资源, 朱孟勋, 人际关系, 家庭故事                                 |
 >

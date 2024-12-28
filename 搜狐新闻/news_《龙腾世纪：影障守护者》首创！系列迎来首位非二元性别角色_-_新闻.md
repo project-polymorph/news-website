@@ -44,7 +44,7 @@
 | Archived Date   | 2024-11-07 06:36:25                             |
 | Original Link   | [https://news.sohu.com/a/823054663_362225](https://news.sohu.com/a/823054663_362225)                       |
 | Author          | ITBEAR科技资讯                               |
-| Region          | 山东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-11-02                                 |
 | Tags            | 非二元性别, 跨性别角色, 龙腾世纪, 游戏设计, LGBTQ+, 性别认同, 角色扮演游戏                                 |
 >

@@ -64,7 +64,7 @@
 | Archived Date   | 2024-11-12 22:38:17                             |
 | Original Link   | [https://www.undp.org/zh/china/news/congmeitishangsuzaoduilgbtirenqunderenzhi](https://www.undp.org/zh/china/news/congmeitishangsuzaoduilgbtirenqunderenzhi)                       |
 | Author          | 联合国开发计划署驻华代表处                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2018-01-01                                 |
 | Tags            | LGBTI, 跨性别, 媒体, 性别认同, 性取向, 社会歧视, 包容性, 政策研究                                 |
 >

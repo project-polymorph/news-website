@@ -46,7 +46,7 @@ _首赞_
 | Archived Date   | 2024-11-07 15:46:40                             |
 | Original Link   | [https://www.sohu.com/a/787924546_121124485](https://www.sohu.com/a/787924546_121124485)                       |
 | Author          | 搜狐                               |
-| Region          | 山西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-06-23                                 |
 | Tags            | 跨性别, 变性手术, 生命故事, 社会环境, 医疗伦理                                 |
 >

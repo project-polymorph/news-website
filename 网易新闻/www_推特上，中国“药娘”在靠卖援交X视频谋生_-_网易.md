@@ -158,7 +158,7 @@
 | Archived Date   | 2024-11-08 07:30:36                             |
 | Original Link   | [https://www.163.com/dy/article/ICBMQR9H0552C19D.html](https://www.163.com/dy/article/ICBMQR9H0552C19D.html)                       |
 | Author          | 张昊                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-08-18                                 |
 | Tags            | 跨性别, 药娘, 生命故事, 社会现象, 性别认同, 医疗资源, 法律政策,  adolescentes                                  |
 >

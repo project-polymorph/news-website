@@ -48,7 +48,7 @@ Dr Paíz认为，酷儿课堂的另一重要作用是，将长久以来因社会
 | Archived Date   | 2024-11-12 16:46:32                             |
 | Original Link   | [https://shanghai.nyu.edu/cn/news/ku-er-ke-tang-ta-zhan-hua-yu-bian-jie](https://shanghai.nyu.edu/cn/news/ku-er-ke-tang-ta-zhan-hua-yu-bian-jie)                       |
 | Author          | Joshua M. Paíz博士及相关学生                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2018-06-25                                 |
 | Tags            | 性少数群体, 酷儿教育, 社会语言学, 身份认同, 文学和性别, 课堂教学, 性别研究, 跨文化研究                                 |
 >

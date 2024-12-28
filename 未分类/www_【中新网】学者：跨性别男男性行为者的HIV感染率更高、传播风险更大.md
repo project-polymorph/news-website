@@ -49,7 +49,7 @@
 | Archived Date   | 2024-11-12 21:46:46                             |
 | Original Link   | [https://www.shsmu.edu.cn/news/info/1007/4492.htm](https://www.shsmu.edu.cn/news/info/1007/4492.htm)                       |
 | Author          | 陈静                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2016-11-09                                 |
 | Tags            | HIV感染, 跨性别男男性行为者, 健康风险, 艾滋病, 公共卫生, 性工作, 流行病学研究, 社会歧视                                 |
 >

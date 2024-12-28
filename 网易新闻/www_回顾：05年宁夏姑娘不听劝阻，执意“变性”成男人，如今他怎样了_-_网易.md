@@ -219,7 +219,7 @@
 | Archived Date   | 2024-11-08 07:54:34                             |
 | Original Link   | [https://www.163.com/dy/article/J56H20GB0553JZNS.html](https://www.163.com/dy/article/J56H20GB0553JZNS.html)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-06-21                                 |
 | Tags            | 跨性别者, 变性经历, 性别认同, 个人故事, 性别手术, 社会偏见, 情感经历                                 |
 >

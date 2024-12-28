@@ -174,7 +174,7 @@
 | Archived Date   | 2024-11-22 06:27:34                             |
 | Original Link   | [https://www.sohu.com/a/798819069_121766859](https://www.sohu.com/a/798819069_121766859)                       |
 | Author          | 搜狐新闻                               |
-| Region          | 宁夏回族自治区                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-06                                 |
 | Tags            | 跨性别运动员, 奥运会, 性别认同, 运动公平性, 社会争议, 哈利夫, 卡里尼, 拳击赛                                 |
 >

@@ -88,7 +88,7 @@
 | Archived Date   | 2024-11-08 19:42:18                             |
 | Original Link   | [https://news.qq.com/rain/a/20240826A081PL00](https://news.qq.com/rain/a/20240826A081PL00)                       |
 | Author          | 腾讯新闻                               |
-| Region          | 江苏                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-26                                 |
 | Tags            | 金星, 跨性别, 激素药物, 生命故事, 社会环境, 网络谣言, 舞蹈, 变性手术                                 |
 >

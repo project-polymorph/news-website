@@ -58,7 +58,7 @@
 | Archived Date   | 2024-11-07 14:42:57                             |
 | Original Link   | [https://www.sohu.com/a/595441747_121123705](https://www.sohu.com/a/595441747_121123705)                       |
 | Author          | 未知                               |
-| Region          | 山西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-10-26                                 |
 | Tags            | 国际双性人日, 双性人, 性别认同, 人权, 医疗干预, 社会文化, 个体选择                                 |
 >

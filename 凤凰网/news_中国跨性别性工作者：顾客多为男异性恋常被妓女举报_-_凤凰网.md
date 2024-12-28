@@ -94,7 +94,7 @@
 | Archived Date   | 2024-11-09 10:35:05                             |
 | Original Link   | [https://news.ifeng.com/a/20150128/43042439_0.shtml](https://news.ifeng.com/a/20150128/43042439_0.shtml)                       |
 | Author          | 詹佳佳，邱曼思                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2015-01-28                                 |
 | Tags            | 跨性别, 性工作者, 社会边缘化, 生活经历, 法律政策, 性别认同, 经济压力                                 |
 >

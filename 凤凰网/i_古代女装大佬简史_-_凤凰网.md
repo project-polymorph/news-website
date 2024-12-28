@@ -175,7 +175,7 @@
 | Archived Date   | 2024-11-09 10:25:08                             |
 | Original Link   | [https://i.ifeng.com/c/8EYivVFRukT](https://i.ifeng.com/c/8EYivVFRukT)                       |
 | Author          | 侯印国                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-03-21                                 |
 | Tags            | 跨性别, 女装大佬, 审美变迁, 何晏, 魏明帝, 男娼, 男旦, 古代文化, 历史, 诗经                                 |
 >

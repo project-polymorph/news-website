@@ -195,7 +195,7 @@
 | Archived Date   | 2024-11-02 07:42:44                             |
 | Original Link   | [https://news.ifeng.com/a/20151223/46802660_0.shtml](https://news.ifeng.com/a/20151223/46802660_0.shtml)                       |
 | Author          | 澎湃新闻                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2015-12-23                                 |
 | Tags            | 跨性别, 性别认同, 性工作, 社会歧视, 经济压力, 生活故事, 法律政策, 医疗资源, 女性权利                                 |
 >

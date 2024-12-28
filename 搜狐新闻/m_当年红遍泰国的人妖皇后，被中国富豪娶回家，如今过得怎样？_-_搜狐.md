@@ -60,7 +60,7 @@
 | Archived Date   | 2024-11-07 05:18:19                             |
 | Original Link   | [https://m.sohu.com/a/811050608_121628668](https://m.sohu.com/a/811050608_121628668)                       |
 | Author          | 搜狐网                               |
-| Region          | 天津市，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 人妖文化, 爱情故事, 婚姻, 泰国, 社会接受度, 个人生存经历                                 |
 >

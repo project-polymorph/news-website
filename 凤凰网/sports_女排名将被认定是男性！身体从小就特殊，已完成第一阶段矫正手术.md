@@ -61,7 +61,7 @@
 | Archived Date   | 2024-11-09 10:46:14                             |
 | Original Link   | [https://sports.ifeng.com/c/84V1QSjYezT](https://sports.ifeng.com/c/84V1QSjYezT)                       |
 | Author          | 凤凰网                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-03-10                                 |
 | Tags            | 跨性别, 运动员, 性别认定, 社会环境, 艾普丽亚-曼加南, 塞门娅, 性别歧视                                 |
 >

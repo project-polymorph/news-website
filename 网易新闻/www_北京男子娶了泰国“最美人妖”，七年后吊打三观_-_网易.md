@@ -242,7 +242,7 @@
 | Archived Date   | 2024-11-22 10:26:03                             |
 | Original Link   | [https://www.163.com/dy/article/HMCP37BF0552C19D.html](https://www.163.com/dy/article/HMCP37BF0552C19D.html)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-11-17                                 |
 | Tags            | 爱情, 跨性别, 生活经历, 社会压力, 文化差异                                 |
 >

@@ -52,7 +52,7 @@ _首赞_
 | Archived Date   | 2024-11-07 15:43:03                             |
 | Original Link   | [https://www.sohu.com/a/778627382_120160161](https://www.sohu.com/a/778627382_120160161)                       |
 | Author          | 开坛十里香                               |
-| Region          | 江西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-05-14                                 |
 | Tags            | 跨性别, 纪录片, 生命故事, 社会认同, 个人经历, 真实记录                                 |
 >

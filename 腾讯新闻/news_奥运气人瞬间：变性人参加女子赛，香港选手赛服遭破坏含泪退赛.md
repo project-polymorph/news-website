@@ -76,7 +76,7 @@
 | Archived Date   | 2024-11-08 19:38:28                             |
 | Original Link   | [https://news.qq.com/rain/a/20240802A094MY00](https://news.qq.com/rain/a/20240802A094MY00)                       |
 | Author          | 林大师说娱                               |
-| Region          | 重庆                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-02                                 |
 | Tags            | 跨性别, 奥运会, 体育争议, 运动员权益, 社会问题, 性别认同                                 |
 >

@@ -164,7 +164,7 @@
 | Archived Date   | 2024-11-07 15:21:49                             |
 | Original Link   | [https://www.sohu.com/a/723009049_121119270](https://www.sohu.com/a/723009049_121119270)                       |
 | Author          | 韩小兔菌                               |
-| Region          | 山西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-09-24                                 |
 | Tags            | 跨性别, 跨性别者故事, 家庭责任, 医疗与心理, 社会接纳, 爱与奉献                                 |
 >

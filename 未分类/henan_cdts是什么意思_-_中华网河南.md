@@ -32,7 +32,7 @@ ts：tra‌​‌‌​‌‌‌​​​‌‌​​‌​‌ns sexual，即通
 | Archived Date   | 2024-11-12 11:51:38                             |
 | Original Link   | [https://henan.china.com/m/news/yaowen/2022/1216/2530331102.html](https://henan.china.com/m/news/yaowen/2022/1216/2530331102.html)                       |
 | Author          | 郭志萍                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-12-16                                 |
 | Tags            | 跨性别, 性别表达, 变性手术, 异性癖, 文化探讨                                 |
 >

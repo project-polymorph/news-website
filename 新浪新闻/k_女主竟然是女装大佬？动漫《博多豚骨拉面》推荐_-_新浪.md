@@ -53,7 +53,7 @@
 | Archived Date   | 2024-11-09 07:02:34                             |
 | Original Link   | [https://k.sina.cn/article_6440815317_17fe70ad5001004d2f.html](https://k.sina.cn/article_6440815317_17fe70ad5001004d2f.html)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2018-02-24                                 |
 | Tags            | 动漫, 女装大佬, 博多豚骨拉面, 推荐, 杀手                                 |
 >

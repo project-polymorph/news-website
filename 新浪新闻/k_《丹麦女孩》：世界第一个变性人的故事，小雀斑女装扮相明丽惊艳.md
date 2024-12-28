@@ -238,7 +238,7 @@ _![](https://n.sinaimg.cn/sinacn10200/360/w180h180/20191010/0755-ifrwayx3151238.
 | Archived Date   | 2024-11-09 06:46:14                             |
 | Original Link   | [https://k.sina.cn/article_3089788785_b82a6f7100100q1gb.html](https://k.sina.cn/article_3089788785_b82a6f7100100q1gb.html)                       |
 | Author          | 优质影视领域创作者                               |
-| Region          | 上海                               |
+| Region          | 中国大陆                               |
 | Date            | 2020-05-03                                 |
 | Tags            | 跨性别, 电影评论, 丹麦女孩, 艾纳·维基纳, 性别认同, 艺术与生活, 爱情与包容                                 |
 >

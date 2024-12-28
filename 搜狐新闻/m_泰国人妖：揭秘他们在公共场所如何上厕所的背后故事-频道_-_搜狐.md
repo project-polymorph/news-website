@@ -62,7 +62,7 @@
 | Archived Date   | 2024-11-07 05:09:50                             |
 | Original Link   | [https://m.sohu.com/a/768244195_121675179/?pvid=000115_3w_a](https://m.sohu.com/a/768244195_121675179/?pvid=000115_3w_a)                       |
 | Author          | 搜狐网                               |
-| Region          | 山东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-03-31                                 |
 | Tags            | 跨性别, 泰国人妖, 社会现象, 文化观察                                 |
 >

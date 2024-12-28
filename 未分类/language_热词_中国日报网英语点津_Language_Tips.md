@@ -43,7 +43,7 @@ Email: languagetips@chinadaily.com.cn
 | Archived Date   | 2024-11-02 10:29:28                             |
 | Original Link   | [https://language.chinadaily.com.cn/news_words_politics_107.html](https://language.chinadaily.com.cn/news_words_politics_107.html)                       |
 | Author          | 中国日报网                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2009-11-30                                 |
 | Tags            | 变性手术, 跨性别, 医疗资源, 社会问题, 泰国                                 |
 >

@@ -40,7 +40,7 @@
 | Archived Date   | 2024-11-08 10:04:27                             |
 | Original Link   | [https://www.chinanews.com.cn/jk/jk-xpxz/news/2009/12-17/2023775.shtml](https://www.chinanews.com.cn/jk/jk-xpxz/news/2009/12-17/2023775.shtml)                       |
 | Author          | 科技日报                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2009-12-17                                 |
 | Tags            | 性别研究, 基因FOXL2, 变性治疗, 生物医学, 科学发现                                 |
 >

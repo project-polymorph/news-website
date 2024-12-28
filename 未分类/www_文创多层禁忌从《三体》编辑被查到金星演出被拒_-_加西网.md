@@ -46,7 +46,7 @@
 | Archived Date   | 2024-11-12 23:19:01                             |
 | Original Link   | [https://www.westca.com/News/article/sid=1045326/lang=schinese.html](https://www.westca.com/News/article/sid=1045326/lang=schinese.html)                       |
 | Author          | 美国之音                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-11-02                                 |
 | Tags            | 跨性别, 文化禁忌, 文艺, 姚海军, 金星, 中国科幻, LGBT                                 |
 >

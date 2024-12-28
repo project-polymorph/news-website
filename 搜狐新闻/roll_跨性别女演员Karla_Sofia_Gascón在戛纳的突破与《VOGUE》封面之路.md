@@ -43,7 +43,7 @@ Karla的故事不仅关乎个人奋斗与成就，更反映出当今社会在性
 | Archived Date   | 2024-11-07 06:38:57                             |
 | Original Link   | [https://roll.sohu.com/a/817643342_121924583](https://roll.sohu.com/a/817643342_121924583)                       |
 | Author          | 未知                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-18                                 |
 | Tags            | 跨性别, 女演员, Karla Sofia Gascón, 戛纳电影节, VOGUE, 性别认同, 个人故事, 社会环境, 艺术成就                                 |
 >

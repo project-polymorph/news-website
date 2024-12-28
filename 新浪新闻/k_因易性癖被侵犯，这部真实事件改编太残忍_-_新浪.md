@@ -248,7 +248,7 @@
 | Archived Date   | 2024-11-09 06:40:55                             |
 | Original Link   | [https://k.sina.cn/article_1757353251_68bf152301900nxw2.html](https://k.sina.cn/article_1757353251_68bf152301900nxw2.html)                       |
 | Author          | 未知                               |
-| Region          | 北京                               |
+| Region          | 中国大陆                               |
 | Date            | 2019-12-31                                 |
 | Tags            | 跨性别, 性别认同, 社会歧视, 心理创伤, 生命故事, 电影评论, 法律与政策                                 |
 >

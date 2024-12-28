@@ -49,7 +49,7 @@
 | Archived Date   | 2024-11-07 06:49:08                             |
 | Original Link   | [https://sports.sohu.com/20140825/n403747230.shtml](https://sports.sohu.com/20140825/n403747230.shtml)                       |
 | Author          | 新华报业网-南京晨报                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2014-08-25                                 |
 | Tags            | 跨性别, 体育, 青奥会, 金牌, 跨国籍, 射箭, 友谊                                 |
 >

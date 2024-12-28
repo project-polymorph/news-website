@@ -112,7 +112,7 @@
 | Archived Date   | 2024-11-22 02:16:38                             |
 | Original Link   | [http://news.sohu.com/20081215/n261208917.shtml](http://news.sohu.com/20081215/n261208917.shtml)                       |
 | Author          | 张陶                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2008-12-15                                 |
 | Tags            | 跨性别, 易性癖, 变性手术, 心理健康, 家庭关系, 法律问题                                 |
 >

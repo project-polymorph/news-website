@@ -99,7 +99,7 @@
 | Archived Date   | 2024-11-12 06:14:06                             |
 | Original Link   | [http://news.cnnb.com.cn/system/2004/04/25/000802178.shtml](http://news.cnnb.com.cn/system/2004/04/25/000802178.shtml)                       |
 | Author          | 游曼妮                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2004-04-25                                 |
 | Tags            | 跨性别, 双性人, 兄妹故事, 社会接受, 变性手术, 医疗资源                                 |
 >

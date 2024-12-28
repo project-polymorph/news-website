@@ -58,7 +58,7 @@ _首赞_
 | Archived Date   | 2024-11-07 05:44:01                             |
 | Original Link   | [https://mt.sohu.com/a/817838728_121956423](https://mt.sohu.com/a/817838728_121956423)                       |
 | Author          | 搜狐                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-18                                 |
 | Tags            | 跨性别, 自我接纳, 性别认同, 社会挑战, 情感生活, 心理健康, 支持与尊重                                 |
 >

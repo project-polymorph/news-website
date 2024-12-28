@@ -109,7 +109,7 @@
 | Archived Date   | 2024-11-07 15:19:29                             |
 | Original Link   | [https://www.sohu.com/a/713934468_121434717](https://www.sohu.com/a/713934468_121434717)                       |
 | Author          | 杨雪情                               |
-| Region          | 河南省                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-08-22                                 |
 | Tags            | 跨性别, 两性畸形, 生命故事, 社会环境, 医疗资源, 法律政策                                 |
 >

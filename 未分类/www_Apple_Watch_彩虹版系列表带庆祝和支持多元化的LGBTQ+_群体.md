@@ -86,7 +86,7 @@ Apple 媒体联络
 | Archived Date   | 2024-11-12 18:44:31                             |
 | Original Link   | [https://www.apple.com.cn/newsroom/2021/05/apple-watch-pride-edition-bands-celebrate-the-diverse-lgbtq-movement/](https://www.apple.com.cn/newsroom/2021/05/apple-watch-pride-edition-bands-celebrate-the-diverse-lgbtq-movement/)                       |
 | Author          | Apple                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-05-17                                 |
 | Tags            | Apple Watch, 彩虹版系列, LGBTQ+, 跨性别, 多元化, 社会支持                                 |
 >

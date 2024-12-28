@@ -118,7 +118,7 @@
 | Archived Date   | 2024-11-22 06:42:30                             |
 | Original Link   | [https://www.sohu.com/a/813338552_121054503](https://www.sohu.com/a/813338552_121054503)                       |
 | Author          | 搜狐新闻                               |
-| Region          | 广东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-01                                 |
 | Tags            | 跨性别, 变性人, 河莉秀, 整容, 生活故事, 社会环境, 健康问题                                 |
 >

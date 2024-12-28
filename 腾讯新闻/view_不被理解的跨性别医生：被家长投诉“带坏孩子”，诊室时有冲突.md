@@ -183,7 +183,7 @@ https://inews.gtimg.com/newsapp_bt/0/1012205723968_6694/0)
 | Archived Date   | 2024-11-08 19:55:27                             |
 | Original Link   | [https://view.inews.qq.com/k/20210727A009WZ00?web_channel=wap&openApp=false](https://view.inews.qq.com/k/20210727A009WZ00?web_channel=wap&openApp=false)                       |
 | Author          | 佟晓宇 实习记者/林意荃 罗鹏飞                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-07-27                                 |
 | Tags            | 跨性别, 医疗, 心理支持, 家庭, 社会认知, 包括医疗资源, 法律政策                                 |
 >

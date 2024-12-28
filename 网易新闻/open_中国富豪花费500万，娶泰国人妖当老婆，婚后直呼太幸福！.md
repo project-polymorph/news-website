@@ -50,7 +50,7 @@
 | Archived Date   | 2024-11-22 09:33:56                             |
 | Original Link   | [https://open.163.com/newview/movie/free?pid=CH31SKU1R&mid=IH31SKU2G](https://open.163.com/newview/movie/free?pid=CH31SKU1R&mid=IH31SKU2G)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 婚姻, 社会接受, 中国富豪, 泰国人妖, 媒体报道                                 |
 >

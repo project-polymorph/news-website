@@ -59,7 +59,7 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 | Archived Date   | 2024-11-21 21:06:56                             |
 | Original Link   | [https://blog.sina.com.cn/s/blog_677d4f090100j4b6.html](https://blog.sina.com.cn/s/blog_677d4f090100j4b6.html)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2010-05-25                                 |
 | Tags            | 伪娘, 跨性别, 社会宽容, 心理咨询, 性别表现, 选秀节目, 文化研究                                 |
 >

@@ -358,7 +358,7 @@
 | Archived Date   | 2024-11-07 11:38:31                             |
 | Original Link   | [https://www.sohu.com/a/206663766_258583](https://www.sohu.com/a/206663766_258583)                       |
 | Author          | 陆正兰                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2017-11-25                                 |
 | Tags            | 跨性别, 歌词, 性别研究, 社会文化, 流行歌曲, 情感交流, 性别角色                                 |
 >

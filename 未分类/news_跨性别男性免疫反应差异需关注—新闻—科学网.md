@@ -46,7 +46,7 @@
 | Archived Date   | 2024-11-02 10:47:21                             |
 | Original Link   | [https://news.sciencenet.cn/htmlnews/2024/9/529355.shtm](https://news.sciencenet.cn/htmlnews/2024/9/529355.shtm)                       |
 | Author          | 冯维维                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-09-05                                 |
 | Tags            | 跨性别男性, 免疫反应, 性别肯定激素治疗, 健康研究, 科学报道                                 |
 >

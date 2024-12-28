@@ -119,7 +119,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 | Archived Date   | 2024-11-02 08:04:58                             |
 | Original Link   | [https://news.ifeng.com/c/7ouj0SdFrV8](https://news.ifeng.com/c/7ouj0SdFrV8)                       |
 | Author          | 凤凰网                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2019-08-06                                 |
 | Tags            | 跨性别, 时尚界, 维密, 模特, 社会变革,  LGBTQ+                                 |
 >

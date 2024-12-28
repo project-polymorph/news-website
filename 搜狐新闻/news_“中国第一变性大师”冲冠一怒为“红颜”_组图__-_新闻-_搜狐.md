@@ -102,7 +102,7 @@
 | Archived Date   | 2024-11-22 01:51:33                             |
 | Original Link   | [http://news.sohu.com/2004/06/11/60/news220486082.shtml](http://news.sohu.com/2004/06/11/60/news220486082.shtml)                       |
 | Author          | 陈艳                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2004-06-11                                 |
 | Tags            | 跨性别, 变性人, 陈莉莉, 社会宽容, 法律政策                                 |
 >

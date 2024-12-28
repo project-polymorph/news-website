@@ -157,7 +157,7 @@
 | Archived Date   | 2024-11-07 06:26:36                             |
 | Original Link   | [https://news.sohu.com/a/820560712_121985181](https://news.sohu.com/a/820560712_121985181)                       |
 | Author          | 悠悠                               |
-| Region          | 天津市，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-26                                 |
 | Tags            | 跨性别, 药娘, 变性经历, 家庭不理解, 社会环境, 医疗资源, 性别认同, 心理健康                                 |
 >

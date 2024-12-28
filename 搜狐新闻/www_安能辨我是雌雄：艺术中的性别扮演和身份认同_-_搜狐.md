@@ -125,7 +125,7 @@
 | Archived Date   | 2024-11-07 07:55:36                             |
 | Original Link   | [https://www.sohu.com/a/151109344_455444](https://www.sohu.com/a/151109344_455444)                       |
 | Author          | 李银河                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2017-06-22                                 |
 | Tags            | 性别认同, 跨性别, 艺术作品, 性别扮演, 李银河, 惠特曼, 罗曼尼·布鲁克斯, 马歇尔·杜尚, 社会文化, LGBTQ+                                 |
 >

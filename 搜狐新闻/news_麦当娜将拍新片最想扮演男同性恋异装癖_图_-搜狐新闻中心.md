@@ -35,7 +35,7 @@
 | Archived Date   | 2024-11-07 03:56:39                             |
 | Original Link   | [http://news.sohu.com/20050219/n224347848.shtml](http://news.sohu.com/20050219/n224347848.shtml)                       |
 | Author          | 广州日报大洋网                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2005-02-19                                 |
 | Tags            | 跨性别, 同性恋, 文化, 电影, 麦当娜, 社会挑战                                 |
 >

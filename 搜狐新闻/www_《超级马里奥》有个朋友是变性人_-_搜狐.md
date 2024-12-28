@@ -198,7 +198,7 @@
 | Archived Date   | 2024-11-22 04:08:10                             |
 | Original Link   | [https://www.sohu.com/a/202270107_119079](https://www.sohu.com/a/202270107_119079)                       |
 | Author          | 长鼻君                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2017-11-04                                 |
 | Tags            | 跨性别, 变性人角色, 文化差异, 电子游戏, 凯瑟琳, 身分认同, 性别认知, 法律环境, 社会态度                                 |
 >

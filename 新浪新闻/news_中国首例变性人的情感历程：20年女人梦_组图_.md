@@ -130,7 +130,7 @@
 | Archived Date   | 2024-11-02 04:12:26                             |
 | Original Link   | [https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html](https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html)                       |
 | Author          | 史玉根                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2003-04-22                                 |
 | Tags            | 跨性别, 变性人, 生命故事, 情感经历, 社会接受度, 法律政策, 医疗资源, 女性认同                                 |
 >

@@ -182,7 +182,7 @@
 | Archived Date   | 2024-11-22 06:52:56                             |
 | Original Link   | [https://www.sohu.com/a/826714821_121863718](https://www.sohu.com/a/826714821_121863718)                       |
 | Author          | 未知                               |
-| Region          | 山西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-11-16                                 |
 | Tags            | 曲栅栅, 黄海波, 跨性别, 生命故事, 演艺事业, 爱情, 家庭支持, 社会舆论, 真实经历                                 |
 >

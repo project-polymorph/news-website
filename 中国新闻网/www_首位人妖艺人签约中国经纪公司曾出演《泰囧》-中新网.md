@@ -37,7 +37,7 @@
 | Archived Date   | 2024-11-08 10:57:50                             |
 | Original Link   | [https://www.chinanews.com.cn/yl/2013/06-25/4964861.shtml](https://www.chinanews.com.cn/yl/2013/06-25/4964861.shtml)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2013-06-25                                 |
 | Tags            | 人妖, 艺人, 签约, 《泰囧》, 徐峥, 社会接受度, 跨性别艺术, 付杨                                 |
 >

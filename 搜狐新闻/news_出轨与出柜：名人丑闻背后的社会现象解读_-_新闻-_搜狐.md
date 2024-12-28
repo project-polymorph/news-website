@@ -50,7 +50,7 @@
 | Archived Date   | 2024-11-07 06:23:32                             |
 | Original Link   | [https://news.sohu.com/a/818215628_121956423](https://news.sohu.com/a/818215628_121956423)                       |
 | Author          | 搜狐新闻                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-19                                 |
 | Tags            | 跨性别, 心理健康, 社会现象, 名人文化, 性别认同, 舆论压力                                 |
 >

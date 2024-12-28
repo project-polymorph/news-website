@@ -53,7 +53,7 @@
 | Archived Date   | 2024-11-12 05:50:15                             |
 | Original Link   | [http://news.cctv.com/2018/04/20/VIDEMR02fe9JcvRXicZwuXMC180420.shtml](http://news.cctv.com/2018/04/20/VIDEMR02fe9JcvRXicZwuXMC180420.shtml)                       |
 | Author          | 央视网                               |
-| Region          | 江苏                               |
+| Region          | 中国大陆                               |
 | Date            | 2018-04-20                                 |
 | Tags            | 跨性别, 盗窃, 社会新闻                                 |
 >

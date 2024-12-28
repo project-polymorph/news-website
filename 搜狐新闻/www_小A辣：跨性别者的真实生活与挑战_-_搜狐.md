@@ -51,7 +51,7 @@
 | Archived Date   | 2024-11-07 16:15:17                             |
 | Original Link   | [https://www.sohu.com/a/817838815_121956425](https://www.sohu.com/a/817838815_121956425)                       |
 | Author          | 慧海航标                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-18                                 |
 | Tags            | 跨性别, 小A辣, 社会认同, 歧视与偏见, 情感生活, 心理健康, 性别多样性                                 |
 >

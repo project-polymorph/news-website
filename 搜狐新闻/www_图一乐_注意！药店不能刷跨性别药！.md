@@ -98,7 +98,7 @@
 | Archived Date   | 2024-11-07 15:33:08                             |
 | Original Link   | [https://www.sohu.com/a/761859242_121123857](https://www.sohu.com/a/761859242_121123857)                       |
 | Author          | 青苹果记录生活                               |
-| Region          | 山西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-03-05                                 |
 | Tags            | 跨性别, 药店, 性别认知, 医疗资源, 社会环境, 偏见                                 |
 >

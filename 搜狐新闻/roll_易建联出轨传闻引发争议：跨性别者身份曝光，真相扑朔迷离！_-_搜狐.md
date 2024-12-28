@@ -54,7 +54,7 @@
 | Archived Date   | 2024-11-07 06:41:19                             |
 | Original Link   | [https://roll.sohu.com/a/818072921_121924583](https://roll.sohu.com/a/818072921_121924583)                       |
 | Author          | 未知                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-19                                 |
 | Tags            | 跨性别, 易建联, 社会事件, 网络谣言, 公众人物, 身份争议                                 |
 >

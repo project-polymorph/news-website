@@ -62,7 +62,7 @@ _首赞_
 | Archived Date   | 2024-11-07 05:52:57                             |
 | Original Link   | [https://mt.sohu.com/a/817958352_121924583](https://mt.sohu.com/a/817958352_121924583)                       |
 | Author          | 热播观察站                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-18                                 |
 | Tags            | 运动员, 嫖娼丑闻, 人妖, 娱乐圈, 社会调查, 体育生态, 职业生涯危机                                 |
 >

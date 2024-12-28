@@ -68,7 +68,7 @@
 | Archived Date   | 2024-11-07 16:09:36                             |
 | Original Link   | [https://www.sohu.com/a/815825424_121956424](https://www.sohu.com/a/815825424_121956424)                       |
 | Author          | 未知                               |
-| Region          | 北京市, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-12                                 |
 | Tags            | 跨性别文化, 潮剧, 女包公, 男李后, 性别角色, 文化碰撞, 社会变迁, 艺术表现                                 |
 >

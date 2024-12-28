@@ -89,7 +89,7 @@
 | Archived Date   | 2024-11-02 12:21:07                             |
 | Original Link   | [https://zh.amnesty.org/content-type/more-resources/news/china-transgender-research-report/](https://zh.amnesty.org/content-type/more-resources/news/china-transgender-research-report/)                       |
 | Author          | 国际特赦组织                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2019-05-01                                 |
 | Tags            | 跨性别, 性别确认医疗, 医疗资源, 法律政策, 生存现状, 人权, 国际特赦组织                                 |
 >

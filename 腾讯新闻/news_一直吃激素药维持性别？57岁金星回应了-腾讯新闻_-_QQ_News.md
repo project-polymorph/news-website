@@ -97,7 +97,7 @@
 | Archived Date   | 2024-11-08 19:43:00                             |
 | Original Link   | [https://news.qq.com/rain/a/20240827A007OB00](https://news.qq.com/rain/a/20240827A007OB00)                       |
 | Author          | 拾光MEMORY                               |
-| Region          | 江苏                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-27                                 |
 | Tags            | 跨性别, 金星, 健康, 谣言, 社会反响                                 |
 >

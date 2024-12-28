@@ -65,7 +65,7 @@
 | Archived Date   | 2024-11-12 17:06:37                             |
 | Original Link   | [https://sputniknews.cn/20210911/1034449356.html](https://sputniknews.cn/20210911/1034449356.html)                       |
 | Author          | 伊利亚·贡恰罗夫                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-09-11                                 |
 | Tags            | 评论, 娱乐, 中国, 腾讯, 娘炮, 阳刚, 政策限制, 社会文化                                 |
 >

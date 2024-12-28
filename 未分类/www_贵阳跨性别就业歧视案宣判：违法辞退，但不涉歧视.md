@@ -44,7 +44,7 @@
 | Archived Date   | 2024-11-12 19:13:00                             |
 | Original Link   | [https://www.business-humanrights.org/en/latest-news/%E8%B4%B5%E9%98%B3%E8%B7%A8%E6%80%A7%E5%88%AB%E5%B0%B1%E4%B8%9A%E6%AD%A7%E8%A7%86%E6%A1%88%E5%AE%A3%E5%88%A4%E8%BF%9D%E6%B3%95%E8%BE%9E%E9%80%80%E4%BD%86%E4%B8%8D%E6%B6%89%E6%AD%A7%E8%A7%86/](https://www.business-humanrights.org/en/latest-news/%E8%B4%B5%E9%98%B3%E8%B7%A8%E6%80%A7%E5%88%AB%E5%B0%B1%E4%B8%9A%E6%AD%A7%E8%A7%86%E6%A1%88%E5%AE%A3%E5%88%A4%E8%BF%9D%E6%B3%95%E8%BE%9E%E9%80%80%E4%BD%86%E4%B8%8D%E6%B6%89%E6%AD%A7%E8%A7%86/)                       |
 | Author          | 林坪，自由亚洲电台                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2017-01-02                                 |
 | Tags            | 跨性别, 就业歧视, 法律判决, 人权, 贵州                                 |
 >

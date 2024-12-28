@@ -175,7 +175,7 @@ Copyright © 1997-2024 网易公司版权所有
 | Archived Date   | 2024-11-22 08:26:37                             |
 | Original Link   | [https://m.ds.163.com/feed/66f12f5d52fac75df8d1b305/](https://m.ds.163.com/feed/66f12f5d52fac75df8d1b305/)                       |
 | Author          | 奚慕文文                               |
-| Region          | 山西                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-09-23                                 |
 | Tags            | 跨性别, 男娘, 逆水寒手游, 游戏文化, 性别认同, 社交评论                                 |
 >

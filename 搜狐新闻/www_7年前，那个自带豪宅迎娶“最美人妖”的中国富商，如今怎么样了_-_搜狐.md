@@ -181,7 +181,7 @@
 | Archived Date   | 2024-11-07 14:35:40                             |
 | Original Link   | [https://www.sohu.com/a/563882186_121171705](https://www.sohu.com/a/563882186_121171705)                       |
 | Author          | 向楠                               |
-| Region          | 山东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-07-04                                 |
 | Tags            | 跨性别, 变性人, 婚姻, 爱情, 泰国, 人妖文化, 选美比赛, 社会接受度, 医疗转变                                 |
 >

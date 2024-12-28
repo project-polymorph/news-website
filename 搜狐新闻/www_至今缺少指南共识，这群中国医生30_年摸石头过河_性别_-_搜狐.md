@@ -244,7 +244,7 @@
 | Archived Date   | 2024-11-07 14:32:02                             |
 | Original Link   | [https://www.sohu.com/a/547964638_296660](https://www.sohu.com/a/547964638_296660)                       |
 | Author          | 山竹                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-05-17                                 |
 | Tags            | 跨性别, 医疗资源, 性别认同, 心理支持, 社会歧视, 性别重置手术, 中国跨性别者                                 |
 >

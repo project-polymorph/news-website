@@ -38,7 +38,7 @@
 | Archived Date   | 2024-11-08 19:26:30                             |
 | Original Link   | [https://news.qq.com/rain/a/20240104A018TD00](https://news.qq.com/rain/a/20240104A018TD00)                       |
 | Author          | 李佳寅                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-01-04                                 |
 | Tags            | 跨性别运动员, 巴黎奥运会, 性别政策, 公平竞争, 体育组织, 生命故事, 社会环境                                 |
 >

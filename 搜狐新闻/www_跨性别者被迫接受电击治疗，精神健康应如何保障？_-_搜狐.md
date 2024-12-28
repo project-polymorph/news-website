@@ -52,7 +52,7 @@ _首赞_
 | Archived Date   | 2024-11-07 15:59:26                             |
 | Original Link   | [https://www.sohu.com/a/801030308_121956423](https://www.sohu.com/a/801030308_121956423)                       |
 | Author          | 健康舵手                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-15                                 |
 | Tags            | 跨性别者, 心理健康, 电击治疗, 性别认同, 医疗伦理, 法律政策, 社会环境                                 |
 >

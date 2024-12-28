@@ -42,7 +42,7 @@
 | Archived Date   | 2024-11-03 08:46:32                             |
 | Original Link   | [https://m.thepaper.cn/newsDetail_forward_12556364?from=](https://m.thepaper.cn/newsDetail_forward_12556364?from=)                       |
 | Author          | 许云峰                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-07-05                                 |
 | Tags            | 跨性别, 奥运会, 女子举重, 变性人, 体育, 法律政策, 社会争议, 哈伯德, 国际奥委会                                 |
 >

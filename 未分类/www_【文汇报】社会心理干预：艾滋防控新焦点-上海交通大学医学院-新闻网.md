@@ -43,7 +43,7 @@
 | Archived Date   | 2024-11-12 21:47:22                             |
 | Original Link   | [https://www.shsmu.edu.cn/news/info/1007/4500.htm](https://www.shsmu.edu.cn/news/info/1007/4500.htm)                       |
 | Author          | 唐闻佳 杨静                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2016-12-01                                 |
 | Tags            | 艾滋病, 社会心理干预, 跨性别, 男男性行为者, 医疗资源, 健康策略, 心理支持                                 |
 >

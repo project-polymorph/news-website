@@ -67,7 +67,7 @@
 | Archived Date   | 2024-11-07 15:40:34                             |
 | Original Link   | [https://www.sohu.com/a/771850797_121118846](https://www.sohu.com/a/771850797_121118846)                       |
 | Author          | 医药充电桩                               |
-| Region          | 山西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-04-15                                 |
 | Tags            | 嗓音训练, 嗓音疾病, 跨性别, 心理健康, 耳鼻喉科, 社会心理, 医学资源                                 |
 >

@@ -42,7 +42,7 @@
 | Archived Date   | 2024-11-22 06:21:18                             |
 | Original Link   | [https://www.sohu.com/a/785756731_121660075](https://www.sohu.com/a/785756731_121660075)                       |
 | Author          | 奇观舰长                               |
-| Region          | 海南省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-06-14                                 |
 | Tags            | 跨性别, 人妖文化, 社会现状, 爱情故事, 泰国, 中国富豪, 性别认同, 生存权利                                 |
 >

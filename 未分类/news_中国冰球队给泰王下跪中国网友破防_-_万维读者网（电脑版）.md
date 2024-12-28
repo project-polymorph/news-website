@@ -235,7 +235,7 @@
 | Archived Date   | 2024-11-12 14:46:02                             |
 | Original Link   | [https://news.creaders.net/china/2024/11/02/2792018.html](https://news.creaders.net/china/2024/11/02/2792018.html)                       |
 | Author          | 蓬辉堂                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-11-02                                 |
 | Tags            | 冰球, 泰国国王, 下跪, 体制, 体育外交, 民族主义, 网络舆论                                 |
 >

@@ -209,7 +209,7 @@
 | Archived Date   | 2024-11-02 11:22:55                             |
 | Original Link   | [https://view.inews.qq.com/a/20230114A06MUS00](https://view.inews.qq.com/a/20230114A06MUS00)                       |
 | Author          | 周国平                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-01-14                                 |
 | Tags            | 跨性别, 青少年, 家庭关系, 医疗资源, 性别认同, 心理健康, 社会支持, 法律政策                                 |
 >

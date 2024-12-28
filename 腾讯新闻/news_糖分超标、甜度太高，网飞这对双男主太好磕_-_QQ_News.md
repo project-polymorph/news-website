@@ -193,7 +193,7 @@ X等于kiss，这话既表达了感谢，也表达了自己的爱意。
 | Archived Date   | 2024-11-08 19:06:12                             |
 | Original Link   | [https://news.qq.com/rain/a/20220504A0B63W00](https://news.qq.com/rain/a/20220504A0B63W00)                       |
 | Author          | 毒药APP                               |
-| Region          | 北京                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-05-05                                 |
 | Tags            | 跨性别, 同性恋, 青春剧, 爱情故事, 校园霸凌, 视觉特效                                 |
 >

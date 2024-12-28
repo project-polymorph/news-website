@@ -79,7 +79,7 @@ Copyright © 1996-2015 SINA Corporation, All Rights Reserved
 | Archived Date   | 2024-11-09 05:47:51                             |
 | Original Link   | [http://news.sina.com.cn/w/zg/gjzt/2015-01-20/0550576.html?from=wap](http://news.sina.com.cn/w/zg/gjzt/2015-01-20/0550576.html?from=wap)                       |
 | Author          | 张成普                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2015-01-20                                 |
 | Tags            | 变性性工作者, 边缘化, 身份认同, 生存状况, 医疗资源                                 |
 >

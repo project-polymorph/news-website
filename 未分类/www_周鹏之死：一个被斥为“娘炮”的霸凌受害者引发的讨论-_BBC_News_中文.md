@@ -177,7 +177,7 @@ Play video, "酷爱美妆的韩国男性：面膜粉底眼线一个都不能少"
 | Archived Date   | 2024-11-12 19:02:54                             |
 | Original Link   | [https://www.bbc.com/zhongwen/simp/chinese-news-59663093](https://www.bbc.com/zhongwen/simp/chinese-news-59663093)                       |
 | Author          | 叶慧仪（Waiyee Yip）                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-12-15                                 |
 | Tags            | 跨性别, 性别霸凌, 性别歧视, 男性气质, 社会政策, 心理健康, 周鹏                                 |
 >

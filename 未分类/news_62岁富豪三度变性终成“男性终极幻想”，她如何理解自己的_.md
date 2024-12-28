@@ -86,7 +86,7 @@
 | Archived Date   | 2024-11-02 10:44:23                             |
 | Original Link   | [https://news.qq.com/rain/a/20221021A014AG00](https://news.qq.com/rain/a/20221021A014AG00)                       |
 | Author          | iWeekly周末画报                               |
-| Region          | 中国香港                               |
+| Region          | 香港                               |
 | Date            | 2022-10-21                                 |
 | Tags            | 跨性别, 个人故事, 变性经历, 性别认同, 心理健康, 法律与社会, 女性权益, Castle购置                                 |
 >

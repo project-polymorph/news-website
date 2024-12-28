@@ -60,7 +60,7 @@
 | Archived Date   | 2024-11-12 10:54:57                             |
 | Original Link   | [https://c.m.163.com/news/a/HC830UGM05525W0J.html](https://c.m.163.com/news/a/HC830UGM05525W0J.html)                       |
 | Author          | 李大脚                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-07-14                                 |
 | Tags            | 变性人, 性别身份, 医疗经历, 婚姻生活, 社会压力, 个人故事                                 |
 >

@@ -88,7 +88,7 @@
 | Archived Date   | 2024-11-08 19:10:35                             |
 | Original Link   | [https://news.qq.com/rain/a/20230115A035YP00?no-redirect=1](https://news.qq.com/rain/a/20230115A035YP00?no-redirect=1)                       |
 | Author          | 观察者网                               |
-| Region          | 上海，中国                               |
+| Region          | 中国大陆，中国                               |
 | Date            | 2023-01-15                                 |
 | Tags            | 跨性别, 哈利·波特, J.K.罗琳, 艺术家, 反歧视, 文化争议                                 |
 >

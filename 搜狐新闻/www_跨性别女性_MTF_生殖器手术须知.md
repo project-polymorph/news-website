@@ -95,7 +95,7 @@
 | Archived Date   | 2024-11-07 15:05:33                             |
 | Original Link   | [https://www.sohu.com/a/663995926_103755](https://www.sohu.com/a/663995926_103755)                       |
 | Author          | 搜狐新闻                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-04-07                                 |
 | Tags            | 跨性别, 生殖器手术, MTF, 医疗资源, 性别重置手术, 法律政策, 社会支持                                 |
 >

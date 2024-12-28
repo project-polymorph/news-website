@@ -57,7 +57,7 @@
 | Archived Date   | 2024-11-07 06:21:15                             |
 | Original Link   | [https://news.sohu.com/a/813685945_121979149](https://news.sohu.com/a/813685945_121979149)                       |
 | Author          | 鲍玺                               |
-| Region          | 广东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-04                                 |
 | Tags            | 爱情故事, 变性人文化, 婚礼, 跨文化恋爱, 梦想追求                                 |
 >

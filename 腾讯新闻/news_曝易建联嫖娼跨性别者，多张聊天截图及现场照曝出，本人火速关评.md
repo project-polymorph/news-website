@@ -60,7 +60,7 @@
 | Archived Date   | 2024-11-08 19:50:01                             |
 | Original Link   | [https://news.qq.com/rain/a/20241017A03TYO00](https://news.qq.com/rain/a/20241017A03TYO00)                       |
 | Author          | 萌神木木                               |
-| Region          | 山西                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-17                                 |
 | Tags            | 易建联, 嫖娼, 跨性别, 娱乐圈丑闻, 社会舆论, 职业道德                                 |
 >

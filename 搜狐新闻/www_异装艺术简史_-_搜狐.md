@@ -68,7 +68,7 @@ Chez Deep团体
 | Archived Date   | 2024-11-07 07:47:18                             |
 | Original Link   | [https://www.sohu.com/a/146169839_819453](https://www.sohu.com/a/146169839_819453)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2017-06-06                                 |
 | Tags            | 异装艺术, 跨性别, 文化研究, 当代艺术, 性别表现, 艺术历史                                 |
 >

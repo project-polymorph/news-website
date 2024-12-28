@@ -75,7 +75,7 @@ Abbily14歲就在網上爆紅。（翻攝自我叫Abbily微博）
 | Archived Date   | 2024-11-12 11:36:08                             |
 | Original Link   | [https://ent.ltn.com.tw/news/breakingnews/3489062](https://ent.ltn.com.tw/news/breakingnews/3489062)                       |
 | Author          | 自由娱乐                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-04-04                                 |
 | Tags            | 跨性别, 变性经历, 网红, 社交媒体, 公众反应, 法律政策                                 |
 >

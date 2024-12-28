@@ -49,7 +49,7 @@
 | Archived Date   | 2024-11-12 19:48:26                             |
 | Original Link   | [https://www.edu.cn/edu/xue_qian/xue_qian_news/200603/t20060323_18075.shtml](https://www.edu.cn/edu/xue_qian/xue_qian_news/200603/t20060323_18075.shtml)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2001-10-31                                 |
 | Tags            | 跨性别, 性别教育, 心理健康, 性别认同, 医疗资源, 社会环境                                 |
 >

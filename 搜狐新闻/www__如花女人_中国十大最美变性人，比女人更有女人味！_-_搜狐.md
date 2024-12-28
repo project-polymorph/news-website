@@ -172,7 +172,7 @@
 | Archived Date   | 2024-11-07 11:55:26                             |
 | Original Link   | [https://www.sohu.com/a/251536065_373249](https://www.sohu.com/a/251536065_373249)                       |
 | Author          | 搜狐新闻                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2018-09-02                                 |
 | Tags            | 变性人, 跨性别, 社会接受, 案例研究, 生命故事, 医疗经历, 社会环境, 文化影响                                 |
 >

@@ -284,7 +284,7 @@
 | Archived Date   | 2024-11-08 19:54:13                             |
 | Original Link   | [https://view.inews.qq.com/a/20201211A065X300](https://view.inews.qq.com/a/20201211A065X300)                       |
 | Author          | 龚思量                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2020-12-11                                 |
 | Tags            | 酷儿理论, 跨性别, 情感理论, 性别研究, 社会运动, 性别政治, 学术讨论, 心理学, 亚裔研究                                 |
 >

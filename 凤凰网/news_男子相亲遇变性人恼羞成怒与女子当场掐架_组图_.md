@@ -34,7 +34,7 @@
 | Archived Date   | 2024-11-02 07:40:25                             |
 | Original Link   | [https://news.ifeng.com/a/20151113/46233123_0.shtml?_cpb_shehui](https://news.ifeng.com/a/20151113/46233123_0.shtml?_cpb_shehui)                       |
 | Author          | 华西都市报                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2015-11-11                                 |
 | Tags            | 变性人, 社会冲突, 跨性别者, 西双版纳, 相亲                                 |
 >

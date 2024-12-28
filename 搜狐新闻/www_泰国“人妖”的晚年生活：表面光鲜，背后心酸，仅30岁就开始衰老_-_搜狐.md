@@ -136,7 +136,7 @@
 | Archived Date   | 2024-11-07 15:06:50                             |
 | Original Link   | [https://www.sohu.com/a/665890773_121658315](https://www.sohu.com/a/665890773_121658315)                       |
 | Author          | 未知                               |
-| Region          | 河南省                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-04-12                                 |
 | Tags            | 跨性别, 生命故事, 社会现象, 泰国人妖, 性别身份, 经济压力, 个人追求                                 |
 >

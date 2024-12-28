@@ -75,7 +75,7 @@
 | Archived Date   | 2024-11-02 08:23:08                             |
 | Original Link   | [https://news.ifeng.com/mainland/200906/0616_17_1205327.shtml](https://news.ifeng.com/mainland/200906/0616_17_1205327.shtml)                       |
 | Author          | 底东娜                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2009-06-16                                 |
 | Tags            | 变性手术, 卫生部, 手术规范, 跨性别者权益, 医疗政策                                 |
 >

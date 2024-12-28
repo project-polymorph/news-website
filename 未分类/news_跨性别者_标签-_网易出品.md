@@ -194,7 +194,7 @@
 | Archived Date   | 2024-11-12 14:08:52                             |
 | Original Link   | [https://news.163.com/keywords/8/e/8de86027522b8005/1.html](https://news.163.com/keywords/8/e/8de86027522b8005/1.html)                       |
 | Author          | 网易号                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-11-10                                 |
 | Tags            | 跨性别, 特朗普, 变性手术, 性别认同, 社会歧视, 法律政策, 体育参与, 社会调查, 跨性别者生存现状                                 |
 >

@@ -290,7 +290,7 @@
 | Archived Date   | 2024-11-09 06:32:00                             |
 | Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-08-06%2Fdoc-ikqcfncc1273700.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-08-06%2Fdoc-ikqcfncc1273700.shtml)                       |
 | Author          | 游识猷                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-08-06                                 |
 | Tags            | 跨性别运动员, 公平竞争, 体育法规, 睾酮水平, 东京奥运会, 劳雷尔·哈伯德, 女性体育, 性别认同                                 |
 >

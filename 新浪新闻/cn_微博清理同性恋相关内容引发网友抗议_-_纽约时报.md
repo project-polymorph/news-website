@@ -82,7 +82,7 @@
 | Archived Date   | 2024-11-09 06:12:35                             |
 | Original Link   | [https://cn.nytimes.com/china/20180416/china-gay-ban-sina-weibo-/](https://cn.nytimes.com/china/20180416/china-gay-ban-sina-weibo-/)                       |
 | Author          | 赫海威, ZOE MOU                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2018-04-16                                 |
 | Tags            | 微博审查, 同性恋抗议, 网络安全法, LGBTQ+权益, 社会反响, 中国社会                                 |
 >

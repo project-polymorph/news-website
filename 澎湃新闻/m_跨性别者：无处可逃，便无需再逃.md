@@ -135,7 +135,7 @@ Andrea Dworkin认为，在一个没有父权压迫、真正自由的时代，跨
 | Archived Date   | 2024-11-03 08:28:58                             |
 | Original Link   | [https://m.thepaper.cn/baijiahao_5523167](https://m.thepaper.cn/baijiahao_5523167)                       |
 | Author          | 简单心理                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2020-01-15                                 |
 | Tags            | 跨性别, 身份认同, 社会性别, 女性主义, 医疗与心理支持, 影视作品                                 |
 >

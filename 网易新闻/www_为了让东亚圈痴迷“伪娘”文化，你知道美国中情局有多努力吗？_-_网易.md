@@ -171,7 +171,7 @@
 | Archived Date   | 2024-11-08 08:04:55                             |
 | Original Link   | [https://www.163.com/dy/article/J8KHOTO405349XQY.html](https://www.163.com/dy/article/J8KHOTO405349XQY.html)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-03                                 |
 | Tags            | 伪娘文化, 美国中情局, 东亚文化, 性别认同, 文化影响, 社会观察                                 |
 >

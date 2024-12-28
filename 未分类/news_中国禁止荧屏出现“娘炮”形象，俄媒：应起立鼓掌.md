@@ -48,7 +48,7 @@
 | Archived Date   | 2024-11-12 14:27:25                             |
 | Original Link   | [https://news.bjd.com.cn/2021/09/06/167520t100.html](https://news.bjd.com.cn/2021/09/06/167520t100.html)                       |
 | Author          | 列伊拉·季托娃，柳玉鹏译                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-09-06                                 |
 | Tags            | 跨性别, 性别认同, 法律政策, 社会环境, 男性形象, 公共舆论                                 |
 >

@@ -526,7 +526,7 @@ _![](https://n.sinaimg.cn/sinakd10201/360/w180h180/20200407/e50c-irtymmw7775468.
 | Archived Date   | 2024-11-09 06:53:00                             |
 | Original Link   | [https://k.sina.cn/article_5734996980_155d51bf40190131fn.html?from=mood](https://k.sina.cn/article_5734996980_155d51bf40190131fn.html?from=mood)                       |
 | Author          | 陈晓妍，来源：真实故事计划（ID:zhenshigushi1）                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-06-08                                 |
 | Tags            | 跨性别, 青少年, 家庭矛盾, 医疗资源, 心理健康, 社会压力, 性别认同, 生存状态, 真实故事                                 |
 >

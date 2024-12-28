@@ -94,7 +94,7 @@
 | Archived Date   | 2024-11-07 15:04:33                             |
 | Original Link   | [https://www.sohu.com/a/662896090_121642469](https://www.sohu.com/a/662896090_121642469)                       |
 | Author          | 玲珑宝宝呀                               |
-| Region          | 河南省                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-04-04                                 |
 | Tags            | 人妖, 变性, 性别认同, 文化差异, 泰国, 社会包容性                                 |
 >

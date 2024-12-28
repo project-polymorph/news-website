@@ -132,7 +132,7 @@
 | Archived Date   | 2024-11-12 19:23:18                             |
 | Original Link   | [https://www.chinesefolklore.org.cn/web/index.php?Page=2&NewsID=20851](https://www.chinesefolklore.org.cn/web/index.php?Page=2&NewsID=20851)                       |
 | Author          | 康丽                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 女性主义, 民俗学, 性别视角, 历史与社会科学, 社会变迁                                 |
 >

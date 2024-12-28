@@ -71,7 +71,7 @@
 | Archived Date   | 2024-11-08 08:14:25                             |
 | Original Link   | [https://www.163.com/dy/article/JFBSE1N70553XLZG.html](https://www.163.com/dy/article/JFBSE1N70553XLZG.html)                       |
 | Author          | 网易号                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-27                                 |
 | Tags            | 跨性别, 爱情故事, 人妖文化, 社会环境, 泰国, 婚姻, 梦想追求                                 |
 >

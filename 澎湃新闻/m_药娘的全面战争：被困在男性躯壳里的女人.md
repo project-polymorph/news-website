@@ -258,7 +258,7 @@
 | Archived Date   | 2024-11-10 21:48:03                             |
 | Original Link   | [https://m.thepaper.cn/baijiahao_6806238](https://m.thepaper.cn/baijiahao_6806238)                       |
 | Author          | 乔乔                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 药娘, 性别认同, 社会环境, 医疗资源, 个人经历, 阿诚的故事, 抵抗与希望                                 |
 >

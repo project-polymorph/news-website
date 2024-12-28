@@ -64,7 +64,7 @@
 | Archived Date   | 2024-11-12 04:56:38                             |
 | Original Link   | [http://dawanews.com/tt/2024/0207/69650.html](http://dawanews.com/tt/2024/0207/69650.html)                       |
 | Author          | CTV News                               |
-| Region          | 加拿大阿尔伯塔省                               |
+| Region          |加拿大                               |
 | Date            | 2024-02-07                                 |
 | Tags            | 政策改革, 跨性别, 公众抗议, 医疗资源, 阿尔伯塔省, 人权, 性别认同                                 |
 >

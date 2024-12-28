@@ -143,7 +143,7 @@
 | Archived Date   | 2024-11-07 15:44:16                             |
 | Original Link   | [https://www.sohu.com/a/781605481_221243](https://www.sohu.com/a/781605481_221243)                       |
 | Author          | 未知                               |
-| Region          | 广东省, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-05-26                                 |
 | Tags            | 性别焦虑, 跨性别, 心理健康, 青少年, 医疗资源, 社会支持, 性别认同, 心理咨询, 自杀率                                 |
 >

@@ -152,7 +152,7 @@ Apple 媒体联络
 | Archived Date   | 2024-11-12 18:44:01                             |
 | Original Link   | [https://www.apple.com.cn/newsroom/2019/01/out-of-a-culture-of-giving-a-world-of-difference/](https://www.apple.com.cn/newsroom/2019/01/out-of-a-culture-of-giving-a-world-of-difference/)                       |
 | Author          | Apple                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 志愿者, 社区支持, 社会责任, Apple, 鼓励信, 编程教育, 全球公益                                 |
 >

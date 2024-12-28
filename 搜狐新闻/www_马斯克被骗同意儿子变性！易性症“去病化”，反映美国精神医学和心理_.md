@@ -187,7 +187,7 @@
 | Archived Date   | 2024-11-22 06:25:08                             |
 | Original Link   | [https://www.sohu.com/a/795775388_401908](https://www.sohu.com/a/795775388_401908)                       |
 | Author          | 晴日精准心理何日辉                               |
-| Region          | 广东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-07-24                                 |
 | Tags            | 马斯克, 变性, 性别认同, 精神医学, 心理学, 家庭教育, 性别烦躁, LGBTQ+, 心理干预, 社会政策                                 |
 >

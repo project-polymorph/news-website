@@ -48,7 +48,7 @@
 | Archived Date   | 2024-11-12 14:42:51                             |
 | Original Link   | [https://news.creaders.net/china/2002/05/23/450195.html](https://news.creaders.net/china/2002/05/23/450195.html)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2002-05-23                                 |
 | Tags            | 跨性别, 男妈妈, 生育技术, 社会接受, 法律政策, 陈焕然, 变性人经历                                 |
 >

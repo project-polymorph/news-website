@@ -54,7 +54,7 @@
 | Archived Date   | 2024-11-07 15:51:16                             |
 | Original Link   | [https://www.sohu.com/a/793147776_122004014](https://www.sohu.com/a/793147776_122004014)                       |
 | Author          | 树洞心语                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-07-14                                 |
 | Tags            | 变性手术, 心理故事, 性别认同, 个人经历, 多元文化, 社会接受, 自我发现, 情感体验                                 |
 >

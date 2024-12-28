@@ -66,7 +66,7 @@
 | Archived Date   | 2024-11-12 12:44:42                             |
 | Original Link   | [https://m.3dmgame.com/news/202411/3907694.html](https://m.3dmgame.com/news/202411/3907694.html)                       |
 | Author          | druiber                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-11-02                                 |
 | Tags            | 龙腾世纪, 非二元性别, LGBTQ+, 角色扮演游戏, 性别多样性, 游戏发展                                 |
 >

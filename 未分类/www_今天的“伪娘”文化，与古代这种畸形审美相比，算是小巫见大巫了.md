@@ -99,7 +99,7 @@
 | Archived Date   | 2024-11-12 23:37:32                             |
 | Original Link   | [https://www.yeeyi.com/news/details/917060/](https://www.yeeyi.com/news/details/917060/)                       |
 | Author          | 浩然文史                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-03-19                                 |
 | Tags            | 跨性别文化, 审美, 伪娘, 历史, 社会现象                                 |
 >

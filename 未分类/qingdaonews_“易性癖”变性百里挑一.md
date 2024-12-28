@@ -93,7 +93,7 @@
 | Archived Date   | 2024-11-02 11:03:02                             |
 | Original Link   | [https://qingdaonews.com/content/2006-02/24/content_6084790.htm](https://qingdaonews.com/content/2006-02/24/content_6084790.htm)                       |
 | Author          | 吴亭文                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2006-02-24                                 |
 | Tags            | 变性手术, 跨性别, 性别认同, 易性癖, 社会环境, 医疗资源, 法律政策, 个人经历                                 |
 >

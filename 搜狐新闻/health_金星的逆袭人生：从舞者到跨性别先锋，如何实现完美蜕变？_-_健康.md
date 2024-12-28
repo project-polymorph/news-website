@@ -44,7 +44,7 @@
 | Archived Date   | 2024-11-07 05:08:02                             |
 | Original Link   | [https://health.sohu.com/a/817080069_121956423](https://health.sohu.com/a/817080069_121956423)                       |
 | Author          | 健康舵手                               |
-| Region          | 北京                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-16                                 |
 | Tags            | 跨性别, 生命故事, 性别重塑, 金星, 舞蹈, 自我追求, 健康与生活平衡, 爱情故事                                 |
 >

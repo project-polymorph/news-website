@@ -54,7 +54,7 @@
 | Archived Date   | 2024-11-12 06:20:14                             |
 | Original Link   | [http://news.cnnb.com.cn/system/2021/08/02/030275315.shtml](http://news.cnnb.com.cn/system/2021/08/02/030275315.shtml)                       |
 | Author          | 澎湃新闻                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-08-02                                 |
 | Tags            | 跨性别, 奥运会, 运动员, 劳蕾尔·哈伯德, 性别变更, 体育伦理, 李雯雯                                 |
 >

@@ -99,7 +99,7 @@
 | Archived Date   | 2024-11-03 09:50:58                             |
 | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9490421](https://m.thepaper.cn/newsDetail_forward_9490421)                       |
 | Author          | 兰迪·胡特尔·爱泼斯坦（Randy Hutner Epstein），翻译：杨惠东                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2020-07-01                                 |
 | Tags            | 跨性别, 雌雄同体, 性别认同, 医学科普, 社会环境, 心理健康, 社会文化, 科学研究                                 |
 >

@@ -59,7 +59,7 @@ _首赞_
 | Archived Date   | 2024-11-07 06:28:17                             |
 | Original Link   | [https://news.sohu.com/a/820800472_121798711](https://news.sohu.com/a/820800472_121798711)                       |
 | Author          | 搜狐新闻                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-27                                 |
 | Tags            | 变性人, 商业潜力, 社会影响, 性别认同, 医疗资源, 法律政策, 个人选择, 市场推动                                 |
 >

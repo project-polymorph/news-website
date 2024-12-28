@@ -33,7 +33,7 @@
 | Archived Date   | 2024-11-09 10:22:38                             |
 | Original Link   | [https://i.ifeng.com/c/82qPKdDkzwS](https://i.ifeng.com/c/82qPKdDkzwS)                       |
 | Author          | 凤凰网                               |
-| Region          | 陕西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-01-08                                 |
 | Tags            | 跨性别, 人妖, 历史, 社会现象, 性别多样性, 文化研究                                 |
 >

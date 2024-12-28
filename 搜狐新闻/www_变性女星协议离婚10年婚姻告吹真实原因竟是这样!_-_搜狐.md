@@ -58,7 +58,7 @@ _首赞_
 | Archived Date   | 2024-11-22 03:50:15                             |
 | Original Link   | [https://www.sohu.com/a/148468210_116897](https://www.sohu.com/a/148468210_116897)                       |
 | Author          | 搜狐网                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2017-06-12                                 |
 | Tags            | 跨性别, 变性, 婚姻, 娱乐圈                                 |
 >

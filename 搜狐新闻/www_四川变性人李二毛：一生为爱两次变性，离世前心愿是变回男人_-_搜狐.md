@@ -416,7 +416,7 @@
 | Archived Date   | 2024-11-22 06:14:42                             |
 | Original Link   | [https://www.sohu.com/a/780619969_121668166](https://www.sohu.com/a/780619969_121668166)                       |
 | Author          | 未知                               |
-| Region          | 甘肃省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-05-22                                 |
 | Tags            | 跨性别者, 生命故事, 变性经历, 社会歧视, 法律政策, 生存现状, 医疗资源, 艾滋病, 爱的追寻                                 |
 >

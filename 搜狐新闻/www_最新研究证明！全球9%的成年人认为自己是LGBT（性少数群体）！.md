@@ -71,7 +71,7 @@ LGBT+在各国的知名度差异很大。在拉丁美洲、西班牙、澳大利
 | Archived Date   | 2024-11-07 15:28:02                             |
 | Original Link   | [https://www.sohu.com/a/745283036_527250](https://www.sohu.com/a/745283036_527250)                       |
 | Author          | 红枫湾                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-12-19                                 |
 | Tags            | LGBT, 跨性别, 社會調查, 法律政策, 人權, 性別認同                                 |
 >

@@ -48,7 +48,7 @@
 | Archived Date   | 2024-11-02 04:00:06                             |
 | Original Link   | [https://news.sina.cn/gj/2019-05-30/detail-ihvhiews5692906.d.html?vt=4](https://news.sina.cn/gj/2019-05-30/detail-ihvhiews5692906.d.html?vt=4)                       |
 | Author          | 环球网官方账号                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2019-05-30                                 |
 | Tags            | 跨性别, 世卫组织, 性别不一致, 精神健康, 社会接受度, 医疗资源, 跨性别政策                                 |
 >

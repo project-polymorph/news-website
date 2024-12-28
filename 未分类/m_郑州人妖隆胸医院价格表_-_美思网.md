@@ -105,7 +105,7 @@ ICP备案：蜀ICP备18004735号-4
 | Archived Date   | 2024-11-12 13:34:04                             |
 | Original Link   | [https://m.meisiwang.com/news/146386.html](https://m.meisiwang.com/news/146386.html)                       |
 | Author          | 注册用户 懵心                               |
-| Region          | 郑州，河南省，中国大陆                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-05-06                                 |
 | Tags            | 跨性别, 隆胸, 医疗资源, 术后护理, 郑州                                 |
 >

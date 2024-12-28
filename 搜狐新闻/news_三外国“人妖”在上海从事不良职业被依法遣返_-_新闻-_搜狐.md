@@ -55,7 +55,7 @@
 | Archived Date   | 2024-11-22 02:22:02                             |
 | Original Link   | [http://news.sohu.com/20100828/n274540530.shtml](http://news.sohu.com/20100828/n274540530.shtml)                       |
 | Author          | 潘高峰 通讯员 顾闻                               |
-| Region          | 上海，中国                               |
+| Region          | 中国大陆，中国                               |
 | Date            | 2010-08-28                                 |
 | Tags            | 跨性别, 人妖, 遣送出境, 法律政策, 社会环境                                 |
 >

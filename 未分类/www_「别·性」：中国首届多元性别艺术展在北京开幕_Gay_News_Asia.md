@@ -51,7 +51,7 @@
 | Archived Date   | 2024-11-12 20:00:34                             |
 | Original Link   | [https://www.fridae.asia/sc/gay-news/2009/06/18/8488.biexingzhongguoshoujieduoyuanxingbieyishuzhanzaibeijingkaimu](https://www.fridae.asia/sc/gay-news/2009/06/18/8488.biexingzhongguoshoujieduoyuanxingbieyishuzhanzaibeijingkaimu)                       |
 | Author          | 何佳                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2009-06-14                                 |
 | Tags            | 跨性别, 艺术展, 性别多元, 男同性恋, 女同性恋, 双性恋, 创作表达, 社会环境                                 |
 >

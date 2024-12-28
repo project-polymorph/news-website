@@ -165,7 +165,7 @@
 | Archived Date   | 2024-11-08 07:51:28                             |
 | Original Link   | [https://www.163.com/dy/article/J45OC5Q20543VRVE.html](https://www.163.com/dy/article/J45OC5Q20543VRVE.html)                       |
 | Author          | 韩玥故事集                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-06-08                                 |
 | Tags            | 跨性别, 变性手术, 性别认同, 生命故事, 心理健康, 社会接受, 女性转男性, 叙事                                 |
 >

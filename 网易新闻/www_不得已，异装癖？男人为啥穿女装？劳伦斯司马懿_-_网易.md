@@ -101,7 +101,7 @@
 | Archived Date   | 2024-11-22 10:27:03                             |
 | Original Link   | [https://www.163.com/dy/article/HMM8UO3B0552E4A0.html](https://www.163.com/dy/article/HMM8UO3B0552E4A0.html)                       |
 | Author          | 赛艇队长                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-11-21                                 |
 | Tags            | 历史, 跨性别, 男扮女装, 军事, 社会观察, 文化研究                                 |
 >

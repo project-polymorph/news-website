@@ -85,7 +85,7 @@ _首赞_ +1
 | Archived Date   | 2024-11-07 15:41:53                             |
 | Original Link   | [https://www.sohu.com/a/778439728_527250](https://www.sohu.com/a/778439728_527250)                       |
 | Author          | 搜狐新闻                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-05-13                                 |
 | Tags            | LGBTQ, 青少年自杀率, 心理健康, 跨性别者, 焦虑症, 抑郁症, 家庭支持, 社会环境                                 |
 >

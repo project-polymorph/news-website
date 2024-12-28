@@ -41,7 +41,7 @@
 | Original Link   | [http://health.ifeng.com/news/detail_2011_06/02/6794484_0.shtml](http://health.ifeng.com/news/detail_2011_06/02/6794484_0.shtml)                       |
 | Author          | 中国新闻网                               |
 | Region          | 中国大陆                               |
-| Date            | 2024-11-09                                 |
+| Date            | 2011-06-02                                 |
 | Tags            | 华西医院, 变性手术, 医疗资源, 跨性别, 法律与政策                                 |
 >
 > 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

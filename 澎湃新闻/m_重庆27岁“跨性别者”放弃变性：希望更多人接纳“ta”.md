@@ -27,7 +27,7 @@
 | Archived Date   | 2024-11-10 22:22:21                             |
 | Original Link   | [https://m.thepaper.cn/newsDetail_forward_9541010](https://m.thepaper.cn/newsDetail_forward_9541010)                       |
 | Author          | 七环视频                               |
-| Region          | 重庆                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 生命故事, 社会接纳, 个性表达, 变性手术, 重庆                                 |
 >

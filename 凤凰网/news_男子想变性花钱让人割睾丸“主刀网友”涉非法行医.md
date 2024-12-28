@@ -62,7 +62,7 @@
 | Archived Date   | 2024-11-02 07:46:14                             |
 | Original Link   | [https://news.ifeng.com/a/20160725/49639782_0.shtml](https://news.ifeng.com/a/20160725/49639782_0.shtml)                       |
 | Author          | 宇文杰                               |
-| Region          | 上海                               |
+| Region          | 中国大陆                               |
 | Date            | 2016-07-25                                 |
 | Tags            | 变性, 非法行医罪, 睾丸割除, 性别认同, 医疗风险                                 |
 >

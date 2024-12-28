@@ -68,7 +68,7 @@ _首赞_
 | Archived Date   | 2024-11-22 06:35:40                             |
 | Original Link   | [https://www.sohu.com/a/806858006_121924583](https://www.sohu.com/a/806858006_121924583)                       |
 | Author          | 未知                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-09-06                                 |
 | Tags            | 跨性别, 变性人, 爱情故事, 性别认同, 社会支持, 媒体报道                                 |
 >

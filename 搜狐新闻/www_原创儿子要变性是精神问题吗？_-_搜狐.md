@@ -68,7 +68,7 @@
 | Archived Date   | 2024-11-07 16:07:55                             |
 | Original Link   | [https://www.sohu.com/a/813671427_121686408](https://www.sohu.com/a/813671427_121686408)                       |
 | Author          | 搜狐新闻                               |
-| Region          | 广东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-03                                 |
 | Tags            | 变性, 性别认同, 心理健康, 家庭支持, 医疗资源, 社会环境                                 |
 >

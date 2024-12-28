@@ -384,7 +384,7 @@
 | Archived Date   | 2024-11-09 10:23:18                             |
 | Original Link   | [https://i.ifeng.com/c/82qwqDlG6cL](https://i.ifeng.com/c/82qwqDlG6cL)                       |
 | Author          | 凤凰网健康                               |
-| Region          | 广东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-01-07                                 |
 | Tags            | 跨性别, 变性手术, 易性症, 性别认同, 医疗资源, 心理健康, 社会环境                                 |
 >

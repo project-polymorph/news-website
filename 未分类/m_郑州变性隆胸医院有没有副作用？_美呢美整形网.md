@@ -58,7 +58,7 @@
 | Archived Date   | 2024-11-12 13:35:40                             |
 | Original Link   | [https://m.mottoin.com/news/56019.html](https://m.mottoin.com/news/56019.html)                       |
 | Author          | 注册用户 admin                               |
-| Region          | 郑州, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-11                                 |
 | Tags            | 变性手术, 隆胸手术, 医疗资源, 手术副作用, 医院设施, 医生经验, 跨性别医疗, 整形外科                                 |
 >

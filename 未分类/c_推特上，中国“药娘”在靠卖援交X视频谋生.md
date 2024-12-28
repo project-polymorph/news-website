@@ -215,7 +215,7 @@
 | Archived Date   | 2024-11-02 10:09:06                             |
 | Original Link   | [https://c.m.163.com/news/a/ICBMQR9H0552C19D.html](https://c.m.163.com/news/a/ICBMQR9H0552C19D.html)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 药娘, 跨性别, 性别认同, 社会困境, 未成年人, 医疗风险, 网络交易, 生存状态                                 |
 >

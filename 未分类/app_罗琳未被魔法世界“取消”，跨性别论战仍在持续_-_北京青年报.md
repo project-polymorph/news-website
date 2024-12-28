@@ -86,7 +86,7 @@
 | Archived Date   | 2024-11-12 10:29:31                             |
 | Original Link   | [https://app.bjtitle.com/8816/newshow.php?newsid=6062191&typeid=13&uid=0&did=&mood=''](https://app.bjtitle.com/8816/newshow.php?newsid=6062191&typeid=13&uid=0&did=&mood='')                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-12-24                                 |
 | Tags            | 跨性别, J.K.罗琳, 性别争议, 法律与政策, 社会环境, 公共讨论                                 |
 >

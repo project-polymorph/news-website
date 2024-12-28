@@ -54,7 +54,7 @@
 | Archived Date   | 2024-11-12 06:12:45                             |
 | Original Link   | [http://news.cnnb.com.cn/system/2003/01/10/000445020.shtml](http://news.cnnb.com.cn/system/2003/01/10/000445020.shtml)                       |
 | Author          | 中国宁波网                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2003-01-10                                 |
 | Tags            | 跨性别, 人妖表演, 泰国文化, 性别身份, 演出艺术, 社会观察                                 |
 >

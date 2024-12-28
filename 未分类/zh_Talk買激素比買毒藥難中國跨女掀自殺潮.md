@@ -40,7 +40,7 @@
 | Archived Date   | 2024-11-02 12:23:43                             |
 | Original Link   | [https://zh.wikinews.org/wiki/Talk:%E8%B2%B7%E6%BF%80%E7%B4%A0%E6%AF%94%E8%B2%B7%E6%AF%92%E8%97%A5%E9%9B%A3_%E4%B8%AD%E5%9C%8B%E8%B7%A8%E5%A5%B3%E6%8E%80%E8%87%AA%E6%AE%BA%E6%BD%AE](https://zh.wikinews.org/wiki/Talk:%E8%B2%B7%E6%BF%80%E7%B4%A0%E6%AF%94%E8%B2%B7%E6%AF%92%E8%97%A5%E9%9B%A3_%E4%B8%AD%E5%9C%8B%E8%B7%A8%E5%A5%B3%E6%8E%80%E8%87%AA%E6%AE%BA%E6%BD%AE)                       |
 | Author          | Kitabc12345                               |
-| Region          | 中国广东                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-03-10                                 |
 | Tags            | 跨性别, 自杀, 药物获取, 社会问题, 心理健康                                 |
 >

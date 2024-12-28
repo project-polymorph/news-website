@@ -85,7 +85,7 @@
 | Archived Date   | 2024-11-12 23:34:45                             |
 | Original Link   | [https://www.yeeyi.com/news/details/1062084/](https://www.yeeyi.com/news/details/1062084/)                       |
 | Author          | 沉香艺文                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-08-29                                 |
 | Tags            | 娘炮文化, 社会, 娱乐, 亚文化, 历史, 偶像文化                                 |
 >

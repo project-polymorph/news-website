@@ -169,7 +169,7 @@
 | Archived Date   | 2024-11-02 05:33:53                             |
 | Original Link   | [https://news.sina.cn/sa/2006-07-12/detail-ikftpnny3653306.d.html](https://news.sina.cn/sa/2006-07-12/detail-ikftpnny3653306.d.html)                       |
 | Author          | 大河网-河南商报                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2006-07-12                                 |
 | Tags            | 跨性别, 性别认同, 变性经历, 社会压力, 心理健康                                 |
 >

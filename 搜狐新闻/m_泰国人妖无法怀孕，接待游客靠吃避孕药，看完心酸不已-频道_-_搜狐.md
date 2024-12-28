@@ -92,7 +92,7 @@
 | Archived Date   | 2024-11-07 05:09:16                             |
 | Original Link   | [https://m.sohu.com/a/728952615_120517683/?pvid=000115_3w_a](https://m.sohu.com/a/728952615_120517683/?pvid=000115_3w_a)                       |
 | Author          | 搜狐新闻                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-10-16                                 |
 | Tags            | 跨性别, 泰国人妖, 避孕药, 生存现状, 社会环境, 心理困境                                 |
 >

@@ -104,7 +104,7 @@
 | Archived Date   | 2024-11-22 06:09:18                             |
 | Original Link   | [https://www.sohu.com/a/684792355_398212](https://www.sohu.com/a/684792355_398212)                       |
 | Author          | 手谈姬                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-06-12                                 |
 | Tags            | 跨性别, 伪娘文化, galgame, 女装山脉, YOOOOO梗, 日本动画                                 |
 >

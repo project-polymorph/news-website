@@ -37,7 +37,7 @@ Copyright © 2014 Sohu.com Inc. All Rights Reserved.
 | Archived Date   | 2024-11-07 04:31:37                             |
 | Original Link   | [http://pic.yule.sohu.com/group-563075.shtml](http://pic.yule.sohu.com/group-563075.shtml)                       |
 | Author          | 搜狐                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2014-05-14                                 |
 | Tags            | 跨性别, 人妖, 娱乐圈, 医疗美容, 泰国, 社会认同, 女性身份                                 |
 >

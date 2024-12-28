@@ -80,7 +80,7 @@
 | Archived Date   | 2024-11-22 05:56:50                             |
 | Original Link   | [https://www.sohu.com/a/639317040_121656722](https://www.sohu.com/a/639317040_121656722)                       |
 | Author          | 邱雅文                               |
-| Region          | 山东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-02-10                                 |
 | Tags            | 变性艺人, 跨性别, 生命故事, 变性经历, 医疗资源, 法律政策, 社会接纳                                 |
 >

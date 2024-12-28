@@ -64,7 +64,7 @@
 | Archived Date   | 2024-11-07 15:54:07                             |
 | Original Link   | [https://www.sohu.com/a/798042768_122006510](https://www.sohu.com/a/798042768_122006510)                       |
 | Author          | 搜狐                               |
-| Region          | 北京市                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-02                                 |
 | Tags            | 跨性别, 拳击比赛, 体育公平, 社会争议, 性别认同, 法律伦理                                 |
 >

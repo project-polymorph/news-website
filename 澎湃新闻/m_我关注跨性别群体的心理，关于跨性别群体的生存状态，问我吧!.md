@@ -228,7 +228,7 @@ TS里面是不是男性居多？文中的主人公似乎都是男性，为什么
 | Archived Date   | 2024-11-03 08:22:21                             |
 | Original Link   | [https://m.thepaper.cn/asktopic_detail_10001458](https://m.thepaper.cn/asktopic_detail_10001458)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2015-12-23                                 |
 | Tags            | 跨性别, 心理健康, 社会环境, 医疗心理, 性别认同, 家庭支持                                 |
 >

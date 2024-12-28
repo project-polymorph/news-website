@@ -42,7 +42,7 @@
 | Archived Date   | 2024-11-07 15:10:33                             |
 | Original Link   | [https://www.sohu.com/a/672245133_121665226](https://www.sohu.com/a/672245133_121665226)                       |
 | Author          | 食美食客                               |
-| Region          | 山东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-05-02                                 |
 | Tags            | 跨性别, 变性人, 张克莎, 社会环境, 法律政策, 生命故事, 医疗资源                                 |
 >

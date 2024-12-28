@@ -80,7 +80,7 @@
 | Archived Date   | 2024-11-07 15:34:42                             |
 | Original Link   | [https://www.sohu.com/a/766716169_446148](https://www.sohu.com/a/766716169_446148)                       |
 | Author          | 胶片猴                               |
-| Region          | 广东省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-03-25                                 |
 | Tags            | 好莱坞, 性别角色, 演员表演, 艺术与性别, 文化与社会, 跨性别, 反串演出                                 |
 >

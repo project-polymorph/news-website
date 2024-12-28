@@ -276,7 +276,7 @@
 | Archived Date   | 2024-11-02 09:47:24                             |
 | Original Link   | [http://news.cctv.com/society/20070627/100106.shtml](http://news.cctv.com/society/20070627/100106.shtml)                       |
 | Author          | 张寒                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2007-06-27                                 |
 | Tags            | 跨性别, 变性经历, 社会环境, 生命故事, 家庭关系                                 |
 >

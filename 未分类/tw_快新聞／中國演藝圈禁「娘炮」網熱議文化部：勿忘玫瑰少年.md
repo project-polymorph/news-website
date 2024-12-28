@@ -47,7 +47,7 @@
 | Archived Date   | 2024-11-12 17:37:32                             |
 | Original Link   | [https://tw.news.yahoo.com/%E5%BF%AB%E6%96%B0%E8%81%9E-%E4%B8%AD%E5%9C%8B%E6%BC%94%E8%97%9D%E5%9C%88%E7%A6%81-%E5%A8%98%E7%82%AE-%E7%B6%B2%E7%86%B1%E8%AD%B0-%E6%96%87%E5%8C%96%E9%83%A8-010711945.html](https://tw.news.yahoo.com/%E5%BF%AB%E6%96%B0%E8%81%9E-%E4%B8%AD%E5%9C%8B%E6%BC%94%E8%97%9D%E5%9C%88%E7%A6%81-%E5%A8%98%E7%82%AE-%E7%B6%B2%E7%86%B1%E8%AD%B0-%E6%96%87%E5%8C%96%E9%83%A8-010711945.html)                       |
 | Author          | 民视新闻网                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-09-02                                 |
 | Tags            | 中国演艺圈, 性别气质, 文化部, 娘炮, 性别表达, 多元性别                                 |
 >

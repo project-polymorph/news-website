@@ -272,7 +272,7 @@
 | Archived Date   | 2024-11-22 06:39:42                             |
 | Original Link   | [https://www.sohu.com/a/809452279_121999424](https://www.sohu.com/a/809452279_121999424)                       |
 | Author          | 趣影华夏                               |
-| Region          | 山西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-09-16                                 |
 | Tags            | 跨性别, 生命故事, 变性人, 张克莎, 人生经历, 情感经历, 自传, 女人梦                                 |
 >

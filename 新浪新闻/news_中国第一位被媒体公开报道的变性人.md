@@ -71,7 +71,7 @@
 | Archived Date   | 2024-11-02 05:52:08                             |
 | Original Link   | [https://news.sina.cn/sa/2007-04-26/detail-ikftssap2870413.d.html](https://news.sina.cn/sa/2007-04-26/detail-ikftssap2870413.d.html)                       |
 | Author          | 戴敦峰                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2007-04-26                                 |
 | Tags            | 跨性别, 变性人, 生命故事, 社会歧视, 性别认同, 医疗经验, 法律政策                                 |
 >

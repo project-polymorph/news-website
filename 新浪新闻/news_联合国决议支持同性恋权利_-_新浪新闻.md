@@ -129,7 +129,7 @@
 | Archived Date   | 2024-11-09 07:41:38                             |
 | Original Link   | [https://news.sina.cn/sa/2011-06-19/detail-ikftpnny4839501.d.html](https://news.sina.cn/sa/2011-06-19/detail-ikftpnny4839501.d.html)                       |
 | Author          | 东方早报                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2011-06-19                                 |
 | Tags            | 联合国, 跨性别权利, 同性恋, 人权, 国际法律, 社会政策, 中国投票, 南非, 反对声                                 |
 >

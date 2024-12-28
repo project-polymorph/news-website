@@ -172,7 +172,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Archived Date   | 2024-11-22 11:16:59                             |
 | Original Link   | [https://www.163.com/dy/article/JEN866CR0528WBLP.html](https://www.163.com/dy/article/JEN866CR0528WBLP.html)                       |
 | Author          | 刘空青                               |
-| Region          | 上海                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-17                                 |
 | Tags            | 跨性别, 易建联, 社会舆论, 性别认同, 嫖娼事件, TS群体, 网络文化                                 |
 >

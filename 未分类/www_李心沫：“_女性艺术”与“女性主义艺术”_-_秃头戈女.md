@@ -92,7 +92,7 @@ Bald Girls 秃头戈女 © 2012-All rights reserved.
 | Archived Date   | 2024-11-12 09:12:17                             |
 | Original Link   | [http://www.bald-girls.net/shownews.asp?id=33](http://www.bald-girls.net/shownews.asp?id=33)                       |
 | Author          | 李心沫                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2012-08-18                                 |
 | Tags            | 女性艺术, 女性主义艺术, 跨性别艺术, 性别研究, 艺术批评, 社会文化, 性别政治, 生态女性主义, 自由主义女性主义, 消费主义, 中国当代艺术                                 |
 >

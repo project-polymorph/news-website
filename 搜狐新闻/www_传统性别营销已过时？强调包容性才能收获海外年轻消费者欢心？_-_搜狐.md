@@ -76,7 +76,7 @@ _首赞_
 | Archived Date   | 2024-11-07 15:01:59                             |
 | Original Link   | [https://www.sohu.com/a/656551850_121660617](https://www.sohu.com/a/656551850_121660617)                       |
 | Author          | 未知                               |
-| Region          | 陕西省                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-03-20                                 |
 | Tags            | 性别营销, 跨性别, 市场研究, 包容性营销, Z世代, 性别认同, 传统营销模式                                 |
 >

@@ -44,7 +44,7 @@
 | Archived Date   | 2024-11-12 15:47:13                             |
 | Original Link   | [https://news.sciencenet.cn/sbhtmlnews/2016/11/317909.shtm?id=317909](https://news.sciencenet.cn/sbhtmlnews/2016/11/317909.shtm?id=317909)                       |
 | Author          | 黄辛 杨静                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2016-11-16                                 |
 | Tags            | 跨性别, 艾滋病, 男男性行为者, 流行病学, 公共卫生, 健康促进策略                                 |
 >

@@ -125,7 +125,7 @@
 | Archived Date   | 2024-11-22 04:48:31                             |
 | Original Link   | [https://www.sohu.com/a/370121696_149159](https://www.sohu.com/a/370121696_149159)                       |
 | Author          | 未知                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2020-02-02                                 |
 | Tags            | 观念摄影, 数字时代, 社会边缘人, 变性人, 刘铮, 艺术与文化, 摄影艺术, 身份表达                                 |
 >

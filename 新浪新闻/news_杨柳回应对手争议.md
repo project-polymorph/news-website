@@ -60,7 +60,7 @@
 | Archived Date   | 2024-11-02 04:08:17                             |
 | Original Link   | [https://news.sina.cn/gn/2024-08-10/detail-incicfvq5020336.d.html](https://news.sina.cn/gn/2024-08-10/detail-incicfvq5020336.d.html)                       |
 | Author          | 为冰                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-10                                 |
 | Tags            | 杨柳, 巴黎奥运会, 拳击, 跨性别, 性别争议, 体育                                 |
 >

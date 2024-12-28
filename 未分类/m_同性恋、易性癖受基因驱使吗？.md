@@ -72,7 +72,7 @@
 | Archived Date   | 2024-11-02 10:30:49                             |
 | Original Link   | [https://m.ebiotrade.com/newsf/2001-4/L01417132319.htm](https://m.ebiotrade.com/newsf/2001-4/L01417132319.htm)                       |
 | Author          | 生物通                               |
-| Region          | 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2001-04-18                                 |
 | Tags            | 同性恋, 易性癖, 基因研究, 生物医学, 心理学, 社会学, 变性, 性别多样性                                 |
 >
