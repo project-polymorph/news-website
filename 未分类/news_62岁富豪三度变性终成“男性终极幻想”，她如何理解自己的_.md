@@ -1,0 +1,94 @@
+# 62岁富豪三度变性终成“男性终极幻想”，她如何理解自己的人生？
+
+## 正文 { data-search-exclude }
+
+
+![用微信扫描二维码](data:image/png;base64,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)
+
+![用QQ扫描二维码](data:image/png;base64,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)
+
+![手机看](https://inews.gtimg.com/newsapp_bt/0/0522140926837_6113/0)
+
+## 文章信息 { data-search-exclude }
+
+**来源:** [iWeekly周末画报](https://news.qq.com/omn/author/8QMd3XtZ6Y0auD%2Ff)  
+**时间:** 2022-10-21 09:00发布于中国香港现代传播集团  
+**作者:** iWeekly周末画报  
+**版权:** 本内容来自腾讯平台创作者，不代表腾讯新闻或腾讯网的观点和立场。  
+
+## 正文 { data-search-exclude }
+
+在不知情的人眼中，知名律师萨曼莎·凯恩（Samantha Kane）前凸后翘、才华横溢且家财万贯，是不少男性的“终极幻想”。鲜为人知的是，萨曼莎曾三度接受变性手术——从男到女，女到男，再从男到女，并在暮年买下城堡实现自己的“公主梦”。人们好奇，萨曼莎为何在两种性别之间摇摆不定？拥有多段性别体验的萨曼莎又如何理解自己的人生？
+
+### 从“萨姆”到“萨曼莎”
+
+30岁时，萨姆·哈希米（Sam Hashimi）已经拥有了世俗意义上的圆满人生：在英国的一家沙特公司担任投资主管，已婚且有两个孩子，身家千万且家庭美满。
+
+唯有他自己能看见自己的“残缺”：有着男人的身体，但内心却住着女性的灵魂。据萨姆描述，他从小就对自己的男性身份感到不适，但保守的社会风气让他选择压抑自己的想法。他不动声色地和普通人一样娶妻生子，但内心的排斥感却与日俱增。
+
+1987年起，他接受了一系列的变性和整容手术，包括男性生殖器切除、女性生殖器再造、隆胸、整形、牙齿贴面等等。他的梦想不仅仅是变为“女儿身”，而是成为“男性的终极幻想”。等到她再次出现在亲朋好友和商业伙伴的面前时，人们震惊地发现以前那个两个孩子的父亲，变成了一名前凸后翘的女郎。
+
+她的“圆梦”行为并未得到众人的理解——妻子和她离婚、孩子和她断绝了关系，还丢掉了之前的工作。好在萨曼莎很坚强，她将自己的名字从“萨姆”改为“萨曼莎”，转行做了一名室内设计师，并开始和一名地产大亨约会，萨曼莎就这样开启了她的第二人生。
+
+### 两性的模糊地带
+
+在走过了所有的弯路之后，萨曼莎并未迎来自己期望的坦途。一方面，女性在社会中遭遇的种种不公平的待遇让她愤怒；另一方面，未婚夫在亲密接触时的不尊重也无时无刻不在提醒她，自己并非天然是个女性。加上家人的冷眼，萨曼莎倍感无助。
+
+2005年，在以萨曼莎的身份生活了七年之后，她做出了一个痛苦的决定——花费2.5万英镑（约合20万人民币），在伦敦查林十字医院性别诊所接受第二次变性手术。医生移除了先前植入的乳房，为她重做了男性生殖器。他也再次改头换面成为了“查尔斯·凯恩”（Charles Kane），期望能够找回“以前的生活”。
+
+恢复男儿身后，查尔斯转行做了律师，也试图与女性约会，不过屡屡遭到拒绝和嘲讽。直到2009年6月，查尔斯在一家画廊邂逅了比他整整年轻22岁的埃姆斯，埃姆斯毫不介意凯恩的两次变性经历。在她看来，正因为查尔斯曾经身为女性，所以更懂得女性需求，是非常棒的男朋友。
+
+但这段感情最终还是无疾而终。事实上，由于变性手术的不可逆性，他已无法变回先前的“萨姆”。现在的他来到了一个模糊的性别地带：尽管拥有男性生殖器官却没有任何男性功能，作为男性却也失去了男性的长相和体格，而且他的身体也无法再产生睾丸激素了。
+
+查尔斯感觉自己再次坠入地狱。“从金星回到火星是一场灾难。”查尔斯说，“我感觉自己被困在一个混合的边缘地带，现在的生活只是对过去男性生活的苍白模仿。”
+
+### 买城堡终圆公主梦
+
+在得到家人的谅解和支持后，查尔斯重新思考了自己的需求。他认为自己的人格仍然是个女性，当时从女性变回男性只是为了逃避作为女人的烦恼。查尔斯觉得，和女性的艰难相比，倒置的性别更让他痛苦。
+
+2017年，58岁的查尔斯接受了人生中第三次变性手术，决定余生以一名女性的身份活着，至此她又变回了“萨曼莎”。为了庆祝成为一名真正的女人，2022年萨曼莎买下有百年历史的苏格兰卡比斯代尔城堡（Carbisdale Castle），作为给自己的礼物。
+
+卡比斯代尔城堡由萨瑟兰公爵夫人玛丽·卡罗琳 (Mary Caroline) 建造。当年，玛丽的丈夫第三代萨瑟兰公爵去世后，由于和继子不和，玛丽带着部分遗产离开。然后她在俯瞰继子领地的山顶上建造了这座城堡，因此卡比斯代尔城堡又名“怨恨之堡”。
+
+谈到过去曲折的人生经历，萨曼莎表示自己从不后悔成为一个女人。“如果我现在可以回到过去，我仍然会选择这样做，我的错误是再尝试做一个男人。”萨曼莎说，“这就好像试图将一个沙滩球推到水下，但它不断地浮出水面一样。我不知道我这样是天生的，还是后天的影响导致，但无论如何，我的想法不能被忽视。”
+
+“我一直想成为童话故事里的公主。”在改变了三次性别，实现住在城堡里的愿望后，这个大律师认为自己体会到前所未有的快乐和平静。“我现在比以往任何时候都更快乐。我的脑海中没有关于我是谁或我的性别的问题，我就是一个女人。”萨曼莎说。
+
+“你不得不佩服她的大心脏。”《每日邮报》写道，大多数人在人生的这个阶段通常会变得低调，萨曼莎则不同。她把这次购买城堡描述为“一种声明”，她希望未来她会被认真对待——她不仅仅是一个女性，还是一名女士。
+
+---
+
+新闻及图片来源：The Times、每日邮报、纽约时报，部分图片来自网络
+
+![图片1](http://inews.gtimg.com/newsapp_bt/0/15365437872/641)  
+![图片2](http://inews.gtimg.com/newsapp_bt/0/15365437873/641)  
+![图片3](http://inews.gtimg.com/newsapp_bt/0/15365438040/641)  
+![图片4](http://inews.gtimg.com/newsapp_bt/0/15365439518/641)  
+![图片5](http://inews.gtimg.com/newsapp_bt/0/15365439520/641)  
+![图片6](http://inews.gtimg.com/newsapp_bt/0/15365439294/641)  
+
+---
+
+版权声明：本内容来自腾讯平台创作者，不代表腾讯新闻或腾讯网的观点和立场。
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章讲述了62岁富豪萨曼莎·凯恩（Samantha Kane）的跌宕起伏的人生和她三度变性手术的故事。曾经的男性萨姆·哈希米（Sam Hashimi）表面上拥有成功的事业和家庭，但内心却感到极度的性别不适。她在经历了亲人和社会的误解与不接受后，选择了变性手术以追求自己的真实身份，通过不断变换性别寻求内心的平静与幸福。尽管两次转变后都未能找到真正的归属感，萨曼莎于2017年再次选择变回女性，最终购买了城堡以庆祝自己的身份认同。文章深入探讨了她的情感体验、对性别的理解，以及在复杂的社会环境中对个人身份的探索与坚持。
+<!-- tcd_abstract_end -->
+
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_62岁富豪三度变性终成“男性终极幻想”，她如何理解自己的_.md                             |
+| Size            | 11846 bytes                           |
+| Archived Date   | 2024-11-02 10:44:23                             |
+| Original Link   | [https://news.qq.com/rain/a/20221021A014AG00](https://news.qq.com/rain/a/20221021A014AG00)                       |
+| Author          | iWeekly周末画报                               |
+| Region          | 香港                               |
+| Date            | 2022-10-21                                 |
+| Tags            | 跨性别, 个人故事, 变性经历, 性别认同, 心理健康, 法律与社会, 女性权益, Castle购置                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

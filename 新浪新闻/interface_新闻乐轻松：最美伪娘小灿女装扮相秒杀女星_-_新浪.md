@@ -1,0 +1,82 @@
+# 新闻乐轻松：最美伪娘小灿女装扮相秒杀女星
+
+## 正文 { data-search-exclude }
+
+
+![](https://n.sinaimg.cn/top/360/w180h180/20230626/38f5-df8587526cfb349b8184c891a89a6ffc.jpg)
+
+## 新浪热点 { data-search-exclude }
+
+**时间:** 2014.01.14 18:30  
+**来源:** 新浪娱乐
+
+![ ](https://www.sinaimg.cn/dy/2014/0114/U4940P1DT20140114182547.jpg)
+
+### 高清图：[猎豹和人相处甚欢](http://slide.news.sina.com.cn/w/slide_1_2841_40672.html) 
+德国摄影师Chris Du Plessis在南非野生动物保护区拍到不可思议的一幕。一头非洲猎豹温顺地趴在他身边，让他抚摸她的头。然后，他还趴在草地上，让猎豹欣赏相机屏幕里的照片。
+
+![ ](https://www.sinaimg.cn/dy/2014/0114/U4940P1DT20140114182739.jpg)
+
+### 组图：[刘嘉玲调戏大熊猫遭拒](http://slide.ent.sina.com.cn/star/slide_4_704_73137.html) 
+郭富城遮面自拍】新浪娱乐讯 郭富城刘嘉玲12日亲赴成都，出席支持保育大熊猫的慈善活动。在这个由香港特别行政区资助的震后重建熊猫中心，二人均表示十分有意义，刘嘉玲调戏大熊猫遭拒绝，郭富城黑超遮面玩自拍。
+
+![ ](https://www.sinaimg.cn/dy/2014/0114/U4940P1DT20140114182804.jpg)
+
+### [最美伪娘](http://slide.ent.sina.com.cn/star/w/slide_4_704_73106.html#p=1)小灿女装扮相秒杀女星
+新浪娱乐讯 近日，一组绝美神仙姐姐图走红网络，网友在惊叹其清丽脱俗的容貌的同时，惊讶地发现，这位神仙姐姐竟然是男儿身！大赞其女装扮相绝对秒杀女明星。
+
+![ ](https://www.sinaimg.cn/dy/2014/0114/U4940P1DT20140114182817.jpg)
+
+### 手机实拍临客车厢乘客睡姿百态
+2014年1月8日晚上9点20分从杭州始发，10日凌晨3点46分抵达贵阳的临客L199次列车。列车长介绍说，跟往年相比，今年的客流比较稳定，比想象中要少一些，大约超员了10%。凌晨一点多，在车厢内，大家都东倒西歪地睡着。
+
+**责任编辑:** 范煜喆 SN097
+
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+
+## 热门评论点击查看更多 { data-search-exclude }
+
+![](https://tp1.sinaimg.cn/2621273880/50/5680079242/0)
+
+**唯美射猎者** 1  
+**评论:** 事实证明，女孩长得有些男孩气，称为美女；男孩长得有点女孩气，就叫帅哥。此照片主角结合两者之间的优势，所以称为最美！  
+**时间:** 2014-01-14
+
+**爱美女人的那点事儿** 0  
+**评论:** B&3277107241  
+**时间:** 2014-01-20
+
+**用户3259979450** 0  
+**评论:** 好漂亮[花心]  
+**时间:** 2014-01-19
+
+## 众多新闻客户端用户正在参与精彩热评，快快加入吧！ { data-search-exclude }
+
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+
+**官方:** 新浪新闻  
+**标签:** 热点资讯 精彩视频抢先看 5.0分好评
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件为一篇新浪娱乐的新闻报道，标题为《新闻乐轻松：最美伪娘小灿女装扮相秒杀女星》。文章介绍了一位男生小灿，他的女装扮相因其清丽脱俗的容貌而走红网络。许多网友对其女装效果给予高度评价，认为其形象在众多女明星中脱颖而出。报道还附有多张照片，显示小灿的不同造型和妆容。这篇文章不仅记录了网络上的一位跨性别者的受欢迎程度，也反映了社会对跨性别者的认知和接受度。从这些内容中，可以看出跨性别者在社会文化中的代表性和影响力。
+<!-- tcd_abstract_end -->
+
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | interface_新闻乐轻松：最美伪娘小灿女装扮相秒杀女星_-_新浪.md                             |
+| Size            | 2883 bytes                           |
+| Archived Date   | 2024-11-21 21:16:36                             |
+| Original Link   | [https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fnews.sina.com.cn%2Fs%2F2014-01-14%2F183029241793.shtml](https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fnews.sina.com.cn%2Fs%2F2014-01-14%2F183029241793.shtml)                       |
+| Author          | 新浪娱乐                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-01-14                                 |
+| Tags            | 跨性别, 伪娘, 社会文化, 网络传播, 性别认同, 娱乐新闻                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

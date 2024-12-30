@@ -1,0 +1,55 @@
+# 第一批“中国人妖”在上海现身？警方辟谣(图)
+
+## 正文 { data-search-exclude }
+
+
+![“上海网警”微信公号 图](https://k.sinaimg.cn/n/news/transform/378/w550h2228/20180921/dZG8-hikxxna5945065.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+## 澎湃新闻 { data-search-exclude }
+
+**来源**：“上海网警”微信公号  
+**时间**：2018.09.21 21:41  
+
+原标题：净网2018|“中式人妖 ”现身衡山路？上海警方：造谣
+
+“上海网警”微信公号9月21日消息，近日，上海网警在网上公开巡查执法工作中发现，配文为“‘厉害了，上海’又走在中国的最前列！第一批‘中国人妖’在上海衡山路显身”的三段视频在网上流传，引起网民热议。
+
+经核查，这几段视频实际发生地为深圳。经进一步核查，造谣者系浦东人员方某某（男，66岁），他想在老朋友之间开玩笑，所以在转发视频的时候配上了“第一批‘中国人妖’在上海衡山路显身”等文字。目前，浦东警方对方某某予以教育训诫，该方对自己发布不实内容的行为表示后悔，并承诺今后一定会遵守相关法律法规，规范网上言行。
+
+**警方提示**
+
+为博取眼球在网上散布谣言等虚假信息，不论原创还是转发，都需要承担相应的法律责任。市民朋友不要随意在网上发布、传播未经证实的信息，自觉做到不信谣、不传谣、不造谣。
+
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+
+## 热门评论 { data-search-exclude }
+点击查看更多
+
+## 版权 { data-search-exclude }
+[新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+
+![新浪新闻](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+
+**评论数**：1099
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件来自新浪新闻，内容涉及一起有关跨性别群体的谣言事件，标题为《第一批“中国人妖”在上海现身？警方辟谣(图)》。文中提到，近期在社交网络上流传数段视频，声称“第一批‘中国人妖’在上海衡山路显身”。经过上海警方的调查，发现这些视频的真实发生地点为深圳，而谣言的制造者为一名66岁的男子，因开玩笑而发布了虚假信息。警方随后对该男子进行了教育，强调散布谣言的法律责任。文章中还提到，公众应避免传播未经证实的信息。
+<!-- tcd_abstract_end -->
+
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_第一批“中国人妖”在上海现身？警方辟谣(图)_-_新浪新闻.md                             |
+| Size            | 1797 bytes                           |
+| Archived Date   | 2024-11-09 07:44:58                             |
+| Original Link   | [https://news.sina.cn/sh/2018-09-21/detail-ifxeuwwr6935452.d.html?vt=4](https://news.sina.cn/sh/2018-09-21/detail-ifxeuwwr6935452.d.html?vt=4)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-09-21                                 |
+| Tags            | 跨性别, 谣言, 法律政策, 社会环境, 上海, 深圳                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>

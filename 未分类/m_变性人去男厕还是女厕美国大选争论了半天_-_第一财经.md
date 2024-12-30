@@ -1,0 +1,98 @@
+# 变性人去男厕还是女厕 美国大选争论了半天
+
+## 正文 { data-search-exclude }
+
+
+![image](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAqCAYAAADvczj0AAAABGdBTUEAALGPC/xhBQAAALNJREFUaAXtmsEJgDAQBE8FO/BhLxaYCixRy9BbH0LMW9C7EQ5MHpKZJEKWmJmNXsVr8zqCltjEKNbrJSrok6t0Diz6WeQJnr1PAFkhDt6avJaqN25jFZo2cqqfVtz5hAwDGMAABjCAAQxgAAPvGkh3eNBJ6ZkMRG2TeLy7eT7wdRKPoPtZQeUd035goTEEDGAAAxjAAAYwgAEM/NIAiYdPG4nHL9duO2jueLROYvXku+NxAlohDUbt0yuHAAAAAElFTkSuQmCC)
+
+![image](data:image/png;base64,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)
+
+## 时间与来源 { data-search-exclude }
+
+**来源：** 第一财经  
+**时间：** 2016-04-27 15:36  
+**责编：** 吉萧彤  
+
+## 正文 { data-search-exclude }
+
+“在全世界都在为恐怖主义，饥饿和疾病而战的时候，美国的民主党们却为男人能在女厕所如厕而战。”美国著名演员也是导演的詹姆士-伍德(James Woods)最近表示。
+
+伍德所指的是，最近在北卡来罗纳州新推出的一项立法表示，变性人需要使用与其出生时性别一致的厕所，不允许他们按各自认同的性别选择厕所。
+
+北卡州的立法是为了反对上个月纽约市所颁布的一项法案，该法案让变性人可以自由使用他们选择的性别的厕所，支持纽约作为“美国自由主义精神的守卫者”。
+
+根据该项由纽约市长白书豪签署并即时生效的法案，纽约市政府和民众可以使用他们选择的任何一个性别的厕所，无需出示任何身份证明或任何形式的性别证明。
+
+“使用浴室和其它有性别标识的设施是一项基本人权，任何人不应该受到限制或者拒绝。”白书豪在声明中说。
+
+作为纽约州立法的相反版本，北卡州的立法一宣布立即遭到来自多个州的强烈回应。支持北卡州立法的州表示，他们也会推出类似立法，让公民的隐私权得到保护，并可以让妇女和儿童避免收到性侵害者的伤害。然而，反对该法案的州表示，这项立法完全是对同性和变性群体的歧视。做为回应，来自纽约州，华盛顿州和康涅迪格州等州的州长还颁布行政命令，禁止各自州的官员前往北卡州。多个反对该法案的州官员达成一致的声音表示，只要北卡州的该法案存在一天，他们就将禁止其所在州的官员到北卡州进行公务旅行。
+
+**克鲁兹：特朗普穿成希拉里也去不了女厕所**
+
+让“变性人如何选择入厕”议题再次升温的是共和党总统候选人特朗普在被问到相关议题时拒绝支持北卡州的法案并指出，对变性人来说，他们认为“合适的厕所才是最好的”。特朗普进一步表示，北卡州会因此而付出代价。
+
+同特朗普和民主党自由派站在一起不同，共和党总统候选人克鲁兹则表示支持北卡州的法案，克鲁兹还批评特朗普“违背基本的道德标准”，“和自由派站在一条阵线”。“即使特朗普穿成希拉里，他也照样没法去女厕所”。克鲁兹嘲讽特朗普说。“我为让大家头脑中出现一个穿着亮蓝色(希拉里套装的标准颜色)套装的特朗普排队出现在女厕所的画面感到抱歉。”克鲁兹在马里兰州当天的一次竞选活动中说。“唐纳德(特朗普)同希拉里和奥巴马保持一致，他们都谴责了北卡州的立法，也就是说，特朗普认为，如果一个男人想上女厕所的话就可以去。我想问的是，‘你们都疯了吗?’”克鲁兹说。
+
+在经过来自共和党内部和竞选对手的强烈抨击后，特朗普和此前一样立即在电视采访中修改自己的立场说，“这件事此前并无争议，所以还是应该由这个州(北卡)自己决定。”特朗普说。
+
+**零售业巨头“靶子店”(Target) 让人随便选择性别上厕所遭70多万美国民众签名抵制**
+
+在北卡州宣布“不允许变性人随便上厕所”之后，美国零售业巨头靶子店(Target)上周表示，公司的变性人工作人员和顾客可以选择去他们性别认同一致的厕所。也就是说，如果一位变性人从“男”变成“女”而认同自己是女性的话，他就可以选择以自己认同的女性身份去上女厕所;而如果一位变性人从“女”变成“男”的话，她也可以选择以自己认同的男性身份去上男厕所。
+
+靶子店的声明刚一做出立即引发美国全国大规模的声讨。根据《今日美国》的统计，到本周二下午为止，已经由74万4800名美国民众共同签署“抵制靶子店”的声讨声明，认为“靶子店”允许变性人自由使用厕所将把女性和女孩们置于危险之中，因为“一个男人如果觉得自己今天是女人的话就可以进女厕所，这完全是给性侵犯者提供最好的犯罪机会。”
+
+而“靶子店”对他们声明所做的解释是，他们致力于打造一个“包容一切的工作环境”，那些对该声明不赞同的人完全可以去使用“靶子店”专为家庭所设的“家庭专用厕所”。
+
+**分析人士：变性人根本不在乎“变性人上厕所哪边”**
+
+在自由派和保守派争得不相上下之际，也有中间派分析人士指出，保守派和自由派都在此议题上过分反应了。
+
+“我们谈这个问题好像变性人占了美国总人口的五分之一一样。”美国知名保守派新闻评论员克劳萨默( Charles Krauthammer)表示，“这个问题只是美国性别认同问题中很小的一个边缘问题，却在北卡州的立法之后被炒作成一个这么大的问题。” 克劳萨默说。
+
+“变性人群已经上了一辈子厕所，据我所知他们根本不在乎用和他们性别认知相同或者相反的厕所。”华盛顿性别研究机构家庭政策研究所主管巴克赫姆(Joseph Backholm)表示。
+
+![image](https://imgcdn.yicai.com/uppics/slides/2024/07/e64ddda6e9174812d4bea892ad8cde96.jpg)
+
+## 相关阅读 { data-search-exclude }
+
+- **特朗普竞选搭档公布，为何选了他？**  
+  ![](https://imgcdn.yicai.com/uppics/slides/2024/07/e64ddda6e9174812d4bea892ad8cde96.jpg)
+
+- **伊朗总统选举第二轮投票今日举行**  
+  ![](https://imgcdn.yicai.com/uppics/slides/2024/07/e64ddda6e9174812d4bea892ad8cde96.jpg)
+
+- **伊朗德黑兰市长扎卡尼宣布退出总统大选**  
+  ![](https://imgcdn.yicai.com/uppics/slides/2024/07/e64ddda6e9174812d4bea892ad8cde96.jpg)
+
+## 评论 { data-search-exclude }
+
+请先登录再发表评论  
+还没有评论，快来抢沙发吧！
+
+## 版权信息 { data-search-exclude }
+
+**意见反馈箱：** [yonghu@yicai.com](mailto:yonghu@yicai.com)  
+**客服热线：** 400-6060101  
+**Copyright** 第一财经 ALL Rights Reserved  
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件讨论了美国北卡罗来纳州有关变性人使用公共厕所的法律争议，该法律要求变性人使用与其出生时性别相符合的厕所。文章引述了演员詹姆士·伍德对此立法的评论以及北卡州立法与纽约市法案之间的对立。纽约市的法案允许变性人按照自己的性别认同使用厕所，反映了当地对变性人权利的保护和支持。公共和私人部门的反应也在文中有所描述，包括靶子店的响应及其引发的争议。多位政治人物对这一争议发表了看法，包括美国总统候选人特朗普与克鲁兹的观点相互对立，反映出在美国性别认同问题上不同政治立场之间的激烈分歧。整体来看，文件反映了变性人在公共空间中所面临的法律、社会和个人认同的复杂交织，显示了这一议题对美国社会的重要性。
+<!-- tcd_abstract_end -->
+
+附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_变性人去男厕还是女厕美国大选争论了半天_-_第一财经.md                             |
+| Size            | 16883 bytes                           |
+| Archived Date   | 2024-11-12 13:52:19                             |
+| Original Link   | [https://m.yicai.com/news/5007777.html](https://m.yicai.com/news/5007777.html)                       |
+| Author          | 第一财经                               |
+| Region          | 美国                               |
+| Date            | 2016-04-27                                 |
+| Tags            | 变性人, 厕所使用权, 公共政策, 法律争议, 性别认同                                 |
+>
+> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
+>
