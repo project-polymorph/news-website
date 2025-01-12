@@ -1,31 +1,6 @@
-# 性別人權協會：新聞
+# 害怕愛上男戰友　26歲男子欲做變性手術 { data-search-exclude }
 
 ## 正文 { data-search-exclude }
-
-
-![性權運動](clip1.php)
-
-![跨性別](clip2.php)
-
-![同志運動與社群](clip3.php)
-
-![歧視與仇恨犯罪](clip4.php)
-
-![少年同志與教育](clip5.php)
-
-![同性伴侶與親權](clip6.php)
-
-![同志藝文](clip7.php)
-
-![同志健康](clip8.php)
-
-![社會事件](clip9.php)
-
-![名人](clip10.php)
-
----
-
-## 害怕愛上男戰友　26歲男子欲做變性手術 { data-search-exclude }
 **京華時報 2005年02月26日**
 
 登上回家的列車後，小趙若有所思地托腮望著窗外。
