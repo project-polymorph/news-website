@@ -24,13 +24,6 @@ files:
   size: 6427
   md5: a2406ab2ef1fc4926bdd423f9841fa92
   page: c_2005年，宁夏姑娘耿兰俊不顾父母反对，做国内首例“女变男”手术.md
-- name: c_你讨厌女装大佬吗？你觉得他的存在合理吗？_-_网易新闻
-  filename: c_你讨厌女装大佬吗？你觉得他的存在合理吗？_-_网易新闻.md
-  type: webpage
-  format: Markdown
-  size: 2238
-  md5: 9dff83a703d1b593f70a73699e21ea16
-  page: c_你讨厌女装大佬吗？你觉得他的存在合理吗？_-_网易新闻.md
 - name: c_接受变性手术之后的六年_-_网易新闻
   filename: c_接受变性手术之后的六年_-_网易新闻.md
   type: webpage
@@ -59,20 +52,6 @@ files:
   size: 6976
   md5: 17f96d480635603a881fd3c78a7b262f
   page: comment_美国多所学校禁止学生穿洞洞鞋_网易跟贴.md
-- name: comment_话题：成功的做了一场变性手术_-_网易
-  filename: comment_话题：成功的做了一场变性手术_-_网易.md
-  type: webpage
-  format: Markdown
-  size: 1064
-  md5: bb1b3612c7c292beef6e5778f5a29d98
-  page: comment_话题：成功的做了一场变性手术_-_网易.md
-- name: ent_变性人_标签_-_网易娱乐
-  filename: ent_变性人_标签_-_网易娱乐.md
-  type: webpage
-  format: Markdown
-  size: 18438
-  md5: 2087c38160f6f41e8d1d9d440cf266a1
-  page: ent_变性人_标签_-_网易娱乐.md
 - name: ent_台湾变性女星披婚纱欲嫁初恋男友_手机网易网
   filename: ent_台湾变性女星披婚纱欲嫁初恋男友_手机网易网.md
   type: webpage
@@ -479,13 +458,6 @@ files:
   size: 8300
   md5: 6dee3704425924106a6e33a67d3000da
   page: m_这个变性女孩的故事，疼得我全程倒吸凉气_-_网易.md
-- name: m_这部动画的男主角最爱穿女装，第一次约会把妹子吓得够呛_-_网易
-  filename: m_这部动画的男主角最爱穿女装，第一次约会把妹子吓得够呛_-_网易.md
-  type: webpage
-  format: Markdown
-  size: 5239
-  md5: f5b07235465772cbaa02729735512bac
-  page: m_这部动画的男主角最爱穿女装，第一次约会把妹子吓得够呛_-_网易.md
 - name: m_马斯克“女儿”宣布将离开美丽国！_-_网易
   filename: m_马斯克“女儿”宣布将离开美丽国！_-_网易.md
   type: webpage
@@ -493,13 +465,6 @@ files:
   size: 3065
   md5: 55d437e76e13e690c73952b5bf85d65a
   page: m_马斯克“女儿”宣布将离开美丽国！_-_网易.md
-- name: money_异装癖-_标签_网易出品
-  filename: money_异装癖-_标签_网易出品.md
-  type: webpage
-  format: Markdown
-  size: 7313
-  md5: f9f492ac847cf1b21587fac158eafd5f
-  page: money_异装癖-_标签_网易出品.md
 - name: music_Sweet_Transvestite_-_Uwe_Kröger_-_单曲-_网易云音乐
   filename: music_Sweet_Transvestite_-_Uwe_Kröger_-_单曲-_网易云音乐.md
   type: webpage
@@ -514,13 +479,6 @@ files:
   size: 373
   md5: c32867c29baa5eff28f776a7224e0b32
   page: music_no.60_伪娘漫画：男孩子也可以变得可爱！_-_网易云音乐.md
-- name: music_「人妖」李二毛的一生_-_网易云音乐
-  filename: music_「人妖」李二毛的一生_-_网易云音乐.md
-  type: webpage
-  format: Markdown
-  size: 1013
-  md5: 27dc15785b0704ca926f56ed71697284
-  page: music_「人妖」李二毛的一生_-_网易云音乐.md
 - name: music_【刘哔】温情解说之《寄宿学校》：女装大佬的惊悚故事-_视频-_网易_
   filename: music_【刘哔】温情解说之《寄宿学校》：女装大佬的惊悚故事-_视频-_网易_.md
   type: webpage
@@ -703,13 +661,6 @@ files:
   size: 4222
   md5: 8444f3de9a46df7c6f68e67d05c4764e
   page: qwq_这么可爱当然是男孩子！女装大佬cos《非人学园》白灵圣诞时装.md
-- name: tech_双性人_标签_网易出品
-  filename: tech_双性人_标签_网易出品.md
-  type: webpage
-  format: Markdown
-  size: 17554
-  md5: 518423307c655bdd3910f9c847229322
-  page: tech_双性人_标签_网易出品.md
 - name: tech_库克和小扎联手解决跨性别者上厕所问题_-_网易科技
   filename: tech_库克和小扎联手解决跨性别者上厕所问题_-_网易科技.md
   type: webpage
@@ -717,20 +668,6 @@ files:
   size: 5370
   md5: ac1f6859928e8695070bea5473c23a7c
   page: tech_库克和小扎联手解决跨性别者上厕所问题_-_网易科技.md
-- name: tech_跨性别-_标签_网易出品
-  filename: tech_跨性别-_标签_网易出品.md
-  type: webpage
-  format: Markdown
-  size: 4823
-  md5: df68b60871a484120e4e13534e6d3ff0
-  page: tech_跨性别-_标签_网易出品.md
-- name: travel_变性人_标签_-_网易旅游
-  filename: travel_变性人_标签_-_网易旅游.md
-  type: webpage
-  format: Markdown
-  size: 5728
-  md5: 9277bdc974a7ee8a95d911b1f497c0f3
-  page: travel_变性人_标签_-_网易旅游.md
 - name: tx3_爷是人妖爷怕谁-_《天下3》官方网站—国风幻想史诗世界
   filename: tx3_爷是人妖爷怕谁-_《天下3》官方网站—国风幻想史诗世界.md
   type: webpage
@@ -1123,13 +1060,6 @@ files:
   size: 12579
   md5: 4f299b704c29d81f9e64b9e0c8fec438
   page: www_「我觉得自己的身体丑恶无比」——跨性别者的自白_-_网易.md
-- name: www_「韩国最美变性人」河莉秀近况曝光！46岁冻龄童颜成美魔女！_-_网易
-  filename: www_「韩国最美变性人」河莉秀近况曝光！46岁冻龄童颜成美魔女！_-_网易.md
-  type: webpage
-  format: Markdown
-  size: 2365
-  md5: 56fa6b9d3a138431708c8556c0082161
-  page: www_「韩国最美变性人」河莉秀近况曝光！46岁冻龄童颜成美魔女！_-_网易.md
 - name: www_【周六搞笑新闻】泰国征兵日，征到了妩媚的“人妖军”_-_网易
   filename: www_【周六搞笑新闻】泰国征兵日，征到了妩媚的“人妖军”_-_网易.md
   type: webpage
@@ -1942,13 +1872,6 @@ files:
   size: 9224
   md5: 9051beab2332ebd410894ce00f56f270
   page: www_我既有子宫和卵巢，又有gao丸和yin茎......｜双性人的独白_-_网易.md
-- name: www_我，26岁，性焦虑了。_-_网易
-  filename: www_我，26岁，性焦虑了。_-_网易.md
-  type: webpage
-  format: Markdown
-  size: 7060
-  md5: 2da2263f7809736c1b3db04a6491af8f
-  page: www_我，26岁，性焦虑了。_-_网易.md
 - name: www_抖爱撕，妹控，伪娘，这部深夜动画内容很小清新_-_网易
   filename: www_抖爱撕，妹控，伪娘，这部深夜动画内容很小清新_-_网易.md
   type: webpage
@@ -2768,20 +2691,6 @@ files:
   size: 1717
   md5: 8f1da7594293b463326ba71c14225689
   page: www_那些对于异性服装特别喜欢的人们，异装癖让他们的心灵得到满足_-_网易.md
-- name: www_金姓艺术家“彩虹门”事件：为何中国不能宣扬LGBT？_-_网易
-  filename: www_金姓艺术家“彩虹门”事件：为何中国不能宣扬LGBT？_-_网易.md
-  type: webpage
-  format: Markdown
-  size: 594
-  md5: 936c0280a5de425505d6f31a4a1afb5f
-  page: www_金姓艺术家“彩虹门”事件：为何中国不能宣扬LGBT？_-_网易.md
-- name: www_金星两天连发两条微博，直言爱自己，做自己，与性别无关!_-_网易
-  filename: www_金星两天连发两条微博，直言爱自己，做自己，与性别无关!_-_网易.md
-  type: webpage
-  format: Markdown
-  size: 1291
-  md5: 1d13accbef6377f58b61a3f1c0b07796
-  page: www_金星两天连发两条微博，直言爱自己，做自己，与性别无关!_-_网易.md
 - name: www_金星两天连发两条微博，霸气发声：爱自己，做自己，无关性别！_-_网易
   filename: www_金星两天连发两条微博，霸气发声：爱自己，做自己，无关性别！_-_网易.md
   type: webpage
@@ -2810,13 +2719,6 @@ files:
   size: 3933
   md5: 328dcb932a7423caa9105a68e0f82ad6
   page: www_金星在1995年变性成功，当初已怀有身孕的前妻，25年后过得怎样_.md
-- name: www_金星真不冤！继广州后金星又被拒绝，佛山大剧院：太多人举报她！
-  filename: www_金星真不冤！继广州后金星又被拒绝，佛山大剧院：太多人举报她！.md
-  type: webpage
-  format: Markdown
-  size: 1053
-  md5: 7b9e502682f6177f459e95cda7ef3d1a
-  page: www_金星真不冤！继广州后金星又被拒绝，佛山大剧院：太多人举报她！.md
 - name: www_金星虽进行反击，但价值观的差异，注定反击无疑是徒劳的挣扎_-_网易
   filename: www_金星虽进行反击，但价值观的差异，注定反击无疑是徒劳的挣扎_-_网易.md
   type: webpage

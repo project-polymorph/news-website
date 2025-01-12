@@ -279,13 +279,6 @@ files:
   size: 2366
   md5: 97b5c67c68611c44d9d90bf1b6b689d5
   page: m_两千名跨性别者被迫绝育，荷兰政府道歉并赔偿每人五千欧元.md
-- name: m_两性畸形_-_澎湃新闻
-  filename: m_两性畸形_-_澎湃新闻.md
-  type: webpage
-  format: Markdown
-  size: 985
-  md5: 4667f5afd8ea95913fa8b481c3f9344d
-  page: m_两性畸形_-_澎湃新闻.md
 - name: m_中国进入多元性别时代：李银河“出柜”与电击中心败诉
   filename: m_中国进入多元性别时代：李银河“出柜”与电击中心败诉.md
   type: webpage
@@ -412,13 +405,6 @@ files:
   size: 29652
   md5: da4f582778985a96379b89f5e28964f4
   page: m_关于《哈泼斯》公开信的公开信.md
-- name: m_关于澎湃
-  filename: m_关于澎湃.md
-  type: webpage
-  format: Markdown
-  size: 643
-  md5: 1b6d31db2385e17b1d4e0999b09231d5
-  page: m_关于澎湃.md
 - name: m_冲击女子职业体育的跨性别大军要来了吗？
   filename: m_冲击女子职业体育的跨性别大军要来了吗？.md
   type: webpage
@@ -510,20 +496,6 @@ files:
   size: 12214
   md5: 81f73dfedfa1b784b6a0f7b2c9d3d015
   page: m_变性后，他们后悔了.md
-- name: m_变性女
-  filename: m_变性女.md
-  type: webpage
-  format: Markdown
-  size: 909
-  md5: d81ac11be041720c13b3fbf72bdaa8ad
-  page: m_变性女.md
-- name: m_变性手术
-  filename: m_变性手术.md
-  type: webpage
-  format: Markdown
-  size: 2998
-  md5: 81b5f34525361ea5078241c6358f04ce
-  page: m_变性手术.md
 - name: m_变性手术后被辞退，当事人起诉公司期待社会接纳跨性别人士
   filename: m_变性手术后被辞退，当事人起诉公司期待社会接纳跨性别人士.md
   type: webpage
@@ -615,20 +587,6 @@ files:
   size: 13930
   md5: a374f73e9ff6c3d46fd170858593dfa9
   page: m_塞巴斯蒂安·利夫施兹：一个孩子的跨性别认同_-_澎湃新闻.md
-- name: m_外围女
-  filename: m_外围女.md
-  type: webpage
-  format: Markdown
-  size: 1716
-  md5: 7462909392a64fcce904e7e215e552af
-  page: m_外围女.md
-- name: m_外围女卖淫
-  filename: m_外围女卖淫.md
-  type: webpage
-  format: Markdown
-  size: 1244
-  md5: 519b5bdbec4189c0d63ec143b3652edb
-  page: m_外围女卖淫.md
 - name: m_外媒质疑中国选手男扮女，是在藐视80年的性别鉴定发展史
   filename: m_外媒质疑中国选手男扮女，是在藐视80年的性别鉴定发展史.md
   type: webpage
@@ -720,13 +678,6 @@ files:
   size: 7417
   md5: ce7035ee9b698bc6618c03080ea24df5
   page: m_年终大瓜，今天全球热搜第一：《哈利·波特》作者被读者“除籍”.md
-- name: m_异装癖_-_澎湃新闻
-  filename: m_异装癖_-_澎湃新闻.md
-  type: webpage
-  format: Markdown
-  size: 1254
-  md5: b5dfdb8e609a67354125aab3f3134fba
-  page: m_异装癖_-_澎湃新闻.md
 - name: m_异装：我与我周旋久，宁做我
   filename: m_异装：我与我周旋久，宁做我.md
   type: webpage
@@ -797,13 +748,6 @@ files:
   size: 20056
   md5: 148aeb36e2bb6630a68d42c1d9b8c853
   page: m_性别流动者：这样的双重身份是时候放下了_-_澎湃新闻.md
-- name: m_性别认同障碍
-  filename: m_性别认同障碍.md
-  type: webpage
-  format: Markdown
-  size: 999
-  md5: f925f70d3d58a150bbc4e83db43387d3
-  page: m_性别认同障碍.md
 - name: m_性别辨认的奥运规则｜跨性别运动员人权与公平竞技的平衡
   filename: m_性别辨认的奥运规则｜跨性别运动员人权与公平竞技的平衡.md
   type: webpage
@@ -1371,13 +1315,6 @@ files:
   size: 1923
   md5: 924a8b174fefb145e6ac9624163149b0
   page: m_荒唐！跨性别囚犯致女囚怀孕.md
-- name: m_药娘
-  filename: m_药娘.md
-  type: webpage
-  format: Markdown
-  size: 1874
-  md5: dc09b401fb3ee991f626bcb3e8c14df1
-  page: m_药娘.md
 - name: m_药娘的全面战争：被困在男性躯壳里的女人
   filename: m_药娘的全面战争：被困在男性躯壳里的女人.md
   type: webpage
@@ -1448,13 +1385,6 @@ files:
   size: 11753
   md5: d3c9e2b596c8c6c4e38dac3d256c7101
   page: m_跨性别女性：我的身体里住着一个女人_-_澎湃新闻.md
-- name: m_跨性别群体
-  filename: m_跨性别群体.md
-  type: webpage
-  format: Markdown
-  size: 1160
-  md5: 7a0b1d42114b1fcf5b1965d6d50ac1df
-  page: m_跨性别群体.md
 - name: m_跨性别群体调查：孙静雅和她背后隐秘的变性“外围女”们
   filename: m_跨性别群体调查：孙静雅和她背后隐秘的变性“外围女”们.md
   type: webpage
@@ -1462,13 +1392,6 @@ files:
   size: 11490
   md5: 72685c3b69c18a8e738415a92d9b9ae5
   page: m_跨性别群体调查：孙静雅和她背后隐秘的变性“外围女”们.md
-- name: m_跨性别者
-  filename: m_跨性别者.md
-  type: webpage
-  format: Markdown
-  size: 3120
-  md5: d844225b73e017c58a8122bab81e3b06
-  page: m_跨性别者.md
 - name: m_跨性别者千里奔波南京给声音“整形”，花费6万仍未现女声
   filename: m_跨性别者千里奔波南京给声音“整形”，花费6万仍未现女声.md
   type: webpage
