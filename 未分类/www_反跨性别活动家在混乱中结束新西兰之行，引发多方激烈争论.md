@@ -127,6 +127,7 @@ _[chineseherald.co.nz](http://chineseherald.co.nz/) All Rights Reserved 版权�
 | Region          | 新西兰                               |
 | Date            | 2023-03-27                                 |
 | Tags            | 反跨性别活动, 跨性别群体, 言论自由, 抗议活动, 新西兰社会, 社会问题, 政治争议                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

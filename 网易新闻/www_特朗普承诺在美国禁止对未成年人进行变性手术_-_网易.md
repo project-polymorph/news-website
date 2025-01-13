@@ -48,6 +48,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 美国                               |
 | Date            | 2024-11-10                                 |
 | Tags            | 特朗普, 变性手术, 未成年人, 跨性别权利, 社会争议, 民意调查, 美国政治                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

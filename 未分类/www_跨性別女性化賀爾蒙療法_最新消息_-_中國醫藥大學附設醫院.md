@@ -104,6 +104,7 @@ WPATH (World Professional Association for Transgender Health)建議接受賀爾�
 | Region          | 台灣                               |
 | Date            | 2020-10-26                                 |
 | Tags            | 跨性别, 女性化激素疗法, 医疗新闻, 心理咨询, 荷尔蒙治疗, 生殖健康, 健康风险, WPATH                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

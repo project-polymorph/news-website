@@ -57,6 +57,7 @@ Copyright©2003-2024 GamerSky.com All rights reserved. 游民星空 版权所有
 | Region          | 泰国                               |
 | Date            | 2018-10-10                                 |
 | Tags            | 轻小说, 跨性别, 伪娘, 异世界穿越, 泰国文化, 文学作品                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

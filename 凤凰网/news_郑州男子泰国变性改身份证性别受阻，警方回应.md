@@ -32,6 +32,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 | Region          | 中国大陆                               |
 | Date            | 2020-04-09                                 |
 | Tags            | 跨性别, 法律政策, 社会新闻, 身份问题, 医学经验                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

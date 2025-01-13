@@ -131,6 +131,7 @@ _Jane Hamlin 是英國最大型的跨性別人士支援組織_ [_Beaumont Societ
 | Region          | 未知                               |
 | Date            | 2022-06-23                                 |
 | Tags            | 跨性别, 婚姻故事, 身份认同, 社会接受, 荷尔蒙治疗, 变性手术, 个人经历, LGBTQ                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

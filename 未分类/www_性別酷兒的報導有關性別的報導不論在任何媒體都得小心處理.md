@@ -46,6 +46,7 @@ Copyright 2024 Yuan Tung Financial Relations Limited. All rights reserved.
 | Region          | 香港                               |
 | Date            | 2017-07-18                                 |
 | Tags            | 性别酷儿, 媒体报道, 社会议题, Vogue, 性别认同, LGBTQ, 网络时代, 公众讨论                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

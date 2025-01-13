@@ -66,6 +66,7 @@
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 音乐, 生命故事, Uwe Kröger, 网易云音乐                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

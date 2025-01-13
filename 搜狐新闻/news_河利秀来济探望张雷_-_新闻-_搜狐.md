@@ -73,6 +73,7 @@ Copyright © 2016 Sohu.com Inc. All Rights Reserved. 版权所有
 | Region          | 中国大陆                               |
 | Date            | 2007-04-08                                 |
 | Tags            | 跨性别, 变性手术, 河利秀, 张雷, 明星探望, 社会支持                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

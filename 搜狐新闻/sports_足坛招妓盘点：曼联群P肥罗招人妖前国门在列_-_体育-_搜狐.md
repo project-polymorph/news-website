@@ -60,6 +60,7 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp
 | Region          | 中国大陆                               |
 | Date            | 2010-09-06                                 |
 | Tags            | 体育, 足球, 丑闻, 跨性别, 社会偏见, 运动员隐私                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

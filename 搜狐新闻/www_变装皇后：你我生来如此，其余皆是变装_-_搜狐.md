@@ -123,6 +123,7 @@ I was Born This Way
 | Region          | 中国大陆                               |
 | Date            | 2019-05-21                                 |
 | Tags            | 变装文化, 变装皇后, 跨性别, 社会现象, 艺术表现, 性别表达, Drag Queen, LGBTQ+                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

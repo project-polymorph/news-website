@@ -57,6 +57,7 @@ Apple 媒体联络
 | Region          | 中国大陆                               |
 | Date            | 2023-05-09                                 |
 | Tags            | Apple Watch, 彩虹版表带, LGBTQ+, 跨性别, 平等待遇, 设计理念, 苹果公司, 支持倡导组织                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

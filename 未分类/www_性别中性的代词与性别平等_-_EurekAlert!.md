@@ -47,6 +47,7 @@ Efrén O. Pérez [perezeo@ucla.edu](mailto:perezeo@ucla.edu)
 | Region          | 瑞典                               |
 | Date            | 未知                                 |
 | Tags            | 性别中性代词, 性别平等, LGBT, 瑞典, 心理偏见, 公共生活, 社会态度                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

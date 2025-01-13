@@ -55,6 +55,7 @@ Three young women can't ever return home because of their sexuality
 | Region          | 加纳                               |
 | Date            | 2018-01-08                                 |
 | Tags            | LGBT权利, 加纳, 人权, 社会歧视, 法律政策                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -30,6 +30,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 | Region          | 美国                               |
 | Date            | 2023-05-05                                 |
 | Tags            | 跨性别权利, 社会运动, 人权活动, 旧金山, 反歧视, 生命故事                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -53,6 +53,7 @@ Gay-rights advocates cheered the decision. 'It's quite absurd that Hong Kong has
 | Region          | 香港                               |
 | Date            | 2013-05-16                                 |
 | Tags            | 跨性别权利, 婚姻平权, 法律政策, 香港变性手术, 社会态度, 性别认同                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

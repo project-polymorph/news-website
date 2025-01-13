@@ -110,6 +110,7 @@ Parma added: "My fiance has always wanted a special occasion and we are really h
 | Region          | 未知                               |
 | Date            | 2015-01-12                                 |
 | Tags            | 跨性别, 变性手术, 爱情故事, 婚礼, 生存现状, 社会关注                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

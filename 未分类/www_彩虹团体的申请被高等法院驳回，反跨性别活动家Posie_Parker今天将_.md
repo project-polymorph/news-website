@@ -79,6 +79,7 @@ _[chineseherald.co.nz](http://chineseherald.co.nz/) All Rights Reserved 版权�
 | Region          | 新西兰                               |
 | Date            | 2023-03-24                                 |
 | Tags            | 跨性别, 法律政策, 社会抗议, 公共秩序, 生命故事                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

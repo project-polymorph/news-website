@@ -56,6 +56,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 未知                               |
 | Date            | 2022-08-31                                 |
 | Tags            | 跨性别, 性别转换, 轻小说, 虚拟现实游戏, 社会认同, 青春期困扰, 性别认同, 日本文化                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

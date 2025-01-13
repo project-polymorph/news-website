@@ -94,6 +94,7 @@ It Gets Better构想了一个世界，所有(LGBTQ+)youth都可以自由地平�
 | Region          | 未知                               |
 | Date            | 2021-05-14                                 |
 | Tags            | 跨性别, LGBTQ, 游戏, 生命故事, 社会支持, 文化包容性                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

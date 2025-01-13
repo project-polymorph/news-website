@@ -154,6 +154,7 @@ Copyright © 2017 Sohu.com Inc. All Rights Reserved. [搜狐公司版权所有](
 | Region          | 中国大陆                               |
 | Date            | 2006-08-25                                 |
 | Tags            | 跨性别, 李国华, 选美, 社会环境, 法律政策, 变性经历, 公众态度, 新闻报道                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

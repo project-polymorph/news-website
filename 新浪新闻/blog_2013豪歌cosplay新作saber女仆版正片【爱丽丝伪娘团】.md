@@ -65,6 +65,7 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 | Region          | 中国大陆                               |
 | Date            | 2013-08-20                                 |
 | Tags            | 爱丽丝伪娘团, 豪歌cosplay, saber女仆装, cosplay, 伪娘文化                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

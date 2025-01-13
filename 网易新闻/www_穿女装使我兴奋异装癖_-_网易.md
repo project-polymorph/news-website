@@ -68,6 +68,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 中国大陆                               |
 | Date            | 2020-11-13                                 |
 | Tags            | 异装癖, 性冲动, 性别表达, 社会认知, 自我认同, 性别平等, 个人故事                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

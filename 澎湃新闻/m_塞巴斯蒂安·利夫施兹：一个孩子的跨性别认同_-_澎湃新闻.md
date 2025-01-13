@@ -116,6 +116,7 @@ New Production From The West:Tomorrowland
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 性别认同, 纪实电影, 儿童成长, 性别焦虑, 塞巴斯蒂安·利夫施兹, 纪录片, 家庭支持                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

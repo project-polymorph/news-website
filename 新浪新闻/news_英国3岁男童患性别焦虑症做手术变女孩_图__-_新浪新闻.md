@@ -48,6 +48,7 @@ Copyright ©1996-2015 SINA Corporation, All Rights Reserved
 | Region          | 英国                               |
 | Date            | 2015-12-08                                 |
 | Tags            | 性别焦虑症, 跨性别儿童, 心理咨询, 家庭支持, 社会认同, 性别认同                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

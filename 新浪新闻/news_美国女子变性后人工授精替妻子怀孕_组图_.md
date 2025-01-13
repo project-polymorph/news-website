@@ -56,6 +56,7 @@ _![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 | Region          | 美国                               |
 | Date            | 2008-03-27                                 |
 | Tags            | 变性人, 孕夫, 代孕, 家庭, 法律伦理, 跨性别者经历                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

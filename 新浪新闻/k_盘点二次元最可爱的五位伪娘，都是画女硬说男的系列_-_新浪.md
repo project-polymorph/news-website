@@ -70,6 +70,7 @@ _![](https://n.sinaimg.cn/sinacn10201/360/w180h180/20191012/580d-ifvwfti7762103.
 | Region          | 中国大陆                               |
 | Date            | 2019-02-07                                 |
 | Tags            | 二次元, 伪娘, 角色盘点, Fate/Apocrypha, 刀剑神域, 命运石之门, 文化讨论, 跨性别                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -29,6 +29,7 @@
 | Region          | 泰国                               |
 | Date            | 2018-09-03                                 |
 | Tags            | 变性人选美, 泰国, Miss Tiffany's Universe, 跨性别, 社会活动                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

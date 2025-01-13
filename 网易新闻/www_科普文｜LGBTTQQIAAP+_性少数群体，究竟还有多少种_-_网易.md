@@ -284,6 +284,7 @@ Lesbian、Les、 Girlslove
 | Region          | 中国大陆                               |
 | Date            | 2017-09-17                                 |
 | Tags            | 性少数群体, LGBTQ+, 跨性别, 性别多样性, 性别认同, 性取向                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

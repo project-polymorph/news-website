@@ -58,6 +58,7 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有]
 | Region          | 日本                               |
 | Date            | 2006-05-20                                 |
 | Tags            | 性别认同障碍, 跨性别, 变性, 儿童教育, 法律政策, 社会环境                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

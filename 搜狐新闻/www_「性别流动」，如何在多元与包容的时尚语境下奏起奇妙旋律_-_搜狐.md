@@ -236,6 +236,7 @@ Shared by Stella McCartney
 | Region          | 中国大陆                               |
 | Date            | 2021-04-25                                 |
 | Tags            | 性别流动, 时尚, 跨性别, 多元文化, LGBTQ+, 模特经验, 社会包容                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

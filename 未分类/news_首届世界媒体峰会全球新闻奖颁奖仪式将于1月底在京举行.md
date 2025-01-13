@@ -40,6 +40,7 @@ Copyright © 2000 - 2016 XINHUANET.com All Rights Reserved.
 | Region          | 中国大陆                               |
 | Date            | 2015-01-04                                 |
 | Tags            | 新闻奖, 媒体峰会, 新闻报道, 跨国媒体, 发展中国家, 新闻创新, #奖项, 颁奖仪式, 获奖作品                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

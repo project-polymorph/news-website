@@ -53,6 +53,7 @@ Schools must employ physical and mental health experts who understand the issues
 | Region          | 美国                               |
 | Date            | 2019-09-19                                 |
 | Tags            | 心理健康, 跨性别学生, 研究, 抑郁, 焦虑, 高等教育, 社会支持                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

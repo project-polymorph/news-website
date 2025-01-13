@@ -40,6 +40,7 @@ Meta拉美地区薪酬和福利部门高级经理泰伊斯·明加多（Thais Mi
 | Region          | 巴西                               |
 | Date            | 2022-06-01                                 |
 | Tags            | 跨性别, 医疗保险, Meta公司, 社会福利, LGBTQIA+                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

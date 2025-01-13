@@ -57,6 +57,7 @@ RNZ中文 (RNZ Chinese) 是新西兰国家广播电台 (Radio New Zealand, RNZ) 
 | Region          | 新西兰                               |
 | Date            | 未知                                 |
 | Tags            | 华裔酷儿, LGBTQI+, 自我探索, 家庭关系, 社会认同, 国际拒绝恐同日                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

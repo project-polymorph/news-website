@@ -41,6 +41,7 @@ Copyright © 2000 - 2016 XINHUANET.com　All Rights Reserved.
 | Region          | 中国大陆                               |
 | Date            | 2015-01-03                                 |
 | Tags            | 云南, 火灾, 文物保护, 法律政策, 社会环境, 茶社, 公园管理                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

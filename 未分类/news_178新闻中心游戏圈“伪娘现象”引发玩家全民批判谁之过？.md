@@ -117,6 +117,7 @@ copyright © 2010 powered by 178.com
 | Region          | 中国大陆                               |
 | Date            | 2010-XX-XX                                 |
 | Tags            | 伪娘现象, 游戏圈, 跨性别, 性别角色, 性别认同, 网络文化                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

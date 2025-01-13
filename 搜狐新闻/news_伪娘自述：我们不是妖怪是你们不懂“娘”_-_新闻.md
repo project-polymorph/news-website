@@ -169,6 +169,7 @@ Copyright © 2017 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 伪娘, 跨性别, 动漫展, 角色扮演, 社会认知, 个人故事, 性别认同                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

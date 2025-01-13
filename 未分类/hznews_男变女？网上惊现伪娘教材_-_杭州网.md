@@ -143,6 +143,7 @@ Copyright © 2001 - 2024 Hangzhou.com.cn All Rights Reserved
 | Region          | 中国大陆                               |
 | Date            | 2010-05-25                                 |
 | Tags            | 伪娘, 跨性别, 选秀文化, 男性阳刚文化, 社会观察, 青少年心理                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

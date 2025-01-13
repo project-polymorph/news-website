@@ -74,6 +74,7 @@ Copyright © 2017 Sohu.com Inc. All Rights Reserved.
 | Region          | 未知                               |
 | Date            | 2008-04-30                                 |
 | Tags            | 性丑闻, 跨性别, 罗纳尔多, 易性癖, 毒品, 体育新闻                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

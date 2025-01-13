@@ -88,6 +88,7 @@ Gill在最保守的年代也公開出櫃，並和愛人在夏威夷結婚。他�
 | Region          | 台湾                               |
 | Date            | 2018-07-20                                 |
 | Tags            | 美国, 电影, 好莱坞, 跨性别, 演艺界, 演员, Scarlett Johansson, 色情产业, Dante Tex Gill                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

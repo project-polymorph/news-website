@@ -89,6 +89,7 @@ _![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 | Region          | 中国大陆                               |
 | Date            | 2005-09-22                                 |
 | Tags            | 变性手术, 跨性别, 心理健康, 社会问题, 生命故事, 过渡经历, 整形医院, 性别认同                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

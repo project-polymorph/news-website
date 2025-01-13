@@ -51,6 +51,7 @@ Copyright © 2024 Takungpao _All Rights Reserved_
 | Region          | 美国                               |
 | Date            | 2024-08-03                                 |
 | Tags            | 跨性别, 运动员, 莉亚·汤玛斯, 奥运会, 性别歧视, 体育仲裁法庭, 社会争论                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

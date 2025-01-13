@@ -41,6 +41,7 @@ _关注《当今大马》[WhatsApp频道](https://mk.my/whatsapp) 随时接收�
 | Region          | 马来西亚                               |
 | Date            | 2013-11-02                                 |
 | Tags            | 跨性别, 权益, 文娱, 社会活动                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

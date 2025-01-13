@@ -274,6 +274,7 @@ CD是英文 Cross-dress 的缩写，意思是变装。TS是英文 TransSexual �
 | Region          | 未知                               |
 | Date            | 2010-05-18                                 |
 | Tags            | 伪娘, ACG, 文化元素, 性别认同, 动画漫画游戏                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

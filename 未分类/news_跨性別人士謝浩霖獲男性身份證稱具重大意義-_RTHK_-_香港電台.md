@@ -44,6 +44,7 @@ E-mail: [cnews@rthk.hk](mailto:cnews@rthk.hk)
 | Region          | 香港                               |
 | Date            | 2024-04-29                                 |
 | Tags            | 跨性别, 身份证更改, 司法胜诉, 性别认同, 人权问题                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

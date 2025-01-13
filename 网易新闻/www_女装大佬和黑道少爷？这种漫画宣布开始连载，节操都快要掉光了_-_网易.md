@@ -49,6 +49,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 未知                               |
 | Date            | 2020-05-17                                 |
 | Tags            | 漫画, 跨性别, 女装大佬, 黑道少爷, 爱情故事, 文化现象                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

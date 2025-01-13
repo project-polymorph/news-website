@@ -71,6 +71,7 @@ Copyright © 2013 - 2024 Tencent Cloud. All Rights Reserved. 腾讯云 版权所
 | Region          | 中国大陆                               |
 | Date            | 2020-06-22                                 |
 | Tags            | 跨性别, 女装大佬, 游戏角色, 性别表现, 文化分析                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

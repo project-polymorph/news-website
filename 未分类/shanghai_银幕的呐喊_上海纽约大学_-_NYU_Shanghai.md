@@ -49,6 +49,7 @@ Hamer和Wilson提到在中国放映“KUMU HINA”遭遇的挫折，希望LGBTQ�
 | Region          | 中国大陆                               |
 | Date            | 2017-02-17                                 |
 | Tags            | 跨性别, LGBTQ, 社会活动, 电影, 多元文化, 性别平等, 上海纽约大学, 文化冲突                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

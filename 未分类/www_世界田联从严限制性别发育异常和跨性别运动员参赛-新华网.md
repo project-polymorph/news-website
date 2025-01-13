@@ -43,6 +43,7 @@ Copyright © 2000 - 2024 XINHUANET.com All Rights Reserved.
 | Region          | 中国大陆                               |
 | Date            | 2023-03-24                                 |
 | Tags            | 跨性别运动员, 性别发育异常, 世界田联, 体育政策, 性别公平, 女性运动员                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -34,6 +34,7 @@
 | Region          | 台湾                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, LGBTQ+, Meta, 社群媒体                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

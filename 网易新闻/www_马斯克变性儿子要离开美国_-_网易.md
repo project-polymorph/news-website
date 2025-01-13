@@ -41,6 +41,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 美国                               |
 | Date            | 2024-11-09                                 |
 | Tags            | 跨性别, 社会环境, 美国, 马斯克, 泽维尔, 变性                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

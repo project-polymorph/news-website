@@ -75,6 +75,7 @@ E言
 | Region          | 泰国                               |
 | Date            | 2017-10-23                                 |
 | Tags            | 跨性别, 人妖皇后, 变性人选美, 生活经历, Yoshi Rinrada                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

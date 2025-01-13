@@ -53,6 +53,7 @@ Copyright © 2014 Sohu.com Inc. All Rights Reserved. [版权所有](http://corp.
 | Region          | 俄罗斯                               |
 | Date            | 2012-12-24                                 |
 | Tags            | 变性人, 90年代, 俄罗斯, 记录, 摄影, Liz Safrati                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

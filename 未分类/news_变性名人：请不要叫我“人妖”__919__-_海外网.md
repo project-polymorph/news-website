@@ -35,6 +35,7 @@ Copyright 2011-2014 by www.haiwainet.cn all rights reserved
 | Region          | 未知                               |
 | Date            | 2015-04-09                                 |
 | Tags            | 变性人, 性别转换, 性别认同障碍, 个人故事, 医疗经验分享, 社会环境记录                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

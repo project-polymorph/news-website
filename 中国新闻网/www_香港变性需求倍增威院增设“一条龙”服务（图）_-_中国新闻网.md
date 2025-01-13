@@ -49,6 +49,7 @@ Hong Kong announced a plan on Thursday to establish a medical center to provide 
 | Region          | 香港                               |
 | Date            | 2013-09-27                                 |
 | Tags            | 变性, 跨性别, 医疗服务, 香港, 手术                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

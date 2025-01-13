@@ -38,6 +38,7 @@ Copyright © 1996 - 2018 SINA Corporation, All Rights Reserved
 | Region          | 中国大陆                               |
 | Date            | 2018-08-16                                 |
 | Tags            | 药娘, 跨性别者, 心理健康, 生存状况, 医疗资源                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

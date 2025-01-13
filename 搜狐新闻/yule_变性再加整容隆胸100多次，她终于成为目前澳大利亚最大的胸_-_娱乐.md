@@ -105,6 +105,7 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp
 | Region          | 澳大利亚                               |
 | Date            | 2016-10-09                                 |
 | Tags            | 跨性别, 整容, 变性人, 整形手术, 人生故事, 社会现状                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

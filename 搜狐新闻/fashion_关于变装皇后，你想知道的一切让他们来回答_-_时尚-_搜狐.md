@@ -255,6 +255,7 @@ Divine和“垃圾教皇” John Waters合作的电影《粉红色火烈鸟》�
 | Region          | 未知                               |
 | Date            | 2017-03-20                                 |
 | Tags            | 变装文化, Drag Queen, 性别表演, 跨性别, 社会抗争, 个人故事, 艺术表现                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

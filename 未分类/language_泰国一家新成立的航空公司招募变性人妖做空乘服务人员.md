@@ -51,6 +51,7 @@ Copyright by chinadaily.com.cn. All rights reserved. None of this material may b
 | Region          | 泰国                               |
 | Date            | 2011-02-12                                 |
 | Tags            | 跨性别, 人妖, 航空公司, 变性人, 性别多样性, 平权理念                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

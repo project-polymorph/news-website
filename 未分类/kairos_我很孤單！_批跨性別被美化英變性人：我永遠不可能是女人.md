@@ -25,6 +25,7 @@ Site will be available soon. Thank you for your patience!
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 生命故事, 社会认同, 孤独, 身心转变                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

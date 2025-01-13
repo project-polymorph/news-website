@@ -31,6 +31,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 | Region          | 荷兰                               |
 | Date            | 2023-04-08                                 |
 | Tags            | 跨性别, 变性经历, 媒体报道, 亲子关系, 性别认同                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

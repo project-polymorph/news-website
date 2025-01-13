@@ -62,6 +62,7 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 | Region          | 中国大陆                               |
 | Date            | 2010-05-25                                 |
 | Tags            | 伪娘, 跨性别, 社会宽容, 心理咨询, 性别表现, 选秀节目, 文化研究                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -175,6 +175,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 中国大陆                               |
 | Date            | 2024-10-17                                 |
 | Tags            | 跨性别, 易建联, 社会舆论, 性别认同, 嫖娼事件, TS群体, 网络文化                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

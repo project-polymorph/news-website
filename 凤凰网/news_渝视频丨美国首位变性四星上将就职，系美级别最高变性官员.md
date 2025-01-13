@@ -35,6 +35,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 | Region          | 美国                               |
 | Date            | 2021-10-21                                 |
 | Tags            | 跨性别, 变性, 四星上将, 军事实践, 社会变化, 历史性事件                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

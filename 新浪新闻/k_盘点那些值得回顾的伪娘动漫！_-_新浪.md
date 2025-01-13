@@ -87,6 +87,7 @@ _![](https://n.sinaimg.cn/sinacn10205/360/w180h180/20191012/3ea6-ifvwfti7976867.
 | Region          | 中国大陆                               |
 | Date            | 2018-01-06                                 |
 | Tags            | 伪娘动漫, 性别多元, 动漫解析, 文化讨论, ACG                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -41,6 +41,7 @@ Erika Ishii作為LGBT群體的代表人物，公開承認自己是泛性戀者�
 | Region          | 香港                               |
 | Date            | 2024-09-25                                 |
 | Tags            | 羊蹄战鬼, 泛性恋, Erika Ishii, LGBT, 性别认同, 游戏角色                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

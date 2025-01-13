@@ -94,6 +94,7 @@ _部分資料來自網路 ( [@memethief90](https://twitter.com/memethief90/statu
 | Region          | 未知                               |
 | Date            | 2022-12-27                                 |
 | Tags            | 跨性别, 动漫, 性转, 争议, 社会讨论, 日本文化, 性别认同                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -423,6 +423,7 @@ American Psychological Association（美国心理学会）
 | Region          | 香港                               |
 | Date            | 2021-05-18                                 |
 | Tags            | 跨性别, 自助手册, 社会观察, 生命故事, 法律政策, 医疗资源                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

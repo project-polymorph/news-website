@@ -105,6 +105,7 @@ New Production From The West:Tomorrowland
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 纪录片, 性别启蒙, 家庭支持, 社会环境, 儿童权益, 性别认同                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

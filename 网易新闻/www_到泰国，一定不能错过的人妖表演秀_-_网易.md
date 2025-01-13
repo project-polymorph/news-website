@@ -48,6 +48,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 泰国                               |
 | Date            | 2018-05-10                                 |
 | Tags            | 人妖表演, 文化表演, 泰国旅游, 跨性别文化, 娱乐活动                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

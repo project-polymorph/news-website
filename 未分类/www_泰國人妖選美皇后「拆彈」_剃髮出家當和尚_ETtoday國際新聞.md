@@ -47,6 +47,7 @@ ETtoday留言 FB留言
 | Region          | 泰国                               |
 | Date            | 2013-05-17                                 |
 | Tags            | 人妖选美皇后, 出家, 和尚, 人妖, 变性, Miss Tiffany, 泰国, Sorrawee Nattee                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

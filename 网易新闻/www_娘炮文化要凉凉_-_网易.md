@@ -46,6 +46,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 中国大陆                               |
 | Date            | 2021-09-07                                 |
 | Tags            | 娘炮文化, 网络文化, 青少年审美, 社会评论, 文化现象                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

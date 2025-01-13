@@ -57,6 +57,7 @@ LGBT群体(女同性恋者Lesbians、男同性恋者Gays、双性恋者Bisexuals
 | Region          | 中国大陆                               |
 | Date            | 2020-09-03                                 |
 | Tags            | 跨性别, 同性权益, 法律服务, LGBT, 社会平等                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

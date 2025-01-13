@@ -51,6 +51,7 @@ POWERED BY: [°²ÒÝ¹¤×÷ÊÒ£¨ÐÞ¸Ä£©](http://sindy.jyzxw.net/ "°²
 | Region          | 未知                               |
 | Date            | 2005-09-21                                 |
 | Tags            | 跨性别, 社会环境, 医疗资源, 法律政策, 统计数据                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

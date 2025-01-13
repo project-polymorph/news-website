@@ -45,6 +45,7 @@ Copyright © 2005 Sohu.com Inc. All rights reserved.
 | Region          | 美国                               |
 | Date            | 2004-04-16                                 |
 | Tags            | 易装癖, 跨性别, 政治选举, 社会态度, 德克萨斯州, 性别表现, 个人故事                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

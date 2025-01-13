@@ -77,6 +77,7 @@ Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
 | Region          | 中国大陆                               |
 | Date            | 2014-08-18                                 |
 | Tags            | 变性手术, 跨性别, 社会包容, 性别认同, 生命故事                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

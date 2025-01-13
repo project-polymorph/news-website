@@ -71,6 +71,7 @@ Copyright(C)Mydrivers.com, All Rights Reserved.
 | Region          | 未知                               |
 | Date            | 2024-05-01                                 |
 | Tags            | 跨性别, 性别认同, J·K·罗琳, 丹尼尔·雷德克里夫, 哈利·波特, 公共讨论                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -107,6 +107,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2023-06-12                                 |
 | Tags            | 跨性别, 伪娘文化, galgame, 女装山脉, YOOOOO梗, 日本动画                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

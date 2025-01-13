@@ -28,6 +28,7 @@ Request ID: hIDgiTcW6uNuvyrXn0141iZcgREf\_8t-B0QfLLaYKjML3NUA5gEFbw==
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 酷儿, 跨性别, 性别研究, 文化定义, 身份认同                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

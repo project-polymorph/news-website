@@ -254,6 +254,7 @@ Copyright © 1998 - 2024 Tencent. All Rights Reserved
 | Region          | 美国                               |
 | Date            | 2024-07-31                                 |
 | Tags            | 跨性别, 美国青少年, 性别焦虑, 医疗资源, 法律政策, 社会环境记录                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

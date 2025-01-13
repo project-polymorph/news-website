@@ -351,6 +351,7 @@ Vera Anderson/WireImage
 | Region          | 中国大陆                               |
 | Date            | 2018-12-16                                 |
 | Tags            | 跨性别者, 自我认同, 社会歧视, 心理健康, 性别认同, 抑郁, 法律政策, 医疗资源                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

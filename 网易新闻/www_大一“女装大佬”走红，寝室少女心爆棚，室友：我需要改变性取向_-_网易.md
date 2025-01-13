@@ -67,6 +67,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 中国大陆                               |
 | Date            | 2018-10-02                                 |
 | Tags            | 性别认同, 跨性别, 女装大佬, 校园文化, 生活故事, 社交媒体                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

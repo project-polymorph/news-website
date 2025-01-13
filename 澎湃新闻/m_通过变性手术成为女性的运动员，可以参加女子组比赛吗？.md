@@ -113,6 +113,7 @@ Beate Dunst, Mathias Benedek, Karl Koschutnig, Emanuel Jauk, and Aljoscha C. Neu
 | Region          | 美国                               |
 | Date            | 2021-01-27                                 |
 | Tags            | 跨性别运动员, 女子体育比赛, 性别认同, 反歧视法令, 体育公平性, 睾酮水平, 跨性别女性, 生理差异, 社会环境, 法律政策                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -47,6 +47,7 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有]
 | Region          | 新加坡                               |
 | Date            | 2006-01-22                                 |
 | Tags            | 跨性别, 法律案例, 毒品贩卖, 新加坡, 性别认定, 社会问题                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -189,6 +189,7 @@ Copyright © 2000 - 2024 XINHUANET.com　All Rights Reserved.
 | Region          | 中国大陆                               |
 | Date            | 2016-06-20                                 |
 | Tags            | 双性婴儿, 父权暴力, 社会心理干预, 儿童权益, 医疗伦理, 亲子关系, 法律责任, 家庭困境                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

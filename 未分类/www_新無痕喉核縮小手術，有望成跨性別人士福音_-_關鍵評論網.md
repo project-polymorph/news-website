@@ -70,6 +70,7 @@ Photo Credit: Shutterstock/ 達志影像
 | Region          | 以色列                               |
 | Date            | 2019-06-26                                 |
 | Tags            | 变性, 跨性别, 缩小喉结, 口腔前庭入路, 角状软骨, 喉核                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

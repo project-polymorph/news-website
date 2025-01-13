@@ -61,6 +61,7 @@ Tony Marchant在采访里提到，现在在英国，凡是有性别认知障碍�
 | Region          | 英国                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 性别认知, 电视剧, 家庭剧, 社会偏见, 心理健康, 成长故事, Tony Marchant                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

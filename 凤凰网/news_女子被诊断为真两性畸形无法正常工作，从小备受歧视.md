@@ -34,6 +34,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 | Region          | 中国大陆                               |
 | Date            | 2023-08-10                                 |
 | Tags            | 跨性别, 真两性畸形, 社会歧视                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

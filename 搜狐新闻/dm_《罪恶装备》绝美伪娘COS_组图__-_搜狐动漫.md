@@ -68,6 +68,7 @@ Copyright © 2017 Sohu.com Inc. All Rights Reserved.
 | Region          | 中国大陆                               |
 | Date            | 2008-01-25                                 |
 | Tags            | COSPLAY, 伪娘, 角色扮演, ACG文化, 性别表现                                 |
->
-> 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
->
+| Type            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
