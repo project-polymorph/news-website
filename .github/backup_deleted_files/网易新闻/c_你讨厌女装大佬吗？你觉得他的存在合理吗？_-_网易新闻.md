@@ -56,7 +56,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 未知                               |
 | Date            | 2018-03-26                                 |
 | Tags            | 女装大佬, 次元文化, 跨性别, 文化现象, cosplay                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

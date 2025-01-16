@@ -56,7 +56,7 @@
 | Region          | 台湾                               |
 | Date            | 2021-06-29                                 |
 | Tags            | 宇多田光, 非二元性别者, 性别认同, 同志骄傲月, 社交媒体                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

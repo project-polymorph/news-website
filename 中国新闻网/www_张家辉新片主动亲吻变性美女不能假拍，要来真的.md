@@ -55,7 +55,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2013-11-26                                 |
 | Tags            | 张家辉, 跨性别, 泰国变性人, 扫毒, 金马奖, 电影首映礼                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -47,7 +47,7 @@
 | Region          | 台湾                               |
 | Date            | 2009-08-21                                 |
 | Tags            | 跨性别, 双性人, 变性, 姚丽丽, 台湾体育, 生理矫正手术, 社会环境, 女性运动员                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

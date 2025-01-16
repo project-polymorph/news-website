@@ -81,7 +81,7 @@
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 国际不再恐惧日, 人权, 公共卫生, 人工智能, 女性权利, 可持续发展                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

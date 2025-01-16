@@ -90,7 +90,7 @@ MAGA运动遭到很多非议，包括特朗普这个人，从他出来竞选，�
 | Region          | 未知                               |
 | Date            | 2024-11-02                                 |
 | Tags            | 万斯·上洛根, 觉醒文化, 跨性别, 美国梦, 社会身份, 文化特权, 保守派, LGBT问题, 政治文化, 教育公平                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -78,7 +78,7 @@
 | Region          | 美国                               |
 | Date            | 2021-10-21                                 |
 | Tags            | 跨性别, 雷切尔·莱文, 美军, 四星上将, 历史性任命, 公共卫生服务军官团, 社会政策, 医疗资源                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

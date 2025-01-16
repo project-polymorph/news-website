@@ -53,7 +53,7 @@ CopyRight©2003-2018 违法和不良信息举报（021-54473036） All Right Res
 | Region          | 未知                               |
 | Date            | 2013-12-16                                 |
 | Tags            | COSPLAY, 跨性别, 角色扮演, 生命故事, 文化表达                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -88,7 +88,7 @@ J·T·海斯在美国密西西比州的科林斯长大，父亲是著名的赛�
 | Region          | 美国                               |
 | Date            | 2007-08-28                                 |
 | Tags            | 跨性别, 性别认同, 变性手术, 社会权利, 个人故事, 法律政策, 性别流动性                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

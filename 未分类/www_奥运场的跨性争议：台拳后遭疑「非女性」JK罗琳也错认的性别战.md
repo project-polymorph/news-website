@@ -73,7 +73,7 @@ JK罗琳曾在跨性别议题上引发巨大舆论风波，她坚信跨性别并
 | Region          | 台湾                               |
 | Date            | 2024-08-01                                 |
 | Tags            | 跨性别, 体育争议, 性别检测, 林郁婷, JK罗琳, 国际奥委会, 女性运动员, 巴黎奥运                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

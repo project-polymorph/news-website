@@ -134,7 +134,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 | Region          | 中国大陆                               |
 | Date            | 2020-12-04                                 |
 | Tags            | 跨性别者, 埃利奥特·佩吉, 好莱坞, 生平故事, 职业生涯, 性别认同, 文化活动, 电影, 社会现状                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

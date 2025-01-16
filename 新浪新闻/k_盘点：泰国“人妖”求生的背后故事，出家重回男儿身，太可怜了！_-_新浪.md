@@ -55,7 +55,7 @@ _![](https://n.sinaimg.cn/sinacn10209/198/w99h99/20191010/4e50-ifrwayx4023514.jp
 | Region          | 泰国                               |
 | Date            | 2019-10-12                                 |
 | Tags            | 跨性别, 泰国人妖, 生命故事, 生存现状, 社会压力, 宗教信仰                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

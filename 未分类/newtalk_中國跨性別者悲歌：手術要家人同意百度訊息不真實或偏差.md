@@ -53,7 +53,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2019-05-21                                 |
 | Tags            | 中国, 台湾, 恐同, 国际特赦组织, LGBTQ, 污名化, 同婚专法                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

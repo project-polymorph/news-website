@@ -53,7 +53,7 @@
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 变性手术, 泰国人妖, 社会现象, 患者经历, 性别转变, 医学资源                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

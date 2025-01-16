@@ -68,7 +68,7 @@
 | Region          | 未知                               |
 | Date            | 2021-02-08                                 |
 | Tags            | 海贼王, 性转图, 动漫, 角色转变, 同人文化, 漫画                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -79,7 +79,7 @@
 | Region          | 美国                               |
 | Date            | 2024-11-01                                 |
 | Tags            | 马斯克, 特朗普, 2024美国总统大选, 政治捐款, 觉醒文化, 跨性别, 个人经历, 社会影响                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

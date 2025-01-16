@@ -184,7 +184,7 @@ d酱在接受采访时说：「从短头发到长头发，从男装到日常女�
 | Region          | 中国大陆                               |
 | Date            | 2021-09-15                                 |
 | Tags            | 异装癖, 跨性别, 生活故事, 性别认同, 社会偏见, 心理健康, 服装与性别, 自我接受, 真实故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

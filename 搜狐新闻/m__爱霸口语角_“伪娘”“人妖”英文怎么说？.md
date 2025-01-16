@@ -60,7 +60,7 @@ A new Thai airline is hiring transsexual **ladyboys** as flight attendants, aimi
 | Region          | 未知                               |
 | Date            | 2017-02-18                                 |
 | Tags            | 跨性别, 伪娘, 人妖, 语言翻译, 社会认同, 第三性别, 英汉对照                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

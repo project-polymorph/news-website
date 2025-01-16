@@ -229,7 +229,7 @@ Macaleo一个人去了上海的医院，诊断结果在她的预料之中：她�
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 医学支持, 性别认同, 激素治疗, 性别重置手术, 家庭教育, 社会环境, 医学界                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

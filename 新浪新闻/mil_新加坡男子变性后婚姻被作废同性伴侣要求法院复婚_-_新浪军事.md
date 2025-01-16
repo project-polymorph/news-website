@@ -51,7 +51,7 @@
 | Region          | 新加坡                               |
 | Date            | 2018-04-03                                 |
 | Tags            | 跨性别, 婚姻, 法律, 新加坡, 社会问题                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

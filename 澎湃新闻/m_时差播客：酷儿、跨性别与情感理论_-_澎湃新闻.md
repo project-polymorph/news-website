@@ -228,7 +228,7 @@
 | Region          | 未知                               |
 | Date            | 2020-12-11                                 |
 | Tags            | 酷儿, 跨性别, 情感理论, 性别研究, 心理学, 哲学, 社会运动, 性别身份, 生存现状, 文化研究                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

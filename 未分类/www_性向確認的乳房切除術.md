@@ -38,7 +38,7 @@ LGBT是女同性戀者（Lesbian），男同性戀者（Gay），雙性戀者（
 | Region          | 台湾                               |
 | Date            | 2022-11-15                                 |
 | Tags            | 性向确认手术, 乳房切除术, 跨性别者, 医疗资源, 健康检查, 乳腺癌筛查                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

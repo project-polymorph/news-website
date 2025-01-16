@@ -63,7 +63,7 @@ TransActual在欢迎这一澄清的同时，要求“RCGP对其指导造成的�
 | Region          | 英国                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 医疗, 英国, 激素替代疗法                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -86,7 +86,7 @@ Copyright © 2009 Sohu.com Inc. All Rights Reserved.
 | Region          | 泰国                               |
 | Date            | 2009-02-20                                 |
 | Tags            | 人妖, 性别表达, 泰国文化, 跨性别, 社会观察, 性别认同, 文化差异                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

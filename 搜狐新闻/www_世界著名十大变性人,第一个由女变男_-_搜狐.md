@@ -89,7 +89,7 @@ LADY由Sine、Yoona、Sahara和Binu四人构成。因为全部4位成员都是�
 | Region          | 中国大陆                               |
 | Date            | 2018-12-25                                 |
 | Tags            | 变性人, 跨性别, 生命故事, 医疗经历, 社会影响, 名人, 跨性别人士, 变性经历, 文化多样性                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

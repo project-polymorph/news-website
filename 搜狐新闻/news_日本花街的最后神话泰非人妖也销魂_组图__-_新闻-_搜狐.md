@@ -79,7 +79,7 @@ Copyright © 1997-2010 by [www.people.com.cn](http://www.people.com.cn). all rig
 | Region          | 日本                               |
 | Date            | 2010-04-11                                 |
 | Tags            | 跨性别, 人妖文化, 性别认同, 日本花街, 社会现象, 文化研究                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

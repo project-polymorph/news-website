@@ -48,7 +48,7 @@ Copyright © 2024 All Rights Reserved. 请仔细阅读 [搜狐视频隐私政策
 | Region          | 泰国                               |
 | Date            | 2024-01-01                                 |
 | Tags            | 变性手术, 医学科普, 健康, 生命故事, 跨性别, 泰国人妖                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

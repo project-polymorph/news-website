@@ -57,7 +57,7 @@
 | Region          | 美国                               |
 | Date            | 2023-03-31                                 |
 | Tags            | 跨性别社区, 心理健康, 盟友支持, 性别不合格, 志愿服务                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

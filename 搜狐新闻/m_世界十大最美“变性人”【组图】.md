@@ -34,7 +34,7 @@
 | Region          | 未知                               |
 | Date            | 2012-03-26                                 |
 | Tags            | 跨性别, 变性人, 模特, 时尚, 生存经历, 国际小姐                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

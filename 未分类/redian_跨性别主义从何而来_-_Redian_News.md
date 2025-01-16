@@ -73,7 +73,7 @@
 | Region          | 未知                               |
 | Date            | 2022-00-00                                 |
 | Tags            | 跨性别主义, 社会变迁, 身份政治, 性别观念, 文化分析, 卡尔·楚曼, 基督教回应                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

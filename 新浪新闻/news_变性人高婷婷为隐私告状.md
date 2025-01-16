@@ -87,7 +87,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2007-03-27                                 |
 | Tags            | 跨性别, 隐私权, 法庭, 生命故事, 法律政策, 社会歧视, 变性人, 高婷婷                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

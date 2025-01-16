@@ -58,7 +58,7 @@ CBC则表示，「我们相信跨性别选手参加女子大学的议题，是�
 | Region          | 加拿大                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 女子篮球, 体育争议, 暴力事件, 运动员权益                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

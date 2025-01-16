@@ -172,7 +172,7 @@ Thep医生表示这些都很正常，很多别的诊所术后失败的患者也�
 | Region          | 泰国                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 变性手术, 医疗旅游, 社会环境, 性别认同, 泰国医疗, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

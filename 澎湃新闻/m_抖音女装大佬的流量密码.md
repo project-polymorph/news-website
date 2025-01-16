@@ -130,7 +130,7 @@ ID | llpark001
 | Region          | 中国大陆                               |
 | Date            | 2021-04-13                                 |
 | Tags            | 抖音, 女装大佬, 跨性别, 流量密码, 社交媒体, 性别表达, 网络文化, 商业化                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

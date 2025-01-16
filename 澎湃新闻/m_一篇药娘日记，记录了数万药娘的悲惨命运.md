@@ -218,7 +218,7 @@
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 药娘, 跨性别, 生存现状, 心理健康, 药物使用, 性别认同, 社会歧视                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

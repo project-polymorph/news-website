@@ -73,7 +73,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2005-04-19                                 |
 | Tags            | 人妖表演, 旅游投诉, 性别文化, 社会问题, 跨性别, 媒体报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

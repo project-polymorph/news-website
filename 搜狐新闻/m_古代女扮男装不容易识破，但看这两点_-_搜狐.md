@@ -47,7 +47,7 @@
 | Region          | 天津市                               |
 | Date            | 未知                                 |
 | Tags            | 古代文化, 女扮男装, 跨性别, 社会背景, 花木兰, 性别研究                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

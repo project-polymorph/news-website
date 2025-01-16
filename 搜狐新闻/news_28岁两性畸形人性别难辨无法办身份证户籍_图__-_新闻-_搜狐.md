@@ -67,7 +67,7 @@ NEWS.SOHU.COM　　2005年01月19日00:38　　来源：四川新闻网
 | Region          | 四川，中国                               |
 | Date            | 2005-01-19                                 |
 | Tags            | 两性人, 性别认同, 身份证问题, 社会支持, 医疗经历, 人权                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -53,7 +53,7 @@
 | Region          | 台湾                               |
 | Date            | 2015-05-31                                 |
 | Tags            | 变性歌手, 钟洁希, 婚姻, 谈唱会, 变性经历, 社会接纳, 个人故事, 台湾媒体                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

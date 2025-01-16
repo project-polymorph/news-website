@@ -66,7 +66,7 @@
 | Region          | 未知                               |
 | Date            | 2018-02-07                                 |
 | Tags            | 跨性别角色, 伪娘角色, 二次元文化, 动漫, 性别表达                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

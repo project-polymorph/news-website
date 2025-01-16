@@ -180,7 +180,7 @@ Play video, "酷爱美妆的韩国男性：面膜粉底眼线一个都不能少"
 | Region          | 中国大陆                               |
 | Date            | 2021-12-15                                 |
 | Tags            | 跨性别, 性别霸凌, 性别歧视, 男性气质, 社会政策, 心理健康, 周鹏                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -66,7 +66,7 @@
 | Region          | 苏格兰                               |
 | Date            | 2024-04-02                                 |
 | Tags            | 跨性别, JK·罗琳, 苏格兰, 仇恨犯罪法案, 言论自由, 社会政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -88,7 +88,7 @@
 | Region          | 香港                               |
 | Date            | 2023-02-08                                 |
 | Tags            | 跨性别权益, 法律政策, 香港, 性别认同, 人权法案, 性别重置手术, 身份证性别更改                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

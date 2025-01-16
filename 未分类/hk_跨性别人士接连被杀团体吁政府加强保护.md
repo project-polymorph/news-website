@@ -33,7 +33,7 @@
 | Region          | 墨西哥                               |
 | Date            | 2020-09-07                                 |
 | Tags            | 跨性别, 仇恨犯罪, 维权活动, 社会保护, 医疗资源, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

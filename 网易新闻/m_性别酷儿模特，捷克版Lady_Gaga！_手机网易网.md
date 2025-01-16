@@ -61,7 +61,7 @@ Maty 就是我心中的捷克版 Lady Gaga，Maty 是一个 Lady，也是 Gaga�
 | Region          | 捷克                               |
 | Date            | 未知                                 |
 | Tags            | 性别酷儿, 模特, 男模特, 女装, 捷克, 时尚                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

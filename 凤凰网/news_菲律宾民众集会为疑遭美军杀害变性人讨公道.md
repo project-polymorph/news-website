@@ -36,7 +36,7 @@
 | Region          | 菲律宾                               |
 | Date            | 2014-10-22                                 |
 | Tags            | 跨性别, 抗议, 美军, 菲律宾, 杰弗里·劳德, 社会运动                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

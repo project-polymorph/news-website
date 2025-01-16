@@ -87,7 +87,7 @@ Dee专门强调，自己从未强迫诺埃拉做一个女孩。“我们对时�
 | Region          | 美国                               |
 | Date            | 2022-08-25                                 |
 | Tags            | 跨性别, 模特, 性别认同, 时尚界, LGBTQ+, 儿童权利                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

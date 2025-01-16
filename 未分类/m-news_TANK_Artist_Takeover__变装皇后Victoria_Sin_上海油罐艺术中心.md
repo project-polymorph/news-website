@@ -116,7 +116,7 @@ _HUBLOT宇舶表于1980年成立于瑞士，以创造性地运用贵金属与橡
 | Region          | 中国大陆                               |
 | Date            | 2020-06-12                                 |
 | Tags            | 变装文化, 跨性别艺术, 艺术家单慧乾, 上海油罐艺术中心, 在线展览, 表演艺术, 非二元性别, 艺术与身份                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

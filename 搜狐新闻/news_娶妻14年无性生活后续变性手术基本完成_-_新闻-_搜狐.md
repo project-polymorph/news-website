@@ -53,7 +53,7 @@ Sohu不良信息举报邮箱：[jubao@contact.sohu.com](mailto:jubao@contact.soh
 | Region          | 中国大陆                               |
 | Date            | 2008-02-08                                 |
 | Tags            | 变性人, 变性手术, 刘昌福, 社会融合, 医疗支持, 心理辅导, 人际关系                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

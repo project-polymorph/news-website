@@ -44,7 +44,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2013-11-04                                 |
 | Tags            | 伪娘, 动漫展, 角色扮演, ACG文化, 青少年经历, 性别认同, 社会偏见                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

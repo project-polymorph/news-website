@@ -56,7 +56,7 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. [版权所有](https://www.
 | Region          | 智利                               |
 | Date            | 2005-03-11                                 |
 | Tags            | 异装癖, 表演团体, 跨性别艺术, 智利文化, 社会接受度, 文化表现                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

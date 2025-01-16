@@ -44,7 +44,7 @@
 | Region          | 越南                               |
 | Date            | 2014-12-01                                 |
 | Tags            | 变性人, 抗议, 社会事件, 裸体示威, 越南, 公共场合, 网络传播                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

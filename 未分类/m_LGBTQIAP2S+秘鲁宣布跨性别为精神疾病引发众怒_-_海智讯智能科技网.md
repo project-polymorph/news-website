@@ -76,7 +76,7 @@ pea是秘鲁公民在加入国家公共、私人或混合医疗保险提供商�
 | Region          | 秘鲁                               |
 | Date            | 2024-05-29                                 |
 | Tags            | LGBTQIAP2S+, 精神疾病, 秘鲁, 跨性别, 法律政策, 医疗保险, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

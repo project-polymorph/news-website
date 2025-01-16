@@ -63,7 +63,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-10-17                                 |
 | Tags            | 易建联, 嫖娼, 跨性别, 娱乐圈丑闻, 社会舆论, 职业道德                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

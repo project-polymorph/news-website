@@ -130,7 +130,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-09-01                                 |
 | Tags            | 跨性别, 伪娘文化, 美国文化输出, 东亚文化, 日本, 韩国, 社会批判, 历史分析                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -74,7 +74,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2007-08-03                                 |
 | Tags            | 变性, 跨性别, 身份认同, 医疗, 法律政策, 生存现状, 个人故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

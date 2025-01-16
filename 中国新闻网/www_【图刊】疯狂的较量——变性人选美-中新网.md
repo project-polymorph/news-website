@@ -43,7 +43,7 @@
 | Region          | 菲律宾                               |
 | Date            | 2011-12-30                                 |
 | Tags            | 变性人选美, 跨性别文化, 社会活动, 马尼拉, 2011年                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

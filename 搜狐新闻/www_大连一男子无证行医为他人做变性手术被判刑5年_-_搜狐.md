@@ -53,7 +53,7 @@ _首赞_
 | Region          | 大连, 中国                               |
 | Date            | 2019-06-03                                 |
 | Tags            | 非法行医, 变性手术, 跨性别, 医疗责任, 法律判决                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

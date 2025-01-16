@@ -52,7 +52,7 @@
 | Region          | 美国                               |
 | Date            | 2017-09-16                                 |
 | Tags            | 变性人, 服役禁令, 特朗普, 美国军队, 政策调整, 社会环境, 军人权利                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

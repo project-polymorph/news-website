@@ -10256,7 +10256,7 @@ search:
 
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./未分类摘要词云图](abstracts_wordcloud.png)
 

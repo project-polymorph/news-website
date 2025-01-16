@@ -59,7 +59,7 @@
 | Region          | 台湾                               |
 | Date            | 2024-07-08                                 |
 | Tags            | 变装文化, 反串表演, 跨性别, LGBT, 艺术与抗议                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

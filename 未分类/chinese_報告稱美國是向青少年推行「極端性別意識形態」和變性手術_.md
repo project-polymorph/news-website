@@ -89,7 +89,7 @@
 | Region          | 美国                               |
 | Date            | 2023-01-23                                 |
 | Tags            | 跨性别, 性别意识形态, 变性手术, 青春期阻断剂, 跨性别激素, 医疗政策, 国际比较                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

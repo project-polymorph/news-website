@@ -59,7 +59,7 @@
 | Region          | 未知                               |
 | Date            | 2009-02-06                                 |
 | Tags            | 变性人, 身份认同, 成长故事, 社会支持, 荷尔蒙治疗, 跨性别文化, 性别认同, 青少年发展                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

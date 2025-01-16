@@ -55,7 +55,7 @@ GID学会理事长、冈山大学妇产科教授中冢干也表示：“对于�
 | Region          | 日本                               |
 | Date            | 2014-04-02                                 |
 | Tags            | 养母, 领养孩子, 性别认同障碍, GID, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

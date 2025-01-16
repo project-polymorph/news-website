@@ -78,7 +78,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-08-11                                 |
 | Tags            | 人妖隆胸, 医疗资源, 郑州, 价格, 医院, 整形手术, 患者体验                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

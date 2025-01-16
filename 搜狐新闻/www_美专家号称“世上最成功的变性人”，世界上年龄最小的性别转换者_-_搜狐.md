@@ -75,7 +75,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2023-01-14                                 |
 | Tags            | 跨性别, 性别认同, 性别转换, 社会心理, 医学伦理, 大卫·赖默, 约翰·莫尼                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

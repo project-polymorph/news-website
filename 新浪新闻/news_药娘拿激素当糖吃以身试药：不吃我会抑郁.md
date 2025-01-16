@@ -60,7 +60,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2018-08-16                                 |
 | Tags            | 跨性别者, 药娘, 抑郁, 医疗资源, 心理健康, 社会环境, 法律政策, 生命故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

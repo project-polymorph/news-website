@@ -30,7 +30,7 @@
 | Region          | 美国                               |
 | Date            | 2018-11-08                                 |
 | Tags            | 跨性别, 变性经历, 家庭关系, 个人故事, 医疗资源                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

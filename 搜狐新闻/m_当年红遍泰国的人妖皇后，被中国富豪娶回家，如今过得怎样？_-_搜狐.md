@@ -63,7 +63,7 @@
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 人妖文化, 爱情故事, 婚姻, 泰国, 社会接受度, 个人生存经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

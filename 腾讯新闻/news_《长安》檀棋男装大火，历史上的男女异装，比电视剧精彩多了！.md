@@ -90,7 +90,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2019-07-16                                 |
 | Tags            | 异装, 历史, 跨性别, 性别角色, 唐朝, 文化研究                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

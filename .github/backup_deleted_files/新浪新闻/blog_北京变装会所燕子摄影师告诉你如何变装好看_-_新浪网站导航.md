@@ -74,7 +74,7 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 | Region          | 中国大陆                               |
 | Date            | 2018-12-21                                 |
 | Tags            | 变装摄影, 跨性别文化, 媒体报道, 变装艺术, CD姐妹, 摄影师服务, 隐私保护, 性别表达                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

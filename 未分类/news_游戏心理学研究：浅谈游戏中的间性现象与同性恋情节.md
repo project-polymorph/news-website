@@ -167,7 +167,7 @@ _丛书目录视频版：[https://www.bilibili.com/video/BV1Pc411S7WN/?spm_id_fr
 | Region          | 未知                               |
 | Date            | 2023-12-28                                 |
 | Tags            | 游戏心理学, 间性现象, 同性恋, 角色设计, 性别理论, 文化研究, 性心理学                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -104,7 +104,7 @@ J.K.罗琳在社交平台猛烈抨击：“患有 DSD （性发育异常）的�
 | Region          | 中国大陆                               |
 | Date            | 2024-08-08                                 |
 | Tags            | 奥运会, 跨性别, 体育公平, 性别认同, 社会争议, 拳击比赛, 性别政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

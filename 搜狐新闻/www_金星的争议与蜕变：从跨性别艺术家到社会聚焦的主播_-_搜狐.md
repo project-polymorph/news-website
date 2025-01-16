@@ -62,7 +62,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-10-28                                 |
 | Tags            | 金星, 跨性别艺术家, 公众人物, 变性经历, 社会责任, 网络直播, 性别认同, 艺术与文化                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -106,7 +106,7 @@ PLOS ONE发言人大卫克努森说，这项研究在出版之前，**已经由�
 | Region          | 未知                               |
 | Date            | 2018-09-18                                 |
 | Tags            | 跨性别, 青少年性转变, LGBT, 研究, 快速发作性性别不安, 学术自由                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

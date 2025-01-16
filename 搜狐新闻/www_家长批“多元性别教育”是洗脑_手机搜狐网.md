@@ -63,7 +63,7 @@
 | Region          | 美国                               |
 | Date            | 2019-04-12                                 |
 | Tags            | 性别教育, 多元性别, 法律政策, 家长抗议, 加州健康青年法案, 教育制度                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

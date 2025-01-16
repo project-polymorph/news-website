@@ -60,7 +60,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-10-04                                 |
 | Tags            | 爱情故事, 变性人文化, 婚礼, 跨文化恋爱, 梦想追求                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

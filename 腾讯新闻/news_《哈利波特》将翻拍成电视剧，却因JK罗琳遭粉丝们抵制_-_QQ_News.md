@@ -87,7 +87,7 @@ Watson 随后强调:“我在这里为所有女巫们加油。”
 | Region          | 未知                               |
 | Date            | 2023-04-10                                 |
 | Tags            | 跨性别, JK罗琳, 哈利波特, 电视剧, LGBTQ+, 社会争议                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

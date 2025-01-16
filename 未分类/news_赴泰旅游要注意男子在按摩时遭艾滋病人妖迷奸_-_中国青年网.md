@@ -44,7 +44,7 @@
 | Region          | 未知                               |
 | Date            | 2017-05-25                                 |
 | Tags            | 旅游安全, 性侵, 艾滋病, 人妖, 自我保护, 社交媒体, 跨性别, 泰国旅行                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

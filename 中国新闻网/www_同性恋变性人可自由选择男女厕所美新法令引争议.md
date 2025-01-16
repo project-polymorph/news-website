@@ -51,7 +51,7 @@
 | Region          | 美国                               |
 | Date            | 2014-05-30                                 |
 | Tags            | 跨性别, 卫生权利, 休斯敦法令, 性别认同, 社会争议                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

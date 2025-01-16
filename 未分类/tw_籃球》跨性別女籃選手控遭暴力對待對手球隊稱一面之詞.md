@@ -69,7 +69,7 @@ CBC表示，「我们相信跨性别选手参加女子大学的议题，是复�
 | Region          | 未知                               |
 | Date            | 2024-11-01                                 |
 | Tags            | 跨性别运动员, 暴力事件, 女篮球员, 运动争议, 性别身份问题, 社会讨论                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

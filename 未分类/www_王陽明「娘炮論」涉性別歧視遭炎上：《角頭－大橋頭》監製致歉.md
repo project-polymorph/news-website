@@ -153,7 +153,7 @@ YU CHU CHUNG
 | Region          | 台湾                               |
 | Date            | 2024-08-20                                 |
 | Tags            | 性别歧视, 王阳明, 角头大桥头, 性别平等, 社会讨论, 公众人物责任, 艺术与文化, 娱乐新闻                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -117,7 +117,7 @@ Play Out的三位管理人员 via www.playoutapparel.com
 | Region          | 美国                               |
 | Date            | 2021-06-29                                 |
 | Tags            | 性别平等, 内衣设计, 跨性别, 时尚行业, 商业故事, 平权与反歧视                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

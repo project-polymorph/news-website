@@ -114,7 +114,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2016-03-29                                 |
 | Tags            | 跨性别, 女性假两性畸形, 社会歧视, 医疗资源, 生命故事, 手术经历, 家庭支持, 校园欺凌                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

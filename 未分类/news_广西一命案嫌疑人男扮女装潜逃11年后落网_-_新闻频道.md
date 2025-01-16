@@ -51,7 +51,7 @@
 | Region          | 广西                               |
 | Date            | 2023-05-25                                 |
 | Tags            | 命案, 男扮女装, 跨性别, 法律政策, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -94,7 +94,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2009-03-12                                 |
 | Tags            | 抑郁症, 心理健康, 人格特征, 成功人士, 南方日报, 双相障碍                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

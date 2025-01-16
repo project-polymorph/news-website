@@ -47,7 +47,7 @@
 | Region          | 台湾                               |
 | Date            | 2004-06-03                                 |
 | Tags            | 变性, 跨性别, 性别认同, 社会反应, 家庭关系                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

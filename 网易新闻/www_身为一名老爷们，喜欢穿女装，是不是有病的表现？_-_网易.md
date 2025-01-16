@@ -98,7 +98,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2021-02-20                                 |
 | Tags            | 异装癖, 性别认同, 文化探讨, 历史人物, 时尚与性别, 社会偏见                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

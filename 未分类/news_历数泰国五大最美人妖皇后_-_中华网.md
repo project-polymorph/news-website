@@ -72,7 +72,7 @@ Sania第三届泰国人妖选美大赛人妖皇后，性格脾气非常好，在
 | Region          | 泰国                               |
 | Date            | 2017-04-04                                 |
 | Tags            | 人妖, 变性人, 泰国人妖, 跨性别者, 美人妖皇后                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

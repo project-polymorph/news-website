@@ -70,7 +70,7 @@
 | Region          | 中国吉林省                               |
 | Date            | 2015-07-01                                 |
 | Tags            | 跨性别, 保险, 变性人, 法律, 社会歧视, 重大疾病保险                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

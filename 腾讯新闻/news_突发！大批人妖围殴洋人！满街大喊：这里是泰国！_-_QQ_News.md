@@ -125,7 +125,7 @@
 | Region          | 泰国                               |
 | Date            | 2024-05-06                                 |
 | Tags            | 跨性别, 社会事件, 泰国, 文化认同, 暴力冲突                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

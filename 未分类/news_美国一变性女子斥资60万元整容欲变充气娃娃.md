@@ -64,7 +64,7 @@ Katella的朋友米歇尔·沃勒尔(Michel Voeller)称，“作为朋友我们�
 | Region          | 美国                               |
 | Date            | 2014-03-24                                 |
 | Tags            | 跨性别, 整容, 变性女性, 生活故事, 医疗经验, 社会反响                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

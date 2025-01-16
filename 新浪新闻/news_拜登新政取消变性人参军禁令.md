@@ -52,7 +52,7 @@
 | Region          | 美国                               |
 | Date            | 2021-01-26                                 |
 | Tags            | 跨性别, 军事政策, 变性人参军, 拜登新政, 社会包容性, 医疗费用                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

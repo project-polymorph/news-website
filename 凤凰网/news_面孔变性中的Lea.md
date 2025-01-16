@@ -45,7 +45,7 @@
 | Region          | 巴西                               |
 | Date            | 2012-04-23                                 |
 | Tags            | 变性人, 超模, 时尚, 生命故事, 社会接受, 激素治疗, LeaT                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

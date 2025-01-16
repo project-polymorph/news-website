@@ -65,7 +65,7 @@
 | Region          | 台湾                               |
 | Date            | 2021-06-30                                 |
 | Tags            | 非二元性别, 性别认同, 性别流动, 宇多田光, 性别平权, 性别教育                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

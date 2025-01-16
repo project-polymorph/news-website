@@ -49,7 +49,7 @@
 | Region          | 北京, 中国                               |
 | Date            | 2006-06-03                                 |
 | Tags            | 跨性别, 人妖, 演出管理, 社会监管, 东北男孩, 表演艺术, 媒体报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -67,7 +67,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2021-04-12                                 |
 | Tags            | 雄性激素, 睾酮, 医疗资源, 过渡经历, 性别认同, 生育健康                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -159,7 +159,7 @@ _**（应采访对象要求，本文中娆娆、彬彬、染儿、桃姐、卡�
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 性别重建, 性工作者, 社会调查, 生存现状, 边缘群体, 同性恋, 法律与政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

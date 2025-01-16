@@ -49,7 +49,7 @@ cross-gender performance就是“跨性别表演”，也就是男女反串表�
 | Region          | 未知                               |
 | Date            | 2010-05-13                                 |
 | Tags            | 跨性别, 翻译, 文化, 人妖, 伪娘                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

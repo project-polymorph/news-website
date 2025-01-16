@@ -62,7 +62,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2021-08-09                                 |
 | Tags            | 跨性别, 女装大佬, 心理健康, 性别认同障碍, 异装癖, 网络文化, 性别研究                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

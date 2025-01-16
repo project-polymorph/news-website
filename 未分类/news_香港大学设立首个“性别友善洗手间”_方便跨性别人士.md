@@ -49,7 +49,7 @@
 | Region          | 香港                               |
 | Date            | 2016-09-01                                 |
 | Tags            | 性别友善洗手间, 跨性别, 香港大学, 性别平权, 社会环境, 教育机构                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

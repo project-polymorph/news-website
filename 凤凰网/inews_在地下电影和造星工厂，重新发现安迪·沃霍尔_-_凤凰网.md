@@ -132,7 +132,7 @@ Mario Montez也是安迪·沃霍尔工厂培养出的一位明星。他以男扮
 | Region          | 中国大陆                               |
 | Date            | 2015-10-30                                 |
 | Tags            | 安迪·沃霍尔, 地下电影, 波普艺术, 性别文化, LGBT, 边缘文化, 艺术史, 电影展览, 消费文化                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

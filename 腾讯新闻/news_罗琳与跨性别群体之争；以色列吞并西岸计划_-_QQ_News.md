@@ -92,7 +92,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2020-07-20                                 |
 | Tags            | J.K.罗琳, 跨性别, 性别认同, 女性权利, 社会讨论, 法律政策, 国际政治                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

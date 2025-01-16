@@ -90,7 +90,7 @@ OK，我认同这个观点，毕竟君子“和而不同”，如果一个男人
 | Region          | 中国大陆                               |
 | Date            | 2021-09-09                                 |
 | Tags            | 娘炮, 娘炮文化, 审美, 歧视, 赚流量                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

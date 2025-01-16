@@ -145,7 +145,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-11-16                                 |
 | Tags            | 异装癖, 社会事件, 性别认同, 法律与社会环境, 个人故事, 媒体报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

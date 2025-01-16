@@ -77,7 +77,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2004-01-13                                 |
 | Tags            | 整形手术, 性别认同, 社会性别, 医疗经历, 个人故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

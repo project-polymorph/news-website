@@ -85,7 +85,7 @@
 | Region          | 未知                               |
 | Date            | 2022-03-30                                 |
 | Tags            | 艾滋病, 男同性恋者, 男男性行为者, 零歧视, 人权, 医疗服务, 性取向, 跨性别, 社会歧视                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

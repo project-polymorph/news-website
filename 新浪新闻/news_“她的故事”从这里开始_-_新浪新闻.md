@@ -381,7 +381,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2018-01-24                                 |
 | Tags            | 性别平等, 女性故事, 职场挑战, 社会公益, 生命故事, 医疗保障, 法律援助, 跨性别意识                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

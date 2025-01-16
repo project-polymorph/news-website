@@ -96,7 +96,7 @@ IBA指林郁婷「性別生化指數異常」，她對此表示，「當下就�
 | Region          | 台湾                               |
 | Date            | 2023-11-29                                 |
 | Tags            | 跨性别, 体育, 性别认同, 林郁婷, 亚运会, 社会歧视, 性别争议, 运动员经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

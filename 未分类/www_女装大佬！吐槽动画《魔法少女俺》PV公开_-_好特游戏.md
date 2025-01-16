@@ -62,7 +62,7 @@ _小编推荐阅读_
 | Region          | 中国大陆                               |
 | Date            | 2017-12-29                                 |
 | Tags            | 动画, 魔法少女, 女装大佬, 魔法少女俺, 动漫, 搞笑, PV                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

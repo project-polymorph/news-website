@@ -60,7 +60,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2016-05-01                                 |
 | Tags            | 金星, 萨顶顶, 变性, 社交媒体, 身份认同, 网友声援                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

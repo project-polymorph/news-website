@@ -63,7 +63,7 @@
 | Region          | 美国                               |
 | Date            | 2022-12-14                                 |
 | Tags            | 跨性别, 冰球比赛, 运动员受伤, 女性运动员, 社会包容性, 法律与政策, 生理性别                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

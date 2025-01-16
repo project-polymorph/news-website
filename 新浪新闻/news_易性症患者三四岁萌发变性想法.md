@@ -71,7 +71,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2014-09-09                                 |
 | Tags            | 易性症, 跨性别, 性别认同, 心理健康, 医疗资源, 社会支持, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

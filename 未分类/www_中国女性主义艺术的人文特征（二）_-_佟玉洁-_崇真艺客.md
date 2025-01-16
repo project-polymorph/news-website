@@ -75,7 +75,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2013-01-11                                 |
 | Tags            | 后女性主义艺术, 身体快乐性, 性别角色, 朱迪斯·巴特勒, 中国女性主义, 酷儿艺术, 艺术家, 性别流动性, 艺术作品, 性别表演性                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

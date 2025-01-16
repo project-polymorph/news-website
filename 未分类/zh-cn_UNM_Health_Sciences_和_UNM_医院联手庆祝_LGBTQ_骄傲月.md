@@ -91,7 +91,7 @@ UNMH LGBTQ Collaborative 成立于 2011 年，是 LGBTQ 员工的员工资源小
 | Region          | 美国                               |
 | Date            | 2022-06-02                                 |
 | Tags            | LGBTQ, 骄傲月, 多样性, 跨性别, 医疗资源, 法律政策, 社区支持                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

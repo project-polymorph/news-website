@@ -86,7 +86,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2021-08-28                                 |
 | Tags            | 娘炮现象, 韩流, 娱乐圈, 整容文化, 男性形象, 社会文化分析                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

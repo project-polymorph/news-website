@@ -55,7 +55,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2015-03-13                                 |
 | Tags            | 双性人, 跨性别, 性别认同, 主题故事, 医学检查, 社会认知, 性别研究                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

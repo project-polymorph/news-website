@@ -139,7 +139,7 @@ CNN还采访到了变性前海豹突击队员克里斯蒂·贝克（Kristin Beck
 | Region          | 美国                               |
 | Date            | 2017-07-27                                 |
 | Tags            | 特朗普, 跨性别, 军队政策, LGBT, 法律与社会, 国际关系                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

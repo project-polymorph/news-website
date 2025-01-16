@@ -184,7 +184,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2022-07-04                                 |
 | Tags            | 跨性别, 变性人, 婚姻, 爱情, 泰国, 人妖文化, 选美比赛, 社会接受度, 医疗转变                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

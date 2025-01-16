@@ -75,7 +75,7 @@ Baederland Hamburg表示：“总而言之，可以说汉堡是一座丰富多�
 | Region          | 河北省                               |
 | Date            | 2023-08-30                                 |
 | Tags            | 德国跨性别者法案, 自决法案, 性别认同, 跨性别权益, 法律政策, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

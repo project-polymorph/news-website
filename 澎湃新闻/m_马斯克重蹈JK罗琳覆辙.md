@@ -147,7 +147,7 @@ JK罗琳对此解释：“如果生理性别不存在，那就没有同性相吸
 | Region          | 未知                               |
 | Date            | 2023-06-18                                 |
 | Tags            | 跨性别, 马斯克, 泽维尔·亚历山大·马斯克, 性别认同, 社会环境, 医学与法律, 人权                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

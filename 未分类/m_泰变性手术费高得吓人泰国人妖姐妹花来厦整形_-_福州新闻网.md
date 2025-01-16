@@ -40,7 +40,7 @@ Copyright © fznews.com.cn All Rights Reserved
 | Region          | 未知                               |
 | Date            | 2007-04-19                                 |
 | Tags            | 跨性别, 变性手术, 医疗资源, 国际整形, 泰国人妖, 厦门, 整形美容                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

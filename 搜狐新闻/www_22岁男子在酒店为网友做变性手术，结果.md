@@ -51,7 +51,7 @@ _责任编辑：_  提供平台声明：该文观点仅代表作者本人，搜�
 | Region          | 中国大陆                               |
 | Date            | 2018-09-21                                 |
 | Tags            | 变性手术, 心理健康, 易性癖, 法律案例, 未成年人保护                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

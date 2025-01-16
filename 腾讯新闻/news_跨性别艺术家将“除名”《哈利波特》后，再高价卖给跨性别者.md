@@ -91,7 +91,7 @@
 | Region          | 中国大陆，中国                               |
 | Date            | 2023-01-15                                 |
 | Tags            | 跨性别, 哈利·波特, J.K.罗琳, 艺术家, 反歧视, 文化争议                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

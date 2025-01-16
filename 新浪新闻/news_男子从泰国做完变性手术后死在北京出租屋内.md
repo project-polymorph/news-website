@@ -61,7 +61,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2006-02-06                                 |
 | Tags            | 变性手术, 跨性别者, 社会问题, 健康问题, 北京, 新闻报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

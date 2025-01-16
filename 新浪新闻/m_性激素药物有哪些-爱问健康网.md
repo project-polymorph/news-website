@@ -43,7 +43,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-05-17                                 |
 | Tags            | 性激素, 药物, 跨性别医疗, 雌激素, 孕激素, 雄激素, 医学资源                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

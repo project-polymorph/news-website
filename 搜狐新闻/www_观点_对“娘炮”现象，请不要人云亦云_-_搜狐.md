@@ -53,7 +53,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2018-10-23                                 |
 | Tags            | 社会观察, 性别研究, 娘炮现象, 文化分析, 舆论研究, 社会评论                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

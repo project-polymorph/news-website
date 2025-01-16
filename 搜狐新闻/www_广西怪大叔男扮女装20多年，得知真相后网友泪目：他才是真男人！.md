@@ -167,7 +167,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2023-09-24                                 |
 | Tags            | 跨性别, 跨性别者故事, 家庭责任, 医疗与心理, 社会接纳, 爱与奉献                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

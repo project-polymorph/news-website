@@ -57,7 +57,7 @@
 | Region          | 印尼                               |
 | Date            | 2005-04-01                                 |
 | Tags            | 变性人, 跨性别, 性别认同, 社会认同, 变性经历, 印尼文化, 性别角色, 荷尔蒙治疗, 社会尊重                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -65,7 +65,7 @@
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 变性手术, 性别认定, 法律政策, 社会环境, 个人故事, 身份问题, 性别平等                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

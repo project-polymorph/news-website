@@ -64,7 +64,7 @@
 | Region          | 美国                               |
 | Date            | 2017-12-14                                 |
 | Tags            | 变性士兵, 美国军队, 政策变更, 医疗费用, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

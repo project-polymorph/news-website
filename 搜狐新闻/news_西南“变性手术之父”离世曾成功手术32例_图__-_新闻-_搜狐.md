@@ -115,7 +115,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2008-07-24                                 |
 | Tags            | 变性手术, 医疗资源, 跨性别, 邹景贵, 生平故事, 医学, 四川大学华西医院                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

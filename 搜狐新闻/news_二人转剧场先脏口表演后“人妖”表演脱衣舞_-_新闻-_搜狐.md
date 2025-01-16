@@ -50,7 +50,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2004-03-31                                 |
 | Tags            | 跨性别, 人妖表演, 二人转, 公共表演, 社会现象, 长春市, 文化报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

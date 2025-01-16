@@ -189,7 +189,7 @@ ETtoday新聞雲 版權所有 非經授權，不許轉載本網站內容 © ETto
 | Region          | 台湾                               |
 | Date            | 2024-08-19                                 |
 | Tags            | 变性人, 新闻报道, 法律政策, 社会现状, 跨性别, 性别歧视                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

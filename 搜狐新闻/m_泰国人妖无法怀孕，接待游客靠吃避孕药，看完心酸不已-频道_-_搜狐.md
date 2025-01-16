@@ -95,7 +95,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2023-10-16                                 |
 | Tags            | 跨性别, 泰国人妖, 避孕药, 生存现状, 社会环境, 心理困境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

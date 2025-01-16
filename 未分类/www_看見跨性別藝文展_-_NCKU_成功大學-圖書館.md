@@ -74,7 +74,7 @@ E-Mail: [em65790@email.ncku.edu.tw](mailto:em65790@email.ncku.edu.tw)
 | Region          | 台湾                               |
 | Date            | 2024-05-17                                 |
 | Tags            | 跨性别, 艺文展, 性别平等, 医学与法律, 生命故事, 性别人权                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

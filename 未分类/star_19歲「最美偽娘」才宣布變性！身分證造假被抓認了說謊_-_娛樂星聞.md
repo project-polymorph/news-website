@@ -49,7 +49,7 @@ Abbily透露已經做過面談，今年就會動手術，而未滿20歲爭議，
 | Region          | 中国大陆                               |
 | Date            | 2021-04-04                                 |
 | Tags            | 变性, 跨性别, 伪娘, 网红, 社会讨论                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

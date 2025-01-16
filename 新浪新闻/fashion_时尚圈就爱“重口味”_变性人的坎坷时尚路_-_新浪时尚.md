@@ -86,7 +86,7 @@ Lea T说，希望看到今年变性人在时尚界的高曝光率可以成为新
 | Region          | 中国大陆                               |
 | Date            | 2011-01-06                                 |
 | Tags            | 跨性别, 时尚, 变性人, 社会接受, 变性模特, 性别认同, 文化影响                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -40,7 +40,7 @@
 | Region          | 香港                               |
 | Date            | 2014-01-13                                 |
 | Tags            | 跨性别, 法律政策, 变性人, 香港, 政府, 跨部门工作小组                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

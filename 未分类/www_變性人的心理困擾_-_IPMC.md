@@ -58,7 +58,7 @@
 | Region          | 未知                               |
 | Date            | 2020-07-17                                 |
 | Tags            | 变性人, 心理健康, 社会支持, 变性人社区, 研究, 变性过渡                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

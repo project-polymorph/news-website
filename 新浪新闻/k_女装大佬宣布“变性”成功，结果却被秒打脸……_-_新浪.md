@@ -230,7 +230,7 @@
 | Region          | 广东                               |
 | Date            | 2021-03-31                                 |
 | Tags            | 跨性别, 网红, 性别认同, 艾比, 网络文化, 社会反应, 青春烦恼                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

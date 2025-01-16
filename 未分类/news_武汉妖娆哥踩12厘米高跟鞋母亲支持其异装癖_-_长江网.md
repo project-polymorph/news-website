@@ -43,7 +43,7 @@
 | Region          | 武汉, 中国                               |
 | Date            | 2012-08-09                                 |
 | Tags            | 跨性别, 高跟鞋, 性别表达, 个人故事, 家庭支持, 社会接受, 文献报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

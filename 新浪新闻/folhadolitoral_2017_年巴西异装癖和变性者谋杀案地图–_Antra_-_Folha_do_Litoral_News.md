@@ -57,7 +57,7 @@ Antra的数据显示，2017年全国共发生179起谋杀案
 | Region          | 巴西                               |
 | Date            | 2018-01-11                                 |
 | Tags            | 跨性别, 谋杀案件, 社会调查, 人权, 数据统计, 巴西, 变性者, 异装癖                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

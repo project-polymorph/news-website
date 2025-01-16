@@ -117,7 +117,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2009-06-16                                 |
 | Tags            | 变性手术, 法律法规, 跨性别, 社会现状, 医疗资源, 医疗规范, 个人经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

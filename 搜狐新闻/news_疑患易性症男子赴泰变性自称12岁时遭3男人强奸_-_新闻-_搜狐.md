@@ -174,7 +174,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2014-09-09                                 |
 | Tags            | 变性, 易性症, 性别认同, 个人故事, 社会接受, 变性手术, 心理经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

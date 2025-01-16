@@ -74,7 +74,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2019-05-05                                 |
 | Tags            | 性少数学生, 心理健康, LGBTQ, 抑郁问题, 社会歧视, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

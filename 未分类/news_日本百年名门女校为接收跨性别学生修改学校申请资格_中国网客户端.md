@@ -51,7 +51,7 @@
 | Region          | 日本                               |
 | Date            | 2018-07-10                                 |
 | Tags            | 御茶水女子大学, 跨性别, 性别平等, 日本教育, 社会包容性                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

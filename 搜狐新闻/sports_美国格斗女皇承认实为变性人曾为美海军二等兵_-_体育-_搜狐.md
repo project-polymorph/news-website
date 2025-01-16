@@ -68,7 +68,7 @@
 | Region          | 美国                               |
 | Date            | 2013-03-12                                 |
 | Tags            | 跨性别, 变性人, 综合格斗, 法伦·福克斯, 体育伦理, 性别认同, 社会争议, 变性手术, 女性运动员                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

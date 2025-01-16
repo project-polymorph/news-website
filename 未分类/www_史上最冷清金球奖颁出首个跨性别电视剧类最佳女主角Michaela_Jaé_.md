@@ -75,7 +75,7 @@ MJ Rodriguez 得知获奖消息后在个人 Instagram 帐户上写道：“这�
 | Region          | 美国                               |
 | Date            | 2022-01-09                                 |
 | Tags            | 跨性别, 金球奖, Michaela Jaé Rodriguez, Pose, LGBTQAI                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

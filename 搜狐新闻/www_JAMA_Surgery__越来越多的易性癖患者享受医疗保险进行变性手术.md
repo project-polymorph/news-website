@@ -43,7 +43,7 @@
 | Region          | 美国                               |
 | Date            | 2018-03-13                                 |
 | Tags            | 变性手术, 易性癖, 医疗保险, 心理健康, 性别认同, 跨性别研究                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

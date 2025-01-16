@@ -67,7 +67,7 @@
 | Region          | 新加坡                               |
 | Date            | 2006-01-22                                 |
 | Tags            | 变性人, 法律问题, 毒品犯罪, 跨性别, 社会认同, 生存状态, 泰国                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -83,7 +83,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2014-12-18                                 |
 | Tags            | 跨性别, 生活故事, 爱情经历, 社会观察, 性别认同, 异性恋与同性恋, 社会偏见                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

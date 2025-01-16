@@ -1881,7 +1881,7 @@ search:
 
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./澎湃新闻摘要词云图](abstracts_wordcloud.png)
 

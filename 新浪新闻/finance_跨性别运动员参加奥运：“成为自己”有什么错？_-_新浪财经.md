@@ -166,7 +166,7 @@ RNZ (2017, December 7). Laurel Hubbard: I have to block out the criticism. https
 | Region          | 中国大陆                               |
 | Date            | 2021-08-04                                 |
 | Tags            | 跨性别, 奥运会, 运动员, 性别认同, 社会公平, 生物学优劣, 健康与权益, 性别政治, 女性运动员, 跨性别者的挑战                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

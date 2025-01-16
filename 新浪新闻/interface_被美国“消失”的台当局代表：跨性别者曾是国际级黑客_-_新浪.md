@@ -68,7 +68,7 @@
 | Region          | 台湾                               |
 | Date            | 2021-12-15                                 |
 | Tags            | 跨性别, 唐凤, 台湾政治, 网络安全, 社会争议, 性别认同, 医疗经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

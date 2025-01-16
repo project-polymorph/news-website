@@ -122,7 +122,7 @@
 | Region          | 未确认                               |
 | Date            | 2020-06-25                                 |
 | Tags            | 同性恋, 同志, 青少年, 社會學, 性别平權, 性霸凌, 男子氣概, 陽剛氣質, 娘娘腔                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

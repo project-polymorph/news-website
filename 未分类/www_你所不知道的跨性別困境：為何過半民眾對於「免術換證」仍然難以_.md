@@ -241,7 +241,7 @@ TG（Transgender）指的是性別認同與天生指定生理性別相異，期�
 | Region          | 台湾                               |
 | Date            | 2022-09-21                                 |
 | Tags            | 跨性别, 法律政策, 性别认同, 社会性别, 生理性别, LGBTQ, 免术换证, TG, TS                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

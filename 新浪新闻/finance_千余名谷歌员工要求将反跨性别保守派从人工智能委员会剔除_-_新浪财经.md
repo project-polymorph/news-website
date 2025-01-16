@@ -91,7 +91,7 @@ All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/cop
 | Region          | 中国大陆                               |
 | Date            | 2019-04-02                                 |
 | Tags            | 谷歌, 人工智能, 跨性别, LGBTQ, 伦理委员会, 反LGBTQ, 员工抗议                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

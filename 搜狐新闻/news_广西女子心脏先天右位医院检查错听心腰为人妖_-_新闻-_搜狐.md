@@ -52,7 +52,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2005-10-25                                 |
 | Tags            | 心脏先天右位, 医疗资源, 社会歧视, 跨性别, 健康, 心理健康                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

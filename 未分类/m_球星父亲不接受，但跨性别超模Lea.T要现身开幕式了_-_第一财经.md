@@ -73,7 +73,7 @@ Lea.T说她基本上每年只联系父亲一次，但兄妹们都很支持她，
 | Region          | 巴西                               |
 | Date            | 2016-08-04                                 |
 | Tags            | 跨性别, 时尚, 文化, 里约奥运会, Lea.T, 个人故事, 家庭关系                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

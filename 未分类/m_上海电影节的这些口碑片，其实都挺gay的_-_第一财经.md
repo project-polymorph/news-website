@@ -69,7 +69,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2015-06-14                                 |
 | Tags            | 跨性别, LGBT, 电影评论, 上海电影节, 性别研究, 社会环境, 文化探讨                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

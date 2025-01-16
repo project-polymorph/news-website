@@ -193,7 +193,7 @@ Rupaul's Drag Race/鲁保罗变装秀，一档连拿三届艾美奖的选秀综�
 | Region          | 中国大陆                               |
 | Date            | 2021-05-07                                 |
 | Tags            | 变装艺术, 时尚文化, 鲁保罗变装秀, 性别表现, 黑人的权利运动, 创意设计, 跨性别社区, 选秀节目                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

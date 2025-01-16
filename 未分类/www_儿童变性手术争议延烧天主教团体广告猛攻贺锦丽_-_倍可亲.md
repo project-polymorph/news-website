@@ -59,7 +59,7 @@
 | Region          | 美国                               |
 | Date            | 2024-09-17                                 |
 | Tags            | 儿童变性手术, 跨性别议题, 天主教团体, 贺锦丽, 政治争议, 医疗补助, 性别肯定照护                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

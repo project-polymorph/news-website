@@ -89,7 +89,7 @@ _首赞_
 | Region          | 泰国                               |
 | Date            | 2015-06-19                                 |
 | Tags            | 泰国, 人妖, 跨性别, 表演艺术, 社会歧视, 生计压力, 文化现象                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

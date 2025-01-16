@@ -104,7 +104,7 @@ CAMH诊所的内爆只是某种教条式跨性别激进主义力量的一个例�
 | Region          | 加拿大                               |
 | Date            | 2024-04-27                                 |
 | Tags            | 跨性别青少年, 医疗护理, 社会政策, 性别认同, 心理健康, 性别转换, 国际比较, 青年权利                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

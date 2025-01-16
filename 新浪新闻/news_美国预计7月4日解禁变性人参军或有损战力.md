@@ -82,7 +82,7 @@
 | Region          | 美国                               |
 | Date            | 2016-06-26                                 |
 | Tags            | 变性人参军, 美国军队, 五角大楼, 政策变动, 军队作战能力, 变性人权利组织, 奥巴马政府, 同性恋士兵, 设施改造费用                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

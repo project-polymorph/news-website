@@ -52,7 +52,7 @@
 | Region          | 新加坡                               |
 | Date            | 2022-12-01                                 |
 | Tags            | 艾滋病规划署, 新加坡, 同性关系非刑罪化, 性少数群体, 法律改革                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

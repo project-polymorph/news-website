@@ -50,7 +50,7 @@
 | Region          | 香港                               |
 | Date            | 2023-02-06                                 |
 | Tags            | LGBT权利, 跨性别政策, 人权, 法律, 香港                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

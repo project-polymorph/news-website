@@ -49,7 +49,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2007-12-15                                 |
 | Tags            | 跨性别, 双性姐妹, 性别认同, 女性假两性畸形, 医疗资源, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -164,7 +164,7 @@
 | Region          | 泰国                               |
 | Date            | 2023-05-14                                 |
 | Tags            | 泰国人妖, 跨性别文化, 性别认同, 人妖表演, 妮莎, 社会现状, 文化现象                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

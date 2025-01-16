@@ -71,7 +71,7 @@
 | Region          | 未知                               |
 | Date            | 2019-05-15                                 |
 | Tags            | 跨性别, 川岛芳子, 性别认同, 历史, 中国, 日本, 易装癖, 间谍, 汉奸, 文学艺术                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

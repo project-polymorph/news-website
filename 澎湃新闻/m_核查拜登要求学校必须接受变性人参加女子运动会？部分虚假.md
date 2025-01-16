@@ -132,7 +132,7 @@
 | Region          | 美国                               |
 | Date            | 2021-01-20                                 |
 | Tags            | 政治, 社会, 跨性别运动, 法律政策, 性别歧视, 行政命令, 体育比赛                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

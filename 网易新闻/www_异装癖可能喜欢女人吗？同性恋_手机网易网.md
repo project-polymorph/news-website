@@ -109,7 +109,7 @@ Q人群也比较多，更多的人还没有发现自己的内心的性向或者�
 | Region          | 中国大陆                               |
 | Date            | 2015-06-04                                 |
 | Tags            | LGBT, 跨性别, 性别认同, 法律政策, 医疗资源, 生命故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

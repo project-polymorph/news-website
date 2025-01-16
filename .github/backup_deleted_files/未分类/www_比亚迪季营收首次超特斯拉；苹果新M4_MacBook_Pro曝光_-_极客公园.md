@@ -180,7 +180,7 @@ YOYO 助理全面升级为 YOYO 智能体，能精准理解用户需求、自主
 | Region          | 未知                               |
 | Date            | 2023-10-30                                 |
 | Tags            | 比亚迪, 特斯拉, MacBook Pro, M4, OpenAI, Meta, 微软, 理想汽车, 科技动态, 财务报告                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

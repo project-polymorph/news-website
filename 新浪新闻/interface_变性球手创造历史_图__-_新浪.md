@@ -41,7 +41,7 @@
 | Region          | 澳大利亚                               |
 | Date            | 2004-02-16                                 |
 | Tags            | 变性人, 高尔夫球, 运动员经历, 历史性时刻, 体育运动, 性别认同, 公平比赛                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

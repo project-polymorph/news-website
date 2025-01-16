@@ -54,7 +54,7 @@ Copyright ©2002 - 2020 bjyah.com 版权所有
 | Region          | 中国大陆                               |
 | Date            | 2015-04-24                                 |
 | Tags            | 医疗资源, 跨性别手术, 假两性畸形, 性别认同, 泌尿外科, 医院报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

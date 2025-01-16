@@ -138,7 +138,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2021-07-01                                 |
 | Tags            | 身体民俗, 性别民俗, 女性民俗, 民俗学, 文化研究, 社会认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

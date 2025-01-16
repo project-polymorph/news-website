@@ -59,7 +59,7 @@
 | Region          | 新加坡                               |
 | Date            | 2010-09-20                                 |
 | Tags            | 跨性别, 变性人, 生存故事, 选美赛, 社会关注, 女性荷尔蒙, 生命故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

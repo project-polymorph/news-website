@@ -107,7 +107,7 @@ Matheus Affonso
 | Region          | 国际                               |
 | Date            | 2020-07-14                                 |
 | Tags            | 跨性别, 矫正治疗, 人权, 性少数群体, 心理健康, 联合国                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

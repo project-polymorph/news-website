@@ -109,7 +109,7 @@ _![](https://n.sinaimg.cn/sinacn10201/360/w180h180/20191012/8158-ifvwfti7747406.
 | Region          | 中国大陆                               |
 | Date            | 2018-12-25                                 |
 | Tags            | 跨性别, 日本漫画, 性别观念, 流性别, 多元性别, 生命故事, 漫画分析                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -121,7 +121,7 @@
 | Region          | 韩国                               |
 | Date            | 2024-10-30                                 |
 | Tags            | 跨性别, 桥莉秀, 生活故事, 过渡经历, 婚姻, 法律政策, 情感关系, 社会现状, 娱乐圈                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

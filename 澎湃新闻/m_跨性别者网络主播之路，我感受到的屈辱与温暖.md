@@ -198,7 +198,7 @@
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 网络直播, 跨性别经历, 个人故事, 性别身份, 社会偏见, 内心挣扎, 爱与希望                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

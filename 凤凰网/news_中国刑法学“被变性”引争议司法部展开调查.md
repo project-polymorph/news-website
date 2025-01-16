@@ -90,7 +90,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2009-06-04                                 |
 | Tags            | 刑法学, 变性问题, 法律政策, 改革派与传统派, 司法部调查                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

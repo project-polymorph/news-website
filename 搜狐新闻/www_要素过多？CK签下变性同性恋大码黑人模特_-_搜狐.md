@@ -86,7 +86,7 @@ CK经常在其广告中表现出对边缘群体的支持。在过去的几年里
 | Region          | 美国                               |
 | Date            | 2020-06-28                                 |
 | Tags            | 跨性别模特, 杰瑞·琼斯, Calvin Klein, 黑人权利, LGBTQ, 同志骄傲活动, 变性人, 社会运动                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

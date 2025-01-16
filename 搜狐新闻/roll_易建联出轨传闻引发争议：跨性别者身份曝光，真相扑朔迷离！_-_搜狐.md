@@ -57,7 +57,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-10-19                                 |
 | Tags            | 跨性别, 易建联, 社会事件, 网络谣言, 公众人物, 身份争议                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -40,7 +40,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2007-03-27                                 |
 | Tags            | 变性, 跨性别, 直播, 广州大学生, 手术经验, 社会评论                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

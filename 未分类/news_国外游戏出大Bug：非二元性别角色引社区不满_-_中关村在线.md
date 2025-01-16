@@ -44,7 +44,7 @@ Slavicsek表示：“在游戏中，我们有大量的混合婚姻和同性恋�
 | Region          | 未知                               |
 | Date            | 2024-11-03                                 |
 | Tags            | 非二元性别, 游戏社区, 性别表现, 《上古卷轴Online》, 玩家反应, 政治正确                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

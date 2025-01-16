@@ -110,7 +110,7 @@ LoveMatters在中国的社交媒体拥有近一百万的粉丝受众，相信其
 | Region          | 荷兰                               |
 | Date            | 2022-11-24                                 |
 | Tags            | 跨性别, 性别认同, 自我表达, 摄影, 心理健康, 文化交流, 艺术                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

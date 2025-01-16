@@ -88,7 +88,7 @@ LGBTQ贫困合作组织的一份报告分析了有关粮食不安全、住房不
 | Region          | 美国                               |
 | Date            | 2019-07-09                                 |
 | Tags            | LGBTQ, 跨性别, 黑人女性, 社会歧视, 医疗保障, 工作场所, 经济差距, 暴力问题, 石墙运动, 政策分析                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

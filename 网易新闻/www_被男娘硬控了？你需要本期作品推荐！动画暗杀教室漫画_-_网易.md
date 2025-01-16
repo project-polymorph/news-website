@@ -162,7 +162,7 @@ Onimai是去年年初的作品，时间上可能有些久了，但作为高质�
 | Region          | 未知                               |
 | Date            | 2024-07-10                                 |
 | Tags            | 男娘, 跨性别, 动画推荐, 漫画, 性别认同, 社会文化, 次文化                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

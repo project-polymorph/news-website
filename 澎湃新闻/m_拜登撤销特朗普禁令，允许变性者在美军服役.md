@@ -33,7 +33,7 @@ _(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)_
 | Region          | 美国                               |
 | Date            | 2021-01-25                                 |
 | Tags            | 跨性别, 军事服务, 拜登, 特朗普, 行政命令, 性别认同, 美国军事政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

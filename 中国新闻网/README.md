@@ -2026,7 +2026,7 @@ search:
 
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./中国新闻网摘要词云图](abstracts_wordcloud.png)
 

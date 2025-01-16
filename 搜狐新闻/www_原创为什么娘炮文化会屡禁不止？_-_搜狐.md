@@ -56,7 +56,7 @@
 | Region          | 福建省                               |
 | Date            | 2023-04-18                                 |
 | Tags            | 娘炮文化, 性别角色, 社会价值观, 年轻人, 娱乐文化, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

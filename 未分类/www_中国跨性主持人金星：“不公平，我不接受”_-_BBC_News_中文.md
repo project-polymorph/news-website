@@ -150,7 +150,7 @@ Play video, "“我把专业做到顶尖 就是在替这个群体发声了”", 
 | Region          | 中国大陆                               |
 | Date            | 2018-01-25                                 |
 | Tags            | 跨性别, 金星, 媒体, 法律政策, 社会环境, 变性经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

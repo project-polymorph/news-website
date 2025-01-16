@@ -71,7 +71,7 @@
 | Region          | 未知                               |
 | Date            | 2012-08-01                                 |
 | Tags            | 跨性别, 变性手术, 性别认同, 身体转变, 流行文化, 布兰妮·斯皮尔斯, 性别焦虑症                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

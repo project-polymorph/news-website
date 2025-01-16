@@ -57,7 +57,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 | Region          | 未知                               |
 | Date            | 2024-08-02                                 |
 | Tags            | 跨性别, 体育, 性别争议, 国际拳击联合会, 特朗普, 卡玛拉·哈里斯                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -63,7 +63,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2004-09-26                                 |
 | Tags            | 变性婚姻, 法律问题, 婚姻关系, 社会环境, 跨性别权益, 医疗资源                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -137,7 +137,7 @@ photo credit：大學線
 | Region          | 香港                               |
 | Date            | 2018-02-09                                 |
 | Tags            | 变性手术, 袁维昌, 医疗资源, 生命故事, 跨性别, 性别重置手术, 香港, 社会关怀, 技术创新, 医学贡献, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

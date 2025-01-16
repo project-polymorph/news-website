@@ -39,7 +39,7 @@
 | Region          | 未知                               |
 | Date            | 2015-05-15                                 |
 | Tags            | 反对仇视同性恋与变性者国际日, 自由与平等, 性别平等, 联合国, 人权, LGBTQ+权益                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

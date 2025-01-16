@@ -96,7 +96,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2002-05-31                                 |
 | Tags            | 变性医学, 男妈妈工程, 陈焕然, 医疗研究, 生育, 跨性别, 伦理问题, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

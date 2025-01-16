@@ -89,7 +89,7 @@
 | Region          | 香港                               |
 | Date            | 2022-10-21                                 |
 | Tags            | 跨性别, 个人故事, 变性经历, 性别认同, 心理健康, 法律与社会, 女性权益, Castle购置                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -94,7 +94,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2012-06-13                                 |
 | Tags            | 跨性别, 变性, 生命故事, 社会接受, 法律政策, 文化艺术                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

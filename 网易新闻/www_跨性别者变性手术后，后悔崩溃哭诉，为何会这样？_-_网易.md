@@ -196,7 +196,7 @@ DSM-5认为，个体不认同自己的性别，这不是疾病；只有个体因
 | Region          | 中国大陆                               |
 | Date            | 2022-04-14                                 |
 | Tags            | 跨性别, 变性手术, 心理创伤, 性别认同, LGBTQ+, 医疗资源, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

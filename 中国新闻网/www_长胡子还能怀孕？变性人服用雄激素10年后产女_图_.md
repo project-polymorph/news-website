@@ -41,7 +41,7 @@ _资料图片：科尔曼和女儿。_
 | Region          | 美国                               |
 | Date            | 2015-11-15                                 |
 | Tags            | 跨性别, 变性人, 怀孕, 家庭故事, 社会接受, 雄性激素, 医疗经验                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -42,7 +42,7 @@ ___
 | Region          | 未知                               |
 | Date            | 2024-07-25                                 |
 | Tags            | 跨性别, 游戏开发, 职场文化, 社会讨论, 非二元性别, 多样性尊重, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

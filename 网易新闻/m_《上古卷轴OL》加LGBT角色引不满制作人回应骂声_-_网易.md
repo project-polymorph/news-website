@@ -47,7 +47,7 @@ Slavicsek 强调，“让坦洛林成为非二元性别感觉是正确的”。�
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, LGBT, 游戏, 角色设定, 社会反响                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

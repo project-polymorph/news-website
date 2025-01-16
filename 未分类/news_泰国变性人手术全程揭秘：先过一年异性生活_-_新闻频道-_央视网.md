@@ -61,7 +61,7 @@
 | Region          | 未知                               |
 | Date            | 2012-03-13                                 |
 | Tags            | 变性手术, 泰国, 跨性别, 医疗旅游, 荷尔蒙, 患者故事, Yanhee医院, 法律政策, 心理咨询                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

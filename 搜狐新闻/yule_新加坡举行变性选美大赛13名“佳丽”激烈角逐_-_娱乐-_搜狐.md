@@ -39,7 +39,7 @@
 | Region          | 新加坡                               |
 | Date            | 2004-11-28                                 |
 | Tags            | 变性选美, 跨性别, 社会意识, 新加坡, 耶西·罗杰斯, 选美比赛, 人妖皇后                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

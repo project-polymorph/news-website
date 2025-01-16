@@ -97,7 +97,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2023-04-04                                 |
 | Tags            | 人妖, 变性, 性别认同, 文化差异, 泰国, 社会包容性                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

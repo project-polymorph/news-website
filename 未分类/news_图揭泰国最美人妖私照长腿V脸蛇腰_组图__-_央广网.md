@@ -58,7 +58,7 @@
 | Region          | 台湾                               |
 | Date            | 2015-08-08                                 |
 | Tags            | 人妖, 泰国人妖, 变性手术, 跨性别文化, 社会环境, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

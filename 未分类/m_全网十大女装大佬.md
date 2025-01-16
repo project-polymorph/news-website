@@ -150,7 +150,7 @@ CC酱人称小“杨幂”，也是一个女装大佬，早在B站时期就凭�
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 女装大佬, 男扮女装, 网络文化, 社交媒体名人, 男性, 中国                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

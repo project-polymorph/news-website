@@ -50,7 +50,7 @@ CD变装的男性，其实很多时候，只是一种满足自我的玩法，多
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | CD变装, 异装癖, 伪娘, 变装教程, 化妆技巧, 跨性别文化                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -205,7 +205,7 @@ Claire经历了心理医生、精神科医生、多种运动课程、考虑切�
 | Region          | 中国大陆                               |
 | Date            | 2021-05-12                                 |
 | Tags            | 变性, 跨性别, 儿童变性, LGBTQ, 社会讨论, 医疗政策, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

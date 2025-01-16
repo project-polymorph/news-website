@@ -160,7 +160,7 @@ Williams, E. R. (2022). Gender Identity and Social Change: The Impact of "The Da
 | Region          | 中国大陆                               |
 | Date            | 2023-07-01                                 |
 | Tags            | 电影, 性别认同, 自我接纳, 丹麦女孩, 跨性别, 真实故事, 社会影响, 艺术表现                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

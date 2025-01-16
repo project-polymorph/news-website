@@ -70,7 +70,7 @@
 | Region          | 未知                               |
 | Date            | 2021-06-21                                 |
 | Tags            | 体育, 跨性别人士, 社会, 性别平等, 政策研究                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

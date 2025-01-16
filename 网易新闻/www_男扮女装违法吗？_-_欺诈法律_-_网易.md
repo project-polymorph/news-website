@@ -43,7 +43,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 辽宁                               |
 | Date            | 2023-05-14                                 |
 | Tags            | 跨性别, 法律, 男扮女装, 穿着自由, 社会环境, 公共场所, 工作场合, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

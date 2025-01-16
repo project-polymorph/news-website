@@ -89,7 +89,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2002-03-19                                 |
 | Tags            | 跨性别, 变性手术, 陈煥然, 性别重塑, 易性癖患者, 社会理解, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

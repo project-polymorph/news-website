@@ -66,7 +66,7 @@
 | Region          | 东亚                               |
 | Date            | 2024-01-02                                 |
 | Tags            | 伪娘文化, 娱乐圈, 文化影响, 社会变迁, 东亚, 美国, 日韩, 中国                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

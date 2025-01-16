@@ -81,7 +81,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2018-03-23                                 |
 | Tags            | 性别认同, 儿童心理, 父母教育, 性别角色, 育儿建议                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -50,7 +50,7 @@ _![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 | Region          | 泰国                               |
 | Date            | 2009-09-14                                 |
 | Tags            | 变性手术, 法律政策, 泰国, 跨性别权利, 医疗资源                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

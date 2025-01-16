@@ -87,7 +87,7 @@ KCM Trade驻悉尼首席市场分析师Tim Waterer表示，“日元整个10月�
 | Region          | 日本                               |
 | Date            | 2024-10-28                                 |
 | Tags            | 日本, 选举, 金融市场, 日元贬值, 股市风险, 政治不确定性                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -293,7 +293,7 @@ World Photography Organization
 | Region          | 中国大陆                               |
 | Date            | 2021-01-01                                 |
 | Tags            | 艺术展览, 年度艺术家, 文化回顾, 影像艺术博览会, 社会运动, 新冠疫情影响, 书籍推荐                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

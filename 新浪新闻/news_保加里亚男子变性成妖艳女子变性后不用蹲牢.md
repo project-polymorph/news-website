@@ -51,7 +51,7 @@
 | Region          | 保加利亚                               |
 | Date            | 2022-12-08                                 |
 | Tags            | 变性, 法律政策, 盗窃案, 个人身份, 性别认同, 保加利亚, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

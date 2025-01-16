@@ -84,7 +84,7 @@
 | Region          | 未知                               |
 | Date            | 2018-07-27                                 |
 | Tags            | 女装大佬, 跨性别, 变装文化, 艺术表达, 性别流动性                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

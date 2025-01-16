@@ -86,7 +86,7 @@
 | Region          | 美国                               |
 | Date            | 2023-04-21                                 |
 | Tags            | 华盛顿州, 性别确认治疗, 跨性别权益, 法律政策, SB5599法案, 医疗保障, 未成年人                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

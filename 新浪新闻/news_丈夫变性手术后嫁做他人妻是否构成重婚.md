@@ -59,7 +59,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2004-11-12                                 |
 | Tags            | 变性手术, 重婚罪, 法律政策, 性别认同, 婚姻法, 社会环境记录                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

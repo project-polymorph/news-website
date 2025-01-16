@@ -35,7 +35,7 @@ _2017-11-23 08:24:52_  _来源：新浪娱乐_
 | Region          | 未知                               |
 | Date            | 2017-11-23                                 |
 | Tags            | 跨性别, 整容经历, 生命故事, 爱情故事, 社会接受度                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

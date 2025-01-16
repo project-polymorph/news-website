@@ -80,7 +80,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2007-04-26                                 |
 | Tags            | 变性手术, 立法, 性别认同, 医疗资源, 社会支持, 心理准备, 易性癖, 患者经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

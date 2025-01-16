@@ -73,7 +73,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2001-03-30                                 |
 | Tags            | 金庸, 小说分析, 人物塑造, 文化批评, 社会影响, 跨性别文化                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

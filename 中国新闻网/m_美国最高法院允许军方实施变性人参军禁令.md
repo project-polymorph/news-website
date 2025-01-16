@@ -50,7 +50,7 @@
 | Region          | 美国                               |
 | Date            | 2019-01-23                                 |
 | Tags            | 变性人参军禁令, 跨性别权利, 美国最高法院, 特朗普政府, 性别焦虑障碍, 军事政策, 法律动态, 社会舆论                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

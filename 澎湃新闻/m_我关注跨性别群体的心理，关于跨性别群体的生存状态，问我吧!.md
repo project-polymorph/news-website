@@ -231,7 +231,7 @@ TS里面是不是男性居多？文中的主人公似乎都是男性，为什么
 | Region          | 中国大陆                               |
 | Date            | 2015-12-23                                 |
 | Tags            | 跨性别, 心理健康, 社会环境, 医疗心理, 性别认同, 家庭支持                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

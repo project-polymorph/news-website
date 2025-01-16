@@ -80,7 +80,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2006-07-06                                 |
 | Tags            | 医学, 跨性别, 阴茎再造, 陈焕然, 生育能力, 医疗伦理, 医疗技术, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

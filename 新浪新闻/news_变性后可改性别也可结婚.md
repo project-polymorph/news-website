@@ -56,7 +56,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2004-03-31                                 |
 | Tags            | 变性人, 婚姻法, 性别认同, 法律政策, 社会权利, 身份变更                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

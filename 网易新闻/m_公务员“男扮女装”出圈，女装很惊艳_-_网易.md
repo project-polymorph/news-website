@@ -132,7 +132,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-09-30                                 |
 | Tags            | 跨性别, 变装经历, 个体故事, 社会认同, 家庭关系, 心理描写                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

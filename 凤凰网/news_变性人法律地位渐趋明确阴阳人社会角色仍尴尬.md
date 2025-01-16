@@ -54,7 +54,7 @@ GID和间性一样，都是因基因或荷尔蒙异常，而未能在生理和�
 | Region          | 中国大陆                               |
 | Date            | 2009-11-24                                 |
 | Tags            | 变性人, 法律地位, 阴阳人, 性别认同, 性别障碍, 医疗规范, 社会角色, 人权, 性别平等                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -91,7 +91,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2018-01-03                                 |
 | Tags            | 性少数群体, 生存状况, 调查报告, 法律政策, 社会环境, 家庭歧视, 跨性别, 数据统计                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

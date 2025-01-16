@@ -127,7 +127,7 @@ Thep Vechavisit医生和他的手术室合影
 | Region          | 泰国                               |
 | Date            | 2016-12-08                                 |
 | Tags            | 人妖, 跨性别, 泰国, 性产业, 佛教, 社会歧视, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

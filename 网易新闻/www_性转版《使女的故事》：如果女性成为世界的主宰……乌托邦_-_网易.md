@@ -90,7 +90,7 @@
 | Region          | 未知                               |
 | Date            | 2021-05-07                                 |
 | Tags            | 跨性别, 女性主义, 科幻小说, 社会问题, 性别权力, 反乌托邦, 女性解放, 娜奥米·阿尔德曼                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

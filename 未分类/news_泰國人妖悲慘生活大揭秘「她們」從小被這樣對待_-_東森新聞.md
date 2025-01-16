@@ -36,7 +36,7 @@
 | Region          | 泰国                               |
 | Date            | 2016-10-16                                 |
 | Tags            | 人妖, 泰国, 性别认同, 社会问题, 悲惨生活                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

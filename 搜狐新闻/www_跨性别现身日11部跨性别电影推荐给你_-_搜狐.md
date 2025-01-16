@@ -257,7 +257,7 @@
 | Region          | 未知                               |
 | Date            | 2019-04-04                                 |
 | Tags            | 跨性别电影, 跨性别现身日, 电影推荐, 跨性别故事, 性别认同, 社会问题, 电影分析                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -110,7 +110,7 @@ _视频状态查询 复制调试信息 查看log信息 意见反馈 H5player:10.
 | Region          | 广东                               |
 | Date            | 2022-08-22                                 |
 | Tags            | 性转动漫, 三国演义, 女权主义, 网络文化, 角色分析, 动漫评论                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

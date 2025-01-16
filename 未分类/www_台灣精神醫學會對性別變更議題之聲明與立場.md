@@ -40,7 +40,7 @@
 | Region          | 台湾                               |
 | Date            | 2014-01-17                                 |
 | Tags            | 性别变更, 跨性别权利, 精神医学, 性别自主权, 性别平等教育, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

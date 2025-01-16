@@ -52,7 +52,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2007-04-17                                 |
 | Tags            | 变性人, 高婷婷, 法律, 跨性别, 公务妨碍罪, 社会偏见, 名誉权, 精神赔偿, 跨性别经历, 媒体报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

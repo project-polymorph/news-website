@@ -60,7 +60,7 @@ Wu Tsang的艺术创作涉及性别、性取向、种族和阶级，其主题涵
 | Region          | 美国                               |
 | Date            | 2012-07-19                                 |
 | Tags            | 跨性别, 华裔艺术家, Wu Tsang, 性别研究, LGBT文化, 艺术与政治, 社会正义                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

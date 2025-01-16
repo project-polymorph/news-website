@@ -34,7 +34,7 @@
 | Region          | 未知                               |
 | Date            | 2009-11-02                                 |
 | Tags            | 变性人选美, 日本, 春菜爱, 泰国, 跨性别, 国际赛事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

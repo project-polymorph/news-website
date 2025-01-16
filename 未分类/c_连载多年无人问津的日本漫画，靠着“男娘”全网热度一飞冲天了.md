@@ -229,7 +229,7 @@ CloverWorks 早几年也曾被戏称为原作粉碎机。它曾大幅改编了�
 | Region          | 中国大陆                               |
 | Date            | 2024-07-20                                 |
 | Tags            | 男娘, 日本漫画, 松井优征, 伪娘, 跳跃青年                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

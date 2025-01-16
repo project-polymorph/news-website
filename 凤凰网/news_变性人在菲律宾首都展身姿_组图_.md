@@ -44,7 +44,7 @@
 | Region          | 菲律宾                               |
 | Date            | 2008-10-19                                 |
 | Tags            | 变性人, 泳装秀, 菲律宾首都, 自我表达, 性别多样性                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

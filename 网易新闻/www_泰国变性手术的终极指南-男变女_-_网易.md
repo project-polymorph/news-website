@@ -136,7 +136,7 @@
 | Region          | 泰国                               |
 | Date            | 2022-10-07                                 |
 | Tags            | 跨性别手术, 变性手术, 医疗资源, 泰国医疗, 性别认同, 手术准备, 心理健康                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

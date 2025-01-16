@@ -54,7 +54,7 @@
 | Region          | 台湾                               |
 | Date            | 2008-06-23                                 |
 | Tags            | 跨性别, 婚姻, 社会事件, 航空, 媒体报道, 个人经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

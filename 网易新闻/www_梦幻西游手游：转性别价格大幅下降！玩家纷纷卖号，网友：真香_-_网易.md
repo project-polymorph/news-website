@@ -46,7 +46,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 中国大陆                               |
 | Date            | 2020-04-24                                 |
 | Tags            | 梦幻西游, 转性别, 玩家体验, 游戏更新, 跨性别功能                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -42,7 +42,7 @@
 | Region          | 日本                               |
 | Date            | 2016-04-07                                 |
 | Tags            | 伪娘, 变性人, 娱乐圈, 变性美女, 生存现状, 河莉秀, 女装                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

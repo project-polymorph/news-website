@@ -106,7 +106,7 @@ Issa对自己男儿身不太满意，**他发现自己不喜欢被当成男性�
 | Region          | 美国                               |
 | Date            | 2023-09-15                                 |
 | Tags            | 跨性别, 变性, 性别认同, 生命故事, 医疗经历, 社会现象, 反思, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

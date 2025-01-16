@@ -275,7 +275,7 @@ Andler(Andler, 2017)认为规范相关解释是“顺性别规范性的”，因
 | Region          | 未知                               |
 | Date            | 2018-09-01                                 |
 | Tags            | 性别认同, 跨性别, 性别研究, 社会规范, 跨性别权利, 哲学讨论, 医疗保健, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -56,7 +56,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2016-01-21                                 |
 | Tags            | 雌性激素, 男变女, 营养师, 药物影响, 食品安全, 李先生案例, 健康饮食, 环境激素                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

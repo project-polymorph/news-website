@@ -56,7 +56,7 @@
 | Region          | 台湾                               |
 | Date            | 2017-09-19                                 |
 | Tags            | 变性人, 卖淫, 调查, 台湾警方, 社会问题, 性别, 法律, 卖淫窝点, 应召站                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

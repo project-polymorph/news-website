@@ -64,7 +64,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-10-29                                 |
 | Tags            | 游戏新闻, 性别议题, 文化评论, 市场观察, 玩家吐槽                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

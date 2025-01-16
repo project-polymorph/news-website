@@ -44,7 +44,7 @@
 | Region          | 台湾                               |
 | Date            | 2024-08-23                                 |
 | Tags            | 多元性别, 心理健康, LGBTI群体, 会议交流, 药物成瘾, 跨性别者, 社会服务, 教育培训                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -44,7 +44,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2015-09-26                                 |
 | Tags            | 刘婷, 联合国小姐, 变性人, 选美比赛, 社会环境, 个人故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

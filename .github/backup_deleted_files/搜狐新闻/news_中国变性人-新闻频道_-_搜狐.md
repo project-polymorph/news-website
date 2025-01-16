@@ -86,7 +86,7 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 [版权所有]
 | Region          | 中国大陆                               |
 | Date            | 2004-11-17                                 |
 | Tags            | 变性人, 跨性别, 社会新闻, 生命故事, 法律政策, 婚姻生活, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

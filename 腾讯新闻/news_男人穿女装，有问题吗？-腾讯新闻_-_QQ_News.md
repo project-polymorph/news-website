@@ -107,7 +107,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2022-09-25                                 |
 | Tags            | 跨性别, 时尚, 性别流动, 多元气质, 有毒男子气概, 男性穿女装                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

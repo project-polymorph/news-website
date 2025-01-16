@@ -59,7 +59,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-10-13                                 |
 | Tags            | 跨性别, 网络红人, 社会冲突, 地域歧视, 性别认同, 性别平等                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

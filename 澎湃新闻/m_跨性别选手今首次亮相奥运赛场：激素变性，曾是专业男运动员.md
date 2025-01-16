@@ -42,7 +42,7 @@
 | Region          | 新西兰                               |
 | Date            | 2021-08-02                                 |
 | Tags            | 跨性别运动员, 东京奥运会, 劳蕾尔·哈伯德, 运动公平性, 人权, 生命伦理, 女性运动员                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

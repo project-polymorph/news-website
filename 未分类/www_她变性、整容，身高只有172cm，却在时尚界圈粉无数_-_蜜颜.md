@@ -162,7 +162,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2016-12-13                                 |
 | Tags            | 跨性别, 成长故事, 时尚界, 汪欣蕾, 变性经历, 社会认同, 勇气与希望                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

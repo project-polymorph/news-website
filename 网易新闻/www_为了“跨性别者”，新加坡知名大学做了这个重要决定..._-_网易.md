@@ -60,7 +60,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 | Region          | 新加坡                               |
 | Date            | 2022-12-18                                 |
 | Tags            | 跨性别, LGBT, 性别平等, 南洋理工大学, 新加坡社会, 377A条例                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

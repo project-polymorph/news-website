@@ -52,7 +52,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2009-02-25                                 |
 | Tags            | 双性人, 变性手术, 医疗经验, 社会环境, 王霞                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

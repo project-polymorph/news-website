@@ -41,7 +41,7 @@
 | Region          | 福建省                               |
 | Date            | 2003-12-05                                 |
 | Tags            | 变性手术, 基因突变, 男性假两性畸形, 儿童医疗, 环境影响, 跨性别                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

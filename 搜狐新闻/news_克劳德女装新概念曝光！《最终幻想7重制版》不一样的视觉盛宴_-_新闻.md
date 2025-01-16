@@ -62,7 +62,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-10-27                                 |
 | Tags            | 跨性别, 游戏设计, 性别表达, 角色塑造, 文化讨论, 最终幻想7, 克劳德, 女装概念, 性别流动性                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

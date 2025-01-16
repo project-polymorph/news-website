@@ -54,7 +54,7 @@ Blair Partnership表示：“作为一家文学经纪公司，我们重视所有
 | Region          | 中国大陆                               |
 | Date            | 2020-06-25                                 |
 | Tags            | 跨性别权利, J·K·罗琳, 作家解约, 言论自由, 出版业, 社会责任                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

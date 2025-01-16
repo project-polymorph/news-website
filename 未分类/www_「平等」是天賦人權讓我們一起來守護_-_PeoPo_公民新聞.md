@@ -136,7 +136,7 @@
 | Region          | 台湾                               |
 | Date            | 2024-10-31                                 |
 | Tags            | 性别平等, 同志游行, 性别友善厕所, 社会关怀, 教育学习, 媒体观察                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

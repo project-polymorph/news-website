@@ -51,7 +51,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2014-08-08                                 |
 | Tags            | 双性人, 生命故事, 社会环境, 心理状态, 过渡经历, 媒体报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

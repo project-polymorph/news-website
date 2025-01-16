@@ -163,7 +163,7 @@ p.s. 受吴幼坚老师的启发，我把这首诗翻成了中文，希望Cassie
 | Region          | 未知                               |
 | Date            | 2019-07-17                                 |
 | Tags            | 跨性别, 悼念, 生命故事, 社会环境, 吴幼坚, 法律政策, 情感, 探戈                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

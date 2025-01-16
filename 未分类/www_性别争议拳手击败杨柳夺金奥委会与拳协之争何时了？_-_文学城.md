@@ -106,7 +106,7 @@
 | Region          | 未知                               |
 | Date            | 2024-08-10                                 |
 | Tags            | 跨性别运动员, 巴黎奥运会, 性别争议, 体育公平, 法律与政策, 国际奥委会, 社会环境, 运动员故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

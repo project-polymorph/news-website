@@ -70,7 +70,7 @@ Copyright © 2024 All Rights Reserved. 请仔细阅读 [搜狐视频隐私政策
 | Region          | 泰国                               |
 | Date            | 2021-09-17                                 |
 | Tags            | 跨性别, 人妖, 生活故事, 社会问题, 医疗资源, 心理支持                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

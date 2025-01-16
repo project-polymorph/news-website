@@ -80,7 +80,7 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 | Region          | 中国大陆                               |
 | Date            | 2016-10-25                                 |
 | Tags            | 变装活动, 跨性别, 二沙岛, 社交聚会, 广州, 生命故事与经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

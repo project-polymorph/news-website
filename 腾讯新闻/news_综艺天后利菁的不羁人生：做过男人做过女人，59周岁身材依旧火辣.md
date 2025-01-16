@@ -75,7 +75,7 @@
 | Region          | 台湾                               |
 | Date            | 2022-03-16                                 |
 | Tags            | 跨性别, 双性人, 利菁, 综艺节目, 变性经历, 社会接纳, 生命故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

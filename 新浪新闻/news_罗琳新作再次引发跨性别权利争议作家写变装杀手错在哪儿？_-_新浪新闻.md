@@ -90,7 +90,7 @@ J.K·罗琳又一次遭到了跨性别权利活动人士的抨击，这次是因
 | Region          | 未知                               |
 | Date            | 2020-09-16                                 |
 | Tags            | 跨性别, 性别身份, 罗琳, 小说争议, 社会评论                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

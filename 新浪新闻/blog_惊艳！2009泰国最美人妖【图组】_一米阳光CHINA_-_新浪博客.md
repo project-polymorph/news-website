@@ -44,7 +44,7 @@ _内容来自新浪博客，版权所有_。
 | Region          | 泰国                               |
 | Date            | 2009-未知                                 |
 | Tags            | 跨性别, 选美比赛, 人妖文化, 泰国, 社会事件, 美丽                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

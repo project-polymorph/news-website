@@ -93,7 +93,7 @@
 | Region          | 美国                               |
 | Date            | 2018-10-25                                 |
 | Tags            | 特朗普政府, 跨性别, 性别定义, LGBT, 社会运动, 法律政策, 抗议活动                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

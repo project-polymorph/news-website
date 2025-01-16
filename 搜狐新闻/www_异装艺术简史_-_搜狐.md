@@ -71,7 +71,7 @@ Chez Deep团体
 | Region          | 中国大陆                               |
 | Date            | 2017-06-06                                 |
 | Tags            | 异装艺术, 跨性别, 文化研究, 当代艺术, 性别表现, 艺术历史                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

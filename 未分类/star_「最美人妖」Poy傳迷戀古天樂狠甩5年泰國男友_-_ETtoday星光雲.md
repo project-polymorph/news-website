@@ -58,7 +58,7 @@
 | Region          | 未知                               |
 | Date            | 2013-12-01                                 |
 | Tags            | 古天乐, 泰国变性人, Poy, 爱情故事, 媒体报道, 跨性别生活, 恋爱关系                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

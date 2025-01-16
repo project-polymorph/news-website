@@ -41,7 +41,7 @@ Margaret称在婚姻生活中自己一直在试图掩饰自己对男性身体的
 | Region          | 未知                               |
 | Date            | 2016-05-15                                 |
 | Tags            | 跨性别, 生命故事, 变性手术, 法律政策, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

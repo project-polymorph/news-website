@@ -65,7 +65,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2023-08-08                                 |
 | Tags            | 异装癖, 动物行为, 性别表现, 生存策略, 马岛獴, 白颈蜂鸟, 豆娘, 流苏鹬, 扁身环尾蜥                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -215,7 +215,7 @@ Justine的特别还体现在与C先生的前任不一样，她大方地接受拍
 | Region          | 中国大陆                               |
 | Date            | 2017-08-19                                 |
 | Tags            | 跨性别, 就业歧视, 法律案例, 社会认同, 个人故事, 性别问题                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

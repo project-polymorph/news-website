@@ -2818,7 +2818,7 @@ search:
 
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./凤凰网摘要词云图](abstracts_wordcloud.png)
 

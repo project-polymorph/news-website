@@ -180,7 +180,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2015-09-23                                 |
 | Tags            | 变性, 选美, 道德模范, 生活故事, 医疗经历, 社会环境, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

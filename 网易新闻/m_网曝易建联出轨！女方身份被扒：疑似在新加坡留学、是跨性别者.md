@@ -197,7 +197,7 @@ US17天猫旗舰店客服回应称:“没有收到通知，如果有最新消息
 | Region          | 中国大陆                               |
 | Date            | 2024-10-17                                 |
 | Tags            | 易建联, 跨性别者, 绯闻, 社交媒体, 新加坡国立大学, 法律政策与社会环境记录                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

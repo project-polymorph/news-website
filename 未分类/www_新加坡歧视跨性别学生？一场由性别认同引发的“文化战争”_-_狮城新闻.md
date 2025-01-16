@@ -89,7 +89,7 @@ LGBTQ+，其实是一系列单词的首字母缩写，全部写出来应该是�
 | Region          | 新加坡                               |
 | Date            | 2021-02-03                                 |
 | Tags            | 跨性别教育, 性别认同, LGBTQ+, 荷尔蒙替代疗法, 新加坡, 社会影响, 法律政策, 请愿活动                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -89,7 +89,7 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. [搜狐公司](https://corp
 | Region          | 泰国                               |
 | Date            | 2012-07-20                                 |
 | Tags            | 人妖, 泰国, 选美, 跨性别, 社会文化                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

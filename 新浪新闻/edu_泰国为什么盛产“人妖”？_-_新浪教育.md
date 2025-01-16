@@ -155,7 +155,7 @@ Ladyboy的大批产生正是在此时，一方面美国大兵对泰国这种异�
 | Region          | 泰国                               |
 | Date            | 2016-04-25                                 |
 | Tags            | 跨性别, 人妖文化, 泰国, 性别认同, 性产业, 佛教影响, 社会态度                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

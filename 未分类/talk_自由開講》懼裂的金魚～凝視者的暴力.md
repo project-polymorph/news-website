@@ -62,7 +62,7 @@
 | Region          | 台湾                               |
 | Date            | 2024-10-28                                 |
 | Tags            | 跨性别, 父权社会, 女性体验, 生存权利, 动物保护, 艺术批评, 社会现实, 电影分析                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

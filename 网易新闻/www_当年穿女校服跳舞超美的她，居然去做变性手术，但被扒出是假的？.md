@@ -133,7 +133,7 @@ ps.羊在论坛里看到了有陪闺蜜手术+申请变更性别的网友，申�
 | Region          | 中国大陆                               |
 | Date            | 2021-04-02                                 |
 | Tags            | 变性手术, 跨性别, 性别认知, 艾比, 网络红人, 社会争议, 心理健康, 成长故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -92,7 +92,7 @@
 | Region          | 美国                               |
 | Date            | 2014-05-23                                 |
 | Tags            | 性别, 美国, 跨性别, 社会政策, 自我认同, 文化变迁                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -51,7 +51,7 @@
 | Region          | 香港                               |
 | Date            | 2024-04-04                                 |
 | Tags            | 跨性别, 身份识别, 法律政策, 性别认同, 医疗与手术要求                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

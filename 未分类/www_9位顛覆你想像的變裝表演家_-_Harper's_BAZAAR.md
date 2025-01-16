@@ -167,7 +167,7 @@ Leigh Bowery（中）充滿創意的 Club Kid 打扮，直到今日還是許多�
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 变装表演, 跨性别文化, Drag Queen, 表演艺术, 历史, Violet Chachki, Divine, 社会影响                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

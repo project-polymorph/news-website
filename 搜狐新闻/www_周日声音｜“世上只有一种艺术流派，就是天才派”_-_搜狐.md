@@ -61,7 +61,7 @@
 | Region          | 未知                               |
 | Date            | 2018-07-01                                 |
 | Tags            | 跨性别, 作家, 艺术, 文学, 生命故事, 凯伦·布里克森, 弗拉基米尔·纳博科夫, 戈尔·维达尔, 社会环境, 文化研究                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

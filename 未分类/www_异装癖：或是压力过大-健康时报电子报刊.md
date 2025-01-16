@@ -42,7 +42,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2011-07-18                                 |
 | Tags            | 异装癖, 心理健康, 性别身份, 情绪调节, 男性, 心理治疗, 社会现象                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

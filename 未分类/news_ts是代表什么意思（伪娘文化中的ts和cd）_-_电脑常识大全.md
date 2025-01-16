@@ -63,7 +63,7 @@ Cd在英语中的完整拼写是Cross dresser。同理，ts也是英文单词的
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 伪娘文化, 跨性别, ts, cd, 变装, 性别认同, 二次元文化                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

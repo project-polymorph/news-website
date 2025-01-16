@@ -83,7 +83,7 @@ Mimi Tao重返泰国，她的模特生涯走向了巅峰，也开始被大众接
 | Region          | 泰国                               |
 | Date            | 2017-12-14                                 |
 | Tags            | 跨性别, 变性, 泰国模特, 自我认同, 生命故事, Mimi Tao, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

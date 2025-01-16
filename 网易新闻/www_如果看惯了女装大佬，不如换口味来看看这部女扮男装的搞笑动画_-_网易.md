@@ -97,7 +97,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2018-07-06                                 |
 | Tags            | 女扮男装, 搞笑动画, 校园恋爱, 性别表现, 次文化, 轻小说改编                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

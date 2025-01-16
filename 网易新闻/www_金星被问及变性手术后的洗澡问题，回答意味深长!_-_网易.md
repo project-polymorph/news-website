@@ -71,7 +71,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2023-08-03                                 |
 | Tags            | 变性人, 金星, 人生经历, 媒体采访, 自我认同, 心理健康, 社会接受                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

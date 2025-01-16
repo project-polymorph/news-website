@@ -36,7 +36,7 @@
 | Region          | 未知                               |
 | Date            | 2024-11-01                                 |
 | Tags            | 定向越野, 东南亚巡回赛, 中华队, 比赛, 新加坡, 国际赛事, 体育新闻                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

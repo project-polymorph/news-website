@@ -235,7 +235,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2020-10-30                                 |
 | Tags            | 酷儿理论, 跨性别研究, 情感理论, 身份认同, 性别交织性, 社会运动, 文化批评, 性别政治                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

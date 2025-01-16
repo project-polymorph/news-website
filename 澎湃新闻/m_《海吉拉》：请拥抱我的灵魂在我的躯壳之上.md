@@ -61,7 +61,7 @@
 | Region          | 台湾                               |
 | Date            | 未知                                 |
 | Tags            | 海吉拉, 跨性别, 双性人, 性别认同, 社会文化, 电影评论, 蔡宓洁, 女权主义, 性别理论                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

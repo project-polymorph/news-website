@@ -85,7 +85,7 @@ Poy被赞为“最美人妖皇后”之后，手术的细节照片在网络上�
 | Region          | 未知                               |
 | Date            | 2014-04-09                                 |
 | Tags            | 性别规范, 变性美女, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

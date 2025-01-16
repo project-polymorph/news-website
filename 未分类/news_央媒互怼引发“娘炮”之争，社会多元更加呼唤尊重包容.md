@@ -55,7 +55,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2018-09-07                                 |
 | Tags            | 娘炮, 性别多元, 社会评论, 媒体论争, 男性气质, 包容与尊重                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -49,7 +49,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-09-05                                 |
 | Tags            | 跨性别男性, 免疫反应, 性别肯定激素治疗, 健康研究, 科学报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

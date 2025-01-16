@@ -57,7 +57,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2023-11-13                                 |
 | Tags            | 娘炮文化, 青少年, 文化安全, 社会安全, 国家安全, 娱乐圈, 价值观                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

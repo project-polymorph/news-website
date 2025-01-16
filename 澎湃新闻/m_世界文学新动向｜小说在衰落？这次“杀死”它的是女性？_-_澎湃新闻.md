@@ -130,7 +130,7 @@ LGBT文学可以追溯到古典时代。在二十世纪，E·M·福斯特、弗�
 | Region          | 中国大陆                               |
 | Date            | 2023-07-13                                 |
 | Tags            | 文学评论, 女性作家, 小说衰退, LGBT文学, 社会政治, 跨性别议题, 反种族主义                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

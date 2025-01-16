@@ -84,7 +84,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-05-07                                 |
 | Tags            | 跨性别, 医疗资源, 整形医院, 人妖隆胸, 手术服务, 患者体验, 医院设施, 专家团队                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

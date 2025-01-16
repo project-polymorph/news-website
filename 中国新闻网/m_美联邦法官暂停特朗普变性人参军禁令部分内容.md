@@ -70,7 +70,7 @@ _资料图：美国总统特朗普。 中新社记者 廖攀 摄_
 | Region          | 美国                               |
 | Date            | 2017-10-31                                 |
 | Tags            | 变性人, 特朗普, 军队政策, 法律挑战, 医疗资源, 社会环境记录                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -57,7 +57,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2007-04-07                                 |
 | Tags            | 变性手术, 跨性别, 聋哑人, 成都中山医院, 生命故事, 社会接受, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

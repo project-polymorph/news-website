@@ -42,7 +42,7 @@
 | Region          | 泰国                               |
 | Date            | 2005-05-07                                 |
 | Tags            | 人妖选美, 跨性别文化, 泰国人妖, 选美大赛, 社会活动                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

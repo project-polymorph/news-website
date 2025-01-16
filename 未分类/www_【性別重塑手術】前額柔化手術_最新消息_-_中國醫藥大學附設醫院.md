@@ -71,7 +71,7 @@
 | Region          | 台湾                               |
 | Date            | 2020-11-25                                 |
 | Tags            | 前额柔化手术, 性别重塑手术, 医疗资源, 跨性别女性, 面部美学, 整形外科, 手术过程, 并发症                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

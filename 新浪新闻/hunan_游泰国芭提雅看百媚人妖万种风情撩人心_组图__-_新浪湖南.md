@@ -54,7 +54,7 @@ ALCAZAR每晚的演出是晚6：30、8：00和9：30，蒂芬妮的演出是晚 
 | Region          | 泰国                               |
 | Date            | 2012-10-16                                 |
 | Tags            | 跨性别, 人妖, 泰国旅游, 生活经历, 表演艺术, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

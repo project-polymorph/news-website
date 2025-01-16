@@ -185,7 +185,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2023-07-08                                 |
 | Tags            | 跨性别, 药娘, 社会问题, 性别认同, 生存状况, 援交交易, 性别医疗, 性少数群体, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

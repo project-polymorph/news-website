@@ -35,7 +35,7 @@
 | Region          | 菲律宾                               |
 | Date            | 2008-10-07                                 |
 | Tags            | 性感, 变性, 选美比赛, 跨性别, 社会接纳                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

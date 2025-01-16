@@ -69,7 +69,7 @@ Reena友人Jonathan拿著「廢除377A」的標語受訪時說，不僅是LGBT�
 | Region          | 新加坡                               |
 | Date            | 2022-06-18                                 |
 | Tags            | LGBT, 新加坡, 平权, 粉红点, 法案377A, 跨性别                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

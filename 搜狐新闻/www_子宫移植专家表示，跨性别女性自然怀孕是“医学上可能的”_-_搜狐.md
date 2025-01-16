@@ -160,7 +160,7 @@ UAB的子宫移植计划是美国仅有的四个进行子宫移植的项目之�
 | Region          | 中国大陆市                               |
 | Date            | 2023-08-22                                 |
 | Tags            | 子宫移植, 跨性别女性, 自然怀孕, 医学可能性, 医疗资源, 生育权, 法律政策, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

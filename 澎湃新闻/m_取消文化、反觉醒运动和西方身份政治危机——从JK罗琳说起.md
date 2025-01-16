@@ -142,7 +142,7 @@ Vox援引作家William Melvin Kelley的话表示，自奴隶制时代，黑人�
 | Region          | 中国大陆                               |
 | Date            | 2020-12-03                                 |
 | Tags            | 跨性别, 文化战争, 取消文化, 觉醒运动, JK·罗琳, 性别身份, 社会正义, 政策与法律, 舆论压力, 公共讨论                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

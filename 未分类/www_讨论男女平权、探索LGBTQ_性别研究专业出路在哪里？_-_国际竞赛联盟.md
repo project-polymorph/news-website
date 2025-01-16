@@ -267,7 +267,7 @@ Gender Studies, Social Science Research 项目是芬兰坦佩雷大学社会科�
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 性别研究, LGBTQ, 男女平权, 跨性别研究, 女权主义, 社会科学, 职业发展, 跨学科教育                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

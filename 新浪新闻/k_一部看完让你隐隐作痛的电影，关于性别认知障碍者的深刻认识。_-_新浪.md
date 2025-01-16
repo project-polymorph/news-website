@@ -316,7 +316,7 @@
 | Region          | 香港                               |
 | Date            | 2019-05-07                                 |
 | Tags            | 跨性别, 性别认知障碍, 电影分析, 心理挣扎, 芭蕾舞, 社会环境, 性别认同, 真实故事, 国际奖项                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

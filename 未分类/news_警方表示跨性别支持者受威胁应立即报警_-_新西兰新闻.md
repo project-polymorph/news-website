@@ -55,7 +55,7 @@ Hattotuwa最后表示，网络仇恨言论与现实暴力事件存在极强的�
 | Region          | 新西兰                               |
 | Date            | 2023-04-10                                 |
 | Tags            | 跨性别, 社会支持, 网络仇恨, 警方会议, 生命安全, 社会环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

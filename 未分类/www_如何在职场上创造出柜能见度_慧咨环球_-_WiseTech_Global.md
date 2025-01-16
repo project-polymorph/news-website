@@ -123,7 +123,7 @@ Charlotte 对改变世界充满热情，作为一个几年前才出柜的人，�
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 职场包容性, 出柜经历, 骄傲月, LGBTQIA+, 社会正义, 多元化与包容性, 同盟文化                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

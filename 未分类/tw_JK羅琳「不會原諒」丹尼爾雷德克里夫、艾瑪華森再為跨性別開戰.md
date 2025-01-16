@@ -44,7 +44,7 @@ JK羅琳在X（推特）分享相關報導後表示，她非常憤怒，「成�
 | Region          | 未知                               |
 | Date            | 2024-04-11                                 |
 | Tags            | JK罗琳, 跨性别权利, 丹尼尔·雷德克里夫, 艾玛·华森, 医疗资源, 法律政策, 社会环境, 性别认同, 儿童变性, 性别研究                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

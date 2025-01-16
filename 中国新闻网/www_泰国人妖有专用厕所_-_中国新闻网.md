@@ -35,7 +35,7 @@
 | Region          | 泰国                               |
 | Date            | 2012-04-11                                 |
 | Tags            | 跨性别, 人妖, 厕所问题, 社会包容, 法律政策, 教育环境                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

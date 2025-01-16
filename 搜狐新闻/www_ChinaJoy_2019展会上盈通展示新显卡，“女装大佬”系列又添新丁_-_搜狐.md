@@ -47,7 +47,7 @@ Radeon RX 5700显卡则拥有36组CU单元，共计2304个流处理器、64组RO
 | Region          | 中国大陆                               |
 | Date            | 2019-08-02                                 |
 | Tags            | ChinaJoy, 跨性别, 显卡, 女装大佬, 盈通, 电竞文化, 二次元, 科技展览                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

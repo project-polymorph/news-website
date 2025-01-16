@@ -56,7 +56,7 @@
 | Region          | 美国                               |
 | Date            | 2021-01-20                                 |
 | Tags            | 跨性别, 卫生部, 拜登, 蕾切尔·莱文, 性别认同, 历史性提名, 性少数群体, 新冠疫情, 医疗公平                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

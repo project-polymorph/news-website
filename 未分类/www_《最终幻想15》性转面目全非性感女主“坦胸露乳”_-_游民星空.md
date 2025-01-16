@@ -64,7 +64,7 @@ _0人参与，_0条评论
 | Region          | 中国大陆                               |
 | Date            | 2015-07-31                                 |
 | Tags            | 最终幻想15, 性别流动, 游戏文化, 性别表达, 玩家创作                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

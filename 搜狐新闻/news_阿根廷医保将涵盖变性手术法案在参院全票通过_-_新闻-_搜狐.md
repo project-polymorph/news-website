@@ -56,7 +56,7 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. 版权所有 Sohu
 | Region          | 阿根廷                               |
 | Date            | 2012-05-10                                 |
 | Tags            | 变性人, 性别认同法案, 医保, 阿根廷, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

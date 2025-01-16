@@ -57,7 +57,7 @@
 | Region          | 美国                               |
 | Date            | 2015-11-25                                 |
 | Tags            | 美国, 变性人, 遇害, 反变性暴力, 女性变性人, 社会问题, 暴力统计                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -105,7 +105,7 @@ id=59983807
 | Region          | 未知                               |
 | Date            | 2020-04-03                                 |
 | Tags            | 伪娘, 动漫, P站, 美图, 文化现象                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

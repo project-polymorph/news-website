@@ -54,7 +54,7 @@
 | Region          | 爱尔兰                               |
 | Date            | 2015-05-22                                 |
 | Tags            | 婚姻平等, LGBT权利, 跨性别, 社会包容性, 人权观察, 性别认同, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

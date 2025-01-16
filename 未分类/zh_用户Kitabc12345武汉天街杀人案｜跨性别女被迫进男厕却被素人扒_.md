@@ -47,7 +47,7 @@ terf女拳对这个事件该怎样说呢？
 | Region          | 中国大陆                               |
 | Date            | 2022-11-03                                 |
 | Tags            | 跨性别, 暴力事件, 武汉天街, 社会问题, 厕所使用争议, 法律与政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

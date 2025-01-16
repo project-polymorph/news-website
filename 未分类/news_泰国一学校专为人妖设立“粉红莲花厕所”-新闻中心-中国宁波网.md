@@ -52,7 +52,7 @@ Copyright(C) 2001-2024 cnnb.com.cn All Rights Reserved
 | Region          | 泰国                               |
 | Date            | 2004-06-27                                 |
 | Tags            | 跨性别, 人妖, 厕所设计, 社会支持, 泰国文化, 校园生活                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

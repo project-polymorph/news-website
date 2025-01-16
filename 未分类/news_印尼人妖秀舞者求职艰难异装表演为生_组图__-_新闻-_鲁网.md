@@ -69,7 +69,7 @@
 | Region          | 印度尼西亚                               |
 | Date            | 2013-09-13                                 |
 | Tags            | 人妖, 印尼, 求职, 表演, 艰难                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

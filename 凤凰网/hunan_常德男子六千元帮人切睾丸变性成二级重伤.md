@@ -48,7 +48,7 @@
 | Region          | 常德，中国大陆                               |
 | Date            | 2014-09-24                                 |
 | Tags            | 变性手术, 故意伤害, 跨性别, 常德, 医疗事故, 李斌                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

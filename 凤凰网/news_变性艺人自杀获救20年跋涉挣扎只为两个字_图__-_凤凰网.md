@@ -87,7 +87,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2007-04-26                                 |
 | Tags            | 跨性别, 艺人, 社会, 演出经历, 心理挣扎                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

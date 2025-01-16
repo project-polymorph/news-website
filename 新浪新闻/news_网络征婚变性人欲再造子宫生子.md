@@ -95,7 +95,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2011-01-03                                 |
 | Tags            | 变性人, 网络征婚, 生育问题, 社会认知, 法律问题, 个人故事, 生活经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -56,7 +56,7 @@ Vincy指出，跨性别者几乎没有办法工作，“跨国公司、IT公司�
 | Region          | 印度                               |
 | Date            | 2017-05-12                                 |
 | Tags            | 跨性别, 印度, 科钦地铁, 社会包容, 就业机会, 法律政策, 历史研究, 海吉拉                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

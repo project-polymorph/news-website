@@ -95,7 +95,7 @@ J.K.罗琳曾与《哈利·波特》系列电影主演们合影，图自外媒
 | Region          | 英国                               |
 | Date            | 2021-11-24                                 |
 | Tags            | 跨性别, J.K.罗琳, 社交媒体, 女性性别权利, 法律政策, 社会环境, 个人经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -296,7 +296,7 @@ Ella出席公益活動，情緒突然上來，談到母親的失言，也謝謝�
 | Region          | 台湾                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 社会现象, 娱乐新闻, 歧视, 性别认同, 法治与权益                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

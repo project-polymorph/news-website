@@ -51,7 +51,7 @@ Amy常去日本人光顾的店，伪装成游客打招呼并逐渐骗取信任�
 | Region          | 泰国                               |
 | Date            | 2024-08-20                                 |
 | Tags            | 跨性别, 诈骗, 社会行为, 泰国, 日本                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

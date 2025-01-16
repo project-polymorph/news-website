@@ -132,7 +132,7 @@
 | Region          | 美国                               |
 | Date            | 2006-07-20                                 |
 | Tags            | 变性人, 女性科学家, 性别歧视, 社会偏见, 科学成就, 跨性别, 性别平等                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

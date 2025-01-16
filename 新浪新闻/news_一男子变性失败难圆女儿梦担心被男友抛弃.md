@@ -83,7 +83,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2003-06-19                                 |
 | Tags            | 跨性别, 变性经历, 生命故事, 医疗资源, 情感关系, 社会现状                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -47,7 +47,7 @@ VR体验《Body of Mine》已于日前登陆[Meta Quest](https://www.meta.com/zh
 | Region          | 未知                               |
 | Date            | 2024-06-15                                 |
 | Tags            | 跨性别, 虚拟现实, 性别体验, Body of Mine, 游戏, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

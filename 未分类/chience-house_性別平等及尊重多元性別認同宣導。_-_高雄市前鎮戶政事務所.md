@@ -43,7 +43,7 @@
 | Region          | 台湾                               |
 | Date            | 2017-05-18                                 |
 | Tags            | 性别平等, 多元性别认同, 性别意识, 高雄市, 社会宣传                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

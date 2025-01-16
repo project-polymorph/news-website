@@ -123,7 +123,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2016-12-01                                 |
 | Tags            | 跨性别, HIV感染, 艾滋病防治, 性少数群体, 医疗资源, 社会歧视, 就业困难                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

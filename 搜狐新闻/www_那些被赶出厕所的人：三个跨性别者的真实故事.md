@@ -219,7 +219,7 @@ Kane终于找到一家有中性淋浴间的游泳馆，惊喜的发来图片。�
 | Region          | 中国大陆                               |
 | Date            | 2020-11-30                                 |
 | Tags            | 跨性别, 社会问题, 个人故事, 抑郁, 法律政策, 卫生间问题, 心理健康, 家庭支持                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

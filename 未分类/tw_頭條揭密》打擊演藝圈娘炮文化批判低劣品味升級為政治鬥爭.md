@@ -58,7 +58,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2021-09-07                                 |
 | Tags            | 娘炮文化, 演艺圈, 政治批判, 文化整顿, 中美关系, 社会风气, 年轻人审美, 低劣品味                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

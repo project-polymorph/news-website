@@ -51,7 +51,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2010-12-02                                 |
 | Tags            | 跨性别, 体育, 高尔夫, 权益, 社会进步, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

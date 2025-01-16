@@ -137,7 +137,7 @@
 | Region          | 新加坡                               |
 | Date            | 2021-02-16                                 |
 | Tags            | 跨性别, 性别教育, LGBTQ+, 法律, 社会态度, 性少数群体, 性别重置手术, 新加坡                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

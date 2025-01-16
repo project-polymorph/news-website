@@ -193,7 +193,7 @@ Yaya在一期视频节目中曾探讨过，自己是如何从一个生病时连�
 | Region          | 中国大陆                               |
 | Date            | 2021-07-28                                 |
 | Tags            | 跨性别, 性别认同, 生命故事, 社会接受, 法律挑战, 医疗资源, 心理健康                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

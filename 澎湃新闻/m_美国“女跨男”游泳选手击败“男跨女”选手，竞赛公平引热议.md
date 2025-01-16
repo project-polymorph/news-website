@@ -111,7 +111,7 @@
 | Region          | 美国                               |
 | Date            | 2022-12-10                                 |
 | Tags            | 跨性别, 体育, 游泳比赛, 公平竞争, 社会争议, 利娅·托马斯, 艾萨克·海尼格, NCAA, 运动员经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -141,7 +141,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2015-04-08                                 |
 | Tags            | 跨性别, 变性经历, 道德模范, 社会包容, 个人故事, 医疗经历, 法律程序, 演艺事业, 心理健康                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

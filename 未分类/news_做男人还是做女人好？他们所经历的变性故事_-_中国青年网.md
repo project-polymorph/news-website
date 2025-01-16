@@ -38,7 +38,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2016-03-10                                 |
 | Tags            | 变性经历, 性别认同, 社会接受, 跨性别, 个人故事, 电影导演                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -58,7 +58,7 @@ Copyright © 2024 Takungpao _All Rights Reserved_ [京ICP备13049349号](http://
 | Region          | 未知                               |
 | Date            | 2024-08-01                                 |
 | Tags            | 性别争议, 跨性别, 女子拳击, 奥运会, 哈利夫, 卡里尼, 性别测试, 体育政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

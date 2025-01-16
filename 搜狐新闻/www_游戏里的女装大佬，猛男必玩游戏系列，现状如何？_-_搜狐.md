@@ -52,7 +52,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2021-04-02                                 |
 | Tags            | 跨性别, 女装大佬, 电子游戏, 二次元文化, 性别角色, 社会现象                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

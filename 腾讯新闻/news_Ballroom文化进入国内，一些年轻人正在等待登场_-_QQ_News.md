@@ -175,7 +175,7 @@ Ballroom 确实是一个勇敢者的游戏。他们生命得以在此处绽放�
 | Region          | 中国大陆                               |
 | Date            | 2021-10-22                                 |
 | Tags            | Ballroom, LGBTQ, 文化, 跨性别, 身份认同, 社会环境, 反抗, 艺术表现                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

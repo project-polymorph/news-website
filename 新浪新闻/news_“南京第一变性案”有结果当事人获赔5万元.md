@@ -49,7 +49,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2005-05-17                                 |
 | Tags            | 跨性别权利, 法律案件, 变性手术, 医疗纠纷, 社会环境, 南京第一变性案                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

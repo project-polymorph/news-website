@@ -119,7 +119,7 @@ CANTO MOTTO 表示，自然生命的最开端，本是雌雄同体，它象征�
 | Region          | 中国大陆                               |
 | Date            | 2016-01-05                                 |
 | Tags            | 跨性别, 时尚艺术, 男性穿女装, 雌雄同体, 时尚观点, 个性表达                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

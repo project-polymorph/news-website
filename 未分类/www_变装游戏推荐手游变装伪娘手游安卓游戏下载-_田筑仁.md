@@ -151,7 +151,7 @@
 | Region          | 未知                               |
 | Date            | 2024-10-16                                 |
 | Tags            | 变装游戏, 伪娘, 安卓游戏, 手游, 角色扮演游戏                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -77,7 +77,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-10-28                                 |
 | Tags            | 安乐死, 自杀, 舆论争议, 新自由主义, 伦理讨论, 跨性别议题                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -277,7 +277,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2014-11-15                                 |
 | Tags            | 跨性别, 人妖, 爱情故事, 泰国, 社会文化, 家庭接受, 变性经历, 情感故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

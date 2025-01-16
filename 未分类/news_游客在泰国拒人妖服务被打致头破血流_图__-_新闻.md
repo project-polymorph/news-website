@@ -45,7 +45,7 @@
 | Region          | 泰国                               |
 | Date            | 2015-05-04                                 |
 | Tags            | 泰国, 跨性别, 人妖文化, 旅游安全, 社会暴力, 外国游客                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

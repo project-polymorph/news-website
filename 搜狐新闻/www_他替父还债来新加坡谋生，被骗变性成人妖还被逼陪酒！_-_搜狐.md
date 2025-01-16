@@ -86,7 +86,7 @@
 | Region          | 台湾                               |
 | Date            | 2017-08-29                                 |
 | Tags            | 跨性别故事, 变性经历, 娱乐圈, 唐飞, 台湾歌手, 生命故事, 自我认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

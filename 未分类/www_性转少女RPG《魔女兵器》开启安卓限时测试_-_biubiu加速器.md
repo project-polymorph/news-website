@@ -61,7 +61,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2019-06-03                                 |
 | Tags            | 性转, RPG游戏, 乙女游戏, 安卓测试, 游戏攻略, 女性角色, 游戏体验, 角色扮演                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

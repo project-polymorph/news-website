@@ -79,7 +79,7 @@
 | Region          | 未知                               |
 | Date            | 2020-09-03                                 |
 | Tags            | 社会可持续性, 社会包容性, 跨性别, 人权, 平等机会, 新冠疫情, 世界银行                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

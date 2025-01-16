@@ -47,7 +47,7 @@ LGBT是同性恋、双性恋和跨性别者等性少数群体的英文缩写。
 | Region          | 俄罗斯                               |
 | Date            | 2023-11-30                                 |
 | Tags            | LGBT, 跨性别, 人权, 法律政策, 社会环境, 俄罗斯最高法院, 联合国人权事务                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

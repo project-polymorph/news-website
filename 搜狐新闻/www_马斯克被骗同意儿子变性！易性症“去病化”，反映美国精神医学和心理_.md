@@ -190,7 +190,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-07-24                                 |
 | Tags            | 马斯克, 变性, 性别认同, 精神医学, 心理学, 家庭教育, 性别烦躁, LGBTQ+, 心理干预, 社会政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

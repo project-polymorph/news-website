@@ -126,7 +126,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2014-01-03                                 |
 | Tags            | 假两性畸形, 性别认同, 医疗资源, 社会支持, 成长故事, 生存现状, 两性畸形                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

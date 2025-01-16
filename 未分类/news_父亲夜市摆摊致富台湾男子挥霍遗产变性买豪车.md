@@ -47,7 +47,7 @@
 | Region          | 台湾                               |
 | Date            | 2012-10-25                                 |
 | Tags            | 跨性别, 变性经历, 家庭故事, 遗产, 社会状况, 台湾夜市                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

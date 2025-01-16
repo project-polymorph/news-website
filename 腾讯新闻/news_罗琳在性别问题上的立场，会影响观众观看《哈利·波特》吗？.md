@@ -86,7 +86,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2023-04-12                                 |
 | Tags            | 哈利·波特, J.K.罗琳, 跨性别, 性别问题, 社会文化, 观众反应, 媒体影响                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

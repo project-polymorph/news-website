@@ -113,7 +113,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2002-07-24                                 |
 | Tags            | 变性手术, 性别重塑, 性别认同, 心理健康, 社会心理, 医疗伦理, 跨性别, 法律法规, 媒体报道                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

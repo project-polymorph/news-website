@@ -140,7 +140,7 @@ Deeptrace安全人员称，我可以制作一段杰夫·贝索斯(Jeff Bezos)的
 | Region          | 未知                               |
 | Date            | 2019-10-17                                 |
 | Tags            | 深度伪造, AI技术, 人体重构, 社会影响, 法律政策, 隐私侵犯                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

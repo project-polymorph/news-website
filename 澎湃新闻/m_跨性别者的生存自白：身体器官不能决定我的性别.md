@@ -310,7 +310,7 @@ Kelly接过的热线电话里，就有一位被迫走了极端的跨性别女性
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 生存现状, 心理健康, 家庭暴力, 社会歧视, 跨性别热线, 身份认同, 性别过渡, 激素治疗, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

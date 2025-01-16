@@ -137,7 +137,7 @@ LGBTQ在哈马斯手下能有活路？看看他们亮明LGBTQ是被哈马斯会�
 | Region          | 加沙，巴勒斯坦                               |
 | Date            | 2023-12-09                                 |
 | Tags            | 酷儿, 跨性别, 巴勒斯坦, 加沙, 战争, 生存现状, 酷儿地图, 粉红清洗, 社会压迫,  LGBTQ+                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

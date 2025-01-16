@@ -85,7 +85,7 @@ Christine於書中收錄兩首新詩，記錄她性別過渡的感受。
 | Region          | 香港                               |
 | Date            | 2023-06-07                                 |
 | Tags            | 跨性别文集, 性别过渡, 文艺创作, 香港, 社会环境, 女性主义, 插画艺术                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

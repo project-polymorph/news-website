@@ -40,7 +40,7 @@
 | Region          | 台湾                               |
 | Date            | 2024-08-20                                 |
 | Tags            | 王阳明, 性平争议, 教育部, 娘炮, 男人婆, 社群, 酸民                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

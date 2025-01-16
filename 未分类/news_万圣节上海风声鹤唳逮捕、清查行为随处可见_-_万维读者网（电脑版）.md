@@ -119,7 +119,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-10-30                                 |
 | Tags            | 万圣节, 跨性别, 角色扮演, 社会文化, 法律政策, 上海, 抗议活动                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

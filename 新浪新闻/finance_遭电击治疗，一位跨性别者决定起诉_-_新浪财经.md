@@ -277,7 +277,7 @@ All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/cop
 | Region          | 中国大陆                               |
 | Date            | 2024-09-24                                 |
 | Tags            | 跨性别者, 性别认同, 医疗经历, 法律问题, 社会环境, 家庭关系, 精神健康, 改革, 抑郁, 焦虑                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

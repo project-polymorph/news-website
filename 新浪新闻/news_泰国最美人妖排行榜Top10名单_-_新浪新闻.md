@@ -102,7 +102,7 @@ Poy曾经说道：“从我很小的时候我就很想成为女人，不过在�
 | Region          | 泰国                               |
 | Date            | 2015-03-27                                 |
 | Tags            | 人妖, 变性人, 泰国文化, 性别认同, 选美, 社会现象                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

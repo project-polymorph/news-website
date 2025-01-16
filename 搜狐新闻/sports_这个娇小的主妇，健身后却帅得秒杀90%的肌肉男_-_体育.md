@@ -201,7 +201,7 @@ Cody 还在 Youtube 上开辟了个人频道，讲述自己的心路历程，帮
 | Region          | 美国                               |
 | Date            | 2017-03-14                                 |
 | Tags            | 跨性别, 性别认同, 生命故事, 健身, 心理健康, 社会环境, 变性经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

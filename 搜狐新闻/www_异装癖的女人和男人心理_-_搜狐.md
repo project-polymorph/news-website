@@ -59,7 +59,7 @@ vivian前次恋情的失败让她开始压抑自己的感情，只能通过着�
 | Region          | 中国大陆                               |
 | Date            | 2017-05-08                                 |
 | Tags            | 异装癖, 心理学, 性别特质, 社会认同, 性别教育, 性别角色                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

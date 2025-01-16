@@ -67,7 +67,7 @@ Poy，中文名：宝儿，1985年10月5日出生于泰国普吉岛，从艺期�
 | Region          | 泰国                               |
 | Date            | 2018-10-25                                 |
 | Tags            | 跨性别, 人物故事, 泰国人妖, 演艺圈, 健身手术, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

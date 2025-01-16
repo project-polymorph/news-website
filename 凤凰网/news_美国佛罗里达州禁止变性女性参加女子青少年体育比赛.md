@@ -46,7 +46,7 @@
 | Region          | 美国                               |
 | Date            | 2021-06-02                                 |
 | Tags            | 变性女性, 佛罗里达州, 体育比赛, 法律政策, 跨性别权益, 性别平等                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

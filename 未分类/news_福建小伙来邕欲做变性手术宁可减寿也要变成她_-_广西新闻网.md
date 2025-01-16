@@ -48,7 +48,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2009-12-30                                 |
 | Tags            | 变性手术, 跨性别, 易性病, 生命故事, 医疗资源, 社会环境, 心理健康                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -40,7 +40,7 @@
 | Region          | 未知                               |
 | Date            | 2015-09-29                                 |
 | Tags            | 联合国, 人权, 跨性别, 同性爱, 法律政策, 社会环境, 暴力与歧视                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

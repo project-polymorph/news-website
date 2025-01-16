@@ -34,7 +34,7 @@ Copyright © 2011 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有]
 | Region          | 泰国                               |
 | Date            | 未知                                 |
 | Tags            | 变性手术, 泰国医疗旅游, 跨性别, 生命故事, 医疗资源, 手术经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

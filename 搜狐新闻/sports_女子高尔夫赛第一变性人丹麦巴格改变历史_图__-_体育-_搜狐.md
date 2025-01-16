@@ -39,7 +39,7 @@
 | Region          | 丹麦                               |
 | Date            | 2004-11-04                                 |
 | Tags            | 跨性别体育, 高尔夫, 历史, 变性人, 女性运动员                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -47,7 +47,7 @@ Copyright © 1996 - 2016 SINA Corporation, All Rights Reserved
 | Region          | 中国大陆                               |
 | Date            | 2012-09-03                                 |
 | Tags            | 异装癖, 罗志祥, 歌迷活动, 生活分享, 娱乐新闻                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

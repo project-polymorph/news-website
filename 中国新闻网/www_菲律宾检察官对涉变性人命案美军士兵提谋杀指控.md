@@ -41,7 +41,7 @@
 | Region          | 菲律宾                               |
 | Date            | 2014-12-15                                 |
 | Tags            | 跨性别, 谋杀案, 法律, 社会正义, 变性人权益, 美军                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

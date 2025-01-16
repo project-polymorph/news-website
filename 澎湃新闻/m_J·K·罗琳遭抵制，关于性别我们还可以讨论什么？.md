@@ -140,7 +140,7 @@ Vanity Fair
 | Region          | 未知                               |
 | Date            | 未知                                 |
 | Tags            | 性别, 跨性别, 女权主义, 酷儿女权, 社会性别, 性别认同, 性别光谱, 性别构建, 生物学与社会文化, 医疗资源与经验分享                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

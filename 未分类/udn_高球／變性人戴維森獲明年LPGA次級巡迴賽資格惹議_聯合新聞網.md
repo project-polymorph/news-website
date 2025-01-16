@@ -49,7 +49,7 @@ LPGA也透露，將在年底重新審視現有的性別規則，並在2025年實
 | Region          | 台湾                               |
 | Date            | 2024-10-31                                 |
 | Tags            | LPGA, 变性人, 戴维森, 高尔夫, 法律政策, 性别平等                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -36,7 +36,7 @@
 | Region          | 泰国                               |
 | Date            | 2012-05-29                                 |
 | Tags            | 变性人, 选举, 政治参与, 跨性别, 社会认可, 泰国                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

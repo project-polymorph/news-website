@@ -29,7 +29,7 @@
 | Region          | 香港                               |
 | Date            | 2016-09-25                                 |
 | Tags            | 跨性别, 歧视, 法律政策, 社会环境, 旅行, 泰国变性人, 香港                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

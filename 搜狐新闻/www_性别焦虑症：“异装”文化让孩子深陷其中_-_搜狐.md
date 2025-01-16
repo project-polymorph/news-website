@@ -66,7 +66,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2020-10-29                                 |
 | Tags            | 性别焦虑症, 儿童性别认同, 家长教育, 性别角色, 心理健康, 异装文化                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

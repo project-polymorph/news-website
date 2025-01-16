@@ -53,7 +53,7 @@ DC首席创意官兼发行人吉姆·李(Jim Lee)也对即将发行的漫画和�
 | Region          | 美国                               |
 | Date            | 2021-10-12                                 |
 | Tags            | 跨性别, 双性恋, DC漫画, 超人, LGBT, 生命故事, 社会环境, 文化进步                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

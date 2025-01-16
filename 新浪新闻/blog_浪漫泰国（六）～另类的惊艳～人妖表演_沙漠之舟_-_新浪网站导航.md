@@ -121,7 +121,7 @@
 | Region          | 泰国                               |
 | Date            | 2011-03-15                                 |
 | Tags            | 人妖表演, 跨性别文化, 泰国旅游, 性别认同, 社会现象, 个人经历                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

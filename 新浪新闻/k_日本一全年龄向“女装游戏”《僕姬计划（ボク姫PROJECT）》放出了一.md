@@ -58,7 +58,7 @@ _**8** / 8_ 日本一全年龄向“女装游戏”《僕姬计划（ボク姫PR
 | Region          | 日本                               |
 | Date            | 2023-01-06                                 |
 | Tags            | 游戏, 女装, 跨性别, 文化表达, 日本游戏, 百合, 社会现象                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

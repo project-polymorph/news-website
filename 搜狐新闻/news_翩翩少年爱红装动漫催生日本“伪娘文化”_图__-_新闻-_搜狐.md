@@ -66,7 +66,7 @@
 | Region          | 日本                               |
 | Date            | 2010-07-20                                 |
 | Tags            | 伪娘文化, 动漫, COSPLAY, 性别反串, 日本文化, 社会现象                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -240,7 +240,7 @@ END.
 | Region          | 安徽省                               |
 | Date            | 2023-02-17                                 |
 | Tags            | 变性人, 跨性别, 泰国人妖, 人生故事, 性别认同, 娱乐产业, 爱情与婚姻, 变性手术                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

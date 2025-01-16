@@ -49,7 +49,7 @@
 | Region          | 泰国                               |
 | Date            | 2016-06-14                                 |
 | Tags            | 跨性别, 社会冲突, 误解, 法律政策, 生命故事, 跨文化交流                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

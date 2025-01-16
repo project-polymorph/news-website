@@ -61,7 +61,7 @@ Copyright © 2016 Sohu.com Inc. All Rights Reserved.
 | Region          | 中国大陆                               |
 | Date            | 2009-03-02                                 |
 | Tags            | 跨性别, 娱乐, 明星, 现场表演, 泰国人妖, 生活经历, 文化现象                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

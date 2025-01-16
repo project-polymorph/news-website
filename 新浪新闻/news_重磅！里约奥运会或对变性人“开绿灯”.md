@@ -86,7 +86,7 @@ IOC医学主任巴吉特认为新的规定势在必行：“这是一个科学�
 | Region          | 中国大陆                               |
 | Date            | 2016-01-26                                 |
 | Tags            | 跨性别, 体育, 性别政策, 奥运会, 变性人, 国际奥委会, 性别认同, 公平竞争                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

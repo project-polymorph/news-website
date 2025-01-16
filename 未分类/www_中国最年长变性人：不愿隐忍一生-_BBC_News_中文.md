@@ -115,7 +115,7 @@ BBC是少有的到广东佛山去专程采访她的外国媒体。
 | Region          | 广东佛山, 中国                               |
 | Date            | 2012-07-12                                 |
 | Tags            | 变性人, 性别认同, 个人经历, 社会变迁, 医疗资源, 人权, 文化大革命, 成长故事                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

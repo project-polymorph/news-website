@@ -82,7 +82,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2016-05-20                                 |
 | Tags            | 跨性别, 性激素, 内分泌, 医疗资源, 生殖健康, 诊断, 女性健康, 男性健康, 临床检查                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

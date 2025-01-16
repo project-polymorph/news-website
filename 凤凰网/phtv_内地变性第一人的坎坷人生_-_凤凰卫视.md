@@ -50,7 +50,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2008-07-09                                 |
 | Tags            | 变性, 跨性别, 张克莎, 性别认同, 个人经历, 社会环境, 法制与政策, 生存现状                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

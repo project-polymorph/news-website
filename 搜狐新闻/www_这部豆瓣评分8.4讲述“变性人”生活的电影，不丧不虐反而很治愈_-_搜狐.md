@@ -122,7 +122,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2017-10-21                                 |
 | Tags            | 跨性别, 变性人, 电影, 人生密密缝, 社会问题, 友情, 亲情, 理解与包容                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

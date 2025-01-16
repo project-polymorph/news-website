@@ -71,7 +71,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2002-04-27                                 |
 | Tags            | 变性人, 医疗事故, 法律案件, 性别认同, 社会关注, 医疗资源, 法院判决                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

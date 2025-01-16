@@ -73,7 +73,7 @@ $50 | $100 | $250 | $500 | $1000 | Other $
 | Region          | 美国                               |
 | Date            | 2016-09-14                                 |
 | Tags            | 跨性别权益, 教育, 学生, 人权, 性别认同, 性别歧视                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

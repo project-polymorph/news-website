@@ -124,7 +124,7 @@ MECT是指在使用静脉麻醉药和肌松剂使患者意识消失后，以一�
 | Region          | 中国大陆                               |
 | Date            | 2024-09-24                                 |
 | Tags            | 跨性别者, 电休克治疗, 家庭关系, 社会支持, 医疗经历, 法律诉讼                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

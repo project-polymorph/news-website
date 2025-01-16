@@ -99,7 +99,7 @@
 | Region          | 未知                               |
 | Date            | 2021-10-16                                 |
 | Tags            | 跨性别, 异装, 自我表达, 日本学生, 校园文化, 社会反响, 心理健康, 性别认同                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -55,7 +55,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2021-09-02                                 |
 | Tags            | 偶像养成类节目, 广电总局, 文化政策, 社会现象, 饭圈文化, 娘炮, 媒体管理                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

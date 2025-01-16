@@ -176,7 +176,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2020-09-29                                 |
 | Tags            | 异装, 性别认同, 社会调查, 生存现状, 性教育, 心理分析, 爱情教育                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

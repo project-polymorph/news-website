@@ -198,7 +198,7 @@ Facebook的另外两个重要产品Instagram与Whatsapp同样遭到了宕机事�
 | Region          | 美国                               |
 | Date            | 2021-10-18                                 |
 | Tags            | 跨性别, 变性人, 社交媒体, Facebook, 张学菲, 法律政策, 职场经历, 社群运动                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

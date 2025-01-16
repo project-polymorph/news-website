@@ -41,7 +41,7 @@
 | Region          | 美国俄克拉荷马州                               |
 | Date            | 2013-07-26                                 |
 | Tags            | 变性情侣, 生命故事, 转变经历, 社会接受, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

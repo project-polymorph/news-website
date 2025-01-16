@@ -52,7 +52,7 @@
 | Region          | 未知                               |
 | Date            | 2019-01-13                                 |
 | Tags            | 跨性别, 异装癖, 电影, 社会认知, 法国电影                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

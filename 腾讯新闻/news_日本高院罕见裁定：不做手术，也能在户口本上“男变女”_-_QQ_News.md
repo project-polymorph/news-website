@@ -65,7 +65,7 @@
 | Region          | 日本                               |
 | Date            | 2024-07-10                                 |
 | Tags            | 跨性别, 法律, 日本, 性别认同障碍, 法院裁定                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -68,7 +68,7 @@ _![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 | Region          | 美国                               |
 | Date            | 2016-05-23                                 |
 | Tags            | 变性学生, 无性别卫生间, 校园政策, 性别认同, 法律支持, 美国高校                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -247,7 +247,7 @@
 | Region          | 香港                               |
 | Date            | 2019-03-26                                 |
 | Tags            | 跨性别, 变性手术, 个人故事, 社会歧视, 公益活动, 电影制作, 香港                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

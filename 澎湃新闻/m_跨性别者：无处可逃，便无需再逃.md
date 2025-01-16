@@ -138,7 +138,7 @@ Andrea Dworkin认为，在一个没有父权压迫、真正自由的时代，跨
 | Region          | 中国大陆                               |
 | Date            | 2020-01-15                                 |
 | Tags            | 跨性别, 身份认同, 社会性别, 女性主义, 医疗与心理支持, 影视作品                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

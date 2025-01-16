@@ -39,7 +39,7 @@ Poyd凭《扫毒》人气急升，带挈她在泰国拍多了爱情和亲热戏�
 | Region          | 香港                               |
 | Date            | 2013-12-11                                 |
 | Tags            | 跨性别, 张家辉, Poyd, 扫毒, 娱乐圈, 亲热戏, 社会接受度, 电影                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

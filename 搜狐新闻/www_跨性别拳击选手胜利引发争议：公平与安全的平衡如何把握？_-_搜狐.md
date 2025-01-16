@@ -67,7 +67,7 @@
 | Region          | 中国大陆                               |
 | Date            | 2024-08-02                                 |
 | Tags            | 跨性别, 拳击比赛, 体育公平, 社会争议, 性别认同, 法律伦理                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

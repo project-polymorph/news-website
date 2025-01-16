@@ -110,7 +110,7 @@
 | Region          | 台湾                               |
 | Date            | 2024-11-12                                 |
 | Tags            | 酷儿, 性别多元, 艺术, 文化, 新闻, 评论                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

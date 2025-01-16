@@ -54,7 +54,7 @@
 | Region          | 德国                               |
 | Date            | 2024-10-30                                 |
 | Tags            | 性别自决法, 人权, 跨性别, 妇女权益, 儿童保护, 法律政策                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

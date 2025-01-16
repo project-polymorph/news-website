@@ -35,7 +35,7 @@
 | Region          | 土耳其                               |
 | Date            | 2016-05-26                                 |
 | Tags            | 跨性别, 变性人大赛, 国际赛事, 社会认同, 美容与自信                                 |
-| Type            | [Unknown type(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
