@@ -231,7 +231,7 @@ Laith Ashley
 本文件为一篇关于9位跨性别IG名人的介绍，强调了他们的性别重置过程及在时尚、美妆界的影响力和成功故事。文章由Yahoo奇摩新闻撰写，刊登于2020年1月16日。档案中详细列举了每位名人的背景、过渡经历及其在时尚界的角色。例如，Nikkietutorials在经历网络暴力后勇敢地公开性别身份，成为了美妆界的代表性人物。其他名人如Laith Ashley和Hunter Schafer亦在各自领域发光发热，推动性别平等与认同。整篇文章不仅展示了跨性别者在现代社会中的可见性，也强调了性别重置不影响个体的成功。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

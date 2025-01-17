@@ -63,7 +63,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文详细揭秘了变性手术的全过程，重点讨论了男变女和女变男的手术步骤，分析了变性人与人妖之间的区别。文章首先介绍了变性手术的必要心理评估与激素治疗，接着逐步讲解了男变女的手术四个阶段：包括生殖器改造、隆胸、面部调整及喉结切除，最终实现外表对女性的全面重塑。同时，文章也探讨了女变男的手术过程，并指出其与男变女手术的相反特性。文章指出，泰国的变性手术技术相对成熟，诱惑了许多外国人前往接受手术，且变性文化在泰国受到一定尊重。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

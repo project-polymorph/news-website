@@ -49,7 +49,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 本文讨论了泰国一名年仅9岁的小孩因其性别认同而打激素进行身体过渡的故事。文章强调了这位小孩在生活中面对的挑战和社会的偏见，同时展现了他勇敢追求自我认同的决心。文章中提到，这名小孩每天需要接受三次激素治疗，这不仅反映了他对自身身份的坚定信念，也揭示了跨性别者在求身份认同过程中所面临的医疗难题。故事发生在泰国，由凤凰网于2020年4月14日发布，并在社交媒体上引起了广泛关注。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

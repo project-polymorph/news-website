@@ -77,7 +77,7 @@ Apple 媒体联络
 这篇文章是关于Apple Watch彩虹版系列表带的发布，特别庆祝多元化的LGBTQ+群体。本文详细介绍了新款编织单圈表带的设计灵感及其象征意义，包括对LGBTQ+群体多样性和历史的致敬。发布时正逢反对仇视同性恋、变性者和双性恋的国际日，Apple CEO Tim Cook强调了多元化和跨性别者在LGBTQ+运动中的重要性。文章还概述了该表带的材质、舒适度及未来发布的彩虹版表盘，同时提到Apple长久以来对多个LGBTQ+倡导组织的支持，促进平等和包容。此外也有关于价格和上市时间的信息，表带将于2021年5月25日在Apple Store发售。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

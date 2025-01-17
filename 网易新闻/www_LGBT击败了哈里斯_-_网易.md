@@ -80,7 +80,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文讨论了拜登-哈里斯政府推出的一项名为“跨性别意识形态儿童福利干预措施”的政策，该政策旨在验证和支持儿童的性别认同，并提供相关医疗支持。这一政策引起了广泛争议，因为该政策允许儿童福利部门介入，指导儿童认识自己的性别，并有可能为他们提供变性药物。文中提到了一些具体案例，例如一个5岁的小男孩因为表现出对其他男孩的喜爱而被标记为同性恋，甚至在这种政策下，父母的意见和接受程度将直接影响他们的监护权。这一政策及其实施方式引起了社会各界的强烈反对，许多人对其合理性和儿童的权益表示担忧。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

@@ -41,7 +41,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 这篇文章来自网易新闻，讨论了即将发行的游戏《龙腾世纪4：影障守护者》。文章指出该游戏允许玩家创建跨性别角色，并且在角色创建过程中加入了能反映性别过渡的要素，例如添加变性手术疤痕的选项。游戏的开发团队显示出对政治正确的敏感度，甚至在对话中加入了通过创建跨性别角色来解锁更多对话选项的设计，引发了玩家们的热议和调侃。此文不仅关注游戏内容本身，也触及了社会对跨性别群体的态度与表现。这种设计被一些人视作对跨性别者的认可，而另一些人则质疑这是否为“夹带私货”。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

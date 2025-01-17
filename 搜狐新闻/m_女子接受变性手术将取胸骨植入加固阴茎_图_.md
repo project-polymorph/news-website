@@ -47,7 +47,7 @@
 文章强调了耿子的勇敢与执着，她希望将来能够找到恋爱伴侣并结婚，同时也愿意对伴侣坦诚自己的变性经历。手术过程中的专业医疗支持和将来身份证明的发放，也为她的转型提供了法律与社会的认同。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

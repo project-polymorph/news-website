@@ -31,7 +31,7 @@ YMCA 表示：“作为一个开放包容的机构，我们欢迎所有人的加
 该文讨论了一位高中女生Abbigail Wheeler因抗议跨性别者使用女性更衣室而被指控发表"仇恨言论"的事件。事件发生在伊利诺伊州的Springfield YMCA，Abbigail在更衣室发现有跨性别女生在场，因而向教练表达了担忧。她和家长们的呼吁未能获得响应，反而在贴出抗议标语后遭到开除。YMCA否认了开除说法，声称Abbigail是主动离队，并重申机构不会对任何人进行歧视。这一事件反映了跨性别政策在体育领域引发的社会争论和对女性权利的不同看法。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

@@ -92,7 +92,7 @@ WPATH (World Professional Association for Transgender Health)建議接受賀爾�
 本文由中國醫藥大學附設醫院提供，介紹了跨性別女性化賀爾蒙療法的最新消息。文件详细阐述了 hormonal therapy 的基本原则与重要性，包括在治疗前需要进行心理咨询，以及治疗对生殖功能的可能影响。文本中提到，治疗应遵循 WPATH（世界跨性别健康协会）的标准，包括必须进行性别不安的确诊、知情同意等过程。此外，文件提供了不同类型女性荷尔蒙及抗男性荷尔蒙的剂量、使用途径及注意事项，强调了对治疗效果的监测与随访，包括雌二醇和睪固酮的浓度监测。最后，文中提到治疗可能带来的风险，并鼓励患者在进行相关治疗时与专业人员详细讨论与规划。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

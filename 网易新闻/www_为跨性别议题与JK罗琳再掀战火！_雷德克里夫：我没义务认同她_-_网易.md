@@ -37,7 +37,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文讨论了《哈利波特》系列原著作者JK罗琳对跨性别者的公开反对，以及电影主角丹尼尔·雷德克里夫对此的回应。JK罗琳对跨性别女性持有明显的反对观点，认为从男变女的跨性别女性不应进入女性空间，这引发了雷德克里夫及其他明星的反对意见。雷德克里夫在接受采访时表达了与罗琳的分歧，并重申支持所有LGBTQ群体，尤其是在干预和支持跨性别者领域的重要性。文章还提及了关于儿童与青少年性别认同服务的独立审查报告，并指出罗琳对此报告的解读。整篇文章反映了当前跨性别议题的社会舆论，尤其是在名人效应下的影响与争议。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

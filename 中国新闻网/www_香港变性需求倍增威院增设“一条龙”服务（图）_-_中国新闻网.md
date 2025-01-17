@@ -37,7 +37,7 @@ Hong Kong announced a plan on Thursday to establish a medical center to provide 
 该文件报道了香港变性手术需求的上升趋势，介绍了香港威尔斯亲王医院计划设立一站式变性服务中心以应对这一需求。在过去的几年中，寻求变性手术的病人数量显著增加。此外，由于香港唯一的变性手术医生袁维昌将于2015年退休，医管局决定重组变性手术安排，提供更加全面专业的医疗服务。中心将提供除手术之外的所有相关服务并加强医护人员培训，以提升对变性人士的理解和服务质量。该信息来源于《大公报》和中国新闻网，反映了香港在跨性别医疗服务方面的重要变化。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

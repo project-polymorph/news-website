@@ -36,7 +36,7 @@
 这篇文章不仅展示了该电影的明星阵容，还展现了跨性别者在文化艺术活动中的参与和认可程度，体现了社会对多元性别的接受与支持。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

@@ -36,7 +36,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 该文件介绍了泰国的人妖表演秀，这是一种独特的文化表演，吸引了大量游客。文章详细描述了人妖表演者的外貌和舞台表现，指出这些表演者通常身高在一米七以上，身材苗条，打扮华丽，能展现出无与伦比的女性魅力。表演内容包含各种民族舞蹈和流行歌曲，既有本地风味也有国际影响。人妖表演的结束时，表演者与游客合影留念，但需要付费。整体而言，文章传达了人妖秀在泰国文化和旅游中的重要性以及其吸引力。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

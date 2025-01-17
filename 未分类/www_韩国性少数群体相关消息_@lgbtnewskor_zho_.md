@@ -103,7 +103,7 @@ G-Voice20周年定期演出海报：海报背景采用柔和的粉彩色调，�
 最后，文件指出，在历史上经常面临歧视和边缘化的性少数群体在该文章里都有关心和声援，并提供了多种参与渠道和平台的信息。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

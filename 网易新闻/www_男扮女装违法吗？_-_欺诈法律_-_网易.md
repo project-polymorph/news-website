@@ -31,7 +31,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文探讨了男性穿着女装或进行跨性别打扮的法律问题，指出在现代社会大多数情况下这属于个人穿着自由和表达权利，不违反法律。然而，在某些特定的场合或环境下，例如公共卫生间、工作场合等，可能会面临法律风险或社交规范的限制。比如在一些地区，男性进入女性专用场所可能会被视为违规，而工作单位可能对着装有不同要求。尽管如此，大多数地方仍然允许个人在不妨碍工作的情况下自由表达自我，跨性别者的权利在多个地区也得到一定保护。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

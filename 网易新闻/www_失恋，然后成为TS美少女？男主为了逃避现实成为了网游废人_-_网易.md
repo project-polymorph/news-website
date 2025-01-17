@@ -44,7 +44,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 该文件讨论了一部轻小说的故事，名为《变成了美少女但也成了网游废人》，讲述了一位男主角在失恋后经历性别转换，变成可爱的美少女，并在VR游戏中寻找逃避现实的途径。故事的设定和情节引人注目，特别是作者对男主变化后所面临的内心挣扎和游戏中所遇到的挑战的描述。男主在逃避现实的同时，通过游戏结识新的伙伴，并逐渐适应新的身份。该作品中还提到了性别流动性和个人认同的主题，具有一定的社会和文化深度。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

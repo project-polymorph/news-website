@@ -21,7 +21,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 这篇文章讨论了美国前总统奥巴马在任时签署的允许变性人进入美国军队的政策以及现任总统特朗普上台后对此政策的撤回。文中提到，奥巴马在推进平权运动方面具有显著影响力，他在任期间采取了一系列措施来支持变性人群体的权益，包括允许他们在军队中服役。然而，特朗普上台后，这一政策受到限制，导致变性人在军中身份的重新评估。这篇文章通过对这一政策变化的分析，反映了变性人群体在军事和社会中的地位及其受到的法律保护。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

@@ -54,7 +54,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文探讨了日本动漫中性转换元素的历史与现状。文章首先讨论了日本动漫如何以性转换为主题，提到了高桥留美子的《乱马1/2》作为经典作品，介绍了性转角色早乙女乱马在动漫界的影响。接着，文章提到新海诚执导的《你的名字。》，其剧情涉及到性转换的设定，并受到观众的喜爱。此外，文章引用了近期的搞笑动漫《后街女孩》，讲述了三名黑道成员在变性后成为美少女偶像的故事，展示了性别认同与生理差异之间的幽默冲突。最后，文章指出性转换并非新近现象，已在日本古代绘画和文学中找得到踪迹，探讨了文化传承的问题。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

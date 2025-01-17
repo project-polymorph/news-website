@@ -16,7 +16,7 @@ Request ID: hIDgiTcW6uNuvyrXn0141iZcgREf\_8t-B0QfLLaYKjML3NUA5gEFbw==
 该文件讨论了'酷儿'这一术语的定义与含义，然而由于无法成功连接到其源服务器，具体内容未能获取。该文可能涉及跨性别群体的身份认同、文化及社会环境等相关主题，分析了'酷儿'在语言和文化中的使用情况，以及其在性别和性向研究中的重要性。该文件提供了一个探索情感和身份的视角，并可能讨论了跨性别者所面临的社会挑战与文化构建。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

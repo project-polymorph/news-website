@@ -43,7 +43,7 @@
 整体来说，这篇文章不仅探讨了个人的变性经历，还深刻反映了变性人在社会中所面临的挑战与接受程度，充满了积极的支持与理解。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

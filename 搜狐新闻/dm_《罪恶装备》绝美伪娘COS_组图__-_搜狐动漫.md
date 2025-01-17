@@ -56,7 +56,7 @@ Copyright © 2017 Sohu.com Inc. All Rights Reserved.
 这篇文件是关于《罪恶装备》游戏中的角色的COSPLAY（角色扮演）作品，展示了一组绝美的伪娘COSPLAY图片。文章中包含了一张主要图片和几张相关作品的缩略图，链接引导读者查看这些细致的角色扮演艺术。文件适合于对ACG（动画、漫画、游戏）文化感兴趣的读者，尤其是跨性别和性别表现方面的爱好者。COSPLAY作为一种文化表现形式，体现了参与者对性别身份和表达的探索与认同。文章还包含了一些讨论区的链接，鼓励读者分享他们的看法和反馈。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

@@ -52,7 +52,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 该文件为一篇关于跨性别现象的讨论文章，主要描述了不同地区的人妖（跨性别者）的外貌特征和社会接受度。文章特别强调了泰国人妖的美丽与女性化，认为她们从小接受激素和手术的影响，使得外表完全女性化。而对于印度和非洲的人妖，文章则以较为消极的态度进行了比较，指出印度人妖的外貌质量参差不齐，而非洲人妖的外观则被形容为“辣眼睛”。文中提及泰国人妖Yoshin和泰国人妖Poyd与巩俐的合影，提升了文章的视觉元素，增强了讨论的生动性。整个文章反映了跨性别者在不同文化背景下的表现和社会认知，激发了读者对这些话题的思考和社会环境的关注。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

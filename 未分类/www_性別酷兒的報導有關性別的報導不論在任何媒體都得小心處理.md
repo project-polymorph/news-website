@@ -34,7 +34,7 @@ Copyright 2024 Yuan Tung Financial Relations Limited. All rights reserved.
 本文为一篇关于性别酷儿相关的新闻报道，主要介绍了Vogue在其8月号中关于性别酷儿的封面故事以及随之而来的公众讨论。这篇报道指出，性别酷儿是一个不单纯归属于传统男性或女性的性别特质自我认同，体现在现代社会中越来越多的人在性别上表现出流动性。报道提到，尽管名人如Caitlyn Jenner引发了对性别酷儿的关注，但现实生活中，性别酷儿群体面临着许多困难与歧视，而在媒体呈现中需要更加小心。尤其是提到在香港这个新兴概念中，公众对于性别议题的敏感性以及网络时代对媒体的要求。最后，Vogue因其未能准确反映性别酷儿精神而道歉，并承诺将更加谨慎地处理相关话题。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

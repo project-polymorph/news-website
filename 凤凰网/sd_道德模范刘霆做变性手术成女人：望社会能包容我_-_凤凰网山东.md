@@ -65,7 +65,7 @@ Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
 本文记录了刘霆的变性手术经历和心路历程，他是一位曾因感人事迹而被誉为全国道德模范的个人。文章详细介绍了刘霆从小对性别认同的困扰，他自幼认为自己是女孩，然而他的社会身份和生理特征却是男性。他在面对家庭、教育和社会压力的同时，内心深处渴望做一个女人，并在2014年8月14日决定接受变性手术。刘霆的故事反映了跨性别者在社会中的挣扎与渴望，以及对社会包容的期望。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

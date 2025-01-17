@@ -23,7 +23,7 @@ Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
 本文介绍了汉纳·温特伯尔尼（Hannah Winterbourne），一位来自英国的27岁女军官，她在2013年选择了变性手术，从男儿身转变为女性。在被派驻阿富汗期间，汉纳因不愿继续过着谎言生活，决定踏上变性之路。在回到英国后，微博华勇开始接受变性手术，成为英国陆军第一位也是军阶最高的变性军官。文中提到她15岁便开始了军旅生涯，曾担心军队是否能接受变性人，但令她感到欣慰的是，军方对变性人非常包容，家人也给予了充分的支持。汉纳通过荷尔蒙治疗和一系列手术，最终以女性的身份生活，转调到北约克郡，过上了开心而自信的生活。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

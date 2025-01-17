@@ -48,7 +48,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 该文件讨论了新加坡高等学府南洋理工大学（NTU）近期针对跨性别者的积极举措。内容提到，新加坡社会在性别议题上的变革，特别是对男同的377A条例的废除，表明社会对LGBT群体的态度日益宽容。文章中指出，南洋理工大学正在为一些特殊需求的学生提供支持，充分显示其在推动性别平等方面的努力与贡献。整个社会对跨性别者的关怀越发显著，这反映了新加坡在性别与社会平等方面的逐步改善与进步。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

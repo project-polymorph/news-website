@@ -76,7 +76,7 @@ Christian groups are known to [practice so-called conversion therapy](https://ww
 本文记录了一位名叫Vickreman “Harvey” Chettiar的跨性别女性面临的重大法律和社会挑战。Harvey是一名自闭症跨性别女性，曾在2014年被关押于新加坡精神卫生机构的男性病房时遭受强奸。尽管她曾提出控诉并尝试通过法律途径寻求正义，但至今未能得到应有的法律保护。此文内容涵盖了她在英国寻求庇护的经历及其背后的故事，包括与其他新加坡LGBTQ+社群成员一同在伦敦抗议的情况。这次抗议旨在提高公众对她所面临的风险的认识，呼吁不要将Harvey送回她曾遭受虐待的机构。文中还详细描述了新加坡的基督教右翼势力对LGBTQ+权利的影响，以及Harvey和其他LGBTQ+活动者在寻求庇护过程中所遭受的迫害。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

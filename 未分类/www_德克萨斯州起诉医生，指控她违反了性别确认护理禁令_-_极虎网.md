@@ -76,7 +76,7 @@
 这起诉讼的发生可能会对许多变性人及其家庭产生深远影响，他们可能会因法律对性别确认照护的限制而受到实质伤害。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

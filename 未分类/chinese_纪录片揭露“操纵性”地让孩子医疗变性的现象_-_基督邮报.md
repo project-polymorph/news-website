@@ -62,7 +62,7 @@
 这篇文章讨论了纪录片《Trans Mission: What’s the Rush To Reassign Gender?》所揭露的关于儿童医疗变性的现象，影片由珍妮弗·拉尔制作，她是一位前儿科护士和生物伦理的倡导者。文章指出，当前社会上，尤其是在社交媒体的影响下，存在着推动少年儿童通过医疗和手术进行变性的急迫趋势。拉尔在采访中表达了她对于这种现象的担忧，认为性别认同障碍并非新现象，而是较为复杂的社会和心理问题，需要更全面的治疗与支持。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

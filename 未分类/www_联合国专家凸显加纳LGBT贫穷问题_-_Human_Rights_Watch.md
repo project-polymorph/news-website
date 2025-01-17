@@ -43,7 +43,7 @@ Three young women can't ever return home because of their sexuality
 该文件由人权观察机构撰写，聚焦于加纳的LGBT群体面临的贫困和歧视问题。联合国的专家呼吁加纳政府停止以刑事处罚来制止成年人之间合意的同性性行为，强调这样的措施严重侵犯了女同性恋、男同性恋、双性恋和跨性别（LGBT）人士的人权。报告指出，污名和歧视导致了LGBT群体在就业等方面的困难，很多人因此失去工作和受到暴力对待。文件中提到的多位女性分享了因性倾向被雇主解雇的经历，显示出加纳LGBT人士急需法律保护和社会支持。对于加纳的政府，呼吁其与LGBT群体进行沟通，以理解他们的需求并为其提供保护。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

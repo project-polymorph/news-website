@@ -89,7 +89,7 @@ Bennett Kaspar-Williams表示，尽管生孩子给自己带来了一些挑战，
 本文报道了一位名叫Bennett Kaspar-Williams的跨性别男性，他在经过性别过渡后生下了与丈夫Malik的孩子，成为了一位幸福的爸爸。Bennett出生时被指派为女性，在2011年意识到自己的性别认同为男性，并于2014年进行了变性手术和睾酮激素治疗。尽管他没有进行生殖器官手术，但他明确识别为男性。2017年，Bennett与Malik相遇并恋爱，2019年他们结婚。Bennett最终决定怀孕，并在停用睾酮激素治疗后，通过剖腹产生下男婴。在怀孕期间，Bennett对自己的性别认同坚定不移，他指出，不应该用“母亲”来定义女性，拥有孩子的同时他仍是一个父亲。此事引发了对跨性别者生育能力及性别认同的讨论。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

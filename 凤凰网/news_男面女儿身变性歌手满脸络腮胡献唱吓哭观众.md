@@ -21,7 +21,7 @@
 这篇文章报道了变性歌手Conchita Wurst在2014年5月10日的演出，演出时她身穿华丽的金色晚礼服，化着浓妆，且脸上留有络腮胡。文章描述了她在舞台上的出现让观众感到震惊，甚至“吓cry众人”。此外，文章还附带了与该事件相关的图片，展示了她的舞台造型。Conchita Wurst在2014年凭借其独特的形象和音乐风格引起了全球的关注，成为了跨性别者在艺术领域的重要代表。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

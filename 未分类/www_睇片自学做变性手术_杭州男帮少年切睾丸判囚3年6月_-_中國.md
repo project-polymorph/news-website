@@ -47,7 +47,7 @@ Copyright © 2018 mingpaocanada.com All rights reserved. **Ming Pao Daily News**
 该文件记录了一个关于变性手术的真实案例，报道了一个名为小斌的18岁男子为了变成女人，通过网络与一名自称能做变性手术的“医生”小俊取得联系，最终由小俊进行了一次非法的睾丸切除手术。手术在没有任何医学专业知识的情况下进行，导致小斌的父母报警，最终小俊被法院判刑3年6个月。本案例突显了在缺乏正规医学指导和法律保护的情况下，跨性别个体面临的风险和困境，该事件揭示了对变性人群体的医疗需求与社会认知之间的差距。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

@@ -77,7 +77,7 @@
 整份报告提供了对跨性别政策和医疗服务在不同国家之间差异化管理的深刻洞察，指出了美国在这一领域的权利与风险之间的矛盾，呼吁对未成年人性别过渡管理的审慎考虑。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

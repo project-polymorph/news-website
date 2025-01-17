@@ -272,7 +272,7 @@ Lesbian、Les、 Girlslove
 该文件为一篇关于性少数群体（LGBTQ+）的科普文章，发表于2017年9月。文章探讨了不同的性别和性取向的多样性，具体解释了“LGBTTQQIAAP+”这一名词中各字母的含义，包括女同性恋（Lesbian）、男同性恋（Gay）、双性恋（Bisexual）、跨性别者（Transgender）、变性人（Transsexual）、双灵人（Two-spirited）、酷儿（Queer）、疑性恋（Questioning）、间性人（Intersex）、无性恋（Asexual）、直同志（Ally）、泛性恋（Pansexual）等。文章指出，性别和性取向是流动的，人们可以在多种性别和性取向之间变化。这一讨论对于增加公众对性少数群体的了解和接受度具有重要意义，同时为对性别认同存在疑问的人提供了有价值的信息和支持。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

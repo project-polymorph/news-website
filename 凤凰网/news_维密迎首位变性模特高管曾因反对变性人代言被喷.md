@@ -110,7 +110,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 此文件报道了维密（Victoria's Secret）迎来了首位跨性别模特的消息，这是一个重要的里程碑，暗示着时尚界对跨性别群体的接受度正在逐渐提高。文件提到，该高管曾因反对跨性别模特代言而受到批评，这一背景为模特选择的改变增添了深度与复杂性。报道中提到的时间为2019年8月6日，强调了这一事件在当时的社会讨论中的重要性。该文件不仅呈现了时尚行业的变化，也反映了社会对跨性别人士态度的转变，以及面临的挑战与机遇。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

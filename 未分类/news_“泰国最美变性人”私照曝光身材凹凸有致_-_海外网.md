@@ -23,7 +23,7 @@ Copyright 2011-2022 by www.haiwainet.cn all rights reserved
 本文报道了泰国一位变性模特艾胥莉的个人故事。艾胥莉在经历了家庭的误解后，最终得到了父母的全力支持。他在成为时尚男模后，勇于分享自己的真实身份，鼓励他人对自己坦诚。文章提到，艾胥莉在跨性别经历中经历了外界的流言蜚语，但他现在不仅勇敢面对自己，还积极参与LGBT团体，帮助其他有类似经历的人。此篇文章通过艾胥莉的故事，展现了跨性别者在面对社会和家庭时的挑战与胜利，强调了自我肯定的重要性。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

@@ -40,7 +40,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 这是一篇关于经典奇幻喜剧冒险电影《人妖宿缘未了的爱情故事》的资讯文章，探讨了影片的情节和主题，尤其是跨性别与爱情之间的关系。文章中提到，这部电影以其独特的奇幻元素和冒险情节吸引了大量观众，至今播放量已达到142.9万。文章包含了一些重要的图片，并提供了媒体声明，强调所有作品内容均由用户上传，平台仅提供信息存储空间服务。此外，文章在内容的末尾附上了与影片相关的重要标签，如“跨性别”，“爱情”，“电影”，“奇幻”和“冒险”。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

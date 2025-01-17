@@ -68,7 +68,7 @@
 整篇文章从医疗知识出发，讨论了一个在社会中较具敏感性的话题，旨在增进理解和讨论医美领域更为复杂的现实情况。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

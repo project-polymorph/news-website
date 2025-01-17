@@ -53,7 +53,7 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 这篇文章是关于2013年豪歌cosplay新作中，爱丽丝伪娘团的一个特别编排，具体展示了她们在saber蓝色女仆装中的形象。作者表示这是她们用心拍摄的成果，特别强调了她们对角色的还原和表现的热情。文中还提到，豪歌希望漫迷和saber迷都能喜欢这个新作，并且附上了精美的图片。整个文章围绕着爱丽丝伪娘团的活动和展示展开，是对其表演和形象的赞美。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

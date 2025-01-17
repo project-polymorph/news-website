@@ -98,7 +98,7 @@ Parma added: "My fiance has always wanted a special occasion and we are really h
 这篇文章讲述了两名相爱的男性，帕尔玛·巴图里与斯蒂芬妮·尼克尔斯在经历变性手术后成为女性并相爱的故事。他们在2004年相识并开始交往，之后分别于2006年和2008年完成了变性手术。在生命的挑战面前，帕尔玛被诊断出晚期脑肿瘤，并被医生告知剩余生命不足一年。两人决定提前举办婚礼，以庆祝彼此的爱。尽管面临着经济困难，斯蒂芬妮为了照顾帕尔玛而放弃了模特生涯。文章呈现了他们深厚的感情及对于婚礼的美好憧憬，同时也引发了对跨性别者生活现状和权益关注。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

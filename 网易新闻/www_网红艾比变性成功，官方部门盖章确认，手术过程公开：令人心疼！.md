@@ -84,7 +84,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 这篇文章讲述了短视频平台网红艾比的变性经历，以及她在此过程中所面临的压力与挑战。艾比公开宣布自己已成功变性，获得了官方的性别确认，并分享了手术过程中部分资料。文章回顾了艾比自小渴望成为女孩的心路历程，并提到她在成长过程中经历过的歧视和困扰，如网络暴力和社会偏见。同时，艾比的家庭给予了她坚定的支持，使她能够在成年后顺利完成手术。文章最后鼓励大家接纳跨性别者的选择，赞扬艾比勇敢的决定，以及她的新生活所带来的快乐与自由。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

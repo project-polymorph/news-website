@@ -281,7 +281,7 @@ World Photography Organization
 这篇文章来自澎湃新闻，对于2020年的艺术展览和书籍进行了回顾和总结。文章涵盖了一系列具有影响力的艺术作品和展览，包括年度艺术家、展览和书籍的详细信息。例如，艺术家杨福东在上海香格纳的个展，以及Paul Kneale的展览“回收”。文字中提到这些艺术作品在当代社会背景下，特别是在新冠疫情和各类社会运动的影响下，带给我们的思考和启发。此外，文中还提到了一些推荐人，例如Eugenio Re Rebaudengo和靳宏伟，给予了这些艺术和书籍高度的评价。通过这些信息，读者能够了解当年艺术界的动态和重要的文化现象。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

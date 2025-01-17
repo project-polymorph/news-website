@@ -111,7 +111,7 @@
 本文介绍了中国首席变性手术大师陈焕然及其作为变性外科医生的职业生涯与实践。文章通过陈博士的经历和病人故事，探讨了变性手术的伦理、法律挑战与社会认同度。陈博士 being hailed as the pioneer in gender reassignment surgeries in China, discusses various cases of his patients, including李刚强（后转变为男性的李媛媛），其经历展现了变性人面临的法律与社会困境，以及手术过程的复杂性。文中也提到陈博士的努力与挑战，包括如何在中国的传统文化与法律框架中进行变性手术，以及他对未来技术，如“男妈妈”工程的设想，这些都将对当前的医学伦理和社会观念造成重大冲击。从医务和社会层面探讨了对变性人群体的尊重与理解以及变性手术的必要性和人道性。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

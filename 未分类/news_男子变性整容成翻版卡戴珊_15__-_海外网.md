@@ -22,7 +22,7 @@ Copyright 2011-2014 by www.haiwainet.cn all rights reserved
 该文件报道了一名美国男子Thalia Almodovar通过变性手术和整容手术，成功转变为外形接近金·卡戴珊的女子。文章描述了Thalia的身材和打扮模仿其偶像金·卡戴珊的过程，强调了她通过丰臀手术和乳房植入等方式实现的外貌变化。文章于2015年9月15日发表于中国青年网，目的是展示跨性别者追求自我认同和外貌的努力，同时也反映了社会对变性现象的关注和讨论。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

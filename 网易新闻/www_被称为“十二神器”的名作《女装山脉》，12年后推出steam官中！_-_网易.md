@@ -84,7 +84,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文介绍了被称为“十二神器”的游戏《女装山脉》及其背后的文化现象和社会影响。《女装山脉》是一款由日本游戏开发商脑内彼女推出的文字恋爱游戏，主打攻略伪娘的主题。文章回顾了该游戏的文化背景，提到2011年发布时引发的社交媒体热潮，及由其衍生出的各种梗与讨论。文中还分析了《女装山脉》在游戏界的独特地位，以及其对玩家群体的影响，尤其是在有关女装文化和跨性别认同上的探讨。游戏与视频《Boku no Pico》的对比也为理解其文化内涵提供了背景信息，指出了角色形象与内容可能引发的争议和讨论。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

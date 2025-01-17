@@ -155,7 +155,7 @@ Leigh Bowery（中）充滿創意的 Club Kid 打扮，直到今日還是許多�
 本文介绍了九位对变装文化产生深远影响的表演艺术家，从历史角度探讨了变装艺术的演变与发展。这些表演者不仅奠定了变装皇后的社会地位，还改变了公众对变装表演的看法。从Violet Chachki到Divine，这些艺术家各具特色，通过个人的艺术风格和表演技艺，使变装表演走入主流，受到喜爱与尊重。文章详细介绍了每位表演者的生平、代表作及其在变装文化中的重要性。例如，Violet Chachki因独特的复古风格获得广泛认可，而Divine则因其无厘头的演出而成为重要的文化符号。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

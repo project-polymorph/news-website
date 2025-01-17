@@ -29,7 +29,7 @@ Margaret称在婚姻生活中自己一直在试图掩饰自己对男性身体的
 该文件讲述了一位名为Margaret Pepper的男性在其妻子去世后的经历。Margaret曾是一名男性名叫Maurice，生活中一直压抑自己的性别认同。在妻子Anita因老年痴呆症住进疗养院后，Margaret决定接受变性手术，成为一名女性。她于2004年完成变性手术，开始以女人的身份生活。葬礼上，Margaret以新身份参加妻子的葬礼，并分享了她与Anita的共同生活经历。文件描述了Margaret的过渡历程及个人情感，展现了跨性别者在家庭和社会中的复杂情感与挑战。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

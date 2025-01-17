@@ -28,7 +28,7 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有
 该文件详细报道了澳大利亚选手巴格尔（transgender athlete Baguley）在2004年参加澳洲女子高球巡回赛的历史性时刻，她将成为第一位参加女子高球巡回赛的变性人。文章中提到巴格尔在2004年3月4日的公开赛前的练习活动，图文并茂，展示了她的挥杆姿势，强调了性别与体育竞技之间的关系，以及跨性别者在体育界所面临的挑战与突破。此文不仅关注运动成就，更引发了对跨性别运动员权益的关注，体现了社会对多样性与包容性的渐进性理解。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

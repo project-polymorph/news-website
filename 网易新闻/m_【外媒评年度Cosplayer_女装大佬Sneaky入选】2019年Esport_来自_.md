@@ -40,7 +40,7 @@
 这篇文章报道了2019年Esports Award年度电子竞技奖的提名情况，特别关注了知名女装Coser Sneaky的入围。他是一名来自C9战队的ADC选手，以其在《英雄联盟》中展示的COSPLAY作品而受到关注。文章中提到Sneaky入围的代表作品是来自《DARLING in the FRANXX》的角色CODE：002。报道配有多张Sneaky的COSPLAY图片，展现了他的化妆技巧和服装设计，以及他在电子竞技界中的影响力。该文讨论了电子竞技文化与COSPLAY文化的结合，反映了跨性别者在电子竞技及其相关领域中逐渐获得的认可和支持。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

@@ -27,7 +27,7 @@
 本文记录了阿根廷两位变性人Alexis Taborda与Karen Bruselario的婚礼。故事中，Alexis原本是女性，经过变性手术后怀有八个月的身孕，而Karen原本是男性，经过变性手术成为女性。两人在一年前的示威活动中相识，最终在阿根廷国会的支持下结为夫妻。此次婚礼的举行标志着阿根廷在承认和支持跨性别婚姻方面的进步，体现了变性人追求爱情与家庭的权利和勇气。文章同时配有婚礼的图片，生动展示了这一历史时刻。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

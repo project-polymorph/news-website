@@ -45,7 +45,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 本文是关于中国大陆首位变性人金星的故事，她在经历变性手术后的成长与奋斗历程。文章回顾了她的变性手术过程，包括她的痛苦与挑战，其中提到金星自幼就感觉自己应是女孩，并在经过一系列手术后终于实现了自我认同。文中引用了金星的话，强调跨性别者也需要得到尊重与理解，并反对社会对跨性别者的偏见。金星在经历手术并康复后，再次站上了舞台，展现了她在艺术领域的实力，体现了跨性别者的勇气与坚强。文章呼吁社会消除对跨性别者的误解，倡导尊重与包容。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|

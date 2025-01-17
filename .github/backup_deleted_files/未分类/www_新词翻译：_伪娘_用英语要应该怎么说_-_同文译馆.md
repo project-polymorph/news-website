@@ -37,7 +37,7 @@ cross-gender performance就是“跨性别表演”，也就是男女反串表�
 本文探讨了中文词汇"伪娘"在英语中的翻译，首先指出"伪娘"通常指男扮女装的男性角色，使用了多种可能的英文表达，如"tomboy"和"cross-dresser"。作者阐释了这些词汇的含义，并提出了"反串表演"在英语中可能的翻译为"cross-gender performance"。文中还提到，通过手术改变性别的人被称为"transgender"，并讨论了"人妖"这一概念的翻译问题，提出了多种可能的表达方式，如"ladyboy"和"ladyman"。整体来看，作者通过对比中英文表达，带出对跨性别文化讨论的重要性，以及对相关词汇的当代翻译需求。
 <!-- tcd_abstract_end -->
 
-附加信息 [Processed Page Metadata]
+### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
