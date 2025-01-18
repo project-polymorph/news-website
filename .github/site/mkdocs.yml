@@ -57,7 +57,7 @@ plugins:
       #  as_update: date.updated
   #- git-authors
   - git-revision-date-localized:
-      enable_creation_date: false
+      enable_creation_date: true
 extra:
   analytics:
     provider: google
