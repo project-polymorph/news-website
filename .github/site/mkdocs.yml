@@ -52,12 +52,12 @@ plugins:
         font_family: Noto Sans SC
   - rss:
       match_path: ".*"
-      date_from_meta:
-        as_creation: date.created
-        as_update: date.updated
-  - git-authors
-  - git-revision-date-localized:
-      enable_creation_date: true
+      # date_from_meta:
+      #  as_creation: date.created
+      #  as_update: date.updated
+  #- git-authors
+  #- git-revision-date-localized:
+      #enable_creation_date: true
 extra:
   analytics:
     provider: google
