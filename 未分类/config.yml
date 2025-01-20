@@ -4285,13 +4285,6 @@ files:
   size: 1835
   md5: 1dbb4374cfac229d2d03114076273e0c
   page: news_英国最早的异装癖肖像被发现（图）_-_中国收藏网.md
-- name: news_药娘_标签
-  filename: news_药娘_标签.md
-  type: webpage
-  format: Markdown
-  size: 1029
-  md5: 5b3cbaa16c99b509b10457e7522437f9
-  page: news_药娘_标签.md
 - name: news_菲律宾当局向涉嫌杀害菲变性人美军士兵发出传票
   filename: news_菲律宾当局向涉嫌杀害菲变性人美军士兵发出传票.md
   type: webpage
