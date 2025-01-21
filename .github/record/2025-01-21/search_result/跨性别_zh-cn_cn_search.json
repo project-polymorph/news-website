@@ -1,0 +1,475 @@
+{
+  "query": "跨性别",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 1,
+  "endpoint": "/news",
+  "date": "2025-01-21T06:02:02.051846",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "news",
+        "num": 100,
+        "page": 1,
+        "tbs": "qdr:m",
+        "engine": "google"
+      },
+      "news": [
+        {
+          "title": "跨性别：中国高校公示学生出柜信息引争议",
+          "link": "https://www.bbc.com/zhongwen/articles/czxkv0qzqwzo/simp",
+          "snippet": "华中科技大学将一位跨性别女性在校生变更身份证性别的详情资料张贴公示，文件详细记录学生姓名以及资讯更新缘由。此举引发民众关于个人隐私过度揭露的惶恐。",
+          "date": "6 天前",
+          "source": "BBC",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnqA1sZtZIZAWdMpAfo0S8ogtONrrDTGKrYinpBzk65B5FUZbZLB2T-pE&usqp=CAI&s",
+          "position": 1
+        },
+        {
+          "title": "特朗普会阻止“跨性别疯狂”吗？",
+          "link": "https://chinese.aljazeera.net/news/political/2024/12/25/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E9%98%BB%E6%AD%A2%E8%B7%A8%E6%80%A7%E5%88%AB%E7%96%AF%E7%8B%82%E5%90%97",
+          "snippet": "复杂性和阻碍性. 与禁止男女性别歧视相反，跨性别身份并未得到宪法承认，这将使跨性别者在基于性别的歧视方面的法律地位变得复杂化和受到阻碍。 共和党保守派获得6 票多数，而...",
+          "date": "4 周前",
+          "source": "الجزيرة نت",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUCb942Uf6JI5wRZ6H24wAGHvGNQzn8-R9wnILKvGfOs2S9GYuzOzVaWo&usqp=CAI&s",
+          "position": 2
+        },
+        {
+          "title": "肉身，割裂，重建的自我：台湾四位跨性别者的手术记事",
+          "link": "https://theinitium.com/zh-hans/article/20250109-taiwan-four-transgender-journeys",
+          "snippet": "我最大的心愿，就是有一天可以搬出去，找一个自己的空间，放自己喜欢的衣服，自由地化妆，到时候我就不用再演了。 跨性别者琳子。摄：陈焯煇/端传媒.",
+          "date": "1 周前",
+          "source": "端傳媒Initium Media",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShUCo7du_mDPoDPqf1cnjz80XF92a7qPr7mxc8pPM3GdwbbewHnhtjFgQ&usqp=CAI&s",
+          "position": 3
+        },
+        {
+          "title": "台湾跨性别老师黄明真：从被逼离职到获“教育界奥斯卡奖”师铎奖，社会真的更包容多元了吗？",
+          "link": "https://www.bbc.com/zhongwen/articles/crmnp990px7o/simp",
+          "snippet": "2000年，“叶永鋕事件”促成性别平等法案修法——15岁国中生叶永鋕因为“娘娘腔”，常遭同学霸凌，被强行脱裤，甚至有同学专门在厕所等着欺负他。事发当天，他一如往常在下课前五分钟...",
+          "date": "3 周前",
+          "source": "BBC",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLEP2n76bC9dLVrYEBrmemfoi5oDV8vwDam73bzoXw8LLKFR0Ka3E1D00&usqp=CAI&s",
+          "position": 4
+        },
+        {
+          "title": "英国跨性别模特“隐瞒实情”和男孩亲密，遭当街报复，19岁孤女是领头者",
+          "link": "https://news.qq.com/rain/a/20250117A00YJH00",
+          "snippet": "当地时间1月16日，伦敦警察厅公布了一段由街头监控拍下的视频，可以看到戴着面具和手套的蒙面歹徒埋伏在停车场等待，当面带微笑的毫无戒心的受害者靠近时，他们对她拳打脚...",
+          "date": "4 天前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjfefD0gs03a-dOzMxEhAr9IZPVRXKS3CA9dSbDhzcHifPo9WQ8xrJCGQ&usqp=CAI&s",
+          "position": 5
+        },
+        {
+          "title": "美国通过立法：禁止跨性别女学生参加中小学校的女生体育项目",
+          "link": "https://news.mydrivers.com/1/1025/1025568.htm",
+          "snippet": "1月16日消息，据国外媒体报道称，美国众议院今天通过立法，禁止跨性别女学生参加中小学校的女生体育项目。这项法案以218票对206票，几乎完全按照党派划线获得通过，...",
+          "date": "5 天前",
+          "source": "驱动之家",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZOspwkgcums9QOJmNZE_0aVec6CrPm-_sk4cj9Xg1CDwj3cqpBkpDRw&usqp=CAI&s",
+          "position": 6
+        },
+        {
+          "title": "特朗普称上任第一天就要阻止 “变性妄想”",
+          "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20241222-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8A%E4%BB%BB%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E8%A6%81%E9%98%BB%E6%AD%A2-%E5%8F%98%E6%80%A7%E5%A6%84%E6%83%B3",
+          "snippet": "这位将在1月20日就职的美国总统称：“我将签署行政命令，结束切割儿童生殖器的做法，将跨性别者排除在军队之外，并将他们排除在小学、初中和高中之外”。",
+          "date": "1 个月前",
+          "source": "RFI",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFrXBvETJhr3YOUpeE3V4tvZ7tTNPbq1MxlESS3dFNpZccvBr1cfH1xcc&usqp=CAI&s",
+          "position": 7
+        },
+        {
+          "title": "健身房跨性別爭議引華人恐慌 律師籲平衡多方需求",
+          "link": "https://www.epochtimes.com/gb/25/1/9/n14409415.htm",
+          "snippet": "日前，居住在亚凯迪亚市（Arcadia）的华人陈女士于洛杉矶一间连锁健身房的女性更衣室内，发现一名声线粗旷、外表疑似男性的使用者。",
+          "date": "1 周前",
+          "source": "大紀元新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTvPdyeVMQ83xLZJeb9-IAGeXKqu1p3dKwxZwuw2GQr99BP1KgjGfaJ6w&usqp=CAI&s",
+          "position": 8
+        },
+        {
+          "title": "美国众议院通过法案 禁跨性别学生参加女子运动",
+          "link": "https://www.swissinfo.ch/chi/%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E6%B3%95%E6%A1%88-%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E5%AD%A6%E7%94%9F%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%AD%90%E8%BF%90%E5%8A%A8/88724687",
+          "snippet": "法新社华盛顿14日电） 美国由共和党人把持的联邦众议院今天通过一项法案，严格限制跨性别运动员参加女孩与女子运动。 这项立法将禁止跨性别学生参加任何接受联邦资助的...",
+          "date": "5 天前",
+          "source": "SWI swissinfo.ch",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYGZ87Gf4lBtJIcN9d1ql6LDMsoBHp9GR6E7Quoaq1v6oT6yuMMbuoSaM&usqp=CAI&s",
+          "position": 9
+        },
+        {
+          "title": "變性者參與女子體育賽事？ 加州議員提案禁止",
+          "link": "https://www.ntdtv.com/gb/2025/01/16/a103948580.html",
+          "snippet": "【新唐人北京时间2025年01月16日讯】周二（14日），美国国会众议院通过了“禁止跨性别学生参与女子体育赛事”的法案，同时，加州共和党立法者也提出了一项类似的提案，确保只有...",
+          "date": "4 天前",
+          "source": "新唐人電視台",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Y2Zuzsh5v8C5Mnvgzodr8NE0SX0GoJqp58TxMiokPn-gHL9e5epju-Q&usqp=CAI&s",
+          "position": 10
+        },
+        {
+          "title": "“我想去泰国！”，《鱿鱼游戏2》 跨性别者角色引发关注",
+          "link": "https://www.thaiheadlines.com/162774/",
+          "snippet": "“我想去泰国！”，《鱿鱼游戏2》跨性别者角色引发关注 ... 泰国头条新闻社讯据泰国媒体报道，12月26日，大热韩剧《鱿鱼游戏2》开播，其中跨性别者角色“Jo Hyun Joo”（朴成焄饰）引发...",
+          "date": "3 周前",
+          "source": "泰国头条新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaXhQkvVf0gSYbE_C0Jhc4d-Awjc3gkCgjifr-zvjWrGrRssAQNUT2k6Y&usqp=CAI&s",
+          "position": 11
+        },
+        {
+          "title": "2024年终专题：台港跨性别议题的讨论与回响｜端闻 Podcast",
+          "link": "https://theinitium.com/zh-hans/audio/20250102-initium-audio-end-of-year-review-transgender-issue",
+          "snippet": "这些恐惧与不信任扩大为偏见，落到个体身上，就会造成具体的伤害。",
+          "date": "2 周前",
+          "source": "端傳媒Initium Media",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHjO8XL-YWxj_rvt8yNYcR1vQIKDSYYvu7OTaIlADNPql7Fc10TETucw&usqp=CAI&s",
+          "position": 12
+        },
+        {
+          "title": "曝《龙腾4》跨性别总监离职！工作室恐被关闭",
+          "link": "https://www.163.com/dy/article/JM3O1NR40526K1KN.html",
+          "snippet": "据外媒爆料，《龙腾世纪4》的跨性别总监CorinneBusche现已从Bioware和EA离职。此外，爆料还称负责开发《龙腾世纪4》的BioWare埃德蒙顿工作室将于2025年2月关闭。",
+          "date": "4 天前",
+          "source": "网易",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpA_CqF2-wD2H_s6hoOw40DwHYWdf1M0J91W9jxhiqC71UtV4U95mbIc&usqp=CAI&s",
+          "position": 13
+        },
+        {
+          "title": "《鱿鱼游戏2》「跨性别者」朴成焄演技受肯定！观众：让我感觉他就是女人",
+          "link": "https://www.koreastardaily.com/sc/news/156419",
+          "snippet": "Netflix原创韩剧《鱿鱼游戏》凭藉第一季在全球掀起收视热潮，片中的游戏场景、红绿灯娃娃、面具设计等元素成为流行符号，甚至被改编为主题公园、游戏和商品。",
+          "date": "2 周前",
+          "source": "KSD 韓星網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygzqzV4dvq9mvNURMOegKE9LMT6Y6EK1cMN3XyK8LOpgT8jMiF80RUgf8&usqp=CAI&s",
+          "position": 14
+        },
+        {
+          "title": "曝设计师是跨性别人士后CDPR被翻旧账：老DEI惯犯了",
+          "link": "https://news.qq.com/rain/a/20241222A07BAM00",
+          "snippet": "近日Reddit上有网友爆料称，CDPR的IP和世界观设计师Cian Maher是一名跨性别意识形态的坚定支持者，他以前任职游戏记者时曾在推特上明确表示自己不喜欢游戏玩家们，...",
+          "date": "1 个月前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa6RSmvLAKPZg6A3YHw69bTWIxMKzMORtx3AtNY4a28339p5rsb0Vu2Zk&usqp=CAI&s",
+          "position": 15
+        },
+        {
+          "title": "特朗普：在我领导下，美国只有两种性别",
+          "link": "https://news.ifeng.com/c/8fYaVDjXEmQ",
+          "snippet": "美国当选总统特朗普当地时间23日在美亚利桑那州凤凰城发表了超过70分钟的长篇演讲，特朗普本人称这一演讲是他的政府将带来的“常识革命的小小预演”。在演讲中，他承诺将在...",
+          "date": "1 个月前",
+          "source": "凤凰网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qwz9IV5a_3MpNVXQjEzn3Y8fybdlg5UBqa7MU5tL_EqHVqK-HWe_v-A&usqp=CAI&s",
+          "position": 16
+        },
+        {
+          "title": "德州總檢察長控告NCAA涉嫌誤導性別政策",
+          "link": "https://www.epochtimes.com/gb/24/12/26/n14398569.htm",
+          "snippet": "德克萨斯州总检察长Ken Paxton 于12月22日对美国大学体育协会（NCAA）提起诉讼，指控其误导观众，让他们以为自己正在观看同一性别运动员之间的比赛。",
+          "date": "3 周前",
+          "source": "大紀元新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1aZVctIShLPDqqz2A4_-ciCwwkwr0cCH5R51MyG816wP0M0TjtzrTKCs&usqp=CAI&s",
+          "position": 17
+        },
+        {
+          "title": "《龙腾世纪4》跨性别总监为失败开脱：玩家还是不够包容",
+          "link": "https://news.mydrivers.com/1/1020/1020919.htm",
+          "snippet": "《龙腾世纪4》跨性别总监Corinne Busche最近接受Inverse采访时，将该游戏令人失望的表现归咎于社区玩家的仇恨活动和差评轰炸，暗示这些外部压力盖过了游戏的内部缺陷。",
+          "date": "1 个月前",
+          "source": "驱动之家",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLiSLPwdcZOAMJdGvPmR97Vcu45M2rlGIZOJedPLWjLA6IEJcqkBk02A&usqp=CAI&s",
+          "position": 18
+        },
+        {
+          "title": "有点像打雷姐（跨性别版）",
+          "link": "https://i.ifeng.com/c/8g5XQOZgslj",
+          "snippet": "全球首位跨性别戛纳影后Karla Sofía Gascón 最近在美国颁奖季度横扫。 “特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并...",
+          "date": "1 周前",
+          "source": "凤凰网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYbsAe3koEREGi6losv4xBOjl8CrGzMKPPvGXMiqqorLvJTSK3v95bII&usqp=CAI&s",
+          "position": 19
+        },
+        {
+          "title": "眾院通過法案 跨性別學生「禁參加」女子體育賽事",
+          "link": "https://www.worldjournal.com/wj/story/124238/8491751?from=wj_catelistnews&zh-cn",
+          "snippet": "总统当选人川普矢言「停止跨性别精神错乱」，强调美国政府的官方政策「将只有两种性别：男性和女性」，不会让男性参加女子体育。...",
+          "date": "5 天前",
+          "source": "World Journal",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQo0Fz-N1yHUAYafJv5nHzLKpjjnDGVHhJAWbOyXNMf3TTueUjUdP7qw4&usqp=CAI&s",
+          "position": 20
+        },
+        {
+          "title": "褒姒！有一个算一个！曝《龙腾世纪4》跨性别总监离职！ 工作室恐被关闭",
+          "link": "https://www.msn.com/zh-cn/gaming/other/%E8%A4%92%E5%A7%92-%E6%9C%89%E4%B8%80%E4%B8%AA%E7%AE%97%E4%B8%80%E4%B8%AA-%E6%9B%9D-%E9%BE%99%E8%85%BE%E4%B8%96%E7%BA%AA4-%E8%B7%A8%E6%80%A7%E5%88%AB%E6%80%BB%E7%9B%91%E7%A6%BB%E8%81%8C-%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%81%90%E8%A2%AB%E5%85%B3%E9%97%AD/ar-AA1xlBSv",
+          "snippet": "据国外媒体报道，《龙腾世纪4》的跨性别游戏总监Corinne Busche已正式从Bioware及EA(艺电)公司离职。",
+          "date": "1 天前",
+          "source": "MSN",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdk4ngVxR5uHXtXYJd7Td14HBD28rtNgVjeN96EzUVAOUmL3axyCfLW4&usqp=CAI&s",
+          "position": 21
+        },
+        {
+          "title": "联邦法庭裁定违宪，拜登政府跨性别学生保护举措受挫",
+          "link": "https://stnn.cc/c/2025-01-10/3949453.shtml",
+          "snippet": "肯塔基州联邦法庭裁定，拜登政府无权扩大为了保障跨性别学生，而扩大《教育法修正案第九条》（Title IX）的适用范围，教育部的行为超越职权，也侵犯了教师的言论自由。",
+          "date": "1 周前",
+          "source": "星岛环球网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3q8XG0yjYgV76FeVx-FKUp-UOMSCAjEGHtz1oLt-lvleaQDbVyaNUl4&usqp=CAI&s",
+          "position": 22
+        },
+        {
+          "title": "姚耀光：厕所的争论",
+          "link": "https://www.zaobao.com.sg/lifestyle/columns/story20250111-5697106",
+          "snippet": "去年底，美国民主党众议员萨拉·麦克布莱德（Sarah McBride）成为美国首位当选国会议员的跨性别者，这一历史性事件引发了一场关于厕所使用的争论。",
+          "date": "1 周前",
+          "source": "联合早报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qeFLKU6TOCYE2atu9ACtInwrnVIGIEzVFZ4gF1f-ThGcZEe-eaYFSLE&usqp=CAI&s",
+          "position": 23
+        },
+        {
+          "title": "又抹黑跨性別 川普：美官方政策將只有兩種性別",
+          "link": "https://www.worldjournal.com/wj/story/124279/8442721?zh-cn",
+          "snippet": "总统当选人川普今天矢言于上任首日「停止跨性别精神错乱」。他并承诺「不让男性参加女子体育」，并强调美国政府的官方政策「将只...",
+          "date": "1 个月前",
+          "source": "World Journal",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxUOr-VranBz-ccox218G6QPfXm1CLIrgujyJg92mBXcaYStXDhSkn70&usqp=CAI&s",
+          "position": 24
+        },
+        {
+          "title": "曝设计师是跨性别人士后CDPR被翻旧账：老DEI惯犯了",
+          "link": "https://www.yeeyi.com/news/details/2567535/",
+          "snippet": "此前我们曾报道过，近日Reddit上有网友爆料称，CDPR的IP和世界观设计师Cian Maher是一名跨性别意识形态的坚定支持者，他以前任职游戏记者时曾在推特.",
+          "date": "1 个月前",
+          "source": "亿忆网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-s_YLd5ztB2NCnO_wTwlXpE8Fe6usAcusEce4_eh70RsG6EcTTsfSXzM&usqp=CAI&s",
+          "position": 25
+        },
+        {
+          "title": "特朗普：美官方政策仅2种性别，不让“男性”参加女子赛事",
+          "link": "https://stnn.cc/c/2024-12-23/3944707.shtml",
+          "snippet": "美国总统当选人特朗普周日前往亚利桑那州凤凰城参加保守派年度盛会“AmericaFest大会”，期间提到跨性别议题，强调要结束“跨性别的疯狂举动”，要将跨性别者逐出军队和小学、...",
+          "date": "1 个月前",
+          "source": "星岛环球网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsLqfnVk7MhFqECB9ANXRTBRcVA_ArxQf1o0GeZEvSkfoDydyH6-TDiJg&usqp=CAI&s",
+          "position": 26
+        },
+        {
+          "title": "曝《龙腾4》跨性别总监离职！ 工作室恐被关闭",
+          "link": "https://www.msn.com/zh-cn/gaming/other/%E6%9B%9D-%E9%BE%99%E8%85%BE4-%E8%B7%A8%E6%80%A7%E5%88%AB%E6%80%BB%E7%9B%91%E7%A6%BB%E8%81%8C-%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%81%90%E8%A2%AB%E5%85%B3%E9%97%AD/ar-AA1xlp3k",
+          "snippet": "据外媒爆料，《龙腾世纪4》的跨性别总监Corinne Busche现已从Bioware和EA离职。",
+          "date": "3 天前",
+          "source": "MSN",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvaMm0zruMRVeIba3qiXI7MEilQQdriJlC9c6S563_CPtjujYJ_kdF9Yk&usqp=CAI&s",
+          "position": 27
+        },
+        {
+          "title": "健身房更衣室遇跨性別者 華女感不適",
+          "link": "https://www.worldjournal.com/wj/story/121359/8473298?zh-cn",
+          "snippet": "南加州天普市（Temple City）一家连锁健身房女性更衣室，华人陈小姐发现一名外表疑似男性的用户。当她向工作人员报...",
+          "date": "2 周前",
+          "source": "World Journal",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.worldjournal.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "position": 28
+        },
+        {
+          "title": "英钩协官宣禁跨性别参加女钩赛| 精选| 体育 | 2025-01-09",
+          "link": "https://guangming.com.my/%E8%8B%B1%E9%92%A9%E5%8D%8F%E5%AE%98%E5%AE%A3-%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8F%82%E5%8A%A0%E5%A5%B3%E9%92%A9%E8%B5%9B",
+          "snippet": "（伦敦9日讯）英格兰钩球协会宣布，从下赛季开始，禁止跨性别女性参加女子组别的比赛。 为解决跨性别和非二元性别者的参与问题，英格兰钩球协会设立了两个比赛类别：女子组和...",
+          "date": "1 周前",
+          "source": "光明日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkVWb9gZr1tawMoiQam3JHPnWgMvcfKCPmIUEs0UaV7M89mLN1TObnLI&usqp=CAI&s",
+          "position": 29
+        },
+        {
+          "title": "拜登撤回 保障跨性别运动员提案",
+          "link": "https://www.chinapress.com.my/20241222/%E6%8B%9C%E7%99%BB%E6%92%A4%E5%9B%9E-%E4%BF%9D%E9%9A%9C%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E6%8F%90%E6%A1%88/",
+          "snippet": "（华盛顿22日综合电）多家媒体在周日报导，美国总统拜登先前计划从“1972年教育法修正案”第九条（Title IX）延伸，制定一项规则来保障大学跨性别运动员权益，现在决定放弃这项...",
+          "date": "1 个月前",
+          "source": "中國報 China Press",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AhWjXw27S0uogioLH0BItZVPH87-vlQDWb6m_to_zz3lkrLpZud8jaqy&usqp=CAI&s",
+          "position": 30
+        },
+        {
+          "title": "眾院通過法案 禁止跨性別學生參加女子運動賽事",
+          "link": "https://www.worldjournal.com/wj/story/121468/8490616?from=wj_maintab_cate&zh-cn",
+          "snippet": "共和党主导的众院14日通过法案，禁止跨性别学生参加由联邦资助的学校所举办的女子运动赛事。 投票结果为218票赞成、206票反对；所有共和党议员皆投下赞成票，只有两名...",
+          "date": "6 天前",
+          "source": "World Journal",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR39S3gBk8uO4dL_gts-z9OxH2wkoEr-ouaWFwx016jS5bRwlEa1wM9JlI&usqp=CAI&s",
+          "position": 31
+        },
+        {
+          "title": "美众院通过法案 禁跨性别学生参加女子运动赛事 - 国际 - 即时国际",
+          "link": "https://www.sinchew.com.my/news/20250115/international/6222509",
+          "snippet": "（华盛顿15日综合电）美国众议院14日通过一项法案，禁止跨性别学生参加由联邦资助的学校所举办的女子运动赛事。法案在共和党主导的众院以218票赞成、206票反对中通过，...",
+          "date": "5 天前",
+          "source": "Sin Chew Daily",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyzCBmz1LVC-kzF5FL4uhBAqY_ChRera8YBgjBBGOsFeOqOFFMkG3nIf0&usqp=CAI&s",
+          "position": 32
+        },
+        {
+          "title": "《龙腾4》跨性别总监离职 玩家:快失业别祸害别的游",
+          "link": "https://www.yeeyi.com/news/details/2591668/",
+          "snippet": "昨日据外媒爆料，《龙腾世纪：影障守护者》的跨性别总监Corinne Busche现已从Bioware和EA离职，业内知名人士Jeff Grubb也证实了这一点。",
+          "date": "2 天前",
+          "source": "亿忆网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEiAB-ZB-RQJLL8LJxe7Ah6O0lV71tfPdT7K746mjmX6uxd41ymNHTJes&usqp=CAI&s",
+          "position": 33
+        },
+        {
+          "title": "璀璨女人夢…坎城首名「跨性別影后」 入圍「英國奧斯卡」",
+          "link": "https://www.worldjournal.com/wj/story/121232/8494421?zh-cn",
+          "snippet": "首名坎城影展跨性别影后卡拉加斯康得奖片「璀璨女人梦」，去年11月全美上映。对于近日洛杉矶野火，卡拉加斯康表达「心碎」，并...",
+          "date": "4 天前",
+          "source": "World Journal",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbjB19ePIHe0ogjSJU42RFk2OL8wSR7ZiYUVn4fMxZm-BV9JKnR35rOmE&usqp=CAI&s",
+          "position": 34
+        },
+        {
+          "title": "美国政策将只承认两种性别 特朗普:禁生理男参加女子体育",
+          "link": "https://www.enanyang.my/node/641892",
+          "snippet": "美国候任总统特朗普22日矢言，他上任首日将“停止跨性别精神错乱”。",
+          "date": "1 个月前",
+          "source": "Enanyang",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszWCI4NsYbppmFKX3SALu9npRRWF_htDNbAA1LkVrxBk-byG8Efuz3F4&usqp=CAI&s",
+          "position": 35
+        },
+        {
+          "title": "Meta大改政策 允说同志跨性别人士“有精神病” “不正常” - 国际 - 即时国际",
+          "link": "https://www.sinchew.com.my/news/20250108/international/6203183",
+          "snippet": "（华盛顿8日综合电）社交媒体巨头Meta周二宣布大幅调整内容审核政策，包括终止美国的事实核查计划，不再进行专业事实查核。除此之外，Meta还悄悄更新针对仇恨内容的政策，...",
+          "date": "2 周前",
+          "source": "Sin Chew Daily",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkgAdZExEDTXBrJqUuQmBoliHvZd_RGMLRrmx6tgSGof6bZ6Z0V1ayheQ&usqp=CAI&s",
+          "position": 36
+        },
+        {
+          "title": "【特朗普重返白宫】特朗普扬言“制止LGBTQ疯狂行为”",
+          "link": "https://www.orientaldaily.com.my/news/international/2024/12/23/701286",
+          "snippet": "（菲尼克斯23日讯）美国候任总统特朗普当地时间周日誓言，在他上任的第一天就“制止跨性别者的疯狂行为”，而即将控制美国国会两院和白宫的共和党，将继续反对LGBTQ（同性恋、...",
+          "date": "1 个月前",
+          "source": "马来西亚东方日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYxh0eNHi9S1rtTKK3f6cCpuPvCqH4KAWIbS-ms5fGhNlwnBEXqmh1O60&usqp=CAI&s",
+          "position": 37
+        },
+        {
+          "title": "专栏乔靖夫│跨性别选手遭杯葛风暴| 星岛日报",
+          "link": "https://std.stheadline.com/sc/realtime/article/2044914/%E5%8D%B3%E6%99%82-%E9%AB%94%E8%82%B2-%E5%B0%88%E6%AC%84-%E5%96%AC%E9%9D%96%E5%A4%AB%E2%94%82%E8%B7%A8%E6%80%A7%E5%88%A5%E9%81%B8%E6%89%8B%E9%81%AD%E6%9D%AF%E8%91%9B%E9%A2%A8%E6%9A%B4",
+          "snippet": "早前的巴黎奥运因为女性拳击选手的性别被质疑而引起颇大风波，其实关于跨性别运动员的争议在西方国家体育界一直在燃烧，近期比较瞩目的是美国西.",
+          "date": "2 周前",
+          "source": "星島日報",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvaY1L3cxulWwTFSo0ePh3LAT-znjrUpx7k63hIJQ1zR2DGcv5XkmRXo&usqp=CAI&s",
+          "position": 38
+        },
+        {
+          "title": "【特朗普重返白宫】特朗普2.0终止多元性别 只承认男性和女性",
+          "link": "https://www.orientaldaily.com.my/news/international/2025/01/21/707331",
+          "snippet": "（华盛顿21日讯）重返白宫的特朗普当地时间周一发表就职演说，誓言将法律秩序带回社会，他宣布终止多元性别，并表示从今天起，他领导下美国政府的正式政策将只有两种性别：...",
+          "date": "3小时前",
+          "source": "马来西亚东方日报",
+          "imageUrl": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.orientaldaily.com.my&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "position": 39
+        },
+        {
+          "title": "特朗普誓上台后迅速行动 反移民 反跨性别 贸易战 - 国际 - 国际头条",
+          "link": "https://www.sinchew.com.my/news/20250119/international/6232777",
+          "snippet": "（华盛顿19日综合电）美国候任总统特朗普将在当地时间周一（20日）宣誓就职，成为美国第47任总统。特朗普矢言在周一重返白宫后，将采取大规模和快速的行动，包括大规模驱逐...",
+          "date": "1 天前",
+          "source": "Sin Chew Daily",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRT_egcUila7ZSjWQMgyd_YKLs7SXDCmlvK2RGBHKy9OC6oPMaNbS7O3c&usqp=CAI&s",
+          "position": 40
+        },
+        {
+          "title": "跨性别女切6根肋骨瘦身 还打算制肋骨皇冠",
+          "link": "https://www.chinapress.com.my/20250115/%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%88%876%E6%A0%B9%E8%82%8B%E9%AA%A8%E7%98%A6%E8%BA%AB-%E8%BF%98%E6%89%93%E7%AE%97%E5%88%B6%E8%82%8B%E9%AA%A8%E7%9A%87%E5%86%A0/",
+          "snippet": "（华盛顿15日综合电）美国一名跨性别女子为了追求纤细的腰身，不惜动手术取出六根肋骨。更令人惊讶的是，为了不要“浪费”，她打算用这些取出的肋骨，做成一顶“肋骨皇冠”，...",
+          "date": "6 天前",
+          "source": "中國報 China Press",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKeH8Qph1o9W7YEUmsxh76Lp5gb945JGquIzR_lktGZqm4RKrv3rE8vs&usqp=CAI&s",
+          "position": 41
+        },
+        {
+          "title": "特朗普重入白宫｜特朗普终止多元性别 美国只承认男和女",
+          "link": "https://www.chinapress.com.my/20250121/%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E5%85%A5%E7%99%BD%E5%AE%AB%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%88%E6%AD%A2%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB-%E7%BE%8E%E5%9B%BD%E5%8F%AA%E6%89%BF%E8%AE%A4/",
+          "snippet": "（华盛顿21日综合电）美国总统特朗普20发表就职演说，誓言将法律秩序带回社会，他宣布终止多元性别，并表示从今天起，美国政府的正式政策将只有两种性别：男性和女性。",
+          "date": "3小时前",
+          "source": "中國報 China Press",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRST82uOhV4TmkQsfY3cw9jr4KxQFPenNBLjA5hDYZ710ELekWOBctdnlo&usqp=CAI&s",
+          "position": 42
+        },
+        {
+          "title": "美国众议院通过法案 限制跨性别学生参与体育竞赛",
+          "link": "https://www.bannedbook.org/bnews/sports/20250116/2141902.html",
+          "snippet": "美国联邦众议院今天通过共和党籍候任总统川普支持的一项法案，对没有遵守规定的学校扣留联邦资金，实质上禁止跨性别女孩与妇女参与学校体育竞赛。 美国联邦众议院通过...",
+          "date": "5 天前",
+          "source": "禁闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKoPy7icsXhsIDXAAn_MHHnXElT1ZLE_G6RrQPyjdSwwQeMUz-h1iQxM&usqp=CAI&s",
+          "position": 43
+        },
+        {
+          "title": "特朗普：美国仅认两性 禁跨性别者参女子体育",
+          "link": "https://atvnewsonline.com/world/%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%BB%85%E8%AE%A4%E4%B8%A4%E6%80%A7-%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E5%8F%82%E5%A5%B3%E5%AD%90%E4%BD%93%E8%82%B2/",
+          "snippet": "美国总统当选人特朗普12月22日（星期日）表示，他将在上任首日“停止跨性别精神错乱”，并承诺“不允许男性参与女子体育”，强调美国政府的官方政策将仅承认“男性和女性”两种...",
+          "date": "1 个月前",
+          "source": "亚洲电视新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyxpvXbzwveGAiMJwYahgjvyup9r4yRuRiYaKRGRa8u_hdCm_bzxZrcyE&usqp=CAI&s",
+          "position": 44
+        },
+        {
+          "title": "川普誓言上任首日阻止「跨性别疯狂」: 美国官方政策只有两种性别",
+          "link": "https://www.soundofhope.org/post/859335",
+          "snippet": "美国候任总统#川普周日（22日）表示，他将在上任第1天，阻止「 #跨性别疯狂」（transgender lunacy），而准备控制国会参众两院及白宫的#共和党人也将继续对抗#LGBTQ 权利。",
+          "date": "1 个月前",
+          "source": "希望之声",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF2WgfwvxNrFTn-ZfA0Ro8lNvIxmhyTbo7jRNKJDJKsGNlfTlEBTTPbOA&usqp=CAI&s",
+          "position": 45
+        },
+        {
+          "title": "美众议院通过法案 禁跨性别学生参与体育竞赛",
+          "link": "https://atvnewsonline.com/world/%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E6%B3%95%E6%A1%88-%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E5%AD%A6%E7%94%9F%E5%8F%82%E4%B8%8E%E4%BD%93%E8%82%B2%E7%AB%9E%E8%B5%9B/",
+          "snippet": "美国联邦众议院星期二（1月14日）通过共和党籍候任总统特朗普支持的一项法案，对没有遵守规定的学校扣留联邦资金，实质上禁止跨性别女孩与妇女参与学校体育竞赛。",
+          "date": "5 天前",
+          "source": "亚洲电视新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPow9ZYPZ67P9Klw51bxZmazss5GY4cFbJT0kLNpl925_q7HawLa9pDZk&usqp=CAI&s",
+          "position": 46
+        },
+        {
+          "title": "曝《龙腾4》跨性别总监离职！工作室恐被关闭",
+          "link": "http://news.17173.com/content/01172025/182103536.shtml",
+          "snippet": "据外媒爆料，《龙腾世纪4》的跨性别总监Corinne Busche现已从Bioware和EA离职。 此外，爆料还称负责开发《龙腾世纪4》的BioWare埃德蒙顿工作室将于2025年2月关闭。",
+          "date": "3 天前",
+          "source": "17173",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9PBWhukuBQ_6dlUC1TWy8HfnD4I-LUYi9N32m3OFsak9S-hHJcjI2A&usqp=CAI&s",
+          "position": 47
+        },
+        {
+          "title": "《龙腾4》跨性别总监离职 玩家:快失业别祸害别的游",
+          "link": "https://news.17173.com/content/01182025/170301755.shtml",
+          "snippet": "昨日据外媒爆料，《龙腾世纪：影障守护者》的跨性别总监Corinne Busche现已从Bioware和EA离职，业内知名人士Jeff Grubb也证实了这一点。曝出的告别邮件中，Corinne Busche...",
+          "date": "2 天前",
+          "source": "17173",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9PBWhukuBQ_6dlUC1TWy8HfnD4I-LUYi9N32m3OFsak9S-hHJcjI2A&usqp=CAI&s",
+          "position": 48
+        },
+        {
+          "title": "跨性别议题",
+          "link": "https://atvnewsonline.com/tag/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%AE%AE%E9%A2%98/",
+          "snippet": "特朗普承诺上任首日推行新政策，包括禁止跨性别者参与女子体育，并仅承认“男性和女性”两种性别。 阅读. 关注. Facebook · YouTube · Instagram · Telegram · TikTok.",
+          "date": "1 个月前",
+          "source": "亚洲电视新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjMhH-Qx11bFFJp7oDjKCemErOdMYsi-6O2Ap4PJf2beVUEbbyl7vGbg&usqp=CAI&s",
+          "position": 49
+        },
+        {
+          "title": "1/15/2025 川普国防部长确认听证会；民主党抹黑新投票通过的禁跨性别学生参加女子运动法案",
+          "link": "https://www.bannedbook.org/bnews/sohnews/20250116/2142162.html",
+          "snippet": "来源: US News Express美国时事通, 文章内容并不代表本网立场和观点。 1/15/2025 川普国防部长确认听证会；民主党抹黑新. 感恩您的捐赠、点赞、留言和和关注！",
+          "date": "4 天前",
+          "source": "禁闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRix90Jm5Q59ysrh6ZBYDztR7c0MKmcFyPIewNf4sey4l-2-z1-QQenLSs&usqp=CAI&s",
+          "position": 50
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}
