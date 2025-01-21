@@ -41,7 +41,7 @@
 | Archived Date   | 2024-11-21 22:09:46                             |
 | Original Link   | [https://video.sina.cn/news/2024-05-09/detail-inauqwnr6480007.d.html?oid=Queen79%20Club%E3%80%90TK88.TV%E3%80%91.wyxk&vt=4&cid=37766&node_id=37766](https://video.sina.cn/news/2024-05-09/detail-inauqwnr6480007.d.html?oid=Queen79%20Club%E3%80%90TK88.TV%E3%80%91.wyxk&vt=4&cid=37766&node_id=37766)                       |
 | Author          | 新浪新闻官方                               |
-| Region          | 湖北，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 变性手术, 户口性别变更, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

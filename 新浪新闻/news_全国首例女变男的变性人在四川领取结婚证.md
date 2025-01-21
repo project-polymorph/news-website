@@ -58,7 +58,7 @@
 | Archived Date   | 2024-11-02 04:23:44                             |
 | Original Link   | [https://news.sina.cn/sa/2004-01-03/detail-ikknscsi2209402.d.html](https://news.sina.cn/sa/2004-01-03/detail-ikknscsi2209402.d.html)                       |
 | Author          | 鲁中晨报                               |
-| Region          | 四川, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2004-01-03                                 |
 | Tags            | 跨性别, 变性人, 结婚证, 身份认同, 爱情故事, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

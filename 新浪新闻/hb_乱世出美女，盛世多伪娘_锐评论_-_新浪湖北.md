@@ -91,7 +91,7 @@ Copyright © 1996-2012 SINA Corporation, All Rights Reserved
 | Archived Date   | 2024-11-09 05:42:51                             |
 | Original Link   | [http://hb.sina.com.cn/zt/weiniang/index.shtml](http://hb.sina.com.cn/zt/weiniang/index.shtml)                       |
 | Author          | 未知                               |
-| Region          | 湖北，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2012-04                                 |
 | Tags            | 伪娘, 武汉, 动漫, 青春, 跨性别, 社会现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

@@ -202,7 +202,7 @@
 | Archived Date   | 2024-11-08 07:25:09                             |
 | Original Link   | [https://www.163.com/dy/article/I7N26M4K05524KLP.html](https://www.163.com/dy/article/I7N26M4K05524KLP.html)                       |
 | Author          | 未知                               |
-| Region          | 四川, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-06-20                                 |
 | Tags            | 药娘, 跨性别, 医疗资源, 社会偏见, 个人故事, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

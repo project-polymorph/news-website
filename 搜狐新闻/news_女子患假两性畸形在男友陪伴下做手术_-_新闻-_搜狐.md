@@ -61,7 +61,7 @@
 | Archived Date   | 2024-11-07 04:10:18                             |
 | Original Link   | [http://news.sohu.com/20070707/n250944171.shtml](http://news.sohu.com/20070707/n250944171.shtml)                       |
 | Author          | 三秦都市报                               |
-| Region          | 陕西省，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2007-07-06                                 |
 | Tags            | 假两性畸形, 跨性别, 医疗经历, 生命故事, 爱情与支持, 社会环境, 个人过渡                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

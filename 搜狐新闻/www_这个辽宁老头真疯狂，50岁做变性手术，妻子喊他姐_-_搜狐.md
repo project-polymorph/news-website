@@ -343,7 +343,7 @@
 | Archived Date   | 2024-11-22 05:55:09                             |
 | Original Link   | [https://www.sohu.com/a/617915173_121119349](https://www.sohu.com/a/617915173_121119349)                       |
 | Author          | 凯瑟蓝                               |
-| Region          | 山西省，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-12-16                                 |
 | Tags            | 跨性别, 变性手术, 个人故事, 家庭支持, 社会反应, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

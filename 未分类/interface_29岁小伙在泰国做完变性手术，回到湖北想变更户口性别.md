@@ -65,7 +65,7 @@
 | Archived Date   | 2024-11-02 09:40:25                             |
 | Original Link   | [http://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fvideo.sina.com.cn%2Fp%2Fnews%2F2024-05-09%2Fdetail-inauqwnr6480007.d.html](http://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fvideo.sina.com.cn%2Fp%2Fnews%2F2024-05-09%2Fdetail-inauqwnr6480007.d.html)                       |
 | Author          | 未知                               |
-| Region          | 湖北, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 变性手术, 跨性别经历, 户口变更, 社会支持, 法律政策, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

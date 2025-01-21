@@ -53,7 +53,7 @@
 | Archived Date   | 2024-11-07 16:17:45                             |
 | Original Link   | [https://www.sohu.com/a/819422558_527250](https://www.sohu.com/a/819422558_527250)                       |
 | Author          | 未知                               |
-| Region          | 北京市，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-23                                 |
 | Tags            | 跨性别研究, 青少年, 性别肯定护理, 医疗满意度, 社会政策, 法律环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

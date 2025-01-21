@@ -88,7 +88,7 @@
 | Archived Date   | 2024-11-07 15:17:14                             |
 | Original Link   | [https://www.sohu.com/a/713680429_121347613](https://www.sohu.com/a/713680429_121347613)                       |
 | Author          | 未知                               |
-| Region          | 山东省，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-08-21                                 |
 | Tags            | 跨性别, 真两性畸形, 生命故事, 性别认同, 医疗求助, 社会环境, 心理健康, 自我认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

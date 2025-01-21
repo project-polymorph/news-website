@@ -112,7 +112,7 @@
 | Archived Date   | 2024-11-08 07:52:09                             |
 | Original Link   | [https://www.163.com/dy/article/J4D3ACKM0552INOC.html](https://www.163.com/dy/article/J4D3ACKM0552INOC.html)                       |
 | Author          | 未知                               |
-| Region          | 四川, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-06-11                                 |
 | Tags            | 跨性别, 生命故事, 变性人, 个人经历, 社会压力, 艾滋病, 人生选择                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

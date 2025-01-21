@@ -60,7 +60,7 @@ Copyright © 2000-2006 Anhui Internet News Center. All rights reserved.
 | Archived Date   | 2024-11-07 04:05:38                             |
 | Original Link   | [http://news.sohu.com/20060803/n244608755.shtml](http://news.sohu.com/20060803/n244608755.shtml)                       |
 | Author          | 吴樾，来源：中安网                               |
-| Region          | 霍山县，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2006-08-03                                 |
 | Tags            | 跨性别, 变性人, 生命故事, 社会报道, 女性经历, 婚姻与离婚, 心理挣扎, 社会歧视, 演艺事业, 易性癖                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

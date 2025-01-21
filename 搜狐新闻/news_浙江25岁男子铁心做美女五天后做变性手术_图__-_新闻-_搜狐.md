@@ -73,7 +73,7 @@
 | Archived Date   | 2024-11-22 01:55:26                             |
 | Original Link   | [http://news.sohu.com/20041124/n223152834.shtml](http://news.sohu.com/20041124/n223152834.shtml)                       |
 | Author          | 徐曼丽、任慧康                               |
-| Region          | 浙江，中国大陆                               |
+| Region          | 中国大陆                               |
 | Date            | 2004-11-24                                 |
 | Tags            | 跨性别, 变性手术, 性别认同, 社会环境, 法律政策, 成长经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

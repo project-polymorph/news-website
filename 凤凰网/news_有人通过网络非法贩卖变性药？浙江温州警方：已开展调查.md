@@ -39,7 +39,7 @@
 | Archived Date   | 2024-11-02 08:09:26                             |
 | Original Link   | [https://news.ifeng.com/c/85IwEGT3tfB](https://news.ifeng.com/c/85IwEGT3tfB)                       |
 | Author          | 凤凰网                               |
-| Region          | 浙江，中国大陆                               |
+| Region          | 中国大陆                               |
 | Date            | 2021-04-09                                 |
 | Tags            | 变性药, 温州, 警方调查, 跨性别, 网络贩卖                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

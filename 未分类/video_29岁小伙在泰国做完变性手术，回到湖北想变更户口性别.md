@@ -53,7 +53,7 @@
 | Archived Date   | 2024-11-02 11:21:55                             |
 | Original Link   | [https://video.sina.cn/news/2024-05-09/detail-inauqwnr6480007.d.html?oid=%E4%B8%89%E6%96%B9%E8%81%8A%E5%A4%A9%E5%AE%A4%E8%B4%AD%E4%B9%B0gFM[kxys.vip].iqd&vt=4](https://video.sina.cn/news/2024-05-09/detail-inauqwnr6480007.d.html?oid=%E4%B8%89%E6%96%B9%E8%81%8A%E5%A4%A9%E5%AE%A4%E8%B4%AD%E4%B9%B0gFM[kxys.vip].iqd&vt=4)                       |
 | Author          | 新浪新闻                               |
-| Region          | 湖北，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 变性手术, 户口变更, 个人故事, 社会认同, 法律问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

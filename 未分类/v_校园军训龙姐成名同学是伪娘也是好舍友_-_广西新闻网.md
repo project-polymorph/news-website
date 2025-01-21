@@ -40,7 +40,7 @@
 | Archived Date   | 2024-11-12 18:27:27                             |
 | Original Link   | [https://v.gxnews.com.cn/a/8511698?pageno=2](https://v.gxnews.com.cn/a/8511698?pageno=2)                       |
 | Author          | 李望舒, 黄静                               |
-| Region          | 广西，中国大陆                               |
+| Region          | 中国大陆                               |
 | Date            | 2013-09-11                                 |
 | Tags            | 跨性别, 伪娘, 性别认同, 心理健康, 校园文化, 社会现象, 家庭教育                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

@@ -50,7 +50,7 @@
 | Archived Date   | 2024-11-02 04:37:05                             |
 | Original Link   | [https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html](https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html)                       |
 | Author          | 刘大江                               |
-| Region          | 四川, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2004-05-01                                 |
 | Tags            | 变性人, 婚礼, 性别认同, 社会支持, 包容, 跨性别故事, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

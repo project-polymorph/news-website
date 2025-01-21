@@ -46,7 +46,7 @@
 | Archived Date   | 2024-11-07 15:16:04                             |
 | Original Link   | [https://www.sohu.com/a/706373644_260616](https://www.sohu.com/a/706373644_260616)                       |
 | Author          | 澎湃新闻                               |
-| Region          | 中国大陆市                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-07-25                                 |
 | Tags            | 跨性别运动员, 游泳赛事, 开放组别, 世界泳联, 体育政策, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

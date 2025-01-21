@@ -65,7 +65,7 @@
 | Archived Date   | 2024-11-22 01:47:35                             |
 | Original Link   | [http://news.sohu.com/2004/02/25/89/news219198956.shtml](http://news.sohu.com/2004/02/25/89/news219198956.shtml)                       |
 | Author          | 南方网                               |
-| Region          | 吉林省, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2004-02-25                                 |
 | Tags            | 变性手术, 跨性别, 易性癖, 社会包容, 吉林省, 医疗资源, 生命故事, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

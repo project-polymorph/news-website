@@ -76,7 +76,7 @@
 | Archived Date   | 2024-11-07 14:41:48                             |
 | Original Link   | [https://www.sohu.com/a/581616410_115479](https://www.sohu.com/a/581616410_115479)                       |
 | Author          | 墨心                               |
-| Region          | 中国大陆市                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-09-01                                 |
 | Tags            | 跨性别, J.K.罗琳, 社会暴力, 网红文化, 网络暴力, 性别政策, 社会正义                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

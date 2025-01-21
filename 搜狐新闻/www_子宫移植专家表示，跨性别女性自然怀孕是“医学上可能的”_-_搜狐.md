@@ -157,7 +157,7 @@ UAB的子宫移植计划是美国仅有的四个进行子宫移植的项目之�
 | Archived Date   | 2024-11-07 15:18:21                             |
 | Original Link   | [https://www.sohu.com/a/713884638_121684222](https://www.sohu.com/a/713884638_121684222)                       |
 | Author          | 医道社                               |
-| Region          | 中国大陆市                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-08-22                                 |
 | Tags            | 子宫移植, 跨性别女性, 自然怀孕, 医学可能性, 医疗资源, 生育权, 法律政策, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

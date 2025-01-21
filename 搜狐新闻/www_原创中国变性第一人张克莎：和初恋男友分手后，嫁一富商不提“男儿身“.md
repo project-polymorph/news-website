@@ -72,7 +72,7 @@
 | Archived Date   | 2024-11-07 16:03:41                             |
 | Original Link   | [https://www.sohu.com/a/802725911_121629727](https://www.sohu.com/a/802725911_121629727)                       |
 | Author          | 樊亚茹                               |
-| Region          | 天津市, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-08-22                                 |
 | Tags            | 跨性别, 变性手术, 性别认同, 生命故事, 情感经历, 社会接受, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

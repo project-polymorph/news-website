@@ -117,7 +117,7 @@
 | Archived Date   | 2024-11-12 13:57:56                             |
 | Original Link   | [https://moment.rednet.cn/rednetcms/news/localNews/20150623/162128.html](https://moment.rednet.cn/rednetcms/news/localNews/20150623/162128.html)                       |
 | Author          | 记者 陈驰                               |
-| Region          | 株洲，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-06-23                                 |
 | Tags            | 跨性别, 双性人, 性别认同, 医疗经验, 社会接受, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

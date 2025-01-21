@@ -61,7 +61,7 @@
 | Archived Date   | 2024-11-07 16:28:47                             |
 | Original Link   | [https://yule.sohu.com/a/817172395_121798711](https://yule.sohu.com/a/817172395_121798711)                       |
 | Author          | 未知                               |
-| Region          | 北京市，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2024-10-16                                 |
 | Tags            | 跨性别, 情感体验, 心理状态, 边缘群体, 人际关系, 生活故事, 社会孤立感                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

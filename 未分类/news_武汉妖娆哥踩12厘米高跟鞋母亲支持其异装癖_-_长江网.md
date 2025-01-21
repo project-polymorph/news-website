@@ -40,7 +40,7 @@
 | Archived Date   | 2024-11-12 06:09:40                             |
 | Original Link   | [http://news.cjn.cn/sywh/201208/t2033234.htm](http://news.cjn.cn/sywh/201208/t2033234.htm)                       |
 | Author          | 武汉晚报记者 杨京 实习生 魏凡 崔婷                               |
-| Region          | 武汉, 中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2012-08-09                                 |
 | Tags            | 跨性别, 高跟鞋, 性别表达, 个人故事, 家庭支持, 社会接受, 文献报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

@@ -122,7 +122,7 @@
 | Archived Date   | 2024-11-07 15:03:08                             |
 | Original Link   | [https://www.sohu.com/a/657674988_107743](https://www.sohu.com/a/657674988_107743)                       |
 | Author          | 李璨（监制）                               |
-| Region          | 北京市，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-03-22                                 |
 | Tags            | 性别研究, 女性主义, 跨性别, 社会文化, 教育, 全球性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

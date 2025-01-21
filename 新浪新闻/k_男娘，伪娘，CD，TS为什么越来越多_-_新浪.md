@@ -66,7 +66,7 @@ CD则在许多领域被认为是一种时尚和生活方式，受到不少人的
 | Archived Date   | 2024-11-09 06:54:25                             |
 | Original Link   | [https://k.sina.cn/article_6054885179_168e6373b00101876e.html](https://k.sina.cn/article_6054885179_168e6373b00101876e.html)                       |
 | Author          | 铃音音123                               |
-| Region          | 江苏，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2022-05-18                                 |
 | Tags            | 跨性别, 男娘, 伪娘, CD, 社会接受度, 性别认同, 生活方式, 文化现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |

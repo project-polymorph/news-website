@@ -314,7 +314,7 @@
 | Archived Date   | 2024-11-07 15:14:38                             |
 | Original Link   | [https://www.sohu.com/a/693116475_121641437](https://www.sohu.com/a/693116475_121641437)                       |
 | Author          | 芊芊子吟                               |
-| Region          | 山西省，中国                               |
+| Region          | 中国大陆                               |
 | Date            | 2023-07-02                                 |
 | Tags            | 变性人, 跨性别, 生命故事, 社会压力, 法律政策, 个人经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
