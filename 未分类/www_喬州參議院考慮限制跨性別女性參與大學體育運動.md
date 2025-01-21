@@ -1,5 +1,8 @@
 # 乔州参议院考虑限制跨性别女性参与大学体育运动
 
+## 正文 { data-search-exclude }
+
+
 更新 2024-11-28 8:32 AM 人气 6
 
 标签: [乔州](https://www.epochtimes.com/gb/tag/%E4%B9%94%E5%B7%9E.html), [参议院](https://www.epochtimes.com/gb/tag/%E5%8F%82%E8%AE%AE%E9%99%A2.html), [跨性别女性](https://www.epochtimes.com/gb/tag/%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7.html), [体育运动](https://www.epochtimes.com/gb/tag/%E4%BD%93%E8%82%B2%E8%BF%90%E5%8A%A8.html)
@@ -52,3 +55,27 @@
 
 “大纪元将选取精彩读者评论在全球报纸版面上刊登，请您与我们一起记录历史。” “大纪元保留删除脏话贴、下流话贴、攻击个人信仰贴等恶意留言的权利。”
 <!-- tcd_original_link https://www.epochtimes.com/gb/24/11/28/n14380258.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章讨论了乔治亚州参议院关于限制跨性别女性参与大学体育运动的听证会。文章指出，在11月21日举行的最后一次听证会上，跨性别女性及其支持者表达了对此限制的反对，指出参与学校体育运动的跨性别女性人数非常少，并且这种政策将使跨性别者的生活更加困难。跨性别女性艾伦·贝克分享了自己的感受，伊斯敏复述了她在听证会上听到的歧视性言论。委员会主席格雷格·多利扎尔表示，他们将审查听证会上的证词，并制定相应立法建议。此外，听证会上提到的其他问题包括对K-12学校的法律规范，以及跨性别女性在更衣室和运动场合中的权益。文章还引用了不同派别的观点，对立法的必要性、影响和实施方式提出了讨论。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_喬州參議院考慮限制跨性別女性參與大學體育運動.md                             |
+| Size            | 6293 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.epochtimes.com/gb/24/11/28/n14380258.htm](https://www.epochtimes.com/gb/24/11/28/n14380258.htm)                       |
+| Author          | 大纪元记者苏淮                               |
+| Region          | 美国                               |
+| Date            | 2024-11-28                                 |
+| Tags            | 乔州, 参议院, 跨性别女性, 体育运动, 法律政策, 社会环境                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

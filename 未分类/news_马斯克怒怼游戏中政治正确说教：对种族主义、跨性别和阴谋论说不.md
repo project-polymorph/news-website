@@ -1,5 +1,8 @@
 # 马斯克怒怼游戏中政治正确说教：对种族主义、跨性别和阴谋论说不
 
+## 正文 { data-search-exclude }
+
+
 ![犀利到不忍看！大儿子变性女生后炮轰马斯克：他冷漠易怒 还自恋](//img1.mydrivers.com/img/20240726/s_347a40d3be36443387605a8982cfe5c0.jpg)
 
 **2024-11-28 13:47:39**  
@@ -44,3 +47,27 @@
 快科技·1997-2024 版权所有  
 Copyright(C)Mydrivers.com, All Rights Reserved.
 <!-- tcd_original_link https://news.mydrivers.com/1/1016/1016490.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了埃隆·马斯克对游戏行业中政治正确现象的激烈反对，尤其是涉及种族主义和跨性别议题的相关讨论。马斯克在社交媒体上表达了对游戏开发商过度"觉醒"社会责任的反感，他认为这种趋势妨碍了游戏制作的本质。他成立新的游戏工作室，旨在恢复更传统的游戏理念。文章还提到马斯克与其变性女儿薇薇安之间的冲突，薇薇安在社交平台上对父亲发出批评，揭示出家庭内部关于性别认同和社会价值观的矛盾。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_马斯克怒怼游戏中政治正确说教：对种族主义、跨性别和阴谋论说不.md                             |
+| Size            | 2921 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://news.mydrivers.com/1/1016/1016490.htm](https://news.mydrivers.com/1/1016/1016490.htm)                       |
+| Author          | 雪花                               |
+| Region          | 未知                               |
+| Date            | 2024-11-28                                 |
+| Tags            | 马斯克, 游戏, 跨性别, 政治正确, 社会责任                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 川普誓言上任首日阻止「跨性别疯狂」: 美国官方政策只有两种性别
 
+## 正文 { data-search-exclude }
+
+
 ![川普将对中共支持的墨西哥贩毒集团开战 （图片：REUTERS/Jay Paul）](//img.soundofhope.org/2024-11/2024-10-30t184210z_1087081118_rc21vaacat16_rtrmadp_3_usa-election-trump-1732068714293.jpg)
 
 **正文：**
@@ -24,3 +27,27 @@
 
 **标签**：[川普](/term/1041) [跨性别疯狂](/term/1028802) [国会](/term/2784) [参众两院](/term/14733) [白宫](/term/1388) [共和党](/term/2717) [LGBTQ](/term/470552) [军队](/term/10661) [校园](/term/4094)
 <!-- tcd_original_link https://www.soundofhope.org/post/859335 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文详细报道了美国候任总统川普在2024年12月22日的一次保守派活动上发表的言论。川普表示，在他上任的第一天，将采取措施阻止跨性别政策的实施，并宣称政府只承认男性和女性两种性别。此外，他提到将签署行政命令，目的是结束对跨性别儿童的医疗干预，包括性别重置手术。他的言论引发了广泛的争议，因为跨性别议题在美国正引发两极分化的政治讨论。川普的言论不仅体现了他对跨性别政策的强烈反对，也反映了美国政治舞台上保守派与自由派在性别问题上的深刻分歧。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_川普誓言上任首日阻止「跨性别疯狂」_美国官方政策只有两种性别.md                             |
+| Size            | 2442 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.soundofhope.org/post/859335](https://www.soundofhope.org/post/859335)                       |
+| Author          | 辛吉                               |
+| Region          | 美国                               |
+| Date            | 2024-12-22                                 |
+| Tags            | 川普, 跨性别政策, LGBTQ, 保守派, 政府政策, 社会争议                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

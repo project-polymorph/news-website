@@ -1,5 +1,8 @@
 # 中国首宗跨性别"扭转治疗"诉讼:原告获医院赔偿
 
+## 正文 { data-search-exclude }
+
+
 - **新闻日期**: 2024-12-11
 - **新闻来源**: 纽约时报
 - **参与评论人数**: 0
@@ -15,3 +18,27 @@
 
 - **备注**: 新闻来源于其它媒体，内容不代表本站立场！
 <!-- tcd_original_link https://www.westca.com/pda/news/op=view/sid=1056924/app=weixin/page=2/lang=english.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件详细报道了中国首宗涉及跨性别者的"扭转治疗"诉讼案。在这起案件中，原告灵儿在未经同意的情况下被迫接受精神病院的电击治疗，医院声称治疗是为了帮助其"纠正"性别身份。文章指出，灵儿经历了长达97天的封闭治疗，虽然她一再要求出院，但无果。报道提到"扭转治疗"在中国仍被一些医疗机构普遍采用，并引用了相关活动人士的观点，强调对跨性别者的误解与歧视。事件经过以及灵儿的后续生活也被详细描述，包括她与家庭的关系、生活困境及遂行诉讼的决心。最后，灵儿通过和解获得了一笔赔偿，助她重新开始生活，追寻自己的梦想。此文件突显了跨性别者在中国面临的法律与社会挑战，展示出他们为争取合法权益而进行的斗争。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_中国首宗跨性别扭转治疗诉讼原告获医院赔偿.md                             |
+| Size            | 3463 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.westca.com/pda/news/op=view/sid=1056924/app=weixin/page=2/lang=english.html](https://www.westca.com/pda/news/op=view/sid=1056924/app=weixin/page=2/lang=english.html)                       |
+| Author          | 纽约时报                               |
+| Region          | 中国                               |
+| Date            | 2024-12-11                                 |
+| Tags            | 跨性别, 法律案例, 医疗资源, 扭转治疗, 社会环境, 人权                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

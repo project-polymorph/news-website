@@ -1,5 +1,8 @@
 # 《龙腾世纪4》总监谈自己跨性别身份 游戏也应拥抱多样性
 
+## 正文 { data-search-exclude }
+
+
 日期：2024-12-20  
 来源：[游民星空](https://www.gamersky.com/news/202412/1862027.shtml)  
 作者：chillcarl  
@@ -50,3 +53,27 @@ Copyright(C)Mydrivers.com, All Rights Reserved.
 [豫ICP备2023031922号-1](https://beian.miit.gov.cn/)  
 [![](//icons.mydrivers.com/2018/news/batb.png)豫公网安备 41010502003949号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41010502003949)
 <!-- tcd_original_link https://news.mydrivers.com/1/1020/1020683.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章采访了《龙腾世纪4》的总监Corinne Busche，探讨了她的跨性别身份以及其在游戏开发中的影响。Busche在采访中强调了多样性的重要性，并分享了自己作为跨性别女性所经历的成长和自我反思的过程。她提到，游戏不仅可以让玩家反思自己的身份，还能够展现丰富的角色关系和存在主义的复杂性。她表示，游戏的多元化是至关重要的，因为它能反映团队的生活经验和故事的生动性。《龙腾世纪》系列一直以来勇于探讨身份认同与归属感，而Busche亦承诺在新的作品中继续这一理念。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_《龙腾世纪4》总监谈自己跨性别身份_游戏也应拥抱多样性.md                             |
+| Size            | 4353 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://news.mydrivers.com/1/1020/1020683.htm](https://news.mydrivers.com/1/1020/1020683.htm)                       |
+| Author          | chillcarl                               |
+| Region          | 未知                               |
+| Date            | 2024-12-20                                 |
+| Tags            | 龙腾世纪, 跨性别, 游戏, 多样性, 性别认同, 角色发展, 游戏开发                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

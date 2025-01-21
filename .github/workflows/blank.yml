@@ -39,7 +39,7 @@ jobs:
       # New steps start here
       - name: Generate and update TOC, generate and config other things
         run: |
-          .github/scripts/workflows/build-webpage.sh
+          python .github/scripts/workflows/build_documents.py --type webpage
       - name: Commit changes
         run: |
           git add .

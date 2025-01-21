@@ -1160,6 +1160,13 @@ files:
   size: 3673
   md5: fb4ecc56a05f8e6f2ae2f62c70131ad9
   page: news_外媒：为逃避兵役，乌克兰一男子男扮女装持家人护照试图出境被拦下.md
+- name: news_大学妥善公示性别变更信息，也是一种教育
+  filename: news_大学妥善公示性别变更信息，也是一种教育.md
+  type: webpage
+  format: Markdown
+  size: 5163
+  md5: 6394d497596ff0270665442b226d8de8
+  page: news_大学妥善公示性别变更信息，也是一种教育.md
 - name: news_大胡子“美女歌神”变身照曝光变性前是奶油小生_高清组图_
   filename: news_大胡子“美女歌神”变身照曝光变性前是奶油小生_高清组图_.md
   type: webpage

@@ -1,5 +1,8 @@
 # 快讯：俄州针对跨性别学生使用公共设施立法
 
+## 正文 { data-search-exclude }
+
+
 ![快讯：俄州针对跨性别学生使用公共设施立法](https://i.epochtimes.com/assets/uploads/2024/08/id14309148-GettyImages-2161443341-600x400.jpg)
 
 图为2024年7月14日，俄亥俄州州长麦克·德温（Mike DeWine）参加了Fiserv论坛的声音检测。(ANDREW CABALLERO-REYNOLDS/AFP via Getty Images)
@@ -22,3 +25,27 @@
 
 相关专题: [国际新闻](https://www.epochtimes.com/gb/nf4321.htm)
 <!-- tcd_original_link https://www.epochtimes.com/gb/24/11/27/n14380127.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文介绍了俄亥俄州州长麦克·德温于2024年11月27日签署的一项法案，禁止跨性别学生使用不符合其出生性别的公共设施。该法案名为“保护所有学生法案”，适用于所有公立和私立学校，规定学校必须为男性和女性分别指定卫生间、浴室、和更衣室。这项法案的支持者主张其关注儿童的安全和常识，但也有反对声指出其可能对跨性别学生的生活造成负面影响。文中提到至少已有11个州通过了类似的法律，限制跨性别女性进入公立学校的女性设施。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_快訊：俄州針對跨性別學生使用公共設施立法.md                             |
+| Size            | 2524 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.epochtimes.com/gb/24/11/27/n14380127.htm](https://www.epochtimes.com/gb/24/11/27/n14380127.htm)                       |
+| Author          | 李皓月（大纪元记者）                               |
+| Region          | 美国                               |
+| Date            | 2024-11-27                                 |
+| Tags            | 俄亥俄州, 跨性别者, 学生, 儿童, 法律政策, 公共设施, 安全                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 《鱿鱼游戏2》公开新角色 朴成焄演跨性别者 T.O.P扮嘻哈歌手
 
+## 正文 { data-search-exclude }
+
+
 ![朴成焄（左图）在《鱿鱼游戏2》饰演跨性别者，T.O.P（右图）则饰演嘻哈歌手。（互联网）](https://cassette.sphdigital.com.sg/image/zaobao/51b5fbdd1224c5215bd9bcb20f195009807a38286c751367206eb234a57569d0?o=zbimg&oloc=se)
 
 （综合讯）Netflix原创韩剧《鱿鱼游戏》风靡全球，第二季睽违三年回归，12月26日正式上线。除了李政宰（Lee Jung-jae）、李炳宪（Lee Byung-hun）、魏嘏隽（Wi Ha-joon）、孔刘（Gong Yoo）等原班人马回锅，还多了不少生力军。
@@ -33,3 +36,27 @@ T.O.P因呼麻争议，选角公开时就备受讨论。他染了一头紫色头
 发布：2024年12月5日 07:40  
 来源：[早报](https://www.zaobao.com.sg/entertainment/story20241205-5499912)
 <!-- tcd_original_link https://www.zaobao.com.sg/entertainment/story20241205-5499912 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文介绍了Netflix原创剧集《鱿鱼游戏2》中的新角色及其背景。其中，演员朴成焄饰演一名跨性别者，角色“120号赵贤珠”是一位MTF（男性到女性）的跨性别者，她因希望进行性重置手术而参加危险游戏。该角色的经历反映了跨性别者在社会中面临的偏见和困境。文章还介绍了其他新角色，包括由T.O.P担任的嘻哈歌手，以及参赛者之间的复杂关系。这部剧集由于耀眼的演员阵容和新角色的设计，引发了广泛关注，预计于2024年12月上线。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《鱿鱼游戏2》公开新角色_朴成焄演跨性别者_T.O.P扮嘻哈歌手.md                             |
+| Size            | 5485 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.zaobao.com.sg/entertainment/story20241205-5499912](https://www.zaobao.com.sg/entertainment/story20241205-5499912)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-12-05                                 |
+| Tags            | 跨性别, 鱿鱼游戏, 影视, 社会问题, 韩流                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

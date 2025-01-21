@@ -1,5 +1,8 @@
 # 特朗普计划将1.5万人踢出军队，跨性别者权利再遭挑战
 
+## 正文 { data-search-exclude }
+
+
 ![观察者网](../images/mian-logo.png)
 
 **时间**: 2024-11-25 20:10:10  
@@ -87,3 +90,27 @@
 
 **结束**
 <!-- tcd_original_link https://www.guancha.cn/internation/2024_11_25_756693.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了特朗普总统计划在其任期内通过行政命令剔除美国军队中的跨性别者，预计影响人数高达1.5万名。文章介绍了该计划的背景，包括特朗普于2016年和2017年实施的一系列政策，这些政策限制跨性别者在军队中的服役资格，并提及了这可能给军队带来的严峻后果，比如士兵的经验和领导力的损失。文件引用了多个专家的观点，他们认为这种做法将影响军队的凝聚力和战备状态。同时，文章分析了在军队面临招募危机的情况下实施这一禁令的可能影响，包括经济和人力资源的浪费。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_上任首日就推行，他计划将这1.5万名军人除名.md                             |
+| Size            | 6835 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.guancha.cn/internation/2024_11_25_756693.shtml](https://www.guancha.cn/internation/2024_11_25_756693.shtml)                       |
+| Author          | 张菁娟                               |
+| Region          | 美国                               |
+| Date            | 2024-11-25                                 |
+| Tags            | 特朗普, 跨性别者, 军事政策, 人权, 社会问题                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

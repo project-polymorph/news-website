@@ -1,5 +1,8 @@
 # 曝设计师是跨性别人士后CDPR被翻旧账：老DEI惯犯了
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2024-12-22  
 **来源**: 游民星空  
 
@@ -28,3 +31,27 @@
 
 **评论**: 0条
 <!-- tcd_original_link https://www.yeeyi.com/news/details/2567535/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章报道了关于CD Projekt Red（CDPR）的一名设计师Cian Maher所持的跨性别意识态度。文章指出，Maher在担任游戏记者时期曾在社交媒体上公开表达对游戏玩家的不满，称他们不理解游戏行业，并甚至有过激言论。此举引发了玩家群体的激烈讨论，部分玩家提及了CDPR历史上的争议事件，如2018年社区经理因玩梗而被解除职务，质疑该公司在性别表现和多元性别理念上的一贯态度。此外，玩家对近年来CDPR的变化提出了批评，认为游戏公司的文化和价值观已改变。此文不仅记录了游戏行业内的多元性别话题，也展示出公众对这类问题的关注与讨论。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_曝设计师是跨性别人士后CDPR被翻旧账：老DEI惯犯了.md                             |
+| Size            | 2216 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.yeeyi.com/news/details/2567535/](https://www.yeeyi.com/news/details/2567535/)                       |
+| Author          | 游民星空                               |
+| Region          | 未知                               |
+| Date            | 2024-12-22                                 |
+| Tags            | 跨性别, 游戏设计, CD Projekt Red, 社区管理, 多元性别, 性别意识, 玩家文化                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

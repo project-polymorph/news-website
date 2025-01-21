@@ -1,5 +1,8 @@
 # 最高法院审理田纳西州跨性别者权益医疗案件
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 4 Dec 2024  
 **来源**: Newslooks  
 **作者**: Newslooks 早间版 J.Mansour  
@@ -21,7 +24,7 @@
 - **公众反应**: 法院外的集会凸显了激烈的国家分歧。
 - **医疗支援**: 美国主要医疗组织以安全性和有效性为由反对该禁令。
 
-## 深邃的眼神
+## 深邃的眼神 { data-search-exclude }
 
 [最高法院于周三开始审理一起关键案件，涉及田纳西州禁止对未成年人进行性别肯定医疗的有争议的法律。](https://www.newslooks.com/zh-CN/minnesota-supreme-court-weighs-transgender-powerlifting-case/) 此案的结果可能会成为影响 [其他 25 个州也实施了类似禁令](https://www.newslooks.com/zh-CN/minnesota-supreme-court-weighs-transgender-powerlifting-case/) 并制定跨性别权利政策， [医疗保健机会以及全国范围内的歧视法律。](https://www.newslooks.com/zh-CN/minnesota-supreme-court-weighs-transgender-powerlifting-case/)
 
@@ -51,3 +54,27 @@
 
 预计最高法院还要几个月才能做出裁决。 [该裁决要么维护州政府监管医疗保健的权利，要么以违宪为由推翻该法律。](https://www.washingtonpost.com/) 这个结果 [不仅会影响跨性别未成年人的医疗保健服务，还会影响美国 LGBTQ+ 权利和州自治权的更广泛斗争](https://www.washingtonpost.com/).
 <!-- tcd_original_link https://www.newslooks.com/zh-CN/supreme-court-hears-tennessee-transgender-rights-medical-case/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件讨论了美国最高法院对田纳西州涉及跨性别者权益的医疗案件的审理。主要焦点是该州禁止未成年人接受性别肯定护理的法律，该法律是否违反了美国宪法第十四修正案的平等保护条款。文件详细描述了案件的背景、法律争议、主要论点及公众反应，并引用了支持和反对该法律的医疗和法律专家的观点。在医学方面，多个专业医疗组织反对这一禁令，认为性别肯定护理对于跨性别青年的心理健康至关重要。而推行这一禁令的田纳西州则辩称其目的是保护未成年人免受不可逆转的治疗影响。案件的判决结果可能对全美范围内的类似法律造成重要影响，涉及跨性别权利的更广泛讨论。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_最高法院审理田纳西州跨性别者权益医疗案件.md                             |
+| Size            | 6115 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.newslooks.com/zh-CN/supreme-court-hears-tennessee-transgender-rights-medical-case/](https://www.newslooks.com/zh-CN/supreme-court-hears-tennessee-transgender-rights-medical-case/)                       |
+| Author          | Newslooks 早间版 J.Mansour                               |
+| Region          | 美国                               |
+| Date            | 2024-12-04                                 |
+| Tags            | 跨性别权利, 最高法院, 性别肯定护理, 田纳西州禁令, 平等保护条款, LGBTQ 权利, 未成年人医疗, 青春期阻滞剂, 医疗保健法, 美国最高法院案件                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

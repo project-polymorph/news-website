@@ -1,5 +1,8 @@
 # 《龙腾4》跨性别总监为失败开脱：玩家还是不够包容
 
+## 正文 { data-search-exclude }
+
+
 **来源**: 腾讯新闻  
 **作者**: 黑色玫瑰  
 **发布时间**: 2024-12-21 21:36发布于安徽  
@@ -49,3 +52,27 @@
 **服务协议**: [腾讯服务协议](https://new.qq.com/static/contract.shtml)  
 **隐私政策**: [腾讯隐私政策](https://privacy.qq.com/mb/policy/tencent-privacypolicy)
 <!-- tcd_original_link https://news.qq.com/rain/a/20241221A07XDC00 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了《龙腾世纪4》的跨性别总监Corinne Busche在接受采访时对于游戏表现不佳的看法。她认为，游戏的失败部分是由于社区玩家的仇恨活动和差评造成的，这种外部的负面压力压倒了游戏的内部缺陷。Busche强调，包容性和多样性是现代游戏开发的重要组成部分，但是也呼吁大家需要认真审视这些元素是不是仅仅是迎合特定受众的手段。通过回忆自身的成长经历，她指出，在过去，玩家共同庆祝和分享游戏的精神是推动社区的力量。为了改善游戏质量，必须在多样性和游戏体验之间找到平衡。文章中还包含了许多来自不同网友的评论，反映了玩家对包容性与质量之间关系的不满与质疑。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_《龙腾4》跨性别总监为失败开脱：玩家还是不够包容.md                             |
+| Size            | 2831 bytes                           |
+| Archived Date   | 2025-01-21 02:17:07                             |
+| Original Link   | [https://news.qq.com/rain/a/20241221A07XDC00](https://news.qq.com/rain/a/20241221A07XDC00)                       |
+| Author          | 黑色玫瑰                               |
+| Region          | 安徽                               |
+| Date            | 2024-12-21                                 |
+| Tags            | 跨性别, 游戏文化, 包容性, 多样性, 玩家反馈, 社会环境                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

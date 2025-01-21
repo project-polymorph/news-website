@@ -1,5 +1,8 @@
 # 亚省三项跨性别立法即将生效
 
+## 正文 { data-search-exclude }
+
+
 【大纪元2024年12月05日讯】（大纪元记者周行多伦多报导） 亚伯塔省议会近日通过了三项针对跨性别者的立法，这些法案在完成最后的辩论阶段后，即将正式成为法律。亚省省长戴思敏（Danielle Smith）表示，新法案旨在保护儿童和女性运动员。
 
 据加通社报导，这三项立法的主要内容包括：
@@ -12,7 +15,7 @@
 
 ---
 
-## 相关文章
+## 相关文章 { data-search-exclude }
 
 - [【更新】川普胜选后 贺锦丽发表演讲聚焦未来](https://www.epochtimes.com/gb/24/11/5/n14364551.htm)图 2024-11-07
 - [加国知名画家李斯克画出一生的追求——自由](https://www.epochtimes.com/gb/24/11/12/n14369126.htm)图 2024-11-12
@@ -29,3 +32,27 @@
 
 版权 © 2017-2020 The Epochtimes Media Inc. All Rights Reserved.
 <!-- tcd_original_link https://www.epochtimes.com/gb/24/12/4/n14384563.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了亚伯塔省（亚省）议会近期通过的三项关于跨性别者的立法。这些法律旨在保护儿童和女性运动员，主要内容包括：1) 16岁以下未成年人需获得父母同意方可在学校更改姓名或代词；2) 禁止为16岁以下青少年提供变性相关医疗服务；3) 禁止跨性别运动员参与女子业余体育比赛，并要求相关机构报告投诉。这一系列立法举措引起了社会的广泛关注与讨论，反映了当前社会对跨性别权益与保护措施的辩论。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_亞省三項跨性別立法即將生效.md                             |
+| Size            | 2386 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.epochtimes.com/gb/24/12/4/n14384563.htm](https://www.epochtimes.com/gb/24/12/4/n14384563.htm)                       |
+| Author          | 大纪元记者周行                               |
+| Region          | 亚伯塔省                               |
+| Date            | 2024-12-05                                 |
+| Tags            | 跨性别, 立法, 权益保护, 社会讨论, 医疗服务, 运动参与                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

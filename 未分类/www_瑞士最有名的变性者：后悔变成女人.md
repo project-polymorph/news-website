@@ -1,5 +1,8 @@
 # 瑞士最有名的变性者：后悔变成女人
 
+## 正文 { data-search-exclude }
+
+
 ![三年来，女性身份越来越从布罗尼曼的性别认知中抽离。](https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/12/bro.jpg?ver=f7bb1a72)
 
 此内容发布于 2024年12月12日 - 09:00  
@@ -11,7 +14,7 @@
 - [作者的更多报道](https://www.swissinfo.ch/chi/author/%e9%a9%ac%e5%85%8b%c2%b7%e6%b4%9b%e4%bc%8a%e6%bb%95%e8%89%ae%e6%a0%bc/)
 - [德语部](https://www.swissinfo.ch/chi/department/%e5%be%b7%e8%af%ad%e9%83%a8)
 
-## 正文
+## 正文 { data-search-exclude }
 
 在记者收到的确认采访地点的短信下方，署名是“克里斯/纳迪娅”。时值夏末，苏黎世湖畔的Lachen小镇空气清新。克里斯/纳迪娅・布罗尼曼在步道旁的咖啡馆兼职，那里很清净。这位瑞士“最著名变性女”的生活也刚刚重拾些许安宁-至少目前是这样。
 
@@ -97,7 +100,7 @@
 
 _(编辑：Balz Rigendinger，编译自德语：郭倢/dh)_
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 ### 时事通讯：瑞士媒体里的中国
 
@@ -107,7 +110,7 @@ _(编辑：Balz Rigendinger，编译自德语：郭倢/dh)_
 
 ![时事通讯：瑞士媒体里的中国](https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/11/newsletter_teaser_press_review_p.jpg?ver=25a547fa)
 
-## 讨论
+## 讨论 { data-search-exclude }
 
 ![图像](https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2023/12/geraldine-wong-sak-hoi-profileImage-42391195.png?ver=83cf2a68)  
 提问者：杰拉尔丁·黄萨克赫
@@ -123,3 +126,27 @@ _(编辑：Balz Rigendinger，编译自德语：郭倢/dh)_
 
 2024年是全球大选数量创纪录的一年，有目的的虚假信息在许多选举中都曾引起轩然大波。虚假信息对社会信任的负面影响不容小觑。
 <!-- tcd_original_link https://www.swissinfo.ch/chi/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C/%E7%91%9E%E5%A3%AB%E6%9C%80%E6%9C%89%E5%90%8D%E7%9A%84%E7%94%B7%E5%8F%98%E5%A5%B3%E5%8F%98%E6%80%A7%E8%80%85%EF%BC%9A%E4%B8%8D%E6%83%B3%E5%86%8D%E5%81%9A%E5%A5%B3%E4%BA%BA/88555331 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章主要讲述了瑞士变性人克里斯/纳迪娅·布罗尼曼的故事，以及她在性别转换后的经历与感受。文章指出，布罗尼曼曾是瑞士最著名的变性者，但在经历性别转换三年后，开始对自己选择的身份产生后悔和反思。她在接受采访时提到，出柜并不是为了简单地回到过去的克里斯，而是希望重新寻找身份认同。同时，布罗尼曼对当前社会对青少年变性干预措施表示关切，认为应对这些措施采取更为审慎的态度。文中还涉及了关于性别认同的几个重要术语，以及围绕变性问题的社会讨论，强调了对变性个案进行鉴别诊断的重要性。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_瑞士最有名的变性者：后悔变成女人.md                             |
+| Size            | 11629 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.swissinfo.ch/chi/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C/%E7%91%9E%E5%A3%AB%E6%9C%80%E6%9C%89%E5%90%8D%E7%9A%84%E7%94%B7%E5%8F%98%E5%A5%B3%E5%8F%98%E6%80%A7%E8%80%85%EF%BC%9A%E4%B8%8D%E6%83%B3%E5%86%8D%E5%81%9A%E5%A5%B3%E4%BA%BA/88555331](https://www.swissinfo.ch/chi/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C/%E7%91%9E%E5%A3%AB%E6%9C%80%E6%9C%89%E5%90%8D%E7%9A%84%E7%94%B7%E5%8F%98%E5%A5%B3%E5%8F%98%E6%80%A7%E8%80%85%EF%BC%9A%E4%B8%8D%E6%83%B3%E5%86%8D%E5%81%9A%E5%A5%B3%E4%BA%BA/88555331)                       |
+| Author          | 马克·洛伊滕艾格                               |
+| Region          | 瑞士                               |
+| Date            | 2024-12-12                                 |
+| Tags            | 变性, 性别认同, 克里斯·纳迪娅·布罗尼曼, 性别转换, 性别手术, 性别焦虑症, 医疗干预, 社会争议, 法律政策, 青少年                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

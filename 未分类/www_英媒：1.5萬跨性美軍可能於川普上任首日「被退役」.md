@@ -1,5 +1,8 @@
 # 英媒：1.5万跨性美军可能于川普上任首日「被退役」
 
+## 正文 { data-search-exclude }
+
+
 中央社华盛顿26日专电 2024-11-26 23:06 ET
 
 ![英国「泰晤士报」报导，川普可能于明年初就职时发布行政命令，将总人数约1.5万的跨性军人解职。准白宫发言人说，一切都是猜测。示意图，非新闻当事者。(美联社)](https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/11/27/30982071.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&q=75)
@@ -50,3 +53,27 @@
 
 标签：[川普](https://www.worldjournal.com/search/tagging/8877/%E5%B7%9D%E6%99%AE?zh-cn) [跨性别](https://www.worldjournal.com/search/tagging/8877/%E8%B7%A8%E6%80%A7%E5%88%AB?zh-cn)
 <!-- tcd_original_link https://www.worldjournal.com/wj/story/124278/8387637?zh-cn -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了英国《泰晤士报》的新闻，内容涉及美国前总统川普可能于其首次就职当天发布一项行政命令，解雇约1.5万名跨性别军人。这项措施引发了诸多军事协会的担忧，他们认为这一禁令将破坏美军的战备状态，导致经验和领导力的损失。报告引述了川普针对军队中的‘觉醒’趋势的反对声音，并指出禁令将可能涵盖过去的实施范围，甚至会影响已经在军中服役多年的人士。此外，部分现役跨性别军人也表达了对这一措施的强烈反对，并认为这将对他们的职业生涯和军队整体造成灾难性的后果。文中还提到了相关军事机构对待跨性别者医疗服务的看法，以及如何影响军事招募和留任的重大挑战。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_英媒：1.5萬跨性美軍可能於川普上任首日「被退役」.md                             |
+| Size            | 5586 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.worldjournal.com/wj/story/124278/8387637?zh-cn](https://www.worldjournal.com/wj/story/124278/8387637?zh-cn)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2024-11-26                                 |
+| Tags            | 川普, 跨性别, 军人, 行政命令, 性别认同, 医疗服务, 军队政策                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

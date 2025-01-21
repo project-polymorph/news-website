@@ -1,5 +1,8 @@
 # 澳洲下一次人口普查，要查性取向了！LGBTIQ+数据首次公布！
 
+## 正文 { data-search-exclude }
+
+
 2024-12-20 来源: 最西澳 ![views](https://www.yeeyi.com/views_eye.png) 159 分享到: ![](https://www.yeeyi.com/wechat.png)
 
 近日，澳洲政府宣布，2026年全国人口普查将首次统计性少数群体（LGBTIQ+）数据！此外，澳洲统计局（ABS）还首次公布了澳洲当前的LGBTIQ+数据！
@@ -47,3 +50,27 @@ LGBTIQ+群体的一些社区领袖表示，掌握性别多元化和性取向的�
 
 ![](https://www.yeeyi.com/watermark@3x.png) ![](https://www.yeeyi.com/close_reply_image.png)
 <!-- tcd_original_link https://www.yeeyi.com/news/details/2565568/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了澳大利亚政府宣布将在2026年全国人口普查中首次统计性取向和性别认同的数据，标志着LGBTIQ+群体（包括同性恋、双性恋、跨性别者等）在官方统计中的重要性。这一决定是基于对2020年至2022年期间近4.5万名澳大利亚人健康状况的调查，并预示着LGBTIQ+人口的数据将帮助改善卫生规划和政府拨款。报告指出，澳洲16岁及以上的LGBTIQ+人口超过90万，占成年人口的4.5%，而16至24岁人群中该群体比例最高，接近10%。此外，文中详细介绍了不同地区LGBTIQ+群体的比例及未来调查的必要性，为多元化人口图景提供更详细、可靠的数据。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_澳洲下一次人口普查，要查性取向了！LGBTIQ+数据首次公布！.md                             |
+| Size            | 3106 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.yeeyi.com/news/details/2565568/](https://www.yeeyi.com/news/details/2565568/)                       |
+| Author          | 未知                               |
+| Region          | 澳大利亚                               |
+| Date            | 2024-12-20                                 |
+| Tags            | 人口普查, 性别认同, 性取向, LGBTIQ+, 澳大利亚, 统计数据                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

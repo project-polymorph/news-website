@@ -1,5 +1,8 @@
 # 迪士尼为《小美人鱼》舞台剧选主角 必须跨性别者演
 
+## 正文 { data-search-exclude }
+
+
 2024-12-02 16:44:13 来源: [3DM游戏](https://www.163.com/dy/media/T1487226842117.html)
 
 ![Scan me!](data:image/png;base64,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)
@@ -41,3 +44,27 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 
 [查看更多跟贴](https://comment.tie.163.com/JIDT1LPG0526D8LR.html)
 <!-- tcd_original_link https://www.163.com/dy/article/JIDT1LPG0526D8LR.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文档涵盖了迪士尼为其音乐舞台剧《小美人鱼》选角的最新动态，特别提到必须由跨性别者饰演的角色要求。2024年年初，迪士尼发布公告，明确表示女主角爱丽儿和男主角亚力克都需要由跨性别者来扮演。然而，近期网友们发现，迪士尼对该公告的表述进行了修改，删除了“必须跨性别者”的字样，同时也去掉了对角色性别的明确要求，可能是为了让选择更具灵活性，这反映出迪士尼对“性别包容”的持续探索，但也引起了关于这种做法是否会影响跨性别者公正参与的讨论。文中还包含了网民对这一变化的评论，指出跨性别者希望能自然地出演心仪的角色，而不是成为多样性与包容性的代名词。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_迪士尼为《小美人鱼》舞台剧选主角_必须跨性别者演.md                             |
+| Size            | 4918 bytes                           |
+| Archived Date   | 2025-01-21 02:17:02                             |
+| Original Link   | [https://www.163.com/dy/article/JIDT1LPG0526D8LR.html](https://www.163.com/dy/article/JIDT1LPG0526D8LR.html)                       |
+| Author          | 网易新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-12-02                                 |
+| Tags            | 迪士尼, 小美人鱼, 跨性别, 选角, 性别包容, 社会讨论                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

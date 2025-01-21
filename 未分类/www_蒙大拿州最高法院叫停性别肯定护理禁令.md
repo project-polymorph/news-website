@@ -1,5 +1,8 @@
 # 蒙大拿州最高法院叫停性别肯定护理禁令
 
+## 正文 { data-search-exclude }
+
+
 **发布日期**: 11 Dec 2024  
 **来源**: [NewsLooks](https://www.newslooks.com/zh-CN/category/top-story/)  
 **作者**: [玛丽·西迪奇](https://www.newslooks.com/zh-CN/author/mary-sidiqi/)  
@@ -59,3 +62,27 @@
 
 与此同时，跨性别青年、他们的家人和支持者在充满争议的政治和法律环境中继续为自己的权利而战。随着各州和法院努力解决这个问题，未成年人性别肯定护理的未来仍不确定，但争论激烈。  
 <!-- tcd_original_link https://www.newslooks.com/zh-CN/gender-affirming-care-ban-halted-by-montana-supreme-court/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了蒙大拿州最高法院对性别肯定护理禁令的裁决，暂时阻止了一项针对跨性别未成年人提供医疗服务的法律。裁决理由是该法律可能侵犯了蒙大拿州宪法赋予的隐私权。批评者指出，该法律不仅对跨性别青少年造成严重伤害，而且不公平地针对他们，而法律的支持者则声称该禁令是为了保护儿童免受实验性治疗的影响。在社会背景上，超过26个州类似的禁令正面临诉讼，而美国最高法院也在听取其他州的相关案例。跨性别权利倡导者对此裁决表示欢迎，认为这将使跨性别青年能够继续接受必要的医疗照顾。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_蒙大拿州最高法院叫停性别肯定护理禁令.md                             |
+| Size            | 7792 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.newslooks.com/zh-CN/gender-affirming-care-ban-halted-by-montana-supreme-court/](https://www.newslooks.com/zh-CN/gender-affirming-care-ban-halted-by-montana-supreme-court/)                       |
+| Author          | 玛丽·西迪奇                               |
+| Region          | 美国                               |
+| Date            | 2024-12-11                                 |
+| Tags            | 性别肯定护理, 跨性别权利, 法律政策, 医疗资源, 社会环境, 蒙大拿州最高法院                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

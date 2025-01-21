@@ -1,5 +1,8 @@
 # 普京签署法律：禁止变性合法国家的公民收养俄罗斯儿童
 
+## 正文 { data-search-exclude }
+
+
 *作者：陈思佳*
 
 *来源：观察者网*
@@ -70,3 +73,27 @@
 
 **版权声明**：Copyright © 2014-2024 观察者 All rights reserved。
 <!-- tcd_original_link https://www.guancha.cn/internation/2024_11_25_756649.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件报道了俄罗斯总统普京于2024年11月23日签署的一项法律，禁止来自变性合法国家的公民收养俄罗斯儿童。报道援引俄罗斯塔斯社的消息指出，此法律旨在“保护俄罗斯儿童和传统价值观”，防止儿童受到潜在危险。新法律将影响那些允许通过医疗手段改变性别的国家，并对与这些国家有关的收养政策进行严格限制。普京此前已实施对变性手术的限制，并对已婚变性人士的婚姻状态作出规定。文件还提及俄罗斯在2013年实现的同性婚伴侣收养法律的禁止，以及与此类法律相关的历史与社会背景，同时展示了社会舆论对此法律的反馈与评论。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_普京签了：禁止变性合法国家的公民收养俄儿童.md                             |
+| Size            | 4720 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.guancha.cn/internation/2024_11_25_756649.shtml](https://www.guancha.cn/internation/2024_11_25_756649.shtml)                       |
+| Author          | 陈思佳                               |
+| Region          | 俄罗斯                               |
+| Date            | 2024-11-25                                 |
+| Tags            | 法律, 变性, 收养, 儿童保护, 传统价值观, 俄罗斯, 社会政策, 国际新闻                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

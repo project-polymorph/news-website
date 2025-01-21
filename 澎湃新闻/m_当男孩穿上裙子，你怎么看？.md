@@ -1,5 +1,8 @@
 # 当男孩穿上裙子，你怎么看？
 
+## 正文 { data-search-exclude }
+
+
 ![](https://image.thepaper.cn/publish/interaction/image/5/341/363.png)
 
 [未来编辑部·微观中国江苏同读好书共芸窗信息化技术研究院有限公司](https://m.thepaper.cn/user_interaction_1046932)
@@ -20,7 +23,7 @@
 
 ![](https://imgpai.thepaper.cn/3465455251034_fiQ6mS_1732727625517.png?x-oss-process=image/resize,w_1080)
 
-## 一、异类
+## 一、异类 { data-search-exclude }
 
 戴凡是二次元角色扮演爱好者（cosplayer），他喜欢扮演一些动漫里的女性角色。是的，戴凡是位“女装大佬”。他会伪音，大学参加学校的动漫社后，在社里主要负责舞台剧的配音。由于骨架小，女装在他身上意外地合身，相比其他男生，他的女装往往更加出彩。有一次，戴凡扮演“可莉”（手游《原神》中的一名女性角色）的照片还上了学校的表白墙，评论不乏赞美之辞，算是小小地“火”了一把。
 
@@ -50,7 +53,7 @@ Kitty第一次穿女装和小学同学的一次恶作剧有关。那是Kitty小�
 
 ![](https://imgpai.thepaper.cn/3465455393852_KHJDzw_1732727696926.png?x-oss-process=image/resize,w_1080)
 
-## 二、突围
+## 二、突围 { data-search-exclude }
 
 相比之下，严元在“女装大佬”的行列里更显“另类”。严元不是cosplayer，也不是跨性别者，他是货真价实的“女装爱好者”。
 
@@ -70,7 +73,7 @@ Kitty第一次穿女装和小学同学的一次恶作剧有关。那是Kitty小�
 
 ![](https://imgpai.thepaper.cn/3465455471408_tHCp3J_1732727735704.jpeg?x-oss-process=image/resize,w_1080)
 
-## 三、隐痛
+## 三、隐痛 { data-search-exclude }
 
 相比Kitty，戴凡和严元的父母对于儿子女装的态度并没有那么开明。
 
@@ -84,7 +87,7 @@ Kitty第一次穿女装和小学同学的一次恶作剧有关。那是Kitty小�
 
 ![](https://imgpai.thepaper.cn/3465455541636_NdX5AD_1732727770818.png?x-oss-process=image/resize,w_1080)
 
-## 四、独行
+## 四、独行 { data-search-exclude }
 
 对于未来，三人的眉宇间透露着一分同样的迷茫和忧愁。哪怕是原生家庭给予了极大的支持的Kitty也不例外。
 
@@ -104,3 +107,27 @@ Kitty觉得自己很幸运，他说自己的家庭环境和成长环境都是“
 
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问https://renzheng.thepaper.cn。
 <!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_29476839 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文探讨了关于男孩穿裙子这一现象的社会视角，特别是在国际跨性别纪念日之际，强调了跨性别者面临的挑战与不公。在文章中，戴凡、Kitty和严元三位个体分享了他们的个人经历，展示了各自对性别表达的理解与实践。戴凡作为一名‘女装大佬’，以女性角色扮演为乐，分享了在公共场合穿女装所面临的困扰与自信。Kitty则是一个从小就对女性角色和服饰感到亲近的男孩，描述了他的家庭如何接纳他成为自己真正的样子。相对而言，严元则是通过审美转变来看待性别服饰的，他不仅仅是‘穿女装’，更是对传统关于性别的认知进行反思与挑战。三人都经历了来自社会和家庭的压力，但他们也在探索和坚持自我的过程中找到了勇气。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_当男孩穿上裙子，你怎么看？.md                             |
+| Size            | 14414 bytes                           |
+| Archived Date   | 2025-01-21 02:17:03                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_29476839](https://m.thepaper.cn/newsDetail_forward_29476839)                       |
+| Author          | 未来编辑部·新记者                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-11-20                                 |
+| Tags            | 跨性别, 性别多样性, 女装大佬, 生命故事, 个人经历, 社会接受度, 孩童时期经历, 自我认同, 法律与社会环境                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

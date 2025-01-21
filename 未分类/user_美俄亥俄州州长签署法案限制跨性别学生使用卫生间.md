@@ -1,5 +1,8 @@
 # 美俄亥俄州州长签署法案限制跨性别学生使用卫生间
 
+## 正文 { data-search-exclude }
+
+
 #### 来源：美联社  
 #### 发布于：2024年11月28日 22:30:38  
 #### 作者：[心之龙城飞将](https://user/personal-homepage?uid=65084)  
@@ -44,3 +47,27 @@
 
 Copyright © 2014-2023 观察者 All rights reserved。
 <!-- tcd_original_link https://user.guancha.cn/main/content?id=1340658 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章报道了俄亥俄州州长迈克·德怀恩签署的一项法案，该法案禁止跨性别学生使用与其性别认同相对应的公共卫生间。根据这一法案，公立和私立学校必须按照学生出生时的性别来指定卫生间。这一决定引起了民主党、教师工会和民权组织的强烈反对。法案发起人声称，法案是出于对学生安全的考虑，而反对者则指出该法案侵犯了LGBTQ+群体的隐私权，并使他们的安全面临更大威胁。文章还提到相关政策的未来可能受到特朗普政府的影响。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | user_美俄亥俄州州长签署法案限制跨性别学生使用卫生间.md                             |
+| Size            | 2769 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://user.guancha.cn/main/content?id=1340658](https://user.guancha.cn/main/content?id=1340658)                       |
+| Author          | 心之龙城飞将                               |
+| Region          | 美国                               |
+| Date            | 2024-11-28                                 |
+| Tags            | 跨性别, 法律政策, 性别认同, 俄亥俄州, LGBTQ+, 公共卫生间, 教育政策                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

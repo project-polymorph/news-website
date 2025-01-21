@@ -1,5 +1,8 @@
 # 密苏里州法院维持对未成年人进行性别肯定护理的禁令
 
+## 正文 { data-search-exclude }
+
+
 25 November 2024
 
 ![密苏里州法院维持对未成年人进行性别肯定护理的禁令](https://www.newslooks.com/wp-content/uploads/2024/11/AP24330848411747.jpg)
@@ -72,3 +75,27 @@ Lambda Legal 和美国公民自由联盟计划提起上诉，预计将以违宪�
 
 上诉结果可能产生深远影响，可能为其他有类似法律的州树立先例。它还将成为这些法律在面临宪法挑战时是否持久的试金石。
 <!-- tcd_original_link https://www.newslooks.com/zh-CN/missouri-court-upholds-ban-on-gender-affirming-care-for-minors/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了密苏里州法院维持对未成年人进行性别肯定医疗护理禁令的法律裁决。这项法律禁止18岁以下的跨性别青年接受青春期阻滞剂、性别确认手术及激素治疗，虽遭到广泛的医学界与倡导团体反对。法官克雷格·卡特的裁定引发了对于这一法律的争论，支持者认为此举保护了儿童，而反对者则指出该法律歧视性别少数群体，妨碍了他们得到必要的医疗服务。文章详细介绍了法律的背景、医疗界及倡导团体的反应，以及这一裁定在全国范围内的影响。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_密苏里州法院维持对未成年人进行性别肯定护理的禁令.md                             |
+| Size            | 7199 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.newslooks.com/zh-CN/missouri-court-upholds-ban-on-gender-affirming-care-for-minors/](https://www.newslooks.com/zh-CN/missouri-court-upholds-ban-on-gender-affirming-care-for-minors/)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2024-11-25                                 |
+| Tags            | 性别肯定治疗, 跨性别, 法院裁决, 法律政策, 医疗资源, 心理健康, 青少年权利                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

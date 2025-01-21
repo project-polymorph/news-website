@@ -1,5 +1,8 @@
 # 拜登撤回 保障跨性别运动员提案
 
+## 正文 { data-search-exclude }
+
+
 ![image](https://mc.yandex.ru/watch/95595818)
 
 ![time](/public_v3/resources/images/time_dark.svg) 2024年12月22日  
@@ -33,3 +36,27 @@
 悲伤 ![悲伤](/public_v3/resources/images/sad.gif?v=1) 0  
 关怀 ![关怀](/public_v3/resources/images/care.gif?v=1) 0
 <!-- tcd_original_link https://www.chinapress.com.my/20241222/%E6%8B%9C%E7%99%BB%E6%92%A4%E5%9B%9E-%E4%BF%9D%E9%9A%9C%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E6%8F%90%E6%A1%88/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了美国总统拜登决定撤回一项原计划保障跨性别运动员权益的提案。该提案本意是从‘1972年教育法修正案’第九条扩展规则，以防止学校在无正当理由下禁止跨性别运动员参赛。然而，由于政权过渡及新任总统的上任，这一计划被迫放弃。报道详细描述了该提案的历史背景，包括自2023年首次提出以来的多次延宕，以及与此项规则相关的法律挑战。此外，文中提到关于合作与妥协的争议，支持者希望为跨性别运动员提供更好的保护，而反对者认为它未能保障运动员的权益。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_拜登撤回_保障跨性别运动员提案.md                             |
+| Size            | 2526 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.chinapress.com.my/20241222/%E6%8B%9C%E7%99%BB%E6%92%A4%E5%9B%9E-%E4%BF%9D%E9%9A%9C%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E6%8F%90%E6%A1%88/](https://www.chinapress.com.my/20241222/%E6%8B%9C%E7%99%BB%E6%92%A4%E5%9B%9E-%E4%BF%9D%E9%9A%9C%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E6%8F%90%E6%A1%88/)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2024-12-22                                 |
+| Tags            | 拜登, 跨性别运动员, 教育法, 法律政策, 社会环境, LGBTQ+, 运动权利                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

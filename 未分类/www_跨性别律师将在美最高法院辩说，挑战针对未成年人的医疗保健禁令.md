@@ -1,5 +1,8 @@
 # 跨性别律师将在美最高法院辩说，挑战针对未成年人的医疗保健禁令
 
+## 正文 { data-search-exclude }
+
+
 ![跨性别律师](https://ssc.voachinese.com/b/ss/bbgprod,bbgentityvoa/1/G.4--NS/177030206?pageName=voa%3aman%3aw%3aarticle%3a%e8%b7%a8%e6%80%a7%e5%88%ab%e5%be%8b%e5%b8%88%e5%b0%86%e5%9c%a8%e7%be%8e%e6%9c%80%e9%ab%98%e6%b3%95%e9%99%a2%e8%be%a9%e8%af%b4%ef%bc%8c%e6%8c%91%e6%88%98%e9%92%88%e5%af%b9%e6%9c%aa%e6%88%90%e5%b9%b4%e4%ba%ba%e7%9a%84%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5%e7%a6%81%e4%bb%a4%20&c6=%e8%b7%a8%e6%80%a7%e5%88%ab%e5%be%8b%e5%b8%88%e5%b0%86%e5%9c%a8%e7%be%8e%e6%9c%80%e9%ab%98%e6%b3%95%e9%99%a2%e8%be%a9%e8%af%b4%ef%bc%8c%e6%8c%91%e6%88%98%e9%92%88%e5%af%b9%e6%9c%aa%e6%88%90%e5%b9%b4%e4%ba%ba%e7%9a%84%e5%8c%bb%e7%96%97%e4%bf%9d%e5%81%a5%e7%a6%81%e4%bb%a4%20&v36=8.36.0.0.286&v6=D=c6&g=https%3a%2f%2fwww.voachinese.com%2fa%2ftransgender-attorney-to-argue-before-supreme-court-challenging-health-care-ban-for-minors-20241203%2f7885189.html&c1=D=g&v1=D=g&events=event1,event52&c16=voa%20mandarin&v16=D=c16&c5=us&v5=D=c5&ch=%e7%be%8e%e5%9b%bd&c15=mandarin&v15=D=c15&c4=article&v4=D=c4&c14=7885189&v14=D=c14&v20=no&c17=web&v17=D=c17&mcorgid=518abc7455e462b97f000101%40adobeorg&server=www.voachinese.com&pageType=D=c4&ns=bbg&v29=D=server&v25=voa&v30=521&v105=D=User-Agent)
 
 2024年12月3日 16:50  
@@ -41,3 +44,27 @@
 
 （本文依据了美联社的报道。）
 <!-- tcd_original_link https://www.voachinese.com/a/transgender-attorney-to-argue-before-supreme-court-challenging-health-care-ban-for-minors-20241203/7885189.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文介绍了跨性别律师蔡斯·斯特兰吉奥将于2024年12月3日在美国最高法院辩论一起与未成年人医疗保健相关的案件。他是第一位在美国最高法院出庭的公开跨性别律师，代表一些因田纳西州法律而受到影响的家庭，挑战该州禁止为跨性别未成年人提供医疗服务的禁令。文章提到，跨性别权利在当前的政治环境中面临压力，而蔡斯认为他个人的医疗经历使他能够为跨性别青少年的权利辩护。文中还提到，田纳西州的立场是保护未成年人避免在未来做出不可逆决定，并引用了多方对此案的观点，包括拜登政府的支持。最终，最高法院将在明年夏天对此案作出裁决。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别律师将在美最高法院辩说，挑战针对未成年人的医疗保健禁令.md                             |
+| Size            | 5631 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.voachinese.com/a/transgender-attorney-to-argue-before-supreme-court-challenging-health-care-ban-for-minors-20241203/7885189.html](https://www.voachinese.com/a/transgender-attorney-to-argue-before-supreme-court-challenging-health-care-ban-for-minors-20241203/7885189.html)                       |
+| Author          | 美国之音                               |
+| Region          | 美国                               |
+| Date            | 2024-12-03                                 |
+| Tags            | 跨性别权利, 医疗保健, 未成年人, 法律动态, 美国最高法院, 蔡斯·斯特兰吉奥, 田纳西州                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 被跨性别女警下药 2男警阳根 遭性工具重伤
 
+## 正文 { data-search-exclude }
+
+
 ![time](/public_v3/resources/images/time_dark.svg) 2024年12月2日  
 ![view](/public_v3/resources/images/eye_dark.svg) 5545点阅  
 责任编辑: 国际小编  
@@ -26,3 +29,27 @@ Judy S.最近获选柏林警队的女性副代表，成为第二位女性副代�
 悲伤 ![悲伤](/public_v3/resources/images/sad.gif?v=1) 1  
 关怀 ![关怀](/public_v3/resources/images/care.gif?v=1) 1  
 <!-- tcd_original_link https://www.chinapress.com.my/20241202/%E8%A2%AB%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E8%AD%A6%E4%B8%8B%E8%8D%AF-2%E7%94%B7%E8%AD%A6%E9%98%B3%E6%A0%B9-%E9%81%AD%E6%80%A7%E5%B7%A5%E5%85%B7%E9%87%8D%E4%BC%A4/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文报道了一名德国跨性别女警Judy S.被指控的性侵犯事件。事件发生在2024年11月初，她在柏林的奇巧俱乐部结识了两名男警，将他们带回公寓吸毒并与其发生性关系，随后对他们进行了性侵犯，使用了如“阴茎增大器”等性工具，导致两名男警受到重伤，包括生殖器等部位的严重伤害。此案备受关注，引发了一系列的争议，尤其是在Judy S.担任柏林警队女性副代表之后，该职位的选举结果在她被停职后才宣布。同时，文中提到奇巧俱乐部是一个多元化的娱乐场所，吸引了异性恋和性少数群体。整个事件不仅涉及性别认同问题，也引发了社会对跨性别群体的讨论与反思。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_被跨性别女警下药_2男警阳根_遭性工具重伤.md                             |
+| Size            | 3150 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.chinapress.com.my/20241202/%E8%A2%AB%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E8%AD%A6%E4%B8%8B%E8%8D%AF-2%E7%94%B7%E8%AD%A6%E9%98%B3%E6%A0%B9-%E9%81%AD%E6%80%A7%E5%B7%A5%E5%85%B7%E9%87%8D%E4%BC%A4/](https://www.chinapress.com.my/20241202/%E8%A2%AB%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E8%AD%A6%E4%B8%8B%E8%8D%AF-2%E7%94%B7%E8%AD%A6%E9%98%B3%E6%A0%B9-%E9%81%AD%E6%80%A7%E5%B7%A5%E5%85%B7%E9%87%8D%E4%BC%A4/)                       |
+| Author          | 未知                               |
+| Region          | 德国                               |
+| Date            | 2024-12-02                                 |
+| Tags            | 跨性别, 性侵犯, 社会事件, 医疗问题, 法律问题, 柏林警队, LGBTQ, 媒体报道                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

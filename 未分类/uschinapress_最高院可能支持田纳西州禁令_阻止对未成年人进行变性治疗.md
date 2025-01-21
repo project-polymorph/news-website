@@ -1,5 +1,8 @@
 # 最高院可能支持田纳西州禁令 阻止对未成年人进行变性治疗
 
+## 正文 { data-search-exclude }
+
+
 ![侨报网-以美国《侨报》为旗舰的网络新闻平台](/upload/content/2024/20241231/0f7b4dde3efff78340e763cf69acc88a.png)
 
 - 时间: 2024-12-04 12:26
@@ -32,3 +35,27 @@
 
 版权 © 1990 - 2025 侨报网, 版权所有 保留所有权利. Pacific Culture Enterprise, Inc. All rights reserved.
 <!-- tcd_original_link https://uschinapress.com/article/191980.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了美国最高法院有可能支持田纳西州的禁令，该禁令禁止未成年人接受性别确认治疗。报道指出，此次听取法律挑战的事件是跨性别权利案件中重要的再次审理。跨性别治疗支持者在法庭外举行集会，支持禁令的人与反对者的立场极为对立。田纳西州的法律被认为可能构成性别歧视，然而州方辩称该法律旨在保护未成年人。本文还提到了法律挑战者认为禁止变性治疗的法律带来的性生活、社交以及医疗上的困扰案例，强调了医学界对此治疗的支持。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | uschinapress_最高院可能支持田纳西州禁令_阻止对未成年人进行变性治疗.md                             |
+| Size            | 3144 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://uschinapress.com/article/191980.html](https://uschinapress.com/article/191980.html)                       |
+| Author          | 侨报网                               |
+| Region          | 美国                               |
+| Date            | 2024-12-04                                 |
+| Tags            | 跨性别权利, 法律政策, 性别确认治疗, 未成年, 田纳西州, 医学组织                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

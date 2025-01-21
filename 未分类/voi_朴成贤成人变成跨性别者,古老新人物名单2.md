@@ -1,5 +1,8 @@
 # 朴成贤成人变成跨性别者,古老新人物名单2
 
+## 正文 { data-search-exclude }
+
+
 ![朴成贤成人变成跨性别者,古老新人物名单2](https://imgsrv2.voi.id/C1VYuvldcffYLBRBvn1X8rfaMrOoMT3OQAvbzjYQDpg/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy80NDA1MjUvMjAyNDEyMDYxNjU4LW1haW4uY3JvcHBlZF8xNzMzNDc5MTE3LmpwZw.jpg)
 
 07 Desember 2024, 07:10 | [编辑团队](#)
@@ -41,3 +44,27 @@ Tag: [serial](https://voi.id/zh/tag/163/serial) [netflix](https://voi.id/zh/tag/
 
 [#洪水](https://voi.id/zh/tag/99/banjir--zh) [#哈斯托·克里斯蒂扬托](https://voi.id/zh/tag/4299/hasto-kristiyanto--zh) [#free nutritious food](https://voi.id/zh/tag/12031/makan-bergizi-gratis) [#patrick kluivert](https://voi.id/zh/tag/14395/patrick-kluivert) [#tangerang sea fence](https://voi.id/zh/tag/14450/pagar-laut-tangerang)
 <!-- tcd_original_link https://voi.id/zh/lifestyle/440525 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了Netflix即将发布的电视剧《鱿鱼游戏2》的角色和剧情，其中提及了名为朴成贤（Park Sung Hoon）的角色、一个跨性别女性贤珠（Hyun Ju）。贤珠的角色经历了一段变性过程，她面临着经济压力，需要资金来进行性别确认手术。通过这个角色，文章探讨了性别认同与身份认同的主题，反映了社会对于跨性别者在经济和心理方面的挑战和支持。故事情节围绕主角Seong Gi Hun的再次参赛展开，展现了新角色与旧角色之间的复杂关系。该系列将于2024年12月26日在Netflix上线，这里阐述了新角色的背景以及他们加入游戏的原因，同时也提及了游戏的危机和挑战。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | voi_朴成贤成人变成跨性别者,古老新人物名单2.md                             |
+| Size            | 3450 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://voi.id/zh/lifestyle/440525](https://voi.id/zh/lifestyle/440525)                       |
+| Author          | Tarida Angelina, Puput Puji Lestari                               |
+| Region          | 未知                               |
+| Date            | 2024-12-07                                 |
+| Tags            | 跨性别者, 性别认同, 鱿鱼游戏, Netflix, 角色分析, 社会挑战, 身份认同                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

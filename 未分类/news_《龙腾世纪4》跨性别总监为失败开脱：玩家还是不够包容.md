@@ -1,5 +1,8 @@
 # 《龙腾世纪4》跨性别总监为失败开脱：玩家还是不够包容
 
+## 正文 { data-search-exclude }
+
+
 ![《龙腾世纪4》跨性别总监为失败开脱：玩家还是不够包容](//img1.mydrivers.com/img/20241222/f247e188-701a-4671-bec7-82917443a1b4.png)
 
 **时间**：2024-12-22 13:58:12  
@@ -38,3 +41,27 @@
 **版权**：快科技·1997-2024 版权所有  
 **Copyright(C)Mydrivers.com, All Rights Reserved.**
 <!-- tcd_original_link https://news.mydrivers.com/1/1020/1020919.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《龙腾世纪4》跨性别总监Corinne Busche在接受采访时，就该游戏的表现做出了 controversial 的言论。她指出，游戏的失败在很大程度上归因于玩家的负面反馈和仇恨言论，而不是游戏本身的缺陷。Busche强调了包容性和多样性在现代游戏开发中的重要性，并分享了作为跨性别女性的个人经历，谈到这种身份如何影响她的自我认知和生活经历。她提到，这一身份让她不断进行自我反思，对自己有更深入的理解。文章还质疑，开发者在追求包容性的同时，是否忽视了游戏的质量，提示这种多样性的元素不应是为了迎合特定受众而牺牲游戏体验。总的来说，这篇报道揭示了游戏产业中性别认同与玩家社区之间的复杂关系和挑战。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_《龙腾世纪4》跨性别总监为失败开脱：玩家还是不够包容.md                             |
+| Size            | 3011 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://news.mydrivers.com/1/1020/1020919.htm](https://news.mydrivers.com/1/1020/1020919.htm)                       |
+| Author          | co1dsleep                               |
+| Region          | 未知                               |
+| Date            | 2024-12-22                                 |
+| Tags            | 龙腾世纪, 游戏, 性别, 跨性别, 包容性与多样性, 玩家反馈                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

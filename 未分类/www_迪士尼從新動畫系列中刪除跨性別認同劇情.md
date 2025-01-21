@@ -1,5 +1,8 @@
 # 迪士尼从新动画系列中删除跨性别认同剧情
 
+## 正文 { data-search-exclude }
+
+
 ![迪士尼从新动画系列中删除跨性别认同剧情](https://i.epochtimes.com/assets/uploads/2023/10/id14089108-000_32JM9NM-600x400.jpg)
 
 2022年9月18日，反跨性别支持者在波士顿儿童医院外示威，反对医院对未成年人进行性别确认治疗和手术。(Joseph Prezioso/AFP)
@@ -34,3 +37,27 @@
 
 责任编辑：李琳#
 <!-- tcd_original_link https://www.epochtimes.com/gb/24/12/18/n14393703.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件报道了迪士尼在即将发布的动画系列《赢或输》中删除跨性别认同相关的情节。文章提到，反跨性别的立场在社会上引起了广泛讨论，尤其是从保守派人士那里的质疑日益增加。虽然迪士尼未具体说明删减的原因，但发言人表示许多父母希望按照他们自己的方式和时间来讨论有关性别认同的话题。文件中列举了一些对跨性别者权利的争论，包括一些政治人物的言论，反映出当今社会对性别议题的复杂态度。此外，文件还提到了一些相关的法律政策变动，尤其是关于跨性别学生在学校中的权利问题，展示了社会对多元性别保障的紧迫性与挑战。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_迪士尼從新動畫系列中刪除跨性別認同劇情.md                             |
+| Size            | 3808 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.epochtimes.com/gb/24/12/18/n14393703.htm](https://www.epochtimes.com/gb/24/12/18/n14393703.htm)                       |
+| Author          | 大纪元记者秋生                               |
+| Region          | 未知                               |
+| Date            | 2024-12-19                                 |
+| Tags            | 迪士尼, 动画, 跨性别, 性别认同, 社会争议                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

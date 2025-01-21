@@ -1,5 +1,8 @@
 # 《龙腾4》跨性别总监为失败开脱：玩家还是不够包容
 
+## 正文 { data-search-exclude }
+
+
 2024-12-21 来源: 游民星空
 
 ![views](/views_eye.png)
@@ -26,3 +29,27 @@
 
 登录后评论
 <!-- tcd_original_link https://www.yeeyi.com/news/details/2566755/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了《龙腾世纪4》的跨性别总监Corinne Busche近期在接受采访时的言论，她将游戏的失败归咎于玩家社区中的仇恨活动和负面评论。Busche表示，这种外部压力掩盖了游戏内部为何表现不佳的根本原因，并提到在她成长的环境中，游戏应是为了庆祝和分享共同体验。她强调包容性和多样性在现代游戏开发中的重要性，但同时也质疑这些元素是否是为了迎合特定受众而被迫施加的。外媒指出，《龙腾世纪4》面临的问题在于缺乏在多样性、公平性和游戏质量之间的平衡，并提到不应仅将问题简化为“仇恨活动”。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《龙腾4》跨性别总监为失败开脱：玩家还是不够包容.md                             |
+| Size            | 1967 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.yeeyi.com/news/details/2566755/](https://www.yeeyi.com/news/details/2566755/)                       |
+| Author          | 游民星空                               |
+| Region          | 未知                               |
+| Date            | 2024-12-21                                 |
+| Tags            | 跨性别, 游戏开发, 包容性, 社会议题, 玩家社区, 新闻报道                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

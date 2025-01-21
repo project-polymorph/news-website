@@ -1,5 +1,8 @@
 # 俄亥俄州禁止跨性别学生进入性别统一卫生间
 
+## 正文 { data-search-exclude }
+
+
 ![俄亥俄州禁止跨性别学生进入性别统一卫生间](https://www.newslooks.com/wp-content/uploads/2024/11/AP24332537805432.jpg)
 
 **时间**：27 November 2024  
@@ -72,3 +75,27 @@
 
 [俄亥俄州本身仍是战场。一项禁止对未成年人进行性别肯定护理并禁止跨性别运动员参加女孩和女性运动的法律于 8 月生效，但在州长德怀恩最初的否决被推翻后面临司法延迟。](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wpxi.com/news/ohio-governor-signs/WFBJKE6T7JCJLFKXR7H4UDBGRA/&ved=2ahUKEwjK8piLrP2JAxXJKlkFHYJ-C_oQFnoECBsQAQ&usg=AOvVaw3kbTkNNcxtEcVicAjaPM6D)
 <!-- tcd_original_link https://www.newslooks.com/zh-CN/ohio-bans-transgender-students-from-gender-aligned-bathrooms/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件标题为《俄亥俄州禁止跨性别学生进入性别统一卫生间》，详细报道了俄亥俄州州长迈克·德温签署的‘保护所有学生法案’，该法案禁止跨性别学生使用符合其性别认同的卫生间、更衣室和过夜住宿。此法案适用于所有公立和私立学校，将在90天内生效，且使用设施仅根据学生出生时指定的性别来划分。批评者认为此法律将危害跨性别青年的安全，引发骚扰和歧视，而支持者则声称法律能够保障孩子们的隐私与安全。文中还提到此法案引发的社会反响并与全国范围内的类似政策进行了对比。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_俄亥俄州禁止跨性别学生进入性别统一卫生间.md                             |
+| Size            | 7924 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.newslooks.com/zh-CN/ohio-bans-transgender-students-from-gender-aligned-bathrooms/](https://www.newslooks.com/zh-CN/ohio-bans-transgender-students-from-gender-aligned-bathrooms/)                       |
+| Author          | 玛丽·西迪奇                               |
+| Region          | 美国                               |
+| Date            | 2024-11-27                                 |
+| Tags            | 跨性别, 法律, 权利, 社会, LGBTQ+                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

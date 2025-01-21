@@ -1,5 +1,8 @@
 # 中国首宗跨性别“扭转治疗”诉讼：原告获医院赔偿
 
+## 正文 { data-search-exclude }
+
+
 ### 来源
 纽约时报中文网  
 
@@ -97,3 +100,27 @@
 - [中国高中生电影走在性别禁忌边缘](https://www.nytimes.com/2017/08/21/china-transgender-film-school/)  
   ![中国高中生电影走在性别禁忌边缘](https://static01.nyt.com/images/2017/08/19/world/19china-trans-1/19china-trans-1-thumbLarge.jpg)
 <!-- tcd_original_link https://cn.nytimes.com/china/20241211/transgender-conversion-china/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件讲述了中国首宗跨性别“扭转治疗”诉讼的案例，原告灵儿在历经不必要的医疗干预后成功起诉医院，获得合理赔偿。灵儿生活在中国东部，在公开跨性别身份后遭遇家庭拒绝与社会歧视。她以未成年时的身份被迫接受电击疗法等手段的治疗，虽然她一开始对诉讼充满担忧，但最终法院接受了她的起诉，判决医院赔偿。这一诉讼在中国被认为是推进LGBTQ权利的里程碑事件，尽管国家对LGBTQ群体的法律保护仍然薄弱，然而灵儿的胜利为跨性别者争取权益提供了新的希望。文件还涉及灵儿经历的艰辛、对未来的期望及对法律保护的渴望，反映了在社会对LGBTQ群体态度变化下所取得的成果，以及面临的挑战。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | cn_中国首宗跨性别“扭转治疗”诉讼：原告获医院赔偿.md                             |
+| Size            | 9231 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://cn.nytimes.com/china/20241211/transgender-conversion-china/](https://cn.nytimes.com/china/20241211/transgender-conversion-china/)                       |
+| Author          | 王月眉                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-12-11                                 |
+| Tags            | 跨性别, 扭转治疗, 法律诉讼, LGBTQ权利, 社会Acceptance, 医疗伦理, 生命故事                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

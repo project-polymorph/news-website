@@ -1,5 +1,8 @@
 # 川普开始整肃美军了？ 1.5万跨性别士兵将遭驱逐
 
+## 正文 { data-search-exclude }
+
+
 **时间:** 京港台：2024-11-27 04:55  
 **来源:** Newtalk  
 **评论:** [评论(11条)](https://www.backchina.com/news/2024/11/27/945695.html)  
@@ -29,3 +32,27 @@
 
 ![QR Code](https://quickchart.io/chart?cht=qr&chs=75x75&chl=https://www.backchina.com/news/2024/11/27/945695.html)
 <!-- tcd_original_link https://www.backchina.com/news/2024/11/27/945695.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了美国即将上任的总统川普计划驱逐现役的跨性别士兵，预计将影响超过15,000名美军士兵。新任国防部长赫格塞斯在节目中指出，军中变性人士兵与"觉醒主义"是美军徵兵人数逐渐下降的原因。川普将发布行政命令，解雇在美军服役的变性人士兵，以"医疗"为由驱逐他们，并禁止未来跨性别人士参军。这一政策引发了美国民众和士兵的广泛讨论与热议，特别是在美军面临难以完成徵兵目标的背景下，评论员对这一政策的看法不一。文章详细回顾了川普的计划和美军撤退阿富汗的混乱局面，指出了这一政策可能对美军士气和战力的影响。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_川普开始整肃美军了？_1.5万跨性别士兵将遭驱逐-_美国要闻BackChina_Network.md                             |
+| Size            | 3868 bytes                           |
+| Archived Date   | 2025-01-21 02:17:04                             |
+| Original Link   | [https://www.backchina.com/news/2024/11/27/945695.html](https://www.backchina.com/news/2024/11/27/945695.html)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2024-11-27                                 |
+| Tags            | 跨性别士兵, 川普, 美军, 军事政策, 社会环境, 美国新闻                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
