@@ -40,7 +40,7 @@ All Rights Reserved 新浪公司 [版权所有](https://corp.sina.com.cn/chn/cop
 |-----------------|----------------------------------------|
 | Filename        | mil_美国法院驳回特朗普要求跨性别者明年可从军_手机新浪网.md                             |
 | Size            | 1493 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-21                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
 | Author          | 赵怡蓁                               |
 | Region          | 美国                               |

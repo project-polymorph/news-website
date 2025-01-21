@@ -498,6 +498,13 @@ files:
   size: 4230
   md5: 39d7233a6d4498e0a89faf89dc9c243c
   page: chinese_法院宣布，拜登不能强迫基督徒医生进行变性手术.md
+- name: chinese_特朗普会阻止“跨性别疯狂”吗？
+  filename: chinese_特朗普会阻止“跨性别疯狂”吗？.md
+  type: webpage
+  format: Markdown
+  size: 5415
+  md5: aba7abc0720050e4eeca66b62c242f8e
+  page: chinese_特朗普会阻止“跨性别疯狂”吗？.md
 - name: chinese_纪录片揭露“操纵性”地让孩子医疗变性的现象_-_基督邮报
   filename: chinese_纪录片揭露“操纵性”地让孩子医疗变性的现象_-_基督邮报.md
   type: webpage
@@ -2486,6 +2493,13 @@ files:
   size: 2040
   md5: 433691db156f02f0ddfcbd7fa7c7c4bb
   page: news_《泰囧》人妖rose坦白曾应聘整容咨询师_-_新闻-_温州网.md
+- name: news_《龙腾4》跨性别总监离职_玩家快失业别祸害别的游
+  filename: news_《龙腾4》跨性别总监离职_玩家快失业别祸害别的游.md
+  type: webpage
+  format: Markdown
+  size: 2939
+  md5: ef54352e405f636c17ba659df674b2f7
+  page: news_《龙腾4》跨性别总监离职_玩家快失业别祸害别的游.md
 - name: news_《龙腾世纪4》总监谈自己跨性别身份_游戏也应拥抱多样性
   filename: news_《龙腾世纪4》总监谈自己跨性别身份_游戏也应拥抱多样性.md
   type: webpage
@@ -3543,6 +3557,13 @@ files:
   size: 4644
   md5: 6400edb1625228ed058f38687c072fa7
   page: news_易性癖男子公开隐私寻求理解-新闻中心-中国宁波网.md
+- name: news_曝《龙腾4》跨性别总监离职！工作室恐被关闭
+  filename: news_曝《龙腾4》跨性别总监离职！工作室恐被关闭.md
+  type: webpage
+  format: Markdown
+  size: 3243
+  md5: 6a3af35a837a7acb2990cc992440b1f9
+  page: news_曝《龙腾4》跨性别总监离职！工作室恐被关闭.md
 - name: news_曝黄海波事件女主已变性4年泰国做手术_-_新闻
   filename: news_曝黄海波事件女主已变性4年泰国做手术_-_新闻.md
   type: webpage
@@ -4124,6 +4145,13 @@ files:
   size: 10557
   md5: df2fee51fbb6ebf3fc7a0c88f9a6b27c
   page: news_美国大选一场生死博弈--万维读者网.md
+- name: news_美国通过立法：禁止跨性别女学生参加中小学校的女生体育项目
+  filename: news_美国通过立法：禁止跨性别女学生参加中小学校的女生体育项目.md
+  type: webpage
+  format: Markdown
+  size: 2621
+  md5: 2685870b4816e3fc9919df515ef71f82
+  page: news_美国通过立法：禁止跨性别女学生参加中小学校的女生体育项目.md
 - name: news_美国防部称正等待白宫关于跨性别者服兵役的正式指引
   filename: news_美国防部称正等待白宫关于跨性别者服兵役的正式指引.md
   type: webpage
@@ -4866,6 +4894,13 @@ files:
   size: 20947
   md5: 9e3bff174983803212de9a37154fd544
   page: static_不被理解的跨性别者：与母亲争吵半生，只为一个签名……_-_周到.md
+- name: std_专栏乔靖夫│跨性别选手遭杯葛风暴_星岛日报
+  filename: std_专栏乔靖夫│跨性别选手遭杯葛风暴_星岛日报.md
+  type: webpage
+  format: Markdown
+  size: 2757
+  md5: 9237f300df5d5e0433df2395c7909cf1
+  page: std_专栏乔靖夫│跨性别选手遭杯葛风暴_星岛日报.md
 - name: std_易建联嫖跨性别者︱男主沉默6日突留言「Fake_News」_似反击丑闻
   filename: std_易建联嫖跨性别者︱男主沉默6日突留言「Fake_News」_似反击丑闻.md
   type: webpage
@@ -4887,6 +4922,20 @@ files:
   size: 2949
   md5: 46cfc1caeb0a525d0c27413365061533
   page: std_特朗普：美官方政策仅2种性别不让「男性」参加女子赛事_星岛日报.md
+- name: stnn_特朗普：美官方政策仅2种性别，不让“男性”参加女子赛事
+  filename: stnn_特朗普：美官方政策仅2种性别，不让“男性”参加女子赛事.md
+  type: webpage
+  format: Markdown
+  size: 2309
+  md5: 4e032ae3883cc1e1b18f79d05a88cc03
+  page: stnn_特朗普：美官方政策仅2种性别，不让“男性”参加女子赛事.md
+- name: stnn_联邦法庭裁定违宪，拜登政府跨性别学生保护举措受挫
+  filename: stnn_联邦法庭裁定违宪，拜登政府跨性别学生保护举措受挫.md
+  type: webpage
+  format: Markdown
+  size: 3979
+  md5: f9529f8e91c9292181f6c27c6b04b852
+  page: stnn_联邦法庭裁定违宪，拜登政府跨性别学生保护举措受挫.md
 - name: superlife_泰国人妖表演的台前幕后专门培养小孩的人妖学校_组图__-_超级生活
   filename: superlife_泰国人妖表演的台前幕后专门培养小孩的人妖学校_组图__-_超级生活.md
   type: webpage
@@ -5958,6 +6007,13 @@ files:
   size: 1967
   md5: 8e25b1a2a10354cac37c7357a6bde219
   page: www_《龙腾4》跨性别总监为失败开脱：玩家还是不够包容.md
+- name: www_《龙腾4》跨性别总监离职_玩家快失业别祸害别的游
+  filename: www_《龙腾4》跨性别总监离职_玩家快失业别祸害别的游.md
+  type: webpage
+  format: Markdown
+  size: 2208
+  md5: 4857b1d36080522909e0d4dbd44f4281
+  page: www_《龙腾4》跨性别总监离职_玩家快失业别祸害别的游.md
 - name: www_《龙腾世纪4》宣扬ZZZQ价值观NPC大谈性别认同_-_3DM游戏网
   filename: www_《龙腾世纪4》宣扬ZZZQ价值观NPC大谈性别认同_-_3DM游戏网.md
   type: webpage
@@ -6518,6 +6574,13 @@ files:
   size: 6438
   md5: e62b1551e9c1707602465b82671778df
   page: www_倾国之约：广州玲距离十一变装狂欢节.md
+- name: www_健身房更衣室遇跨性別者_華女感不適
+  filename: www_健身房更衣室遇跨性別者_華女感不適.md
+  type: webpage
+  format: Markdown
+  size: 4569
+  md5: 58ec0f0f179e0264acfce02533a5623e
+  page: www_健身房更衣室遇跨性別者_華女感不適.md
 - name: www_僧侣番新作公布性转喜剧《基友变辣妹》动画化4月播出_-_宅萌社
   filename: www_僧侣番新作公布性转喜剧《基友变辣妹》动画化4月播出_-_宅萌社.md
   type: webpage
@@ -6672,6 +6735,13 @@ files:
   size: 2062
   md5: 326f4a002e0a4dd540453e7447d4f9bd
   page: www_印變性校長籲重視性別少數團體工作權_-_中央社.md
+- name: www_又抹黑跨性別_川普：美官方政策將只有兩種性別
+  filename: www_又抹黑跨性別_川普：美官方政策將只有兩種性別.md
+  type: webpage
+  format: Markdown
+  size: 2405
+  md5: 8f5fa4a678dc9857df37aa380e7c7d8b
+  page: www_又抹黑跨性別_川普：美官方政策將只有兩種性別.md
 - name: www_反跨性别活动家在混乱中结束新西兰之行，引发多方激烈争论
   filename: www_反跨性别活动家在混乱中结束新西兰之行，引发多方激烈争论.md
   type: webpage
@@ -6812,6 +6882,13 @@ files:
   size: 19339
   md5: b494e556ceedbcde32646aca088d3ded
   page: www_台湾立委吴沛忆专访：替同志伴侣许家蓓“说一个完整的故事”_-_BBC.md
+- name: www_台湾跨性别老师黄明真：从被逼离职到获“教育界奥斯卡奖”师铎奖，社会真的更包容多元了吗？
+  filename: www_台湾跨性别老师黄明真：从被逼离职到获“教育界奥斯卡奖”师铎奖，社会真的更包容多元了吗？.md
+  type: webpage
+  format: Markdown
+  size: 17707
+  md5: fa7a83a578b4fbe2c8ee0a5ddca76f52
+  page: www_台湾跨性别老师黄明真：从被逼离职到获“教育界奥斯卡奖”师铎奖，社会真的更包容多元了吗？.md
 - name: www_台灣人應該最能了解並同理跨性別處境，因為台灣／中華民國也是_
   filename: www_台灣人應該最能了解並同理跨性別處境，因為台灣／中華民國也是_.md
   type: webpage
@@ -7057,6 +7134,13 @@ files:
   size: 11929
   md5: 5ca8f96b5a2acb12cff4a251b92e463f
   page: www_如何在职场上创造出柜能见度_慧咨环球_-_WiseTech_Global.md
+- name: www_姚耀光：厕所的争论
+  filename: www_姚耀光：厕所的争论.md
+  type: webpage
+  format: Markdown
+  size: 2861
+  md5: 6f7d103698baae11f6d761460e9c85af
+  page: www_姚耀光：厕所的争论.md
 - name: www_娘炮文化的前世今生_-_澳洲亿忆网
   filename: www_娘炮文化的前世今生_-_澳洲亿忆网.md
   type: webpage
@@ -7736,6 +7820,13 @@ files:
   size: 2887
   md5: cdb3d67ddfe8b30c2154219747d37e38
   page: www_朝思暮想女儿身30岁男子静候切除“秽根”做女人_-_文学城.md
+- name: www_未成年可做變性手術惹議_家長團體憂心國外後悔案例多
+  filename: www_未成年可做變性手術惹議_家長團體憂心國外後悔案例多.md
+  type: webpage
+  format: Markdown
+  size: 4185
+  md5: 67cfef7f30ed5b4bacfd125258a11948
+  page: www_未成年可做變性手術惹議_家長團體憂心國外後悔案例多.md
 - name: www_李心沫：“_女性艺术”与“女性主义艺术”_-_秃头戈女
   filename: www_李心沫：“_女性艺术”与“女性主义艺术”_-_秃头戈女.md
   type: webpage
@@ -7925,6 +8016,13 @@ files:
   size: 2216
   md5: a7eeed7fbfcf677992946b4c46dddbdf
   page: www_泰药剂专家警示跨性别群体：“避孕药虽然有雌性激素.md
+- name: www_活跃在中国和世界舞台的朝鲜族变性舞蹈演员金星_57岁_的演出在中国国内接连被取消，其背景备受关注。
+  filename: www_活跃在中国和世界舞台的朝鲜族变性舞蹈演员金星_57岁_的演出在中国国内接连被取消，其背景备受关注。.md
+  type: webpage
+  format: Markdown
+  size: 1925
+  md5: b114f0c4443eb8c34f40c78c55b49a1b
+  page: www_活跃在中国和世界舞台的朝鲜族变性舞蹈演员金星_57岁_的演出在中国国内接连被取消，其背景备受关注。.md
 - name: www_浅谈变性人的发展现状
   filename: www_浅谈变性人的发展现状.md
   type: webpage
@@ -8478,6 +8576,13 @@ files:
   size: 7857
   md5: fac490fcf4c236785755ac1bacf8ebd1
   page: www_變性手術_男變女_常見問題_最新消息.md
+- name: www_變性者參與女子體育賽事？_加州議員提案禁止
+  filename: www_變性者參與女子體育賽事？_加州議員提案禁止.md
+  type: webpage
+  format: Markdown
+  size: 3304
+  md5: ee9b9a07b95df66f996e23de9a9280fe
+  page: www_變性者參與女子體育賽事？_加州議員提案禁止.md
 - name: www_變美是需要下功夫的！她花350萬變跨性別正妹曝絕對不要做_
   filename: www_變美是需要下功夫的！她花350萬變跨性別正妹曝絕對不要做_.md
   type: webpage
@@ -8674,6 +8779,13 @@ files:
   size: 5094
   md5: c2030e65a7673a2820c09e4bbe3f93d4
   page: www_跨性别运动员_被限制参加两大女子高球赛.md
+- name: www_跨性别：中国高校公示学生出柜信息引争议
+  filename: www_跨性别：中国高校公示学生出柜信息引争议.md
+  type: webpage
+  format: Markdown
+  size: 10839
+  md5: 195086aff84b7877a4937b4452b06da7
+  page: www_跨性别：中国高校公示学生出柜信息引争议.md
 - name: www_跨越性别的香港人罗小风：不能只用胸来决定男女-_BBC_News_中文
   filename: www_跨越性别的香港人罗小风：不能只用胸来决定男女-_BBC_News_中文.md
   type: webpage

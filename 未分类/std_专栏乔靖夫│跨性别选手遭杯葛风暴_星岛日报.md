@@ -1,5 +1,8 @@
 # 跨性别选手遭杯葛风暴
 
+## 正文 { data-search-exclude }
+
+
 **来源:** 星岛日报  
 **作者:** 乔靖夫  
 **时间:** 2025-01-03 09:20  
@@ -17,3 +20,27 @@
 
 **版权:** Copyright 2025 Sing Tao Ltd. All rights reserved.
 <!-- tcd_original_link https://std.stheadline.com/sc/realtime/article/2044914/%E5%8D%B3%E6%99%82-%E9%AB%94%E8%82%B2-%E5%B0%88%E6%AC%84-%E5%96%AC%E9%9D%96%E5%A4%AB%E2%94%82%E8%B7%A8%E6%80%A7%E5%88%A5%E9%81%B8%E6%89%8B%E9%81%AD%E6%9D%AF%E8%91%9B%E9%A2%A8%E6%9A%B4 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章来源于星岛日报，作者是乔靖夫，发表于2025年1月3日，主要讨论了关于跨性别运动员在体育界所引发的争议。文章提到，近期在即将举行的巴黎奥运会上，女性拳击选手的性别问题引发了较大的风波，并指出跨性别运动员的争议在西方国家的体育界已经相当普遍。在美国西岸的女子大学排球Mountain West联赛中，参与圣何塞州立大学的跨性别女性运动员更是引起了广泛的杯葛运动，令多家大学的球队拒绝与其进行比赛，这一事件引发了大量报道和一些法律诉讼。文章详细分析了争议的多方面因素，包括政治、宗教及体能公平性，并引用了涉及到的团队成员及法律条款上的争论。最后，作者指出这样的争论可能会在未来变得更加激烈，特别是在特朗普再次掌权之后，他曾表示将收紧跨性别运动员的相关法规。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | std_专栏乔靖夫│跨性别选手遭杯葛风暴_星岛日报.md                             |
+| Size            | 2757 bytes                           |
+| Archived Date   | 2025-01-21                             |
+| Original Link   | [https://std.stheadline.com/sc/realtime/article/2044914/%E5%8D%B3%E6%99%82-%E9%AB%94%E8%82%B2-%E5%B0%88%E6%AC%84-%E5%96%AC%E9%9D%96%E5%A4%AB%E2%94%82%E8%B7%A8%E6%80%A7%E5%88%A5%E9%81%B8%E6%89%8B%E9%81%AD%E6%9D%AF%E8%91%9B%E9%A2%A8%E6%9A%B4](https://std.stheadline.com/sc/realtime/article/2044914/%E5%8D%B3%E6%99%82-%E9%AB%94%E8%82%B2-%E5%B0%88%E6%AC%84-%E5%96%AC%E9%9D%96%E5%A4%AB%E2%94%82%E8%B7%A8%E6%80%A7%E5%88%A5%E9%81%B8%E6%89%8B%E9%81%AD%E6%9D%AF%E8%91%9B%E9%A2%A8%E6%9A%B4)                       |
+| Author          | 乔靖夫                               |
+| Region          | 未知                               |
+| Date            | 2025-01-03                                 |
+| Tags            | 跨性别, 体育, 杯葛, 性别平等, 新闻报道                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 未成年可做变性手术惹议 家长团体忧心国外后悔案例多
 
+## 正文 { data-search-exclude }
+
+
 人气: 167
 
 更新: 2025-01-14 9:09 PM    标签: [变性](https://www.epochtimes.com/gb/tag/%E5%8F%98%E6%80%A7.html), [LGBTQ](https://www.epochtimes.com/gb/tag/lgbtq.html), [未成年](https://www.epochtimes.com/gb/tag/%E6%9C%AA%E6%88%90%E5%B9%B4.html), [家长团体](https://www.epochtimes.com/gb/tag/%E5%AE%B6%E9%95%BF%E5%9B%A2%E4%BD%93.html), [台湾大纪元](https://www.epochtimes.com/gb/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E7%BA%AA%E5%85%83.html)
@@ -35,3 +38,27 @@
 
 “大纪元将选取精彩读者评论在全球报纸版面上刊登，请您与我们一起记录历史” “大纪元保留删除脏话贴、下流话贴、攻击个人信仰贴等恶意留言的权利”
 <!-- tcd_original_link https://www.epochtimes.com/gb/25/1/14/n14413337.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了关于未成年人可做变性手术的争议，重点关注家长团体对此政策的忧虑。根据卫福部的指引，允许12到18岁的未成年人在某些条件下进行变性手术，这引发了许多家长的不安。家长团体指出，青少年的身心发展尚未成熟，国外已有许多未成年变性后悔的案例，他们对此表示强烈关切。相关代表认为，相关政策的制定缺乏对性别定义的清晰认识，可能导致家长和孩子之间的沟通困难，进而影响未成年人的健康和安全。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_未成年可做變性手術惹議_家長團體憂心國外後悔案例多.md                             |
+| Size            | 4185 bytes                           |
+| Archived Date   | 2025-01-21                             |
+| Original Link   | [https://www.epochtimes.com/gb/25/1/14/n14413337.htm](https://www.epochtimes.com/gb/25/1/14/n14413337.htm)                       |
+| Author          | 大纪元记者庄瑷筠                               |
+| Region          | 台湾                               |
+| Date            | 2025-01-14                                 |
+| Tags            | 变性, LGBTQ, 未成年, 家长团体, 台湾大纪元                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

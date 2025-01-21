@@ -35,7 +35,7 @@
 |-----------------|----------------------------------------|
 | Filename        | duma_国家杜马主席：欧盟、美国和英国在法律上简化变性程序的_.md                             |
 | Size            | 2347 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-21                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
 | Author          | 维亚切斯拉夫·沃洛金                               |
 | Region          | 俄罗斯                               |

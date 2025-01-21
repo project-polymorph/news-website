@@ -1,5 +1,8 @@
 # 曝《龙腾4》跨性别总监离职！工作室恐被关闭
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2025-01-17 11:07:15  
 **来源**: [游民星空](https://www.163.com/dy/media/T1502267589752.html)  
 
@@ -23,3 +26,27 @@
 
 特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。
 <!-- tcd_original_link https://www.163.com/dy/article/JM3O1NR40526K1KN.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章报道了跨性别总监Corinne Busche离职的消息，她在Bioware和EA开发的《龙腾世纪4》项目中担任重要角色。根据文章，Corinne Busche的离职不是孤立事件，报道还透露负责开发该游戏的BioWare埃德蒙顿工作室将于2025年2月关闭。此外，文章讨论了游戏因强调多样性、平等和包容性（DEI）而遭遇的一系列批评，认为这些决策导致游戏在创意和故事深度上受到影响。Corinne在告别邮件中表达了对团队的热爱，并承诺将追寻新的挑战。前暴雪制作人Mark Kern对此表示不满，并认为她留给团队的是一个“烂摊子”，让其他成员面临巨大的压力。文章配有相关图片，增强了信息的传达效果，适合关注多元性别与游戏产业交叉话题的读者。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_曝《龙腾4》跨性别总监离职！工作室恐被关闭.md                             |
+| Size            | 2202 bytes                           |
+| Archived Date   | 2025-01-21                             |
+| Original Link   | [https://www.163.com/dy/article/JM3O1NR40526K1KN.html](https://www.163.com/dy/article/JM3O1NR40526K1KN.html)                       |
+| Author          | 游民星空                               |
+| Region          | 未知                               |
+| Date            | 2025-01-17                                 |
+| Tags            | 跨性别, 游戏开发, 多样性, 社会议题, 离职消息, 龙腾世纪4                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

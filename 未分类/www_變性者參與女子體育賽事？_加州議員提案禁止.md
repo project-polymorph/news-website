@@ -1,5 +1,8 @@
 # 变性者参与女子体育赛事？ 加州议员提案禁止
 
+## 正文 { data-search-exclude }
+
+
 北京时间：2025-01-16 12:56
 
 ![NTD LOGO](/assets/themes/ntd/images/logo/logo_ntd_amp.png)
@@ -36,3 +39,27 @@
 - [北加州发电厂爆发火灾 1700人已安全疏散](https://www.ntdtv.com/gb/2025/01/18/a103949180.html) 2025-01-18  
 - [中共非法侵犯权益 律师：法轮功应受保障](https://www.ntdtv.com/gb/2025/01/17/a103948867.html) 2025-01-17  
 <!-- tcd_original_link https://www.ntdtv.com/gb/2025/01/16/a103948580.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件讨论了关于跨性别者参与女子体育赛事的法律提案，引发了广泛的社会讨论。文件中提到，加州议员桑切斯于2025年1月6日提出AB 89号提案，旨在禁止出生性别为男性的学生参加女子体育赛事。这项提案源于两位女生的诉讼，她们指控跨性别队友在比赛中因体能的优势赢得了比赛，而她们没有能够取得好的名次。法律提案的支持者认为这是维护女子体育公平竞争的重要措施，而LGBTQ社区的倡导者则反对这一提案，认为此举剥夺了跨性别者参与体育锻炼和团队活动的机会。文件引用了有关提案的相关法律法规，并提供了更广泛的社会背景，涉及到法律、体育、性别平等等多个领域的讨论。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_變性者參與女子體育賽事？_加州議員提案禁止.md                             |
+| Size            | 3304 bytes                           |
+| Archived Date   | 2025-01-21                             |
+| Original Link   | [https://www.ntdtv.com/gb/2025/01/16/a103948580.html](https://www.ntdtv.com/gb/2025/01/16/a103948580.html)                       |
+| Author          | 新唐人电视台记者李佳音                               |
+| Region          | 美国                               |
+| Date            | 2025-01-16                                 |
+| Tags            | 跨性别者, 女子体育, 法律提案, 性别平等, LGBTQ, 加州议员提案                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

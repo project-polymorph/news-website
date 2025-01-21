@@ -1,5 +1,8 @@
 # 特朗普会阻止“跨性别疯狂”吗？
 
+## 正文 { data-search-exclude }
+
+
 ![此前在华盛顿白宫附近支持同性恋和跨性别者的示威活动（路透）](https://ajch.io/wp-content/uploads/2024/12/1-1735098619.png?resize=770%2C513&quality=80)
 
 **作者：穆罕默德·闵沙维**  
@@ -58,3 +61,27 @@
 
 **来源 : 半岛电视台**  
 <!-- tcd_original_link https://chinese.aljazeera.net/news/political/2024/12/25/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E9%98%BB%E6%AD%A2%E8%B7%A8%E6%80%A7%E5%88%AB%E7%96%AF%E7%8B%82%E5%90%97 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文探讨了美国当选总统唐纳德·特朗普在就任总统后的相关决策，特别是他对于跨性别者权利的立场。文章提到特朗普承诺将通过行政命令终止与跨性别相关的政策，特别是针对儿童的跨性别医疗保健。同时，文中讨论了美国社会对于性别认同和跨性别问题的复杂态度，尽管大多数人支持保护跨性别者免受歧视，却反对提供性别转变的医疗服务。特朗普的政策引发了广泛关注，并与一些保守派法律相联系，涉及到对跨性别青少年和儿童的医疗限制。文章还提到，马斯克的女儿公开宣布计划离开美国，表明跨性别者对未来的不安，以及政治与文化之间的紧张关系。整个事件进一步引发了社区对于跨性别权利与国家政策之间的争论，并且最高法院的审理则可能对相关法律产生深远影响。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | chinese_特朗普会阻止“跨性别疯狂”吗？.md                             |
+| Size            | 5415 bytes                           |
+| Archived Date   | 2025-01-21                             |
+| Original Link   | [https://chinese.aljazeera.net/news/political/2024/12/25/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E9%98%BB%E6%AD%A2%E8%B7%A8%E6%80%A7%E5%88%AB%E7%96%AF%E7%8B%82%E5%90%97](https://chinese.aljazeera.net/news/political/2024/12/25/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E9%98%BB%E6%AD%A2%E8%B7%A8%E6%80%A7%E5%88%AB%E7%96%AF%E7%8B%82%E5%90%97)                       |
+| Author          | 穆罕默德·闵沙维                               |
+| Region          | 美国                               |
+| Date            | 2024-12-25                                 |
+| Tags            | 特朗普, 跨性别权利, 美国政治, 性别认同, 社会态度, 法律政策, 医疗保健                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

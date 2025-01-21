@@ -1,5 +1,8 @@
 # 跨性别：中国高校公示学生出柜信息引争议
 
+## 正文 { data-search-exclude }
+
+
 ![身披彩虹旗的人](https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/3f5f/live/4f5bf260-d22a-11ef-94cb-5f844ceb9e30.jpg.webp)
 
 图像来源，Getty Images
@@ -26,7 +29,7 @@
 
 华中科技大学同济医学院就热议向中国媒体回应此举有程序可循，但受访工作人员亦表示自己并不清楚具体出于哪条规定。
 
-## 公示引来的争议
+## 公示引来的争议 { data-search-exclude }
 
 ![华中科技大学公示图](https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1dae/live/9b023fd0-d22a-11ef-87df-d575b9a434a4.png.webp)
 
@@ -64,7 +67,7 @@
 
 -   [跨性别话题：英国保障单一性别厕所引发争议](https://www.bbc.com/zhongwen/trad/uk-62050253)2022年7月9日
 
-## 萎缩的空间
+## 萎缩的空间 { data-search-exclude }
 
 ![学生面对彩虹窗户](https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/3c4b/live/116b5c10-d22b-11ef-87df-d575b9a434a4.jpg.webp)
 
@@ -96,7 +99,7 @@
 
 “但是我们依然非常遗憾地看到跨性别者的权益缺乏保障，校方应对类似案件束手无措……需要政策站出来加以引导，但目前来说，中国政府的政策是越来越保守的。”包宏伟表示。
 
-## 更多相关内容
+## 更多相关内容 { data-search-exclude }
 
 -   ![跨性别旗帜](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/5c14/live/11923e00-b79d-11ef-835c-1f7985ca3f00.jpg.webp)
     
@@ -127,3 +130,27 @@
     ### [同性恋与涉黄暴力并列 微博引网安法清理涉同帐号](/zhongwen/trad/chinese-news-43775360) 
     2018年4月16日
 <!-- tcd_original_link https://www.bbc.com/zhongwen/articles/czxkv0qzqwzo/simp -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件讨论了中国高校公示跨性别学生出柜信息引发的争议。2024年12月，华中科技大学将一名跨性别女性学生的身份证性别变更信息公示，包含了学生姓名、身份证号和资讯更新原因。这一做法引发了对个人隐私的关注和讨论，许多学者认为学校此举侵犯了学生的隐私权。在文中，许多跨性别人士表达了此举带来的恐慌与不安，特别是对于同为跨性别者的许薇而言，她担心自己的信息同样会被公示。该文件亦探讨了跨性别学生在社会上应得的尊重，以及关于性别信息披露的必要性和合理性。文章引述了多位专家对这一事件的看法，认为在保护学生个人隐私的同时，学校也应关注社会对跨性别者的理解与包容。此外，近年来中国高校内LGBT群体可见度逐渐降低，也被提及，强调了社会对LGBT议题的接受度和学校应有的责任。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别：中国高校公示学生出柜信息引争议.md                             |
+| Size            | 10839 bytes                           |
+| Archived Date   | 2025-01-21                             |
+| Original Link   | [https://www.bbc.com/zhongwen/articles/czxkv0qzqwzo/simp](https://www.bbc.com/zhongwen/articles/czxkv0qzqwzo/simp)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2025-01-14                                 |
+| Tags            | 跨性别, 学生隐私, 社会争议, 性别认同, 医疗资源, 法律政策, LGBT群体, 教育与校园                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

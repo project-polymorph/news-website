@@ -1,5 +1,8 @@
 # 姚耀光：厕所的争论
 
+## 正文 { data-search-exclude }
+
+
 ![（姚耀光摄）](https://cassette.sphdigital.com.sg/image/zaobao/05c4c43888fb12091e352232b09a53c5479d87f2d4bb6a751c9d7e875f263025?o=zbimg&oloc=se)
 
 去年底，美国民主党众议员萨拉·麦克布莱德（Sarah McBride）成为美国首位当选国会议员的跨性别者，这一历史性事件引发了一场关于厕所使用的争论。共和党众议员南希·梅斯（Nancy Mace）在国会提出动议，禁止跨性别女性使用国会大厦的女厕。她表示：“我不能容忍有男性生理特征的人进女性更衣室。”对此，众议院议长迈克·约翰逊（Mike Johnson）也公开支持，强调“国会大厦和众议院办公大楼的所有单一性别设施如厕所、更衣室和衣物间——都是为生理性别的个人所保留。”
@@ -16,3 +19,27 @@
 **作者**: 姚耀光  
 **发布**: 2025年1月10日 21:00  
 <!-- tcd_original_link https://www.zaobao.com.sg/lifestyle/columns/story20250111-5697106 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文由作者姚耀光撰写，主要讨论了关于跨性别者使用厕所的争议，尤其是在美国国会大厦的背景下。文中提到美国民主党众议员萨拉·麦克布莱德成为首位当选国会议员的跨性别者，这一历史性事件引发公共舆论的讨论。共和党众议员南希·梅斯提出动议，禁止跨性别女性使用女厕，认为这可能会影响到其他女性的安全。作者探讨了这一争论的复杂性，指出在性别认同与生理性别之间的矛盾，以及社会对于跨性别者进入女性专属空间的担忧。文章通过分析不同立场和人们的顾虑，反映了当下关于性别认同与权利的重大社会议题，揭示了人们在理解和接受跨性别者权利过程中所面临的挑战。
+<!-- tcd_abstract_end -->
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_姚耀光：厕所的争论.md                             |
+| Size            | 2861 bytes                           |
+| Archived Date   | 2025-01-21                             |
+| Original Link   | [https://www.zaobao.com.sg/lifestyle/columns/story20250111-5697106](https://www.zaobao.com.sg/lifestyle/columns/story20250111-5697106)                       |
+| Author          | 姚耀光                               |
+| Region          | 未知                               |
+| Date            | 2025-01-10                                 |
+| Tags            | 厕所争论, 跨性别者, 性别认同, 社会政策, 生理性别, 美国国会, 性别平权, 社会环境                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
