@@ -1,0 +1,52 @@
+# 川普上任第一天，这些人全部“病退”！誓言带美国回归“正常”
+
+2024-11-26 05:56:19 来源: [华人生活网](https://www.163.com/dy/media/T1478553695748.html)
+
+据《泰晤士报》报道，美国当选总统唐纳德·川普计划在其新任期的第一天，即2025年1月20日，通过行政命令**禁止变性人入伍**。这一政策可能影响**多达1.5万名现役变性军人**，他们可能因被视为不适合服役而**面临“医疗退役”。**
+
+![Scan me!](data:image/png;base64,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)
+
+分享至好友和朋友圈
+
+川普拟提名前福克斯新闻主持人皮特·黑格塞斯（Pete Hegseth）担任国防部长，负责推动这一政策。黑格塞斯在近期的一次播客中表示，允许变性人服役是“挑战极限”，并称**变性人依赖激素治疗等医疗需求，可能影响军队的部署能力**。他认为，与融合不同种族的挑战相比，变性人在军队中会造成更大的复杂性和差异。
+
+川普的新闻秘书卡罗琳·利维特（Karoline Leavitt）对此报道低调回应，表示目前尚未做出任何正式决定。她强调，除非相关政策由特朗普或其授权发言人直接宣布，否则不应被视为官方立场。
+
+如果这一政策最终实施，这将是川普第二次尝试限制变性人服役。2017年，时任总统的川普曾通过推文宣布禁止变性人加入军队，理由是**变性军人的医疗费用过高，可能影响军队的作战能力**。此举在当时引发广泛争议，部分政策被后续修订。
+
+**难以想象，美军竟然有1.5万现役变性军人。**
+
+**而这一变革，就是葱奥巴马政府开始的。**
+
+奥巴马政府在2016年允许变性军人公开服役，并开始推动包容性政策，试图展现变性军人的贡献。例如，空军在 2022 年表示，变性飞行员杰森-维罗少校获得了多个奖项和勋章。
+
+而另外一名雷切尔-琼斯少校是美国陆军可持续发展司令部网络部的负责人。她也是一名变性人，她在多次采访中说，能够 “真实地 ”生活和服役挽救了她的生命。
+
+根据五角大楼的官方数据显示，自2020年以来，患有性别障碍的现役军人数量从约1800人增加至3700人，约占现役军人的0.3%。相比之下，美国总人口中变性人的比例为0.6%。在过去三年中，**军方为变性军人的****额外****医疗支出总计超过2600万美元，****其中包括1750万美元用于心理治疗、150万美元用于激素药物治疗，以及760万美元用于性别确认手术。**
+
+这些手术中最常见的是面部调整手术，旨在让患者的外貌更符合其性别认同；其次是乳房切除手术。更复杂的手术，例如生殖器重建，则相对较少。
+
+川普的政策计划一经报道便引发强烈争议。一些支持者认为，这一措施有助于简化军队管理，降低医疗成本，并提高军事效率。但反对者指出，这种做法可能会损害变性军人的合法权益，并削弱军队的多样性和包容性。
+
+同时，这一政策可能面临法律和社会层面的挑战，尤其是在全美范围内，变性人强大的背景之下，川普想要推行政策并不容易。
+
+对于军队来说，这一禁令也可能进一步加剧招募难题，因为各军种近年来一直在努力吸引新兵加入。
+
+不过对于多数人来说，取消变性人服兵役，节省纳税人开支，让美军看起来更“正常”，这条政策似乎很得人心。
+
+有人写道：我同意这一行动。 作为一名退伍军人的家长，我了解到他服役过程中面临的部分挑战是增加住宿，因此，招募目标受到了巨大伤害。 增加的成本是巨大的，因为其中一些部门不得不使用破损的设备和装备。（他的留言获得了4300的点赞）
+
+有人写道：1 型糖尿病患者不能服役也是出于同样的原因。如果您注射的睾酮或 Lupron 是医疗必需的，军方就不能冒险将您部署到他们无法为您提供所需药物的地方，否则他们将对您遭受的一切后果负责。如果这些治疗在医学上不是必需的，为什么要由政府买单？对于不到 1%的人来说，这责任太大，花费太多，也太戏剧化了。这与喜欢或不喜欢你无关。（他的留言获得了4300的点赞）
+
+有人写道：“当这个问题最初被提出时，五角大楼发布了一份报告，我记得是在奥巴马政府早期。其中的一项发现是，变性人员需要更多的心理支持和药物治疗，而这些支持可能无法在前线地区得到满足。结论是，由于这些因素，这些人员可能无法部署。那么，军队保留这些人员的目的又是什么呢？”（他的留言获得了3700的点赞）
+
+还有人写道：“这是一个明智的举措。军队本身已经面临足够多的适应性挑战，没必要再引入这样的社会实验。除了对士气的潜在破坏，纳税人也不应该为激素治疗和性别相关的手术买单。”（他的留言获得了3200的点赞）
+
+还有人写道：他的立场一直是，你可以在完成变性手术后继续服役。我因为子宫腺肌病在现役期间不得不接受子宫切除手术，手术后出现了并发症，导致我必须连续三个月进行药物敷料更换，还不得不接受服役适合性评估。那么，为什么变性人不可以呢？（他的留言获得了2600的点赞）
+
+还有人抱怨：“我丈夫是退役的海军，我们为我和孩子购买了Tricare保险。我需要包括机械牵引在内的物理治疗，但Tricare拒绝了我所需的服务，也不愿支付相关费用……而变性手术、治疗，以及天知道还有什么其他项目却都被保险覆盖了！”
+
+美国选民此次选择川普，或许正是因为像这些留言中所反映的那样，人们渴望一种他们眼中的“正常”。这种“正常”并非基于宽泛的普世价值或“大爱”，而是对日常秩序、现实利益以及传统观念的简单回归。
+
+特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。
+<!-- tcd_original_link https://www.163.com/dy/article/JHT9J1190514BT3D.html -->

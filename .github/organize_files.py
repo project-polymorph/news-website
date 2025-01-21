@@ -60,7 +60,7 @@ def main():
 
             url = extract_original_url(content)
             target_dir = get_target_dir(url, config)
-            target_dir_path = os.path.join(workspace_dir, target_dir)
+            target_dir_path = target_dir
             
             # Create target directory if it doesn't exist
             os.makedirs(target_dir_path, exist_ok=True)
