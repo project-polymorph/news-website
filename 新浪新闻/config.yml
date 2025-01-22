@@ -48,6 +48,13 @@ files:
   size: 6705
   md5: 5b392b90ec6d4bd7aecedea2ab977b68
   page: blog_【巴堤雅】逃避洪水，看人妖百媚_远方雪的世界_-_新浪网站导航.md
+- name: blog_不是同性恋，不是异装癖，只是跨性别_-_新浪网站导航
+  filename: blog_不是同性恋，不是异装癖，只是跨性别_-_新浪网站导航.md
+  type: webpage
+  format: Markdown
+  size: 9565
+  md5: 6ca1f8644eeac53045c779bf75673f88
+  page: blog_不是同性恋，不是异装癖，只是跨性别_-_新浪网站导航.md
 - name: blog_与自述是跨性别者的网友交流-_吴幼坚_-_新浪网站导航
   filename: blog_与自述是跨性别者的网友交流-_吴幼坚_-_新浪网站导航.md
   type: webpage
@@ -188,13 +195,6 @@ files:
   size: 4783
   md5: aeb34bea38cada491104dbb906b7cb15
   page: doc_性别选择与跨性别者.md
-- name: doc_来来来我给你看个宝贝游戏中的女装大佬_-_新浪
-  filename: doc_来来来我给你看个宝贝游戏中的女装大佬_-_新浪.md
-  type: webpage
-  format: Markdown
-  size: 7891
-  md5: c60be58addfdc730a1ef62acdc0484ca
-  page: doc_来来来我给你看个宝贝游戏中的女装大佬_-_新浪.md
 - name: doc_除男女外美国到底还有多少其他种性别？_-_新浪
   filename: doc_除男女外美国到底还有多少其他种性别？_-_新浪.md
   type: webpage
@@ -202,20 +202,6 @@ files:
   size: 7537
   md5: 1ac6dc034d5a9e8bf802c2612aecc8d1
   page: doc_除男女外美国到底还有多少其他种性别？_-_新浪.md
-- name: edu_cdts是什么意思的缩写_-_爱问教育
-  filename: edu_cdts是什么意思的缩写_-_爱问教育.md
-  type: webpage
-  format: Markdown
-  size: 2911
-  md5: d59185f7d73a60873236edaa93000c0c
-  page: edu_cdts是什么意思的缩写_-_爱问教育.md
-- name: edu_变装小说博客word_press（变装文学大全）_-_爱问教育
-  filename: edu_变装小说博客word_press（变装文学大全）_-_爱问教育.md
-  type: webpage
-  format: Markdown
-  size: 1411
-  md5: f6a1a94ccb215f4c1bfee6504514b0c7
-  page: edu_变装小说博客word_press（变装文学大全）_-_爱问教育.md
 - name: edu_泰国为什么盛产“人妖”？_-_新浪教育
   filename: edu_泰国为什么盛产“人妖”？_-_新浪教育.md
   type: webpage
