@@ -36,9 +36,9 @@
 
 医生紧接着会从阴囊位置进一步向下朝着肛门位置深切，并切除肛门主筋结构——中央腱。这样，位于直肠和前列腺基底之间的空间就被大致用于安放新构建的人造阴道，随后对该部位进行小心缝合。
 
-![一次外生殖器变性手术主要包括去除阴茎及睾丸，创建人造阴道，包括构建能够触发性快感的人造阴蒂以及大小阴唇结构](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[一次外生殖器变性手术主要包括去除阴茎及睾丸，创建人造阴道，包括构建能够触发性快感的人造阴蒂以及大小阴唇结构]
 
-![研究结果已经显示，在经过这样的术后，很多变性者在接受性生活时能够享受到满意的性生活](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[研究结果已经显示，在经过这样的术后，很多变性者在接受性生活时能够享受到满意的性生活]
 
 而至于女性外生殖器的构建，阴囊的皮肤会被一分为二并进行修剪，构成大阴唇和小阴唇，也就是阴道口外部的内外两层“唇状”结构。在手术中医生会尽可能使得所构建的人造大小阴唇与自然状态下真正的女性所拥有的生理结构外观尽可能相近。
 

@@ -34,7 +34,7 @@
 
 63岁的道恩·弗兰奇是长名单上最年长的小说家，艾瓦里斯托哀叹了七八十岁年长作家的缺席。“在一个理想的世界里，你希望看到崭露头角的作家，也希望看到每个阶段的作家都能继续不错的职业生涯，当他们到了七八十岁的时候会发生什么呢？是不是突然就不出版了，或者不投稿拿奖了？”她问，“我还注意到，根据已经提交奖项的书来看，并没有多少实验性写作出版……也许出版商只是在规避风险。”
 
-![布里特·贝内特 图片来源：Leonardo Cendamo/Getty Images](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[布里特·贝内特 图片来源：Leonardo Cendamo/Getty Images]
 
 在今年的16本长篇小说中，双胞胎题材十分突出。布里特·贝内特的畅销书《消失的一半》（The Vanishing Half）写的是同卵双胞胎其中一位以浅色的皮肤构建了一个新的白人身份。克莱尔·富勒的《未定之地》（Unsettled Ground）讲述了一对51岁的双胞胎仍与母亲一起生活的故事。而安娜贝尔·里昂的《同意》（Consent）则讲述了一个勤奋好学的女人在一次意外中受伤后，为了追求刺激的双胞胎妹妹搁置了自己的生活。
 

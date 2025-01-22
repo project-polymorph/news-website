@@ -129,7 +129,7 @@
 
 这是如30年前的潘绥铭预期中的性化。革命急风暴雨、翻天覆地的部分已经完成了，现状是缓慢的弥散。“弥散，绚彩。”他强调了几次这两个词。弥散意味着一致性的价值观的崩溃，大部分人开始为自己立法，同时委身于难以抵御的消费主义日常。某种程度上，“解放了”的性生活如同另一场单调的幻景，没有意义，永远不可能把握构成生活的真正报偿。而绚彩证明的是一个非黑即白的世界的消失，潘绥铭提出了一个有趣的概念叫性偶像。他列数八十年代的男性性偶像，如孙悟空、关公、雷锋—其实均是性抑制的偶像，以及最典型的女性性偶像，《渴望》里的刘慧芳。“当时，一个人可以符合全民的想象，而今天，每个人可能都不止一个性偶像。”
 
-![评论](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[评论]
 
 **李银河** 
 中国研究性的女社会学家，著名性学家，女权主义者。每每她的语出惊人，都在潜移默化地改变当下中国女性的生活：同性恋、一夜情、虐恋……2014年12月，李银河在博客上发表《对所谓拉拉身份曝光的回应》声明，首次公开自己在王小波过世后已与一位transexual（跨性别者）同居17年，引发了社会性别大讨论。
@@ -152,7 +152,7 @@
 
 **李银河：**这个电影很不错，我还给大众电影写过一篇评论。它的视角非常冷静。2010年我的一个学生报了一个虐恋的研究课题，没有批下来。我自己写了三本关于虐恋的小说了，都在路金波那儿，今年会出。
 
-![评论](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[评论]
 
 **潘绥铭** 
 性社会学者，中国人民大学性社会学研究所前所长、退休教授，博士生导师。1985年，他第一次开设了性社会学课。一时间，几乎成为人大爆炸新闻，被誉为“中国性学第一人”。
@@ -169,7 +169,7 @@
 
 所以我只好努力地“学术化”，寄希望于大多数各级决策者都不会看我的书，看了也会无动于衷，惹恼了也只来处罚我一个人。这样，也许可以在整体上避免危害她们。
 
-![评论](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[评论]
 
 **方刚** 
 性社会学者，北京林业大学性与性别研究所所长，应用心理学系副教授，硕士研究生导师。曾是天津一名记者，后成为潘绥铭的学生。2006年，他以“中国人民大学社会学系博士生”的身份进入夜总会对男公关进行调查。

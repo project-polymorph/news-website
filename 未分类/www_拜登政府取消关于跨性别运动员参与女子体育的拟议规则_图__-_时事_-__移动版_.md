@@ -6,9 +6,9 @@
 **发表：** 2024-12-21 21:35  
 **来源：** [看中国](https://www.secretchina.com)
 
-**标签：** [跨性别](//search.secretchina.com/news/gb/tag/%E8%B7%A8%E6%80%A7%E5%88%AB) [运动员](//search.secretchina.com/news/gb/tag/%E8%BF%90%E5%8A%A8%E5%91%98) [拜登政府](//search.secretchina.com/news/gb/tag/%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C) [政策调整](//search.secretchina.com/news/gb/tag/%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4)
+**标签：** [跨性别](https://search.secretchina.com/news/gb/tag/%E8%B7%A8%E6%80%A7%E5%88%AB) [运动员](https://search.secretchina.com/news/gb/tag/%E8%BF%90%E5%8A%A8%E5%91%98) [拜登政府](https://search.secretchina.com/news/gb/tag/%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C) [政策调整](https://search.secretchina.com/news/gb/tag/%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4)
 
-![2024 年 12 月 11 日，美国总统拜登在首届白宫妇女健康研究会议上发表讲话。](//img6.secretchina.com/pic/2024/12-13/p3580551a528944802-ss.jpg) 
+![2024 年 12 月 11 日，美国总统拜登在首届白宫妇女健康研究会议上发表讲话。](https://img6.secretchina.com/pic/2024/12-13/p3580551a528944802-ss.jpg) 
 
 【看中国2024年12月21日讯】（看中国记者路克编译）《每日邮报》报道，**[拜登](https://www.secretchina.com/news/gb/tag/拜登)政府**最新的**政策调整**让学校继续保有决定**跨性别运动员**参与哪些球队的权利。上周五，拜登政府撤回了一项提议的规则变更，该规则原本计划阻止学校禁止跨性别运动员加入与其性别认同相符的球队。
 

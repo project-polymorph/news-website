@@ -49,7 +49,7 @@
 
 这种隐身蕴含着颇多无奈，一方面主流社会难以“宽容”跨性别群体“做自己”；另一方面跨性别身份让他们轻易成为性侵害与施暴的对象，一旦被标注为“少数派”或“异类”，麻烦接踵而至。互联网的广泛传播、媒体在某一时间点的高密度报道，容易给人们一种错觉，仿佛跨性别人士“入侵”了人们的生活，然而很难说对于跨性别群体的曝光、审视与评论到底是满足了谁的猎奇。跨性别群体以及学界近些年对于影视界片面化的利用、展览跨性别的生活与经历也有很多批评讨论。
 
-![电影《霸王别姬》剧照](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[电影《霸王别姬》剧照]
 
 ## 饱受非议的“变性人”： “成为自己”的过程有多难？ { data-search-exclude }
 
@@ -61,13 +61,13 @@
 
 单就手术来说，每一次手术的开销在几千到几万美元不等，长期固定药物则每年开销至少上千美元。其中的一些项目有可能申请医疗保险报销，然而医疗保险本身就是一笔不小的开支，同时即便购买了医保，保险拒绝跨性别者的报销需求也屡见不鲜。
 
-![《人类本性与社会秩序》，查尔斯·霍顿·库利著](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《人类本性与社会秩序》，查尔斯·霍顿·库利著]
 
 很多人甚至没有机会去思考、规划这些，当他们主动或被动“出柜”为跨性别者时，可能最终沦落街头，失去一切与社会的联结。万一有幸开始性别确认的过程，在医疗系统里等待着跨性别者的可能是比他们更茫然无措的无经验的医疗系统、性侵害、言语与肢体暴力、或者直接吃闭门羹。如果他们有幸克服了种种困难开始、完成了性别确认，此后还要应对手术和药物等带来的短期或长期副作用，例如更高的中风、癌症风险。由于医疗体系对跨性别人群的关注与研究最多可以算是在起步阶段，更令人担忧的或许是一句“副作用尚不明朗”。而即便一个跨性别者完完全全跨到了镜子的另一面，申请在法律文件与政府官方记录上更改性别又是另一场马拉松：以美国为例，申请者可能需要支付费用、提交医生证明、法院证明等等，州与州之间，规定的多寡、明确性，以及实际操作难度有很大的差异。
 
 仅仅是为了“成为自己”，作为少数派的跨性别群体在经济、社会关系、身心健康方方面面要承受顺性别多数派难以想象的风险。
 
-![加拿大演员艾伦·佩吉（Elliot Page）](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[加拿大演员艾伦·佩吉（Elliot Page）]
 
 弱者看向更弱者，跨性别群体的同盟在哪里？
 
@@ -81,7 +81,7 @@
 
 在这些少数派之外，又另有一个“A”，“ally”——“同盟”，性少数群体的同盟并不需要“是”少数派，他们自己可能是来自顺性别异性恋的男男女女。
 
-![随着性少数平权运动的推进，“性少数群体”的含义越来越多元](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[随着性少数平权运动的推进，“性少数群体”的含义越来越多元]
 
 跨性别群体与女权主义者，矛盾在哪里？
 
@@ -91,7 +91,7 @@
 
 英国知名作家J.K.罗琳针对跨性别群体的发言，让她也被划归进“TERF”的一边。作为顺性别异性恋女性，她从一个自我认知的“真女人”与家暴幸存者的角度阐述了跨性别者——特别是跨性别女性，带给“女性”的恐惧与不公平。虽然她的行文中，实指的是在传统两性结构中，在高位者的男性给女性带来的普遍恐惧与暴力，但是在她的表达与阐述中，现实中的施暴者隐身了，跨性别女性被踢出她本可归属的女性共同体，并成为了张冠李戴的替罪羊。
 
-![英国著名作家J.K.罗琳](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[英国著名作家J.K.罗琳]
 
 弱者看向更弱者，受害者同时成为了无知无觉的施暴者——经常成为争议焦点的跨性别女性，不仅仅和顺性别女性一样可能遭受男性暴力，她们还遭受着来自顺性别女性的言语、身体暴力；特别是那些女性气质不够明确的跨性别女性，她们更易被边缘化、被歧视与无故指摘。“男子气概”、“女性化”等等社会性别表达，和一个人所在的社会文化环境紧密相关；怎样才算是一个社会认可的男人、女人在不同时代、不同文化中都会有不同的阐释。
 
@@ -103,19 +103,19 @@
 
 实际上，哈伯德不是第一个、也不是唯一一个参加国际重要体育赛事的跨性别人士。她更不是第一个在重要赛事中遭受外界对她性别质疑的女性。在对于跨性别群体有无“资格”参与或不参与某个项目，承受最多关注的往往是跨性别女性，特别是不符合传统女性气质期待的女性，攻击的重点往往在于她们不够“女性化”的外貌身形，或是出类拔萃（换句话说，“女性不应达到”）的成绩。这一点上，似乎对于“女性”性别身份的预设与“女性气质”的期待，超越了跨性别身份；即便是生而为女、自我认知又是女性的运动员，也难以避免遭受人们对于她性别的质疑与奚落。这也是为什么很多学者亦指出，“恐跨”是厌女症表征的一种。在“恐跨”、“排跨”的语言中，限制了对于女性的定义同时否定了女性的能动性与行动力，女性再次被套进一个女人“应该如何”的格子。
 
-![劳雷尔·哈伯德](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[劳雷尔·哈伯德]
 
 现代奥林匹克开创以来，对于女性的性别审查从未停止；1968年以前，女运动员需要赤身裸体列队被检查，以确认她们有足够的女性特征被认可为“女人”。作为职业选手来竞技的她们，却要脱光衣服、遭受陌生人对于她们女性身份的凝视与品评。在运动员们与社会活动人士持续抗议声中，1968年之后，奥委会转向更现代化的科技，比如激素、基因检测等等，但是在赛场上的性别归类从未停止。更早前女性被排除在竞争之外，不被准许参赛，运动场不属于女人。这背后的逻辑迎合了一个“女人”理应是弱者，如果她能在高水平的竞技赛场上大放异彩，展现出历来被认为是一个“男人”才有的能力，那么她的性别身份就应该接受质疑与审查。
 
 然而“不是男人，就是女人”的二元论划分方法，在科学上也并不能站住脚。奥组委通过激素、基因来划分男性、女性的方式，遭到了很多运动员与医生的诟病——谁是男人，谁是女人，划分标准是什么？当前的激素测试，将很多天生激素水平高的女运动员也划分在“女人”的分类之外；在赞叹有些运动员天赋异禀，比如傲人的身高、超长的臂展等等的同时，又有些女运动员生来的生理优势成为了她们不够“女人”的罪证。基因测试也存在同样的问题——人类在出生时的“性别”或者更准确来说“性别特征”就很多元，有些人生来带有男性基因但是性别呈现为女性，有些人生来就既是男人也是女人。僵化的标准从未对应人类的现实。跨性别运动员的困境只是例证之一。
 
-![西班牙跨栏选手Maria Martínez-Patiño](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[西班牙跨栏选手Maria Martínez-Patiño]
 
 1988年汉城奥运会赛季，西班牙跨栏选手Maria Martínez-Patiño因为没有通过奥委会的“女性”鉴定，被禁止参赛，基因测试显示她有Y染色体，尽管她看起来和其他任何“标准女人”并无不同，她也一直以女性身份生活、参赛。30年后，南非跨栏运动员Caster Semenya面临同样的问题。除此之外还有曾在女性田径场上表现优异的Dutee Chand、Santhi Soundarajan，或许还有更多人早早就被拒之门外，不得不放弃体育梦。
 
 《奥林匹克宪章》中提到奥林匹克精神包括保障人人都有参与机会而不受歧视困扰；不无遗憾的是，在实际操作上，多年来，单在性别身份这一点上，通过人为制造标准，许多运动员需要克服竞技水平之外的困难才能站在起跑线上。有些争论的焦点在于跨性别运动员，或说超出传统性别标准的运动员在竞技中有“天然”优势，如果这点为真，跨性别运动员应该人人满贯，在女性运动中，力压其他任何“女”选手。现实并非如此，同时尚无任何决定性证据表明睾酮水平与运动员的竞技水平紧密相关。
 
-![南非跨栏运动员Caster Semenya](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[南非跨栏运动员Caster Semenya]
 
 “生理决定论”对运动员们，特别是女运动员或是一种无形的侮辱，一个运动员能够站在赛场上、超越自我，背后是日复一日的训练、持续的经验积累、一场场比赛中的技能磨练与提升。竞技体育需要付出常年的努力，这一过程中，需要很多经济社会资源支持。对于女性运动员、女性参赛的项目持续性的忽略、轻视，运动员得不到足够资金、优秀的教练与良好的训练环境，是竞技体育中的顽疾；提升这一方面的公平性，应比花更多资金与精力审查运动员的性别更重要。
 
@@ -148,7 +148,7 @@
 
 ## 快来新闻客户端参与评论获金币兑礼品吧！  { data-search-exclude }
 
-![转发](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+[转发]
 
 ## 摘要与附加信息
 

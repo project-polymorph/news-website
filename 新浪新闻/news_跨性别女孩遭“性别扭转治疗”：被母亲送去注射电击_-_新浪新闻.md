@@ -48,7 +48,7 @@
 
 朱亦开始相信，她只是一个得了“雄化症”的女孩子，“相信最终我的雄化症会被治好的”。
 
-![朱亦母亲给她发的短信，希望她“悔过”。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[朱亦母亲给她发的短信，希望她“悔过”。]
 
 **注射和禁足**
 
@@ -82,7 +82,7 @@
 
 帮助朱亦的不只一个“姐姐”。核桃是LGBT公益组织北京同志中心跨性别部门下“个案小组”的负责人。今年4月，通过微博得知朱亦被迫接受“扭转治疗”之后，她迅速集结了十几个跨性别社群的伙伴，商讨如何“救出”朱亦，并协同另一家LGBT公益组织“同语”以及朱亦家乡当地的社工组织一起达成了目标。在那之后，“个案小组”长期为朱亦提供法律援助、连续陪伴、自杀干预、家长科普教育等支持。
 
-![朱亦离家出走后与“姐姐”在一起，她觉得“姐姐”更像自己的家人。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[朱亦离家出走后与“姐姐”在一起，她觉得“姐姐”更像自己的家人。]
 
 除“个案小组”，北京同志中心跨性别部门还设有跨性别热线、跨儿空间等服务项目，并和医学界、法律界、媒体界保持联络，普及性别多元意识、倡导跨性别去病理化。跨性别部门负责人Sachi告诉《中国慈善家》，国内的LGBT公益组织有六、七十家，且集中在一、二线城市。
 
@@ -98,7 +98,7 @@
 
 基于世界跨性别健康专业协会的指南，该团队总结出一套针对跨性别者的序列治疗步骤，也称“性别工程”，分为心理咨询服务、激素治疗和性别重置手术三个阶段。而无论哪一个步骤，目的都在于帮助跨性别者实现他们的性别认同，缓解他们的性别焦虑状况。
 
-![关于激素治疗，国内有经验的医院、医生很少，跨性别者缺乏医生的专业指导。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[关于激素治疗，国内有经验的医院、医生很少，跨性别者缺乏医生的专业指导。]
 
 潘柏林告诉《中国慈善家》，国内的跨性别者医疗照护起步较晚，团队在对相关方案进行本土化的过程中作出了一些改变。比如前期的心理咨询服务，父母宣教的部分有必要加重。而关于激素治疗，国内有相关经验的医院、医生比较少，“寥寥无几，几乎没有”，跨性别者往往只能利用网络途径购买，缺乏医生的专业指导，安全性相对较低。
 

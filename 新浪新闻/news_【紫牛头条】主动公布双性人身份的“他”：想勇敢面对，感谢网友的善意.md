@@ -49,7 +49,7 @@
 
 与此同时，小千的胸部发育越来越明显，不得已之下，他开始学习像一个女孩一样，留起长发，化妆打扮，“但是，出门时，只要有路人看我，我还是会很紧张，害怕被人发现秘密。”
 
-![女生打扮的小千](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[女生打扮的小千]
 
 工作外出时，他也会遇到尴尬的情况。小千说，按照自己的穿着打扮，去男生厕所不太合适，可是去女生厕所又觉得对其他女生不太公平。有一次，他因为找不到合适的卫生间上厕所，憋了8个小时，从上午10点到下午6点，直到回家才上了厕所。
 
@@ -75,7 +75,7 @@
 
 让他没想到的是，视频发布后，他收到的攻击性评论和私信并没有那么多，大多数网友反而释放出明显的善意。截至目前，该视频播放量已经突破22万，弹幕数近3000条，记者打开视频，满屏的“加油”从右向左滚动，不间断地持续了1分多钟。
 
-![小千暂时以女生打扮生活](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[小千暂时以女生打扮生活]
 
 在采访的当天，他身边的一位朋友看到了他发布在网上的视频，立马跑来询问：“你，是双性人？”
 

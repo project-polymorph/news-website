@@ -35,7 +35,7 @@
 
 说说你的看法
 
-![转发至微博](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+[转发至微博]
 
 ## 标签 { data-search-exclude }
 

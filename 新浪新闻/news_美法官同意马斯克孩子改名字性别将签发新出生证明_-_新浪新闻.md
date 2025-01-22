@@ -39,7 +39,7 @@
 
 美国法院公开文件显示，泽维尔希望更改自己的性别为女性，并保留母亲的姓氏威尔逊，将自己的名字改为薇薇安·詹娜·威尔逊（Vivian Jenna Wilson）。
 
-![泽维尔·亚历山大·马斯克向法院申请更改姓名、性别及出生证明。图自美国法庭公开文件网站 PlainSite.org](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[泽维尔·亚历山大·马斯克向法院申请更改姓名、性别及出生证明。图自美国法庭公开文件网站 PlainSite.org]
 
 另据美媒报道，法庭文件还指出了泽维尔与父亲马斯克的关系裂痕，声明称“我不想与我的亲生父亲马斯克一起生活，也不想与他再有任何形式的关联”。
 
@@ -55,7 +55,7 @@
 
 因自己的言论在推特上招致谴责后，马斯克曾在2020年发文称，“我绝对支持跨性别群体，但所有这些代词都是一场美学噩梦。”
 
-![图片](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 据路透社消息，在其子泽维尔向法院要求更改性别的大约一个月之际，马斯克于5月宣布支持共和党，而共和党民选代表主张限制关于变性人权利的系列立法。
 

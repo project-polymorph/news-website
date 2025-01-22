@@ -57,7 +57,7 @@
 **官方:** 新浪新闻  
 **标签:** 热点资讯 精彩视频抢先看 5.0分好评
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+[图片]
 
 ## 摘要与附加信息
 

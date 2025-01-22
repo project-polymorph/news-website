@@ -39,7 +39,7 @@
 
 [立即转发](https://cmnt.sina.cn/index?product=comos&index=kknscsi6059896&tj_ch=news&is_clear=0)
 
-![评论图标](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+[评论图标]
 
 ## 摘要与附加信息
 

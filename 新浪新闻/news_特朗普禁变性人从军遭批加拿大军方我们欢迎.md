@@ -55,21 +55,21 @@ CNN还采访到了变性前海豹突击队员克里斯蒂·贝克（Kristin Beck
 
 其中一位网友的留言解释了一部分人支持变性人参军禁令的原因，那就是去年[奥巴马](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E5%A5%A5%E5%B7%B4%E9%A9%AC)时期的一项军队政策——跨性别者可公开在美国军队服役，做变性手术的国防部还给报销……
 
-![激烈争论图片3](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[激烈争论图片3]
 
 但这一观点并不能说服反对者。
 
-![激烈争论图片4](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[激烈争论图片4]
 
 美国真的一天天变得越来越像俄罗斯了。“俄罗斯合众国”！
 
-![激烈争论图片5](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[激烈争论图片5]
 
 所以是不是特朗普马上也要用同样的理由来歧视军队中的女性了呢？（毕竟怀孕也很花钱 ！）
 
 随处可见留言区这样的互喷……
 
-![激烈争论图片6](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[激烈争论图片6]
 
 \-你（指特朗普）真是一个该死的废物。
 

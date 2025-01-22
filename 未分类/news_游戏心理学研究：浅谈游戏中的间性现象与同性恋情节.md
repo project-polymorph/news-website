@@ -19,9 +19,9 @@
 
 ![《博德之门3》：可以设置如同男性外貌与性别特征的女性](https://di.gameres.com/attachment/forum/202312/28/165509jrfjyfbrccsryzny.jpg)
 
-![《赛博朋克2077》：游戏中的各项性别特征男女混用](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《赛博朋克2077》：游戏中的各项性别特征男女混用]
 
-![《博德之门3》：游戏中有着“第三性”的性别选择](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《博德之门3》：游戏中有着“第三性”的性别选择]
 
 换言之，这就要求游戏在创建角色时，不限定喉音、胡须、发型、体格、肌肉、乳房等各类性别特征的选择，而是允许玩家采取男女两性性别特征，混用选择的设计形式。 
 
@@ -36,13 +36,13 @@
 - 在《天外世界》《底特律：变人》《最后生还者2》等游戏中，则有着帕尔瓦蒂、艾莉、朱迪、君蕾、艾芙琳·帕克、前田舞子等角色，或者仿生人NPC，彼此同性恋爱的情节。
 - 在《红颜一梦》中，玩家扮演的慕容清璇，不仅可作为正常的异性恋，而与沈飞、段誉、郭靖、狄云、杨过、令狐冲、慕容复、东方不败、欧阳克等众多男性角色恋爱；亦可决定自己的性取向，成为一名女同性恋，而与小龙女、黄蓉、任盈盈、上官仙、白飞飞、凌霜华、王语嫣、萧中慧、戚芳等众多女性角色恋爱。
 
-![《夏天的一天：香港 1986》：以女性同性恋爱为主题的视觉小说类游戏](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《夏天的一天：香港 1986》：以女性同性恋爱为主题的视觉小说类游戏]
 
-![《博德之门3》：女主人公可与同性的影心谈恋爱](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《博德之门3》：女主人公可与同性的影心谈恋爱]
 
-![《博德之门3》：女主人公可与同性的莱埃泽尔谈恋爱](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《博德之门3》：女主人公可与同性的莱埃泽尔谈恋爱]
 
-![《质量效应三部曲》：男女主人公均可与莉亚娜谈恋爱](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《质量效应三部曲》：男女主人公均可与莉亚娜谈恋爱]
 
 换言之，对于异性恋玩家来说，有时候反而对异性的同性恋题材喜闻乐见。例如，部分男性异性恋者，会对女同性恋题材感兴趣；而部分女性异性恋者，则对男同性恋题材感兴趣。 例如，笔者就不讨厌女同题材的内容。诸如《夏日的一日》等游戏，笔者就感觉很唯美，但是却对男同题材的内容不太感冒。 而之所以如此，则是这类题材，可让异性恋受众，同时欣赏到两个自己感兴趣的异性，进而满足其异性凝视之需要，并由此给其带来性的满足。而有需求，自然也就有市场。而这也是百合、耽美等故事题材产生的根源。 而根据外媒Quantic Foundry的调查数据，可知男性玩家群体中，接近三分之一男性玩家喜欢在游戏中扮演女性角色；接近十分之一女性玩家，喜欢在游戏中扮演男性角色【2】。这也说明这部分潜在的玩家群体数量，其实是很可观的。 
 
@@ -71,27 +71,27 @@
 - 间性设计（女性化倾向-女装）：在《原神》中，温迪是一位男性角色。但他除了胸部等女性性征不明显外，其他诸如长发、丝袜等造型与装扮，皆是以女性的第三性别特征为基础设计的。而这无疑是一种基于服饰逆转的间性设计。而最初，笔者看到他的第一眼，也以为他是一位女性，而并非男性。
 - 间性设计（女性化倾向-长发）：在《最终幻想》系列游戏中，无论是克劳德、安吉尔、萨菲罗斯，还是杰内西斯，其大多皆具有中、长发型，以及白皙的皮肤等女性性别特征，从而呈现出小鲜肉般的间性造型设计特点。
 
-![《奇异人生》：克洛伊有着间性的设计倾向](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《奇异人生》：克洛伊有着间性的设计倾向]
 
-![《笑傲江湖2：东方不败》：令人雌雄莫辨的东方不败](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《笑傲江湖2：东方不败》：令人雌雄莫辨的东方不败]
 
-![《代号鸢》：游戏的宣传画以4个主要角色为主体](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《代号鸢》：游戏的宣传画以4个主要角色为主体]
 
-![《剑风传奇》：画面当中的格里菲斯堪称美少年的典型](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《剑风传奇》：画面当中的格里菲斯堪称美少年的典型]
 
-![《圣斗士星矢》：很多黄金圣斗士皆有着长发造型设计](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《圣斗士星矢》：很多黄金圣斗士皆有着长发造型设计]
 
-![《大航海时代4》：游戏中极为俊美的男主人公拉斐尔·卡斯特路](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《大航海时代4》：游戏中极为俊美的男主人公拉斐尔·卡斯特路]
 
-![《魂断威尼斯》：俊美的美少男塔奇奥](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《魂断威尼斯》：俊美的美少男塔奇奥]
 
-![《博德之门3》：形象俊美的阿斯代伦](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《博德之门3》：形象俊美的阿斯代伦]
 
-![《原神》：看到温迪的第一眼，让笔者误以为他是女性角色](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《原神》：看到温迪的第一眼，让笔者误以为他是女性角色]
 
-![《最终幻想7重制版》：拥有女性白皙皮肤的克劳德](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《最终幻想7重制版》：拥有女性白皙皮肤的克劳德]
 
-![《最终幻想7重制版》：拥有一头靓丽长发的萨菲罗斯](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《最终幻想7重制版》：拥有一头靓丽长发的萨菲罗斯]
 
 男性的逆转者往往有相肖于女性的倾向，而女性的逆转者则有相肖于男性的倾向。并且这种倾向在身心两方面都有。……女的逆转者，在态度与性情上很像男人，但此种相像外表上也不一定很明显。在身体的结构与生理的功能上有时也略有变动。--摘录自《性心理学》 
 
@@ -113,9 +113,9 @@
 - **逆转者**：在《代号鸢》《剑风传奇》《大航海时代4》《最终幻想7重制版》等游戏与动漫作品中，无论是广陵王、格里菲斯、拉斐尔·卡斯特路，还是萨菲罗斯，皆是基于第三性别特征与服饰逆转的间性设计。例如，广陵王是女扮男装，通过服饰逆转形成了间性设计，而其他男性角色则通过长发、皮肤等设计，形成了第三性别逆转的间性设计。而格里菲斯、拉斐尔·卡斯特路与萨菲罗斯，则是第三性别特征（长发、容貌、皮肤）等逆转的间性设计。而在现实生活中，甚至有观众与玩家，认为格里菲斯与拉斐尔·卡斯特路像女性，或者认为他们根本是女性的看法。实际上，这些角色的性别是男还是女，并不重要。凸显的性别特征，才是引发受众对角色产生兴趣的基础。
 - **大恶魔：**在《暗黑破坏神4》《生化危机8》中，无论是莉莉丝，还是迪米特雷斯库伯爵夫人，皆是恶魔和吸血鬼等可怕生物。但由于它们性感迷人，故此仍然备受一些玩家的喜爱与青睐，全然不顾它们非常危险之事实。甚至一些玩家宁可“牡丹花下死”，也要自愿多次被迪米特雷斯库伯爵夫人给打死，就为了再次欣赏她们的倩影，或者有更多与之接触的机会。
 
-![《原子之心》：拥有着极完美女性性别特征的机械双子机器人](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《原子之心》：拥有着极完美女性性别特征的机械双子机器人]
 
-![《暗黑破坏神4》：莉莉丝是一位可怕恐怖的大恶魔](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[《暗黑破坏神4》：莉莉丝是一位可怕恐怖的大恶魔]
 
 换言之，这也是为何在很多游戏、动漫与影视作品中，为了让角色显得更唯美，甚至能以此吸引同性的关注与凝视，亦会给相关角色以异性性别特征（如长发）造型设计之原因。 
 

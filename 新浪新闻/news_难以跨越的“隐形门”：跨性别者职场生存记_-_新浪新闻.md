@@ -173,7 +173,7 @@
 
 得到回复，“对于我们和部门领导来说，应该说您的能力我们非常认可，但是毕竟您有些特殊情况，相信您当时面试时也有意无意地有所隐瞒了……我们大领导可能比较传统，所以最终没有考虑……”
 
-![用人单位拒绝录用白雨霏时发的邮件。受访者供图](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[用人单位拒绝录用白雨霏时发的邮件。受访者供图]
 
 半年找不到工作，白雨霏没有收入，在路上看到5块钱的珍珠奶茶都觉得贵。5块钱能在菜场买一大袋大米，她把白米饭和水放在碗里，微波炉一转，偶尔配点榨菜、萝卜干，熬下去。
 
@@ -203,7 +203,7 @@
 
 虽有学校的证明，上面有她的曾用名，学信网上入库的信息也还未修改，一旦用人单位做背景调查，白雨霏就惴惴不安。
 
-![2012年《青年报》对白雨霏求职困难的报道。受访者供图](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[2012年《青年报》对白雨霏求职困难的报道。受访者供图]
 
 2018年，在广州性别教育中心律师的协助下，她将申请寄到高教司。三天后，她在北京出差，接到一个010开头的电话。她握着手机，听到对方要求提交学信网新的照片，一时反应不过来。
 
@@ -211,7 +211,7 @@
 
 改完学历，她回母校找老师，得知那一年上任的院长是钟扬教授，2017年在车祸中去世，差点哭出声来。
 
-![白雨霏学历修改完成后给教育部的感谢信。受访者供图](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[白雨霏学历修改完成后给教育部的感谢信。受访者供图]
 
 白雨霏是跨性别社群中第一个成功修改学历的人。
 
@@ -249,7 +249,7 @@ C先生是跨性别男性，寸短，银色耳环，日常穿着男士西装和�
 
 2016年3月开始，C先生提起劳动争议纠纷和一般人格权纠纷。2018年1月22 日，贵阳市中级人民法院针对C先生诉讼慈铭一般人格权纠纷做出判决。判决书确认，慈铭辞退C先生的理由是他不按规定着工装，认定“被告在没有合理理由的情况下解除与原告的劳动合同关系，侵犯了原告平等就业的权利”，但不认定为对跨性别身份的歧视。
 
-![2016年3月30日下午，庭前调解后，C先生拿着仲裁委员会出具的仲裁庭组成人员和开庭通知书。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[2016年3月30日下午，庭前调解后，C先生拿着仲裁委员会出具的仲裁庭组成人员和开庭通知书。]
 
 案件一度引发了公众对跨性别的关注，也让C先生承受了谩骂。那段时间，C先生每天起床第一件事情就是打开微博。关于案子新闻的评论，他一条一条看过去，“怪物，不男不女，心理变态……”回忆起来，C先生觉得“比被辞退的时候还要绝望。”
 

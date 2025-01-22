@@ -3,14 +3,14 @@
 ## 正文 { data-search-exclude }
 
 
-![美国通过立法：禁止跨性别女学生参加中小学校的女生体育项目](//img1.mydrivers.com/img/20250115/s_e40888b1abbf4d45ad53eeb8760e0e4f.jpg)
+![美国通过立法：禁止跨性别女学生参加中小学校的女生体育项目](https://img1.mydrivers.com/img/20250115/s_e40888b1abbf4d45ad53eeb8760e0e4f.jpg)
 
 **时间**: 2025-01-16 08:29:26  
 **出处**: 快科技  
-**作者**: [雪花](//passport.mydrivers.com/author/944168.html "雪花的主页")  
+**作者**: [雪花](https://passport.mydrivers.com/author/944168.html "雪花的主页")  
 **编辑**: 雪花  
 **人气**: 4894 次  
-**评论**: [180](//comment8.mydrivers.com/review/1025568-1.htm)  
+**评论**: [180](https://comment8.mydrivers.com/review/1025568-1.htm)  
 
 ---
 
@@ -30,7 +30,7 @@
 
 【本文结束】如需转载请务必注明出处：快科技  
 
-**标签**: [_#_性别](//news.mydrivers.com/tag/xingbie.htm) [_#_性别差距](//news.mydrivers.com/tag/xingbiechaju.htm)  
+**标签**: [_#_性别](https://news.mydrivers.com/tag/xingbie.htm) [_#_性别差距](https://news.mydrivers.com/tag/xingbiechaju.htm)  
 
 **相关资讯**:
 - [保护美国人隐私！美国宣布封杀中国联网汽车 我国回应了](https://news.mydrivers.com/1/1025/1025561.htm)

@@ -39,7 +39,7 @@
 
 2月20日，一位时装设计师在推特上发帖吐槽，自己丢失的衣服被山姆穿上了。
 
-![设计师的吐槽](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[设计师的吐槽]
 
 这位名叫Asyakhamsin的女士，是一位住在美国得克萨斯州休斯敦的坦桑尼亚裔时装设计师。2018年，她在华盛顿的罗纳德·里根国家机场弄丢了自己的包。
 
@@ -47,27 +47,27 @@
 
 结果不看不知道，一看吓一跳。让她分外震惊的是，她发现照片里山姆穿着的是她的定制礼服，而这件礼服就在她2018年丢失的包里。
 
-![设计师的证据](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[设计师的证据]
 
 这位设计师列出了很多证据，还表示自己设计的另外一个系列的裙子也被山姆穿过。
 
-![设计师的裙子](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[设计师的裙子]
 
 女设计师表示，“我敢说这个世界上不可能有第二件这样的服装了，因为丢掉之后我也没有重新设计过，更没有推向市场”。
 
 更让她气愤的是，在山姆秀出的另外一张照片里，她看到了自己丢失的珠宝。
 
-![设计师的珠宝](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[设计师的珠宝]
 
 这同样是自己在机场丢失的行李里的。
 
 接着网友还发现，山姆不止一次穿过这个系列的作品。
 
-![山姆的另一张服装](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[山姆的另一张服装]
 
 他还高调在自己的社交账号上展示自己的一袭红装，让粉丝给自己点赞。
 
-![山姆的红装](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[山姆的红装]
 
 设计师看到此情此景，真是心中万马奔腾。
 
@@ -81,7 +81,7 @@
 
 2022年7月，他涉嫌在拉斯维加斯哈里里德国际机场的行李等候区偷走一位女士的行李箱，那只行李箱价值320美元，里面装的珠宝、衣服和化妆品价值3500美元。机场的摄像头拍到了他推着失主行李箱的画面。
 
-![监控录像](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[监控录像]
 
 2022年9月，在明尼苏达州的阿波利斯机场，他再次偷了一名女性乘客的行李，监控摄像头捕捉到布林顿从行李提取处拿走了一位女性旅客的手提箱，里面的物品价值2300多美元。失主通过监控录像确认，他手里拿的是她的行李箱。
 
@@ -97,7 +97,7 @@
 
 山姆并不是变性人，而是跨性别者。即生理是男性，但心理认同是女性。所以山姆所有出镜的照片，全都是光头加胡子的男性形象，同时又穿着艳丽的女装。
 
-![山姆的变化](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[山姆的变化]
 
 他非常骄傲地宣称自己是美国非常典型的“男女二元同体”，但在一些保守人士眼中，他这是不男不女，典型的异装癖。
 
@@ -107,7 +107,7 @@
 
 因为政治上的成功，他甚至在网上还拥有一大批粉丝，每次发布在国会山、白宫等地的异装癖个人造型时，总能收到粉丝们狂热的点赞。
 
-![山姆的社交媒体](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[山姆的社交媒体]
 
 去年11月山姆偷盗行李箱的新闻被爆出来以后，他所在的美国能源部居然在11月20日，在自己的官方社交账号上发出号召，让大家加入到“跨性别哀悼日”的纪念活动中去。一大堆怒不可遏的美国民众纷纷跑到这个官方账号下面发山姆的照片，质疑他们有没有看到一个装满核废料的行李箱？
 

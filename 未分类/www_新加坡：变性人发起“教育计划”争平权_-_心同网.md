@@ -18,7 +18,7 @@
 **凭身份证区分变性人 是否完成变性手术**  
 据了解，ChinaOne和克拉码头一些夜店是凭顾客的身份证来区分未经变性手术和已完成手术的变性人。在本地，未经变性手术的男女，其身份证仍显示出世时的性别，直到成功完成手术后，变性人才能正式在身份证上修改性别。换言之，像玛拉这样未经手术的变性人，尽管衣着打扮再女性化，法律上仍是男儿身。玛拉昨天在记者会上表示，她自两年前已开始化妆、穿女性衣裙，“全职”做女人打扮。至今，她没有因性别问题在公共场所如购物中心、学校等遇到任何状况。玛拉目前是南洋理工大学的艺术、设计与媒体学院一年级学生。她透露，一些南大学生和讲师还以为她生来就是女儿身，直到她说出真相，但大家都以“她”或“小姐”来称呼她，没有因此遭受不平等待遇。发生这起事件后，玛拉和利昂娜及朋友决定发起这项“跨性别人士教育计划”，并在社交网络面簿（Facebook）上设立户头，目前已有700个支持者加入。
 
-![相关图片](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC)
+[相关图片]
 
 ## 标签 { data-search-exclude }
 - 变性

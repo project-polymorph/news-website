@@ -41,31 +41,31 @@
 
 ### 热门评论 7条
 
-- [GCG_C](//user.guancha.cn/user/personal-homepage?uid=6472)  
+- [GCG_C](https://user.guancha.cn/user/personal-homepage?uid=6472)  
     禁止变性合法国家的公民收养本国儿童，这点我觉得可以学一学。  
     2024-11-25 13:58 来自广东省
 
-- [guan_15738229322178](//user.guancha.cn/user/personal-homepage?uid=707695)  
+- [guan_15738229322178](https://user.guancha.cn/user/personal-homepage?uid=707695)  
     从对待性别议题的立场看，普京和懂王都是正常人啊  
     2024-11-25 14:22 来自湖北省
 
-- [不惑之年](//user.guancha.cn/user/personal-homepage?uid=221749)  
+- [不惑之年](https://user.guancha.cn/user/personal-homepage?uid=221749)  
     学个屁，我国今年开始，已经不允许外国人收养中国孩子，除非是有血缘关系  
     2024-11-25 15:00 来自河北省
 
-- [山雨欲来风满楼](//user.guancha.cn/user/personal-homepage?uid=680533)  
+- [山雨欲来风满楼](https://user.guancha.cn/user/personal-homepage?uid=680533)  
     中国收紧了跨国收养的政策，俄罗斯跟进得挺快。也许是因为在中国收养不成，压力到了俄罗斯这边。  
     2024-11-25 15:04 来自上海市
 
-- [SkyFish](//user.guancha.cn/user/personal-homepage?uid=1279596)  
+- [SkyFish](https://user.guancha.cn/user/personal-homepage?uid=1279596)  
     我国直接更极端的一刀切了，早早在2024年8月28日就调整了跨国收养政策，限制范围：除外国人来华收养三代以内旁系同辈血亲的子女和继子女外，不再向国外送养儿童。  
     2024-11-25 15:30 来自上海市
 
-- [三十五岁头半白](//user.guancha.cn/user/personal-homepage?uid=1377915)  
+- [三十五岁头半白](https://user.guancha.cn/user/personal-homepage?uid=1377915)  
     过去30年被美国收养的26万儿童，估计不少都变成零件和那帮老妖怪维持青春的养料了  
     2024-11-25 15:17 来自上海市
 
-- [bf20021225](//user.guancha.cn/user/personal-homepage?uid=260646)  
+- [bf20021225](https://user.guancha.cn/user/personal-homepage?uid=260646)  
     那中国所有公民也收养不了儿童了。因为中国也是变性合法的国家。  
     2024-11-25 15:17 来自海南省
 

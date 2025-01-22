@@ -58,7 +58,7 @@
 
 但客观上，如何看待曼宁的泄密，其所为是可耻叛国还是英雄行径，当年在美国引起过不小的争议。支持者把他形容成揭露美国政府战争暴行的英雄，一个有原则、想要帮助社会的抗议者；反对者把他视为不顾国家安全的叛徒，将战友的生命置于危险境地。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 曼宁泄露的美国军事和外交机密文件中，包括美军在伊拉克和阿富汗战争期间，空袭并杀害平民的录像，被披露后，美军遭到国际舆论的强烈批评。
 
@@ -66,7 +66,7 @@
 
 曼宁的律师库姆斯辩护说，曼宁“年轻、不成熟，但意图是好的”，并且美军不应该给予一名24岁年轻人接触这么多机密文件的权限。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 当年审判时，对曼宁的指控共21项，其中20项被判成立，但性质最严重的一项——可以被判终身监禁的“通敌罪”没有成立。
 
@@ -74,7 +74,7 @@
 
 就连曼宁自己也没有提到。她对哈佛“翻烧饼”作法的回应，聚焦于在自己的变性者身份，在社交媒体推特上发文称：“很荣幸成为第一个遭撤回哈佛客座研究员邀请的变性者。他们在中情局压力下，冷藏被边缘化的声音。”
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 从旁观角度，曼宁的变性者身份，确实夺走媒体和社交媒体网站用户的大量眼球。
 
@@ -86,7 +86,7 @@
 
 这个问题很难有一致答案，但从哈佛大学发聘书的结果和舆论态度来看，这个问题本身，似乎已被忽略。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 实际上，如今，不要说曼宁的名字和行为，有多少人还记得这一当时连续数月轰动世界的泄密案呢？
 

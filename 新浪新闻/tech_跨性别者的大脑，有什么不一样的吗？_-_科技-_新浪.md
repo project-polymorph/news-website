@@ -29,13 +29,13 @@
 
 也许这一观点最著名的倡导者是心理学家John Money，此人甚至认为一个先天性阴茎畸形的男婴，或一个在手术事故中失去阴茎的男婴，通过手术和激素治疗后可以成功地成长为女性。然而，在Money的至少一个病例中，这种做法产生了戏剧性的反作用：主人公十几岁时回到了男性的生活，后来自杀。现在，大脑中的性别差异已经有了很好的记录，尽管关于这些差异多大程度上由生物因素引起还是由社会因素引起仍存在着激烈争论。
 
-![图片版权：ANA YAEL](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片版权：ANA YAEL]
 
 发育不匹配的观点得到了两组研究结果的支持。动物研究表明，生殖器和大脑在子宫发育的不同阶段获得男性特征或女性特征，这就为激素波动或其他因素可能使这些器官走上不同的轨道提供了可能性。而人体研究发现，在一些脑区，跨性别者大脑与和他们性别相同的顺性别者大脑之间的相似度，要高于和他们出生性别相同者大脑之间的相似度。
 
 荷兰神经科学研究所的Dick Swaab是性别认同的神经科学先驱。在20世纪90年代中期，他的研究小组对6名已故变性女性的大脑进行了检查，报告称她们的终纹床核中央亚区的大小与顺性别女性更接近，而非与顺性别男性更接近，这个亚区是前脑中已知的对性行为很重要的性二型区，一项后续的尸检大脑研究还发现，跨性别女性与对应的顺性别者在该区域的某一类神经元从数量上来说更接近。这些差异似乎并不受成年期内源性激素波动或激素治疗的影响。2008年发表的另一项研究中，Swaab和一位合作者检测了INAH3亚核的死后体积，这是下丘脑中与性取向有关的区域。他们发现顺性别男性的这个区域是女性的两倍，无论和跨性别女性还是顺性别女性相比。
 
-![在电影《丹麦女孩》中，“小雀斑”饰演了世界上最早有医学记录的变性人莉莉·艾尔比。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[在电影《丹麦女孩》中，“小雀斑”饰演了世界上最早有医学记录的变性人莉莉·艾尔比。]
 
 把跨性别者与经验性别相同者联系得更紧密的，不仅仅是大脑结构。自由大学医学中心和阿姆斯特丹荷兰神经科学研究所的Julie Bakker所领导的一项研究在空间推理任务中检查了神经活动，结果显示，跨性别者和他们对应的顺性别者在功能上的相似性可谓显而易见。先前有研究表明，这种任务在男性和女性身上涉及的大脑区域不同。Bakker和同事们发现，在执行任务时，跨性别男孩（没有曝露在睾丸激素环境中，但受到女性青春期荷尔蒙的抑制）和顺性别男孩在额叶脑区的激活程度都低于顺性别女孩。
 
@@ -45,7 +45,7 @@
 
 **跨性别大脑研究的混合结果**
 
-![性别不像我们原以为的那样绝对。图片来源thesun.co.uk](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[性别不像我们原以为的那样绝对。图片来源thesun.co.uk]
 
 性别认同不太可能有如此直接的生物学解释，然而，一些研究已经确定了跨性别者的大脑特征，似乎更接近出生性别，这对发育不匹配假说提出了质疑。荷兰神经科学研究所2015年的一项研究，在同一年龄组中，对55名女-男跨性别和38名男-女跨性别青少年的灰质分布进行了比较，发现同一性别的跨性别者和顺性别参与者的下丘脑和小脑有着广泛的相似性，不过，在特定分区内存在着一些差异。
 
@@ -59,7 +59,7 @@
 
 **性别认同：一个复杂现象**
 
-![跨性别模特是国际时尚产业中一股越来越突出的力量。图片来源them.us](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[跨性别模特是国际时尚产业中一股越来越突出的力量。图片来源them.us]
 
 Kreukels说，即使产前环境可以推动身体和大脑朝不同方向发展，但这可能也只是导致性别焦虑的一个方面。她解释说，整体情况很可能是“生物、心理和社会因素的结合，因为我们真的认为这是所有这些因素之间复杂的相互作用，迄今为止，研究还没有给出解决办法。”
 
@@ -69,7 +69,7 @@ Kreukels说，即使产前环境可以推动身体和大脑朝不同方向发展
 
 比利时根特大学的心理学家Sven Muller说，在解释群体间观察到的差异时遇到的一个困难是，尚不清楚这些差异是何时以及为何产生的；报告的相关性可能不能反映因果关系。关于性别不一致在多大程度上是由生物学原因造成的，他说“我认为目前还没有定论”。“成年后大脑可塑性极强，”他指出，因此跨性别者和顺性别者之间的差异可能从出生就存在，也可能不存在。
 
-![BBC第四频道的一档节目Genderquake即以跨性别议题为主要探讨方向。图片来源thesun.co.uk](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[BBC第四频道的一档节目Genderquake即以跨性别议题为主要探讨方向。图片来源thesun.co.uk]
 
 此外，在寻找性别焦虑症的生物学理解方面，科学家面临着组织方面的挑战。通常很难招募到足够多的跨性别者来进行具有高统计效力的研究。但是一些研究人员正在努力解决这个问题。例如，在2017年，致力于促进研究人员之间建立网络和信息共享的英格玛联盟（ENIGMA Consortium）成立了一个新的跨性别工作组，该协会原来关注的方向是检测基因对大脑结构和功能的适度影响。范德堡大学的遗传学家Lea Davis正在组织一项尚待资助的工作，对数千名跨性别和异性别者的基因组进行测序和分析，以寻找与性别认同有关的变异。
 

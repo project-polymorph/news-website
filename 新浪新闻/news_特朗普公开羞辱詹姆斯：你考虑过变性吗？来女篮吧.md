@@ -51,11 +51,11 @@
 
 他还拿出23日就表演过的戏码，再一次嘲讽跨性别运动员参加女子赛事。
 
-![特朗普发言4](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJAQMAAAAB5D5xAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjwA0AABsAAQrj5HwAAAAASUVORK5CYII=)
+[特朗普发言4]
 
 “你知道吗，我刚刚做的事是政治不正确的。人们不被允许谈论它，因为我们的国家好像有大病。我们的国家已经变得如此愚蠢。”
 
-![特朗普发言5](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[特朗普发言5]
 
 ![相关图片](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 

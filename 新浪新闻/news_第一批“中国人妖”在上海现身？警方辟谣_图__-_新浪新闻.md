@@ -28,7 +28,7 @@
 ## 版权 { data-search-exclude }
 [新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
-![新浪新闻](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+[新浪新闻]
 
 **评论数**：1099
 

@@ -3,15 +3,15 @@
 ## 正文 { data-search-exclude }
 
 
-![《龙腾世纪4》跨性别总监为失败开脱：玩家还是不够包容](//img1.mydrivers.com/img/20241222/f247e188-701a-4671-bec7-82917443a1b4.png)
+![《龙腾世纪4》跨性别总监为失败开脱：玩家还是不够包容](https://img1.mydrivers.com/img/20241222/f247e188-701a-4671-bec7-82917443a1b4.png)
 
 **时间**：2024-12-22 13:58:12  
 **出处**：[游民星空](https://www.gamersky.com/news/202412/1862444.shtml?toutiao)  
 **作者**：co1dsleep  
 **编辑**：拾柒  
 **人气**：5497 次  
-**评论**：[125](//comment8.mydrivers.com/review/1020919-1.htm)  
-**标签**：[_#_龙腾世纪](//news.mydrivers.com/tag/longtengshiji.htm), [_#_游戏](//news.mydrivers.com/tag/youxi.htm), [_#_性别](//news.mydrivers.com/tag/xingbie.htm)
+**评论**：[125](https://comment8.mydrivers.com/review/1020919-1.htm)  
+**标签**：[_#_龙腾世纪](https://news.mydrivers.com/tag/longtengshiji.htm), [_#_游戏](https://news.mydrivers.com/tag/youxi.htm), [_#_性别](https://news.mydrivers.com/tag/xingbie.htm)
 
 ---
 
@@ -19,7 +19,7 @@
 
 “在我成长的那个时代，我们是为了庆祝游戏和分享这些共同的体验而存在的，这种动力仍然存在。我认为我们看到的这些恶意言论是高度两极分化时代的结果，也许有点幼稚。我知道当你不得不问‘这个游戏适合我吗？我属于这里吗？’虽然这个问题时很难回答，但当我们说‘是的，你属于这里’时，游戏会变得更好。”
 
-![《龙腾世纪4》跨性别总监为失败开脱：玩家还是不够包容](//img1.mydrivers.com/img/20241222/f7614fcc-8916-4641-afab-6944468381e9.png)
+![《龙腾世纪4》跨性别总监为失败开脱：玩家还是不够包容](https://img1.mydrivers.com/img/20241222/f7614fcc-8916-4641-afab-6944468381e9.png)
 
 采访中Busche坦言：“我是一个公开的跨性别女性，这塑造了我所有的自我认知，也带来了很多的快乐、困难和全新的视角。**对我个人来说，作为跨性别者最大的恩赐之一，就是它迫使你进行大量的自我反思。你花很多时间深入思考自己是谁，为什么这些重要。”**
 

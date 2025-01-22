@@ -60,25 +60,25 @@
 
 ### 热门评论 11条
 
-- [guan_15861743071281](//user.guancha.cn/user/personal-homepage?uid=876383)  
+- [guan_15861743071281](https://user.guancha.cn/user/personal-homepage?uid=876383)  
   1.5万人，可以独立编个军嘛，打仗不行，恶心死你！  
   2024-11-25 22:10   来自北京市
 
-- [guan_15861743071281](//user.guancha.cn/user/personal-homepage?uid=876383)  
-  [阶庭空谷](//user.guancha.cn/user/personal-homepage?uid=24616)  
+- [guan_15861743071281](https://user.guancha.cn/user/personal-homepage?uid=876383)  
+  [阶庭空谷](https://user.guancha.cn/user/personal-homepage?uid=24616)  
   不出点事就不知道军队是有枪的。历来处理军队问题应十分谨慎。  
   2024-11-25 21:12   来自北京市
 
-- [dhz](//user.guancha.cn/user/personal-homepage?uid=30236)  
+- [dhz](https://user.guancha.cn/user/personal-homepage?uid=30236)  
   4年后如果民主党上台，那必须要招2万名跨性别军人。  
   2024-11-25 22:26   来自上海市
 
-- [设计师·空](//user.guancha.cn/user/personal-homepage?uid=216012) 无产阶级加速主义者  
-  [guan_15861743071281](//user.guancha.cn/user/personal-homepage?uid=876383)  
+- [设计师·空](https://user.guancha.cn/user/personal-homepage?uid=216012) 无产阶级加速主义者  
+  [guan_15861743071281](https://user.guancha.cn/user/personal-homepage?uid=876383)  
   1.5万人，可以独立编个军嘛，打仗不行，恶心死你！  
   2024-11-25 22:10   来自北京市
 
-- [天下安](//user.guancha.cn/user/personal-homepage?uid=46416) 不怕鬼，不信邪！  
+- [天下安](https://user.guancha.cn/user/personal-homepage?uid=46416) 不怕鬼，不信邪！  
   天哪，这简直是美国民主的崩溃，美国的LGBTQ们，该拿起武器上街了！！  
   2024-11-25 23:05   来自四川省
 

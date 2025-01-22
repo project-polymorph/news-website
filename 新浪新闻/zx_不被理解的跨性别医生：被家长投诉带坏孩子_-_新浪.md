@@ -85,7 +85,7 @@
 
 服用激素有可能导致身体出现变化，需要做一系列检查，但程昱不能接受插入式的妇科检查。医生们便替换成了憋尿再照B超的形式，每次检查，刘烨医生都会交代住院部的医生带他去做，检查途中没有人觉得奇怪。
 
-![2020年11月，潘柏林参加跨性别医疗照护论坛](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[2020年11月，潘柏林参加跨性别医疗照护论坛]
 
 **跨越障碍**
 
@@ -111,7 +111,7 @@
 
 他能理解这些投诉，“在对跨性别群体不了解的情况下，这都是自然的反应，我们只能尽最大的努力去科普宣教。”
 
-![7月24日，潘柏林参加一席演讲](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[7月24日，潘柏林参加一席演讲]
 
 **严肃和重要的事**
 

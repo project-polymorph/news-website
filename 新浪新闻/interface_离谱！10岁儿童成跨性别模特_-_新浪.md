@@ -37,7 +37,7 @@ Dee专门强调，自己从未强迫诺埃拉做一个女孩。“我们对时�
 
 今年2月，诺埃拉在纽约时装周初次亮相，并成为该活动上最年轻的模特。她还将出席下个月举办的2023春夏纽约时装周，并出席明年的巴黎时装周。
 
-![诺埃拉纽约时装周](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[诺埃拉纽约时装周]
 
 2月，诺埃拉参加纽约时装周
 
@@ -45,27 +45,27 @@ Dee专门强调，自己从未强迫诺埃拉做一个女孩。“我们对时�
 
 昨天，此事曝光后，众多外国网民批评诺埃拉的父母是在“虐待儿童”；
 
-![网民评论](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[网民评论]
 
 “我看，是这对父母先决定了孩子的性别，这孩子在4岁的时候就开始接受性别转换，拜托，那个年纪的孩子哪有性别概念”；
 
-![网民评论](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[网民评论]
 
 “一个4岁的孩子‘最终’成为她自己？？？？”
 
-![网民评论](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[网民评论]
 
 “我8岁的时候想成为一个男孩，每年万圣节我就是卢克·天行者（电影《星球大战》里的知名角色），现在想想，如果我是在诺埃拉的家庭里出生……”
 
-![网民评论](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[网民评论]
 
 “感谢我的妈妈没有因为我小时候喜欢洋娃娃，然后直接把我的性别给改了。”
 
-![网民评论](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[网民评论]
 
 谈及诺埃拉，众多网民对其报以同情。
 
-![来源：观察者网](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[来源：观察者网]
 
 ## 来源：观察者网 { data-search-exclude }
 

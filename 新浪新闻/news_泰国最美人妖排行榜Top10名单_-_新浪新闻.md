@@ -36,7 +36,7 @@ Poy曾经说道：“从我很小的时候我就很想成为女人，不过在�
 
 由于Rose身份的特殊性，使其成为各大新闻的头条。随后人妖Rose感情生活曝光。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 ## NO3：潘维拉斯 { data-search-exclude }
 

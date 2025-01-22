@@ -57,7 +57,7 @@
 此前，国际泳联(2022年12月12日更名为世界泳联)2022年6月通过了新的“性别包容政策”，要求变性游泳运动员必须在12岁之前完成变性，并将体内睾酮水平保持在2.5纳摩尔/升以下，才能参加女子赛事。
 
 **世界田联**
-![图/IC](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图/IC]
 
 世界田联2023年3月24日在官网公布了世界田联理事会日前做出的一系列决定，宣布从3月31日起，加强对性别发育异常运动员的参赛限制，同时进一步明确禁止跨性别运动员参加女子比赛。根据世界田联的最新规定，性别发育异常运动员的睾酮水平需至少24个月维持在2.5纳摩尔/升以下，才能参加国际性田径赛事中的女子比赛。
 
@@ -66,7 +66,7 @@
 
 ### 在体育竞技上，男女差异有多大?
 
-![图/IC](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图/IC]
 
 男女在青春期之前，其实没有显著的差别，无论是身高、肌肉还是骨量。
 

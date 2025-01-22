@@ -89,7 +89,7 @@
 
 彼时，百度“药娘吧”成为“药娘”们的精神家园，也是他们获得药物的主要渠道。但由于经常出现一些非法的售药渠道信息和介绍未成年人“援交”的色情信息，加上诱导未成年人“吃糖”，被网友多次举报后，“药娘吧”在2014年被关停。
 
-![图片](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 《中国慈善家》在现存的百度“伪娘吧”也看到同样的问题，记者根据该贴吧中的信息，联系到一位“药神”。对于一些禁忌的激素类药物，药神表示“有渠道”“各种价格都有”。
 
@@ -113,7 +113,7 @@
 
 2009年11月，卫生部组织制定了《变性手术技术管理规范（试行）》。这份规定对手术操刀医生和第一助手都做出明确要求，即手术者需取得《医师执业证书》的本院在职医师，执业范围为整形外科，具有副主任医师及以上专业技术职务任职资格；从事整形外科临床工作10年以上，其中有5年以上参与变性手术临床工作的经验，曾独立完成10例以上的生殖器再造术。而第一助手要从事整形外科临床工作5年以上的整形外科医师，或者其他相关科室具有主治医师以上专业技术职务任职资格的医师。
 
-![图片](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 按照《规范》中的要求，患者术前必须提交无在案犯罪记录证明、本人要求手术的书面报告并进行公证、已告知直系亲属拟行变性手术的证明。另外，还要有精神科医师开具的易性癖病诊断证明，同时证明未见其他精神状态异常，经心理学专家测试，证明其心理上性取向的指向为异性，无其它心理变态。
 

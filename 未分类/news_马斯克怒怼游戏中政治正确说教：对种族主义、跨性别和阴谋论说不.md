@@ -3,14 +3,14 @@
 ## 正文 { data-search-exclude }
 
 
-![犀利到不忍看！大儿子变性女生后炮轰马斯克：他冷漠易怒 还自恋](//img1.mydrivers.com/img/20240726/s_347a40d3be36443387605a8982cfe5c0.jpg)
+![犀利到不忍看！大儿子变性女生后炮轰马斯克：他冷漠易怒 还自恋](https://img1.mydrivers.com/img/20240726/s_347a40d3be36443387605a8982cfe5c0.jpg)
 
 **2024-11-28 13:47:39**  
 **出处：快科技**  
-**作者：[雪花](//passport.mydrivers.com/author/944168.html "雪花的主页")**  
+**作者：[雪花](https://passport.mydrivers.com/author/944168.html "雪花的主页")**  
 **编辑：雪花**    
 **人气：4610 次**    
-**评论[（165）](//comment8.mydrivers.com/review/1016490-1.htm)**
+**评论[（165）](https://comment8.mydrivers.com/review/1016490-1.htm)**
 
 马斯克因为大儿子跨性别一事，让他非常反感同性恋群体。
 
@@ -39,9 +39,9 @@
 - [机械飞升！马斯克脑机接口公司启动新试验：让瘫痪患者控制机械臂](https://news.mydrivers.com/1/1016/1016215.htm)
 
 ###### 标签
-[_#_马斯克](//news.mydrivers.com/tag/masike.htm)  
-[_#_埃隆马斯克](//news.mydrivers.com/tag/ailongmasike.htm)  
-[_#_变性](//news.mydrivers.com/tag/bianxing.htm)  
+[_#_马斯克](https://news.mydrivers.com/tag/masike.htm)  
+[_#_埃隆马斯克](https://news.mydrivers.com/tag/ailongmasike.htm)  
+[_#_变性](https://news.mydrivers.com/tag/bianxing.htm)  
 
 **版权声明**  
 快科技·1997-2024 版权所有  

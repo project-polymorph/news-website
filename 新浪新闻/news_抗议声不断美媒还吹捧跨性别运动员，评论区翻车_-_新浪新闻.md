@@ -46,27 +46,27 @@ NBC的这番操作引来不少网民反对，有人直接回怼NBC及文章作�
 
 不过，许多推特用户却并不认可这一观点，表达反对意见的人，在NBC这条推文评论区几乎随处可见：“不。”“不，我们不应该（庆祝）。”“删掉这个鬼扯的话。”
 
-![评论内容](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[评论内容]
 
 “看到没，没人同意你的话。”
 
-![评论内容](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[评论内容]
 
 部分人还直接回怼NBC及文章作者：“你是愚蠢还是怎么的。”“走开吧你。”
 
-![评论内容](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[评论内容]
 
 有人还忍不住就此反讽道：“是的，如果没有男人的帮助，女性如何能够提高和打破这些运动速度。全世界的女性都应该庆祝。”
 
-![评论内容](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[评论内容]
 
 有人也明确表示，“不，虽然我支持所有人，但我认为她的所作所为不公平”。
 
-![评论内容](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[评论内容]
 
 值得一提的是，一名推特网民还分享了NBC此前的一篇报道，“打脸”NBC与作者库奇。这篇发表于2021年1月份的报道提及，发表在《英国运动医学杂志》上的一项新研究表明，即使经过一年的激素治疗，跨性别女性仍然比顺性别女性保持着运动优势。
 
-![报告内容](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[报告内容]
 
 对于女性运动员面临的现状，据路透社22日报道，国际田联主席塞巴斯蒂安·科（Sebastian Coe）认为，女子体育的状况“非常脆弱”，体育联合会在为跨性别女运动员制定规则时需要正确地明白这一点。“如果我们做不到这一点，女子运动的未来将是非常脆弱的。”
 

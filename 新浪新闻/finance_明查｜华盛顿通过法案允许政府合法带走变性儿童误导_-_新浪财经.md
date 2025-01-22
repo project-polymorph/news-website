@@ -39,7 +39,7 @@
 
 根据华盛顿州的现行法律，如果一个离家出走的孩子去了合法经营的收容所，除非有“令人信服的”理由，例如青少年面临被虐待或被忽视的风险，否则收容所必须通知孩子的父母。
 
-![美国华盛顿州Senate Bill 5599法案相关文件截图](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[美国华盛顿州Senate Bill 5599法案相关文件截图]
 
 然而，当青少年寻求“性别确认治疗”和“生殖健康护理”时，该法案将允许收容所代替父母联系华盛顿儿童基金会（Department of Children, Youth and Families），并由该组织代表未成年人转介相关的医疗服务。
 
@@ -47,13 +47,13 @@
 
 美国人口事务局（Office of Population Affairs）的一项研究表明，获得“性别确认治疗”可以有效降低未成年人心理疾病的产生的概率，并帮助未成年人建立自尊，改善跨性别青少年群体的整体生活质量。
 
-![美国人口事务局一项关于“性别确认治疗”和青少年的研究](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[美国人口事务局一项关于“性别确认治疗”和青少年的研究]
 
 该法案的发起人马克·利亚斯在一篇公开的新闻稿中说到，这项法案是保护在华盛顿处于危险中的未成年人的重要举措，并希望每个孩子都有一个支持和接纳他们的家庭，为他们提供所需的照顾。
 
 据报道，该法案的批评者称，这项立法是“对父母权利和家庭关系的攻击”，无论是在法律上，伦理上，还是道德上都是错误的。
 
-![支持和反对华盛顿州SB559法案的集会](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[支持和反对华盛顿州SB559法案的集会]
 
 该法案于4月21日移交至华盛顿州州长处等候签署。
 

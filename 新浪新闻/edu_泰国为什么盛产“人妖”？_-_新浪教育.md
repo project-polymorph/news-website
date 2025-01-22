@@ -55,7 +55,7 @@
 
 表现在社会生活中就是：各玩各的。
 
-[![泰国征兵现场的和尚与ladyboy](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)](JavaScript:void(0))
+[[泰国征兵现场的和尚与ladyboy]](JavaScript:void(0))
 
 小乘佛教的教义甚至有这样一条：只要性工作者是为了家庭生计或是捐助寺庙等做公德的行为，那卖淫行为就不是可耻的，泰国人认为工作只是一个人用肉体获取物质报酬的工具。
 
@@ -75,11 +75,11 @@
 
 迫于生计，一些贫民用手术的方法，让自己成为后天阴阳人以求大富大贵。仿效的人多了供过于求，于是转而四处游荡卖艺。
 
-[![阉人](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)](JavaScript:void(0))
+[[阉人]](JavaScript:void(0))
 
 在强调种姓、等级制度的印度地区，这些底层人过得很艰难，却在讲求众生平等的佛教文化庇护下获得了生存空间。
 
-[![当代印度阉人](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)](JavaScript:void(0))
+[[当代印度阉人]](JavaScript:void(0))
 
 越南战争让ladyboy产业兴起
 
@@ -87,13 +87,13 @@
 
 1957年泰国性工作者约2万人，七年后增至40万人，80年代最高峰时甚至高达百万。
 
-![越南战争](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[越南战争]
 
 带来这个巨大变化的，是越南战争。
 
 20世纪50年代，美英法新澳和菲律宾、巴勒斯坦、泰国共同创办了东南亚条约组织，在冷战中坚决站到美国的一边。签条约的时候，各种产业都比较匮乏、非常缺钱的泰国政府提出一个条件：泰国必须作为在泰美军休闲娱乐的地方。
 
-![驻泰美军](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[驻泰美军]
 
 当时驻泰的美国军官有4万多人，而这些军官都有羞羞的生理需求，色情服务场所在军事基地周边很容易找到。
 
@@ -101,7 +101,7 @@
 
 Ladyboy的大批产生正是在此时，一方面美国大兵对泰国这种异域风情非常好奇，另一方面，性交易供需失衡，急于赚钱的男性化妆成女人去赚大兵的钱，精明的生意人也渐渐瞄准了这个商机。
 
-![芭提雅街头](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[芭提雅街头]
 
 60年代还是小渔村的芭提雅很快成了“泰国特色旅游圣地”。现在，当地最大的两家ladyboy剧场每晚五场演出，收入约37万人民币，合照一张需要20到100元不等的消费，走红的ladyboy年收入能达到100万人民币左右。
 
@@ -111,7 +111,7 @@ Ladyboy的大批产生正是在此时，一方面美国大兵对泰国这种异�
 
 最后壹读君(微信：yiduiread)要讲的故事主人公叫索拉威纳帝(SorraweeNattee)，他来自泰国南部边境的宋卡府，成年之后，他选择了隆胸、女装，成为一名ladyboy。2009年，他参加了泰国蒂芬妮环球小姐——也就是变性人选美比赛，并成为冠军。
 
-![选美冠军](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[选美冠军]
 
 4年后，这位曾经泰国最显赫的ladyboy回到家乡，在一座寺庙出家为僧。
 

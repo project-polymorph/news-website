@@ -75,7 +75,7 @@
 
 2020年的一个总结研究认为，男女间的差异，在体育上大概会造成10%~50%的相对优势。优势多大，要看是哪个体育项目的哪个动作。
 
-![在某个体育动作上，男性的优势从10%到50%不等。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[在某个体育动作上，男性的优势从10%到50%不等。]
 
 | Hilton, E. N., & Lundberg, T. R. (2020) |
 
@@ -108,7 +108,7 @@
 
 这些跨性别者的指标变化如下——
 
-![血液睾酮水平和血红蛋白水平的变化](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[血液睾酮水平和血红蛋白水平的变化]
 
 就血液睾酮水平和血红蛋白水平来说，应该说跨性别女性相对于顺性别女性没有显著的竞争优势。
 
@@ -125,7 +125,7 @@
 
 哈珀检索了1999~2020年的24项质量较好的研究，发现经过激素治疗后，跨性别女性血红蛋白/红细胞比容会明显下降，下降幅度在3.4%~14%，大概只需要4个月，就会降到与顺性别女性相当的区间内。
 
-![血红蛋白、红细胞比容的变化](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[血红蛋白、红细胞比容的变化]
 
 这意味着，跨性别女性的耐力和有氧能力会显著降低，而且非常可能与顺性别女性差异不大。
 
@@ -143,7 +143,7 @@
 
 2019年的一项多中心的研究分析了249个跨性别女性和278个跨性别男性，在12个月里，跨性别男性的握力平均增加了6.1kg，跨性别女性的握力则平均降低了1.8kg。
 
-![跨性别男女一年内的握力变化](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[跨性别男女一年内的握力变化]
 
 然而，即使有这些变化，跨性别女性的握力中位数（50分位）依然落在同年龄顺性别女性的95分位。跨性别男性的握力中位数则落在同年龄顺性别男性的25分位。
 
@@ -153,7 +153,7 @@
 
 还有至少3个研究测到了跨性别女性在接受激素治疗后，力量并没有明显减弱——
 
-![力量变化](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[力量变化]
 
 其中Wiik等人2020年发表在《临床内分泌与代谢期刊》上的论文认为，在接受12个月的激素治疗后，跨性别男性的力量增加了12%，跨性别女性的力量基本保持了原有水平。在下肢肌肉上，跨性别女性依然强过跨性别男性，当然也强过普通顺性别女性。跨性别女性的大腿肌肉量减少5%，肌肉横截面积减少了4%，但力量却没有下降，可能是因为神经学习效应。另外，抑制睾酮固然导致肌肉损失、脂肪增加，但跨性别女性补充的雌二醇能预防一定的瘦体重损失。结果是，变性女性依然要显著强壮过女性参照群体。
 
@@ -187,7 +187,7 @@
 
 结果显示，训练比变性影响更大，这八个人的成绩变化主要反映了她们后来有没有训练得更刻苦，而不是有没有变性。
 
-![跑者成绩变化](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[跑者成绩变化]
 
 跑者4和跑者5变性后成绩都下降得很厉害，跑者4是因为伤病，跑者5是因为体重增加，而且对跑步兴趣降低。
 
@@ -241,7 +241,7 @@
 
 目前奥委会的规定也不仅仅是“10nmol/L”，还有“必须以新性别的身份生活至少4年”——四年都够读完一个本科了，这绝不是个短时间。
 
-![跨性别女运动员哈伯德赛前训练](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[跨性别女运动员哈伯德赛前训练]
 
 体育和奥林匹克，应该可以成为所有人的支柱——无论是顺性别女性，还是跨性别者，她们都应该有公平竞争的机会。二者的机会，并不一定是完全互斥的。
 

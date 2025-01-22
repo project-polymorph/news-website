@@ -64,7 +64,7 @@
 
 在2003年的一场比赛后，他从公众视野消失了。后来，哈伯德解释道，自己当时重新发现了自己。他希望变成一个女人。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 运动中的女性选手。
 
@@ -90,7 +90,7 @@
 
 沃尔 Walsh在当地一家体育俱乐部接受训练，这家俱乐部后来成为了她的第二个家。在俱乐部里，和沃尔 Walsh一起长大的同伴都知道她不同于其他女孩，一些人在描述她的非典型生殖器时提到了“先天缺陷”或“突变”，其他人则认为她是雌雄同体。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 训练中的斯特拉·沃尔 Walsh。
 
@@ -104,7 +104,7 @@
 
 两年后，沃尔 Walsh代表波兰参加洛杉矶奥运会女子百米比赛。在决赛中，她和加拿大选手斯特莱克几乎同时冲线，裁判最终依靠照片判决她获得金牌。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 斯特拉·沃尔 Walsh引起的性别争议。
 
@@ -116,7 +116,7 @@
 
 虽然争议不断，但沃尔 Walsh继续自己的辉煌战绩，在之后的短跑比赛中所向无敌，直到1936年柏林奥运会。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 “TA是作弊者吗”
 
@@ -126,7 +126,7 @@
 
 在柏林奥运会百米预赛中，斯蒂芬斯在超风速的条件下跑出了11秒4的成绩，之后30年，再无女子选手能接近这个成绩。决赛中，她更是击败沃尔 Walsh获得金牌。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 奔跑中的海伦·斯蒂芬斯。
 
@@ -140,7 +140,7 @@
 
 斯蒂芬斯请了律师，把这家杂志社告上法庭，最终赢得了5500美元的赔偿。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 海伦·斯蒂芬斯。
 
@@ -156,7 +156,7 @@
 
 1936年奥运女子百米决赛，是不是一个男性战胜了另一个男性？或许人们永远也不知道真相了。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 性别检测
 
@@ -172,7 +172,7 @@
 
 国际田联第一次进行性别测试是在1966年，在牙买加举行的英联邦运动会。为了确定女性器官的存在，医生用肉眼观察裸体女运动员。两周后，在匈牙利布达佩斯举行的欧洲田径锦标赛上，继续了这种可视化检查。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 性别测试。
 
@@ -184,7 +184,7 @@
 
 毫不奇怪，视觉测试被认为是侮辱女性，在运动员中非常不受欢迎，国际体育组织旋即改变了做法：用DNA检测性别。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 男运动员插画。
 
@@ -198,7 +198,7 @@
 
 不过，20世纪70年代，东德体育崛起，许多东德女选手因过度使用类固醇而变得非常男性化，进而遭到他国抱怨。1976年蒙特利尔奥运会期间，一位东德游泳教练被媒体问及他的运动员宽阔的肩膀和低沉的声音，他回答说：“我们来这里是游泳，不是唱歌。”
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 变性选手
 
@@ -210,7 +210,7 @@
 
 迪克每次都花两三个小时装扮自己。他很快意识到自己的女性倾向，并给自己的女性身份起名蕾妮。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 凯特林·詹娜，前运动员
 
@@ -222,7 +222,7 @@
 
 1976年，迪克进行了激素治疗，完成了拖延已久的阴道成形术。成为一名女性后，她搬家到了加州纽波特比奇，并继续参加网球比赛，当时加州网球圈的人并不知道她的过去。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 赛场上的蕾妮。
 
@@ -236,7 +236,7 @@
 
 蕾妮是第一个公开变性身份的著名运动员，她引发了男子变性后能否参加女子比赛的争议。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 英国自行车运动员罗伯特·米勒。
 
@@ -246,7 +246,7 @@
 
 染色体是不是性别的唯一标准？这个问题受到了体育界的挑战。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 斯德哥尔摩共识
 
@@ -260,7 +260,7 @@
 
 2004年，国际奥委会开会通过了斯德哥尔摩共识：参加女性项目比赛的跨性别者必须接受性腺切除术，术后接受两年的激素治疗，并获得所在国的法律承认。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 IOC批准关于变形运动员参赛的共识。
 
@@ -270,7 +270,7 @@ IOC批准关于变形运动员参赛的共识。
 
 虽然达成了斯德哥尔摩共识，但由于社会舆论的强烈反对，从2004年开始到2018年韩国平昌冬奥会都没有变性运动员参加。2015年，国际奥委会进一步改进了斯德哥尔摩共识，允许任何跨性别运动员参赛，只要在首次比赛前至少12个月内，睾酮水平低于每升10纳米摩尔，就可以以女性身份参赛。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 新西兰举重选手哈伯德。
 

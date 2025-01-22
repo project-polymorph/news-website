@@ -47,7 +47,7 @@
 
 他还提到自己被驱离现场后，曾怒斥保安多次“不要碰我”，仍被粗暴对待。据泰勒所说，在这场骚乱中，他被撞在好几把椅子上，手里的麦克风也被摔怀了。
 
-![图片](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 泰勒还提到他发现了一件“怪事”：有一名网友上传了另一些视角的视频，并写道“质问男子被击倒在地”，但没多久就删除了。
 
@@ -57,7 +57,7 @@
 
 泰勒说，那名警察明明目击了整个袭击过程，却拒绝了他的“袭击罪”提告，后者声称“贝托支持者的行为并不是攻击”。泰勒表示他要就此事向达拉斯警方再次报警。
 
-![图片](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+[图片]
 
 责任编辑：朱学森 SN240
 

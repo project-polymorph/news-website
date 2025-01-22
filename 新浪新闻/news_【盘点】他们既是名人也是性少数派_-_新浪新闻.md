@@ -55,7 +55,7 @@
 
 **米兰达•可儿：因自恋而同性恋**
 
-![米兰达•可儿](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[米兰达•可儿]
 
 世界卫生组织同性恋研究会在2008年的研究统计中证明，所有的同性恋者中，有87%的人有自恋的特点，根据此特点很容易地推测出，同性恋和自恋有直接关系。如果说世界卫生组织同性恋研究的结论是可信的，那么，有着天使面孔，魔鬼身材的超模米兰达•可儿就是这自恋者队伍中的一员。
 
@@ -65,7 +65,7 @@
 
 **艾伦•德杰尼勒斯：同性恋者中的异性装扮者**
 
-![艾伦•德杰尼勒斯](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[艾伦•德杰尼勒斯]
 
 同性恋者中常有异性装扮的现象，这么做的目的在于吸引同性或是表现他(她)的美丽。在这方面，艾伦•德杰尼勒斯较为突出。艾伦•德杰尼勒斯是美国脱口秀的戏剧表演者、电视节目主持人、演员以及作家和制片人，而且她还是唯一一位奥斯卡、格莱美奖和艾美奖都主持过的主持人。
 
@@ -75,7 +75,7 @@
 
 **冰岛女总理：苦等8年娶“爱妻”**
 
-![冰岛女总理](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[冰岛女总理]
 
 约翰娜•西于尔扎多蒂，冰岛现任总理，她公开承认自己是位同性恋者，成为世界各国政府首脑中的首位出柜者。
 

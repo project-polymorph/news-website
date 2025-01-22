@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![川普将对中共支持的墨西哥贩毒集团开战 （图片：REUTERS/Jay Paul）](//img.soundofhope.org/2024-11/2024-10-30t184210z_1087081118_rc21vaacat16_rtrmadp_3_usa-election-trump-1732068714293.jpg)
+![川普将对中共支持的墨西哥贩毒集团开战 （图片：REUTERS/Jay Paul）](https://img.soundofhope.org/2024-11/2024-10-30t184210z_1087081118_rc21vaacat16_rtrmadp_3_usa-election-trump-1732068714293.jpg)
 
 **正文：**
 

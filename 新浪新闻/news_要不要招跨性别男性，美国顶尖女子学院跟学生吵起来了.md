@@ -35,7 +35,7 @@
 
 在上周向校园发表的公开信中，约翰逊坚持了自己的立场。她称学校将继续承担“作为一所女子学院的使命”，招收“所有始终认为自己是女性的顺性别、跨性别和非二元性别的学生”。
 
-![韦尔斯利学院女校长宝拉·约翰逊（左）与校友希拉里·克林顿（右）](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[韦尔斯利学院女校长宝拉·约翰逊（左）与校友希拉里·克林顿（右）]
 
 ## 韦尔斯利学院女校长宝拉·约翰逊（左）与校友希拉里·克林顿（右） { data-search-exclude }
 

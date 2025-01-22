@@ -49,7 +49,7 @@ _来源：新浪收藏_
 
 女性在社会和家庭中，更多的是为他人服务，无法集中精力专注于自己的事业。由于历史、社会、家庭等种种客观偏见，女性艺术家不得不承担更多内务责任，而“女性艺术家”这一称号也几乎成为女性艺术创作者们多少有些鄙夷的标签。
 
-![《致我已经逝去的卵子》，刘韧，透明树脂、经血，66 x 20 x 7.5厘米，2015年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《致我已经逝去的卵子》，刘韧，透明树脂、经血，66 x 20 x 7.5厘米，2015年]
 
 ## 《致我已经逝去的卵子》，刘韧，透明树脂、经血，66 x 20 x 7.5厘米，2015年 { data-search-exclude }
 
@@ -57,7 +57,7 @@ _来源：新浪收藏_
 
 但中外历史上也不乏伟大的女性们，以强大的信念，用艺术来对表达对自由的追求，和对性别歧视这一社会风俗的质疑。
 
-![《冰刀》截图，胡佳艺，影像，6’01“，2014年9月在中国重庆实施](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《冰刀》截图，胡佳艺，影像，6’01“，2014年9月在中国重庆实施]
 
 ## 《冰刀》截图，胡佳艺，影像，6’01“，2014年9月在中国重庆实施 { data-search-exclude }
 
@@ -65,19 +65,19 @@ _来源：新浪收藏_
 
 归根结底，所有问题都是创作的问题，是探索主体性的问题，而不是性别问题。最终解决这个创作问题，还是要超越个体的经验，达成对作为生存背景的社会性话题的介入，对权力机制的思考，才能获得真正的主体自觉的个体意识。
 
-![《凡人之圈——永不放弃》，张亚宁，纸上丙烯、墨水、矿物质颜料，直径38厘米，2015年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《凡人之圈——永不放弃》，张亚宁，纸上丙烯、墨水、矿物质颜料，直径38厘米，2015年]
 
 ## 《凡人之圈——永不放弃》，张亚宁，纸上丙烯、墨水、矿物质颜料，直径38厘米，2015年 { data-search-exclude }
 
 基于对于中国的深厚历史和传统的理解，以及对当下迅速的有时甚至令人焦虑的发展的感知，女性艺术家们和男性艺术家们一样，都试图真实且坦率的表达更强烈的个体意识。此次在美联展的女艺术家作品中，更多反映了她们对社会问题的密切关注，并通过行使自我权利来自由扩展她们的艺术眼界。
 
-![《不确定的限制》系列，张亚宁，金属、玻璃，每件50 x 35 厘米，2016年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《不确定的限制》系列，张亚宁，金属、玻璃，每件50 x 35 厘米，2016年]
 
 ## 《不确定的限制》系列，张亚宁，金属、玻璃，每件50 x 35 厘米，2016年 { data-search-exclude }
 
 以此，她们也自觉地探索了其更为广阔的视野，展示她们对于大千世界独特而且细微的阐释。通过不同媒介，艺术家们展示了“个人历史”和“内在”与“外在”之间无法分离的互相作用。内省的部分假意诉说故事的方式，追溯家庭、爱人和最亲密的经历。外界社会和他人的影响，则反映着人类行为和背景环境不可分离的关系。
 
-![《海公子》截图，耿雪，影像，13’15’’，2013-2014年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《海公子》截图，耿雪，影像，13’15’’，2013-2014年]
 
 ## 《海公子》截图，耿雪，影像，13’15’’，2013-2014年 { data-search-exclude }
 
@@ -87,13 +87,13 @@ _来源：新浪收藏_
 
 一方面，女性艺术家们正是试图努力摆脱这个“特殊性”的隐形标签过程中，在当代艺术领域不断发声、以她们不断创造出来的艺术作品来战胜外部世界的不合理性，逐渐消除对女性的不平等性，其过程本身对人类历史进步与发展有着积极推动作用，因此成就了其独到的价值。
 
-![《我想要，但我不应该》，于霏霏，装置；棉纸、石膏模型、墨水、石墨，尺寸可变，2015年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《我想要，但我不应该》，于霏霏，装置；棉纸、石膏模型、墨水、石墨，尺寸可变，2015年]
 
 ## 《我想要，但我不应该》，于霏霏，装置；棉纸、石膏模型、墨水、石墨，尺寸可变，2015年 { data-search-exclude }
 
 而另一方面，作为具有实验性、探索性的前卫艺术家，一批新一代女性艺术家在寻找新的艺术表现手法和内容，以“艺术家”而不是“女性”的身份向世界展示出她们的创造力和想象力。
 
-![《岛》，林苒，传统中药柜中装着女同性恋们给艺术家的各种纪念品，2014-2015年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《岛》，林苒，传统中药柜中装着女同性恋们给艺术家的各种纪念品，2014-2015年]
 
 ## 《岛》，林苒，传统中药柜中装着女同性恋们给艺术家的各种纪念品，2014-2015年 { data-search-exclude }
 
@@ -109,75 +109,75 @@ _来源：新浪收藏_
 
 《能量——植物人视听唤醒项目》截图，吴超，影像，4’30’’，2015年
 
-![《囚》，林苒，由舞者Vivi He表演 ，2015年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《囚》，林苒，由舞者Vivi He表演 ，2015年]
 
 ## 《囚》，林苒，由舞者Vivi He表演 ，2015年 { data-search-exclude }
 
-![《宽道》，吴梦诗，木材、金属、电子元件、发光二极管和丙烯酸，78 3/4 x 51 1/8 x 11 3/4 in。 （200 x 130 x 30 cm），2016年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《宽道》，吴梦诗，木材、金属、电子元件、发光二极管和丙烯酸，78 3/4 x 51 1/8 x 11 3/4 in。 （200 x 130 x 30 cm），2016年]
 
 ## 《宽道》，吴梦诗，木材、金属、电子元件、发光二极管和丙烯酸，78 3/4 x 51 1/8 x 11 3/4 in。 （200 x 130 x 30 cm），2016年 { data-search-exclude }
 
-![《静物1》，周宏斌，数码打印，35 3/8 x 35 3/8 in。 （90 x 90 cm），2015年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《静物1》，周宏斌，数码打印，35 3/8 x 35 3/8 in。 （90 x 90 cm），2015年]
 
 ## 《静物1》，周宏斌，数码打印，35 3/8 x 35 3/8 in。 （90 x 90 cm），2015年 { data-search-exclude }
 
-![《静物6》，周宏斌，数码打印，35 3/8 x 35 3/8 in。 （90 x 90 cm），2015年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《静物6》，周宏斌，数码打印，35 3/8 x 35 3/8 in。 （90 x 90 cm），2015年]
 
 ## 《静物6》，周宏斌，数码打印，35 3/8 x 35 3/8 in。 （90 x 90 cm），2015年 { data-search-exclude }
 
-![《奏响“第三性”的前一刻》，米玉明，行为表演、装置，160 x 240 x 40cm，2016年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《奏响“第三性”的前一刻》，米玉明，行为表演、装置，160 x 240 x 40cm，2016年]
 
 ## 《奏响“第三性”的前一刻》，米玉明，行为表演、装置，160 x 240 x 40cm，2016年 { data-search-exclude }
 
-![《珍珠》，陈卉，布面油画，29 1/2 x 22 1/2 in。 （75 x 57 cm），2011年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《珍珠》，陈卉，布面油画，29 1/2 x 22 1/2 in。 （75 x 57 cm），2011年]
 
 ## 《珍珠》，陈卉，布面油画，29 1/2 x 22 1/2 in。 （75 x 57 cm），2011年 { data-search-exclude }
 
-![《爆炸》，郑琦，布面油画，78 3/4 x 78 3/4 in。（200 x 200 cm），2010年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《爆炸》，郑琦，布面油画，78 3/4 x 78 3/4 in。（200 x 200 cm），2010年]
 
 ## 《爆炸》，郑琦，布面油画，78 3/4 x 78 3/4 in。（200 x 200 cm），2010年 { data-search-exclude }
 
-![《障碍性阅读3》，高珊，海绵、头发](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《障碍性阅读3》，高珊，海绵、头发]
 
 ## 《障碍性阅读3》，高珊，海绵、头发 { data-search-exclude }
 
-![《错误的秩序NO.3》，林欣，电子影像装置，](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《错误的秩序NO.3》，林欣，电子影像装置，]
 
 ## 《错误的秩序NO.3》，林欣，电子影像装置， { data-search-exclude }
 
-![《林世界》，吴思林，影像，10’00’’， 2015](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《林世界》，吴思林，影像，10’00’’， 2015]
 
 ## 《林世界》，吴思林，影像，10’00’’， 2015 { data-search-exclude }
 
-![《山》，刘玉洁，布面油画，](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《山》，刘玉洁，布面油画，]
 
 ## 《山》，刘玉洁，布面油画， { data-search-exclude }
 
-![《寄往天堂的信201320》，周钦珊，布面丙烯记号笔，49 1/4 x 41 3/8 in。 （125 x 105 cm），2013年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《寄往天堂的信201320》，周钦珊，布面丙烯记号笔，49 1/4 x 41 3/8 in。 （125 x 105 cm），2013年]
 
 ## 《寄往天堂的信201320》，周钦珊，布面丙烯记号笔，49 1/4 x 41 3/8 in。 （125 x 105 cm），2013年 { data-search-exclude }
 
-![《寄往天堂的信201320》，周钦珊，布面丙烯记号笔，49 1/4 x 41 3/8 in。 （125 x 105 cm），2013年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《寄往天堂的信201320》，周钦珊，布面丙烯记号笔，49 1/4 x 41 3/8 in。 （125 x 105 cm），2013年]
 
 ## 《寄往天堂的信201320》，周钦珊，布面丙烯记号笔，49 1/4 x 41 3/8 in。 （125 x 105 cm），2013年 { data-search-exclude }
 
-![《沉浮》，栗子，布面综合材料，59 x 47 1/4 in。 （150 x 120 cm），2015年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《沉浮》，栗子，布面综合材料，59 x 47 1/4 in。 （150 x 120 cm），2015年]
 
 ## 《沉浮》，栗子，布面综合材料，59 x 47 1/4 in。 （150 x 120 cm），2015年 { data-search-exclude }
 
-![《彼岸幽蓝》，高思桦，布面丙烯，59 x 59 in。 （150 x 150 cm），2015](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《彼岸幽蓝》，高思桦，布面丙烯，59 x 59 in。 （150 x 150 cm），2015]
 
 ## 《彼岸幽蓝》，高思桦，布面丙烯，59 x 59 in。 （150 x 150 cm），2015 { data-search-exclude }
 
-![《凤凰》，李娜，纸本综合材料，45 1/4 x 15 3/4 in。 （115 x 40 cm），2015年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《凤凰》，李娜，纸本综合材料，45 1/4 x 15 3/4 in。 （115 x 40 cm），2015年]
 
 ## 《凤凰》，李娜，纸本综合材料，45 1/4 x 15 3/4 in。 （115 x 40 cm），2015年 { data-search-exclude }
 
-![《九尾狐》，李娜，纸本综合材料，45 1/4 x 15 3/4 in。 （115 x 40 cm），2015年](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《九尾狐》，李娜，纸本综合材料，45 1/4 x 15 3/4 in。 （115 x 40 cm），2015年]
 
 ## 《九尾狐》，李娜，纸本综合材料，45 1/4 x 15 3/4 in。 （115 x 40 cm），2015年 { data-search-exclude }
 
-![无题201511](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+[无题201511]
 
 ## 《无题201511》，鞠婷，木板丙烯，74 3/4 x 66 7/8 in。 （190 x 170 cm），2015 { data-search-exclude }
 

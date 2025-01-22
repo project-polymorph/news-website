@@ -34,7 +34,7 @@
 
 王梓淇说，最不愿意提起的，就是从出生到离开山西前的那十几年。
 
-![少年时期的王梓淇](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[少年时期的王梓淇]
 
 王梓淇出生在山西太原一个小村庄里。出生时，父母看到她的男性器官，就把她当儿子抚养。童年时期，王梓淇男孩打扮，不叫“王梓淇”，但她始终不愿透露那个“男性”的名字，只说父母叫她“二亲”（老二的昵称）。
 
@@ -75,7 +75,7 @@
 
 王梓淇迫切地想要变成女性，首先选择在外貌上进行改变。在太原时，她在一家整形医院的免费帮助下，割了双眼皮，做了面部的抽脂和填充，留起及腰长发。在一名网友的帮助下，她学会了用女生的声音说话。为了抑制体内的雄性激素，她服用激素药物约10年，长胖了30多斤，胸部发育隆起，看起来更像“女人”。
 
-![王梓淇已更换身份证](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[王梓淇已更换身份证]
 
 后来，拿着医院出具的性别鉴定书，王梓淇前往派出所户籍科室问能不能把身份证上的性别改成“女性”，名字改成听起来像女人的“王梓淇”。工作人员让王梓淇补充了大量材料。20多天后，王梓淇终于拿到了加急办理的身份证，看着上面的“女”，感觉终于成了法定意义上的“女性”，这对她来说是重要的时刻。她折断了那张写着“男”的旧身份证。
 
@@ -95,7 +95,7 @@
 
 这份兼职是帮带水货，兼职信息要求女士优先，“真正做事只需10几分钟工作时间。”这对她来说很轻松，现结到手150元后，她带记者来到深圳老街的小吃街，熟络地走进一家29元自助小火锅店，要回请吃饭。
 
-![王梓淇乘坐地铁习惯性找没人的地方站着](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[王梓淇乘坐地铁习惯性找没人的地方站着]
 
 有过两任男友  
 羡慕成功做手术的病友
@@ -124,7 +124,7 @@
 
 “生殖道畸形是一种先天性疾病，也属于罕见病。”深圳市罗湖区人民医院妇产科主任医师秦成路告诉红星新闻，实际上国内有不少这类患者。多数情况下，患者出生时就能被发现性器官异常，也有些孩子要进入青春期，第二性征发育起来时，才发现身体的异常。通常，这类患者的智力、身体各方面都很正常，特殊的身体状况会使得他们心理产生痛苦。
 
-![王梓淇](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[王梓淇]
 
 被父母拉黑  
 为手术费准备起诉父母

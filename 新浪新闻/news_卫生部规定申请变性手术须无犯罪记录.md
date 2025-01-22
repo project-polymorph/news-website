@@ -22,7 +22,7 @@
 说说你的看法  
 转发至微博
 
-![评论图标](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+[评论图标]
 
 **标签：** [变性手术](#)  
 **来源：** 新浪新闻

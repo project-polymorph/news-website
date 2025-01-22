@@ -3,12 +3,12 @@
 ## 正文 { data-search-exclude }
 
 
-![大学妥善公示性别变更信息，也是一种教育](//d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/56BFBDD19B8635E196B3D55F37F361891F3343ED_size5_w400_h40.jpg)
+![大学妥善公示性别变更信息，也是一种教育](https://d.ifengimg.com/w121_h75_q90/x0.ifengimg.com/res/2024/56BFBDD19B8635E196B3D55F37F361891F3343ED_size5_w400_h40.jpg)
 
 **来源:** [光明论](https://mp.weixin.qq.com/s/tIk3feQGswfJqebXjApx6w)  
 **时间:** 2024年12月11日 17:34:38  
 **作者:** 羽木丨媒体评论员  
-**评论:** [265人参与](//gentie.ifeng.com/c/comment/8fEK5tEBMuh) / [29评论](//gentie.ifeng.com/c/comment/8fEK5tEBMuh)
+**评论:** [265人参与](https://gentie.ifeng.com/c/comment/8fEK5tEBMuh) / [29评论](https://gentie.ifeng.com/c/comment/8fEK5tEBMuh)
 
 ---
 

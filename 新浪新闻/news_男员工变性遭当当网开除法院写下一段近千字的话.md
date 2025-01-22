@@ -45,7 +45,7 @@
 
 据此，北京市第二中级人民维持了一审判决，判决当当网应当继续履行与高某某的合同，但对一审中认定的争议期间应支付工资数额作出了一定调整。
 
-![图片](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 在中国裁判文书网公布的判决书最后，北京二中院还写下了一段近千字的话：
 
@@ -65,7 +65,7 @@
 
 这段判决词也获得了一些网友的认可：我们也许不提倡变性，但我们包容并尊重变性。
 
-![图片](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片]
 
 ## 摘要与附加信息
 

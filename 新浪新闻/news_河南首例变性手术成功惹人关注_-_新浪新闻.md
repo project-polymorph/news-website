@@ -21,7 +21,7 @@
 [说说你的看法](https://cmnt.sina.cn/index?product=comos&index=kknscsi0137782&tj_ch=news&is_clear=0)  
 转发至微博
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+[图片]
 
 标签: 跨性别, 变性手术, 河南
 

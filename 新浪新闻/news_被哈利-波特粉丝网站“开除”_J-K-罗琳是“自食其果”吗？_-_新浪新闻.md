@@ -41,7 +41,7 @@
 
 针对这个标题，罗琳转发留言：“‘来月经的人’？我知道原来有些词可以称呼这些人，谁来帮我找找这些词？女银？铝人？铝银？”
 
-![罗琳引发争议的留言。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[罗琳引发争议的留言。]
 
 这条留言显然语带讽刺和不满。单看文章标题，我们能理解罗琳的不满：身为女性，却被“来月经”这样一个生理属性所定义，就像遇到“头发长见识短”这样的刻板印象一般令人不快。之后罗琳也特意解释，“月经”、“阴道”这些看起来中性的词汇，却曾经是男性用来恶毒辱骂、恶意攻击女性的特殊用语。
 
@@ -59,7 +59,7 @@
 
 “如果生理性别不是真实的，就不会有同性间的吸引力。如果生理性别不是真实的，那么全球女性的真实生活就会被抹去。我理解跨性别者，我爱他们，但是抹除生理性别的概念，会使许多人无法有意义地讨论他们的生活。”她补充说，“我尊重每一位跨性别者的权利，以及让他/她们感到真实和舒服的生活方式。如果你因为性别遭到歧视，我会与你站在一起。与此同时，我的生活是由作为女性的身份所塑造的，我不觉得这样说是可憎的。”
 
-![罗琳的回应，激起了“生理性别”与“社会性别”的争论。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[罗琳的回应，激起了“生理性别”与“社会性别”的争论。]
 
 这条动态得到了将近20万个的点赞和3万次转发，也将“生理性别”与“社会性别”的争论摆到了公众面前。
 
@@ -67,7 +67,7 @@
 
 6月28日，一位顺性别女性Shauna和她的跨性别男性男友Jamie在油管发布了一段视频，对罗琳的观点发表评论。（为叙述方便，以下引用Shauna的言论均为她和Jamie的共同观点）。在视频开头，Shauna就首先表明，她承认生理性别的存在，同时罗琳也始终没有否定社会性别的价值，但是重要的不仅是罗琳提到了什么，还在于她有意忽视了什么，当她不断强调生理性别的真实存在，而对社会性别闭口不谈的时候，她就忽略了另一部分人的权利。
 
-![6月28日，Shauna和Jamie在油管发布了一段视频，对罗琳的观点发表评论。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[6月28日，Shauna和Jamie在油管发布了一段视频，对罗琳的观点发表评论。]
 
 但是社会性别的重要性，是否就意味着生理性别不可谈论呢？还是说，只要提及生理性别，就要同时强调社会性别，才是对所有群体的尊重？
 
@@ -87,7 +87,7 @@
 
 在罗琳看来，“跨性别”作为一种风气，是会在青少年之间传染、流行的，就像人们过去看待同性恋一样；同时，一些人选择实施跨性别手术，是为了逃避女性身份或者同性恋身份，而不是基于自我性别认同。
 
-![罗琳的回应。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[罗琳的回应。]
 
 对于罗琳的观点，Shauna在视频中提出了反对。她指出罗琳引用了大量未经证实、结果存疑的科学研究，并对一些数据“偷换概念”。实际上，接受变性手术之前会进行严格的性别认同评估，在英国，16岁以下的青年不能接受激素治疗，18岁以下的青年不能接受变性手术，所谓的不可逆的变性手术实施比例也仅有跨性别者总人数的0.5%。
 
@@ -115,13 +115,13 @@
 
 由于这个观点带来的巨大争议，玛雅被所在公司强行解雇。玛雅认为公司不应该因为她的自由言论而将她解雇，决定将公司告上法庭，要求赔偿。但法官最后判处玛雅败诉，因为她的观点“侵犯他人的尊严，给他人带来恐惧和羞辱，这种做法是不应该得到尊重。”而言论自由是建立在不侵犯他人权益的基础上的。
 
-![玛雅·福斯塔特因为她的跨性别言论而丢了工作。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[玛雅·福斯塔特因为她的跨性别言论而丢了工作。]
 
 在判决结果发布后，罗琳在社交媒体上公开表达了对玛雅的支持：“只是因为表达自己的性别观点，一个妇女就要被迫失去工作？”
 
 当时罗琳的支持就已经引来众多网友的指责，罗琳本人也曾遭到谩骂和人身攻击。因此，今年六月这一系列抵制罗琳“反对跨性别者言论”的行为，不是一场新的战争，而是同一场战争中的又一个战役。
 
-![《哈利·波特》系列电影中赫敏的扮演者艾玛·沃森、金妮的扮演者邦妮·怀特公开反对罗琳，指出“跨性别人群无需他人来定义。”](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[《哈利·波特》系列电影中赫敏的扮演者艾玛·沃森、金妮的扮演者邦妮·怀特公开反对罗琳，指出“跨性别人群无需他人来定义。”]
 
 在罗琳被贴上“反对跨性别者”标签之后，有粉丝开始从《哈利·波特》中寻找罗琳种族歧视的证据。例如哈利喜欢的华人女孩叫做张秋（Cho Chang），如此随意的发音显然是对亚裔的侮辱；例如妖精银行是在影射靠金融业发家的犹太人……
 
@@ -131,7 +131,7 @@
 
 罗琳事件的走向和近期美国“黑人的命也是命”运动的发展不谋而合。也许是个巧合，也有人理解为是对罗琳的特意维护，针对逐渐走向极端化的“黑人的命也是命”运动，7月7日，美国《哈泼斯杂志》（Harper‘s Magazine）刊登了一封名为《论公正和公开辩论》（A Letter on Justice and Open Debate）的联名公开信。这封公开信由153名艺术家、作家和学者共同签署，除J·K·罗琳以外，还有著名作家玛格丽特·阿特伍德（Margaret Atwood）、思想家诺姆·乔姆斯基（Noam Chomsky）、政治学者斯蒂芬·平克（Steven Pinker）等人。
 
-![153名艺术家、作家和学者共同签署了一封名为《论公正和公开辩论》（A Letter on Justice and Open Debate）的联名公开信。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[153名艺术家、作家和学者共同签署了一封名为《论公正和公开辩论》（A Letter on Justice and Open Debate）的联名公开信。]
 
 这封信肯定了目前人们“对种族歧视和社会不公的强烈抗议”以及“对警方进行早就该有的改革”，但随即指出，平权运动逐渐走向极端后造成了另外一种危险——对公开辩论的扼杀和对包容他者、接纳异见的拒斥。
 

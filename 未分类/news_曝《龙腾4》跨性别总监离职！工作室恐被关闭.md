@@ -5,29 +5,29 @@
 
 2025-01-17 18:21:04 来源：互联网 作者：网络 [神评论**0**](#11048500_1_10009)
 
-![龙腾4](//s.17173cdn.com/2025/51767/1/t20121nz/660120.jpg)
+![龙腾4](https://s.17173cdn.com/2025/51767/1/t20121nz/660120.jpg)
 
 据外媒爆料，《龙腾世纪4》的跨性别总监Corinne Busche现已从Bioware和EA离职。
 
 此外，爆料还称负责开发《龙腾世纪4》的BioWare埃德蒙顿工作室将于2025年2月关闭。这一消息可能会在EA面向投资者的年度大会之前公布。
 
-![Corinne Busche邮件](//i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/gMqcEXbsrzCpvrj.png!a-3-540x.png)
+![Corinne Busche邮件](https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/gMqcEXbsrzCpvrj.png!a-3-540x.png)
 
 泄露者表示，Corinne Busche发布了一封告别邮件：“很难相信我写下了这些话，但事实就是如此：是时候说再见了。今天是我在 BioWare 和 EA 的最后一天。经过深思熟虑，我决定接受新的挑战和新的项目，做我最喜欢的事情——制作 RPG。这不是一个容易的决定，因为我说我爱 BioWare、龙腾世纪团队以及我们共同取得的成就。与你们在一起的时光是我职业生涯的亮点。”
 
-![Corinne Busche发言](//i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/ktyHDhbsrzCpvqB.png!a-3-540x.png)
+![Corinne Busche发言](https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/ktyHDhbsrzCpvqB.png!a-3-540x.png)
 
 《龙腾世纪4》发售以来遭受了来自玩家和业内人士的批评，主要针对角色设计、剧情质量，以及被认为过于强调多样性、公平性和包容性（DEI）的内容。批评者认为，这导致游戏在创意和故事层面失去了应有的深度。
 
 前暴雪人制作人Mark Kern对总监Corinne Busche的离职行为表达了不满，认为其“抛下烂摊子”后离开，给团队留下了难以解决的问题。
 
-![离职后果](//i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/KfpNRubsrzCpvru.png!a-3-540x.png)
+![离职后果](https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/KfpNRubsrzCpvru.png!a-3-540x.png)
 
 【来源：互联网】
 
-![版权信息](//i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/zsdtHSbsgjscxvb.png)
+![版权信息](https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/zsdtHSbsgjscxvb.png)
 
-![评论](//i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/hxruFgbsgjscxvl.png)
+![评论](https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/hxruFgbsgjscxvl.png)
 
 ## 关于的新闻 { data-search-exclude }
 

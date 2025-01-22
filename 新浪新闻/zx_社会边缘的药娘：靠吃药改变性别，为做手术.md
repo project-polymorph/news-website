@@ -59,7 +59,7 @@
 
 相较于张立，今年只有18岁的梓晨已经没有了穿女装时的新鲜感。虽然她年纪不大，但是已经有了4年的女装史，与2年的吃糖史。现在的她，一心想要以一个完全女性的身份活下去。
 
-![图片5](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片5]
 
 现在，距离梓晨实现这一梦想已经越来越近了。
 
@@ -69,7 +69,7 @@
 
 在梓晨看来，母亲的沉默或许不是接受，但起码不是旗帜鲜明的反对了，而她自己，也算正式的“出柜”了。
 
-![图片6](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片6]
 
 药娘是只没有脚的鸟
 
@@ -81,7 +81,7 @@
 
 然而，吃糖过程中伴随而来的副作用也同样猛烈。多位药娘表示，“吃糖”只一个多月的时候，胸部就会开始发育了，那时候胸会特别的疼。沈雷认为，与表面的疼痛相比，隐性的副作用更让人担心，“她们现在主要吃的药是螺内酯、补佳乐、色普龙。其中色谱龙是副作用最小的，但是目前一般很难买到，所以大部分的药娘还是吃的螺内酯和补佳乐。”
 
-![图片7](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片7]
 
 有资料显示，螺内酯是可以抗雄，同时它也是一种利尿剂，副作用包括高钾血症、消化性溃疡、轻度高氯性酸中毒等。而补充雌激素的补佳乐虽然副作用小，但是补佳乐并不能抗雄，而在同时服用补佳乐和螺内酯时，体内会出现雌雄激素双高的情况，这对身体会构成较大的损害。除此之外，还有狂躁、抑郁……总之，激素类药物对身体的伤害是不可逆的！另外，每个人需要服用的激素剂量也各有不同，没有医嘱，盲目地服用会有许多未知的风险。”
 
@@ -89,11 +89,11 @@
 
 通过人介绍，记者进入了一款社交软件的药娘联络群。该群共有一百多人，群资料显示，其中有超过50%都是“00后”。今年35岁的王之遥是群主，她注意到近来加群的小朋友越来越多。很多刚“找到组织”的孩子都很兴奋，在群里非常活跃，问东问西。但是她一般对此都不会主动搭话，她并不清楚，这些突然闯入群里的十几岁的少年，对她们即将或已经做出的选择有没有充分的认识。
 
-![图片8](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片8]
 
 王之遥会留意新进来的药娘们对“糖”的了解具体到了哪一步，如果她发现来的是“萌新”，她会主动联系对方，并给她发一份长达90多页的科普PDF文件。她并不清楚，那些孩子们会不会有耐心读完那篇长文，不过她还是习惯性的要提醒一句：吃药的过程是不可逆的，你要想清楚，一旦服药但凡还有一点办法，别走上这条路。
 
-![图片9](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片9]
 
 2017年，北京大学社会学系推出的《中国跨性别群体生存现状调查报告》显示，在无法获得安全、有效的激素治疗的情况下，25%有激素治疗需求的跨性别者承认会因此感到抑郁，28%因此感到焦虑，15%因此出现过自杀、自残的念头，1%因此出现过自杀、自残的行为。
 
@@ -119,13 +119,13 @@
 
 对于药娘而言，无论是吃药，还是切除睾丸，都只能是暂缓她们的焦虑。很多药娘心中，像金星一样完成SRS（性别重置手术），才是她们的终极目标。
 
-![图片10](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片10]
 
 “能SRS的幸运儿能有几个，我接触这个圈子也很多年了，但是直到目前，听到已经完成SRS的药娘，也没有几个。在国内，想要SRS，最难的不是技术，更不是手术费，而是需要取得直系亲属的知情证明——也就是说，没有药娘的爸爸、妈妈的允许，不可能去做SRS的。”药娘小温对此有些无奈，“然而实际上，我们吃个药都是偷偷摸摸的，父母会支持SRS的又有几个呢？如果想要绕过直系亲属直接手术的话，就需要出国去做，而大部分打算走这一步的药娘，大多都会选择去泰国。”
 
 国外的手术成本则远高于国内，完整的一套SRS，从下体改造到胸部，往往需要花费十几万。沈雷告诉记者，吃药和SRS都需要不少钱，而许多药娘年龄不大，没有什么经济来源，又无法开口问父母要钱，所以有一些药娘就选择援交、拍裸露视频、做福利姬等方式筹钱，而另一方面，因为她们本身就处于大众视线的盲区，所以很多非法性交易也得以悄然进行。
 
-![图片11](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[图片11]
 
 记者也发现，有不少“直男”、“大叔”混迹在药娘群体中间。在记者谎称自己也是药娘了解相关信息的期间，就有三四位男性主动加好友，表示希望可以发生有偿性关系。记者所在的社交群，不少都是十四五岁的药娘，当这些孩子们面对有偿性服务的明码标价时，她们有能力去面对这些诱惑吗？
 
@@ -140,7 +140,7 @@
 ![微博](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 <!-- 评论 -->
-![评论](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
+[评论]
 
 
 

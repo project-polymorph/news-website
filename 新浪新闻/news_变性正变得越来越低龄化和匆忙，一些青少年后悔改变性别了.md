@@ -36,7 +36,7 @@
 
 现年23岁的海伦娜·克施纳（Helena Kerschner）的经历佐证了利特曼的观点。克施纳来自美国俄亥俄州，是一名变性人。克施纳出生时是女性，在14岁时，她第一次感到了性别焦虑。她说，社交网络平台Tumblr上充斥着跨性别活动人士的内容，促使她转变了性别。
 
-![海伦娜·克施纳](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[海伦娜·克施纳]
 
 “我在学校里经历了一段非常孤立的时期，所以我转向了互联网，”克施纳回忆说。在现实生活中，她在学校和朋友闹翻了；然而，在网上，她发现了一个欢迎她的社区。“我的焦虑肯定是由这个网络社区引发的。在上Tumblr之前，我从来没有考虑过自己的性别，也没有觉得当女孩有什么问题。”
 
@@ -58,7 +58,7 @@
 
 科尔也有类似的经历。“因为我的身材不符合审美标准，我开始怀疑自己是不是出了什么问题。我觉得我不够漂亮，不适合当女孩，所以我还是当男孩比较好。在内心深处，我一直想要变得漂亮，但我一直压抑着这一点。”
 
-![克洛伊·科尔](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[克洛伊·科尔]
 
 科尔同意安德森的观点，她也认为需要进行更多的心理评估，以确定心理健康问题是否可能影响变性的欲望。“心理治疗需要得到更多的关注，”科尔说。“我们本可以让这些孩子不再憎恨自己的身体，但我们却立即投入到不可逆转的医学治疗中。”
 

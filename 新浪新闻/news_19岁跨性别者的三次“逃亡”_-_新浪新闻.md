@@ -114,13 +114,13 @@
 
 据天眼查的信息，这所学校成立于2007年，在重庆市民政局登记，属民办非企业单位，业务范围包括幼儿教育的初、中级培训等。
 
-![黄泽奇和重庆学校签订的协议](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[黄泽奇和重庆学校签订的协议]
 
 一进学校，黄小迪的手机被没收，迎来了她人生的“至暗时刻”。
 
 她不愿意穿训练服，班里的老生劝她，“你穿吧，你不穿，我们会受罚的。”她没有办法，开始妥协，一步步融入，但每天被恐惧和痛苦压迫着。训练的时候，他们跑不动了，教练在后面挥舞着棍棒，一不小心，棒子就落在他们的身上。
 
-![黄小迪在重庆学校时，经常穿一身迷彩服。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[黄小迪在重庆学校时，经常穿一身迷彩服。]
 
 没过多久，黄小迪头发被剃光，膝盖磕破了，皮肤变黑了……
 
@@ -182,7 +182,7 @@
 
 父亲确实没有再送她回武校，她终于迎来了“自由”。
 
-![黄小迪从登封的武校回来后，留起了长发。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[黄小迪从登封的武校回来后，留起了长发。]
 
 尽管心理上无法接受，但“没有钱再送她去学校扭转”，黄泽奇此后说。
 
@@ -214,7 +214,7 @@
 
 2019年5月，黄小迪到上海精神卫生中心做检查，诊断结果为“易性症”。检查过程中，黄小迪诉说，自七八岁开始，她就觉得自己是女孩，喜欢女孩的东西。
 
-![黄小迪的“易性症”诊断结果](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[黄小迪的“易性症”诊断结果]
 
 此后，黄泽奇彻底灰心了，一方面因为没有钱了；另一方面，他担心再送黄小迪去扭转学校，她可能真的会自杀。
 
@@ -224,7 +224,7 @@
 
 因为长期服药，黄小迪的抵抗力下降。6月5日，她患急性荨麻疹，到医院吊水。期间，她上了一次厕所，一个保洁阿姨对着她喊：“走错了，那是男厕所……”黄小迪没有应，径直走了进去。
 
-![6月5日，黄小迪患急性荨麻疹，到医院吊水。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[6月5日，黄小迪患急性荨麻疹，到医院吊水。]
 
 黄小迪想过去女厕所，但身份证上是男性，心里总觉得过不去。
 
@@ -256,7 +256,7 @@
 
 黄小迪每个月工资4000块钱，除去400块的房租，100块的开支，她把所有的钱都存起来。她每天上12个小时班，早10点到晚10点，高温环境下，她炸鸡、配餐、撒酱、包装后，外卖员过来取走送餐。
 
-![6月的一天，黄小迪在炸鸡店上班。](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=)
+[6月的一天，黄小迪在炸鸡店上班。]
 
 责任编辑：郑亚鹏 SN238
 
