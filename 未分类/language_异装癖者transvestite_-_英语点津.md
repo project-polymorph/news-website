@@ -35,6 +35,8 @@ Izzard's prominence has increased in the US after roles in TV series The Riches 
 该文件来自中国日报网英语点津，主要讨论了异装癖者（transvestite）的概念及其在社会中的认知。文件中提到了一位演员艾迪·伊扎德，尽管他在美国的知名度上升，但他认为美国观众尚未接受他作为异装癖者的身份。正文解释了异装癖者的定义，包括他们的特点和与变性人的区别，文中还提到了一些相关的术语，如双重异装癖者和反串表演等。此外，文件附有相关阅读链接，涉及反串表演和变性人等主题。内容丰富，较为详细地反映了异装癖者的社会形象与公众态度。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

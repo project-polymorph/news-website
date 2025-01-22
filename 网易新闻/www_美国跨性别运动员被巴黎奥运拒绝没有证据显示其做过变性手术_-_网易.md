@@ -28,6 +28,8 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 这篇文章报道了美国跨性别游泳运动员莉亚·托马斯被拒绝参加巴黎奥运会的事件。文章中提到，国际泳联针对托马斯下发了禁令，禁止曾经历过男性青春期的跨性别女性参加最高级别的游泳比赛。对此，托马斯提出了申诉，但国际体育仲裁法庭（CAS）已正式驳回她的申诉。托马斯自2019年起开始接受激素替代疗法（HRT），并在2021-2022学年达到NCAA的激素治疗标准，成功加入宾夕法尼亚大学的女子游泳队。文章强调，直到现在，没有任何证据表明托马斯进行过变性手术，说明她的女性身份仍然依赖于激素替代疗法。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

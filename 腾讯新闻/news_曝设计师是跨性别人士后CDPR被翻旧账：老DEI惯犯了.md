@@ -34,6 +34,8 @@ Copyright © 1998 - 2025 Tencent. All Rights Reserved
 该文件来自腾讯新闻，讨论了CDPR的设计师Cian Maher的跨性别身份以及由此引发的公众讨论。文章提到Cian Maher在Reddit上的言论，显示他是一名跨性别意识形态的支持者，过去曾在社交媒体上表达对游戏玩家的负面看法。这一消息引发了玩家们对于CDPR公司文化的反思，尤其是与多元性别和DEI（多样性、公平性和包容性）相关的议题。文章还提及了2018年CDPR的一些争议事件，表现出游戏行业内对于性别认同和社区互动的复杂性。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |

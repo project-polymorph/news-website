@@ -67,6 +67,8 @@ _[chineseherald.co.nz](http://chineseherald.co.nz/) All Rights Reserved 版权�
 本文报道了新西兰高等法院驳回彩虹团体申请，阻止反跨性别活动家Posie Parker入境的事件。Parker，英国的反跨性别活动家，像是声称自己是女权支持者，计划在新西兰奥克兰举行活动。尽管彩虹团体对其到来表示强烈反对，并向高等法院申请禁止其入境，但法院法官David Gendall基于技术和程序之原因，驳回了申请。法院认为，Parker入境并不会显著改变目前的公共秩序状况，尽管法官对申请人表示同情，并表明性别多样化社区应受到保护。Maria特别提到，红色和蓝色的支持者在过去的冲突中也是出现在同一地点。而Parker的入境问题引起了各界的关注，激起了广泛的社会讨论。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

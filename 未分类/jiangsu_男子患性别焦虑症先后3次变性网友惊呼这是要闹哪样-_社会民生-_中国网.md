@@ -20,6 +20,8 @@ Chelsea Attonley生下来是个男孩，名字叫Matthew。但是这个可怜的
 该文件记录了一名患有性别焦虑症的男子Chelsea Attonley（出生名Matthew）的故事。Chelsea在18岁时经历了性别变更，并进行了相关手术，包括隆胸手术。他从小就对自己的性别感到困惑，曾多次尝试改变自己的性别，过程充满了挣扎与挑战。Chelsea小时候就选择穿女孩的衣服上学，并表示在成长过程中并未受到歧视。该篇文章不仅揭示了个人转变的故事，也反映了性别认同所带来的内心斗争与社会反应。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

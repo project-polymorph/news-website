@@ -40,6 +40,8 @@
 本文介绍了一幅被认为是18世纪早期的女士油画的肖像，后被鉴定为英国家中最早出现的异装癖题材作品。这幅画在伦敦的艺术经销商Philip Mould于纽约郊外的一次艺术销售中被发现，最初被误认为是一个不知名的妇女肖像，后来被英国国家肖像美术馆购入。画作的创作背景以及人物的身份也被揭示出来，画中的人物是Charles Geneviève Louis Auguste André Timothée d'Éon de Beaumont（即d'Eon骑士），他不仅是著名的外交官、士兵和间谍，还有着异装癖的身份。美术馆策展人Lucy Peltz表示，他们很高兴能够获得这幅肖像，因为d'Eon是一个“令人着迷及充满灵感的人物”，在18世纪的英国历史上，他也兼具重要性。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

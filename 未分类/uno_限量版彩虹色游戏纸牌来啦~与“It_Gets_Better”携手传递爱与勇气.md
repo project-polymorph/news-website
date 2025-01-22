@@ -82,6 +82,8 @@ It Gets Better构想了一个世界，所有(LGBTQ+)youth都可以自由地平�
 该文件介绍了限量版的彩虹色游戏纸牌，旨在通过与“It Gets Better”项目的合作，传递对LGBTQ+青年群体的爱与勇气。文中详细阐述了此次合作的背景与目的，强调了游戏牌的文化包容性与多样性。特别提到，通过特别制作的彩虹元素纸牌，UNO与It Gets Better Project共同努力，帮助年轻人认知到生活会变得更好。文中还介绍了It Gets Better Project的形成、初衷以及他们为LGBTQ+群体提供支持的努力。此外，文中提供了纸牌的购买渠道及价格等信息。本文件可以被视为促进社会对LGBTQ+青年群体的理解与支持的有力资料。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

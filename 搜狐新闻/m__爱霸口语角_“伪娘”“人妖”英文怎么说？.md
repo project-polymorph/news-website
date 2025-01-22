@@ -48,6 +48,8 @@ A new Thai airline is hiring transsexual **ladyboys** as flight attendants, aimi
 本文来自爱霸国际英语，主要探讨了关于“伪娘”和“人妖”在英文中的翻译和相关表达。首先，介绍了tomboy及其在网络上使用的情况，接着详细解释了crossdresser和cross-dressing的相关含义，指出这些术语通常用于描述男扮女装或女扮男装的行为。文中还讨论了“反串表演”这个概念，并给出了跨性别交流和身份认同的相关术语。接下来，针对“人妖”的翻译进行了深入分析，列举了多种表达方式，如ladyboy、ladyman等，强调这些词汇的文化背景和社会认知。最后，通过泰国一家新航空公司招募变性人担任空乘人员的新闻，引出对第三性别群体的社会认同和角色的关注。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

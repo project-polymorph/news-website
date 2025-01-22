@@ -119,6 +119,8 @@ _Jane Hamlin 是英國最大型的跨性別人士支援組織_ [_Beaumont Societ
 这篇文章是关于Barbara Hamlin和她的妻子Jane Hamlin的婚姻故事。在一段长达八年的婚姻关系中，Barbara在一次偶然的情况下发现了配偶Jane藏有女装，进而揭开了Jane作为跨性别女性的身份。文章详细描绘了两人在面对性别认同转变时的情感历程，包括Barbara从震惊、迷茫，到最终对Jane的支持和理解的变化。Jane回忆了她内心的挣扎和对外界的恐惧，而Barbara则倾诉了她作为伴侣面临的失落感和重新审视身份的过程。文章还探讨了他们如何逐步向朋友、家人出柜，以及Jane经历荷尔蒙治疗、外科手术变性后的生活。通过他们的故事，作者希望传递出理解、包容和爱的力量。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

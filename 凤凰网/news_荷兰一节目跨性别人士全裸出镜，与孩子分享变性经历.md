@@ -19,6 +19,8 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 这篇文章报道了一档荷兰节目中，跨性别人士全裸出镜，与孩子分享其变性经历的事件。节目以一种大胆而开放的方式探讨跨性别话题，旨在向公众普及跨性别者的生存状况和心理历程。报道中提到此举引发了网友的震惊反应，涉及亲子关系及性别认同等敏感话题，引起了广泛关注与讨论。文章亦指明，该内容是由凤凰网旗下自媒体平台发布，突显了现代社会对跨性别议题日益重视与探索的趋势。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

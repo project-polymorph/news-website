@@ -115,6 +115,8 @@ _[chineseherald.co.nz](http://chineseherald.co.nz/) All Rights Reserved 版权�
 该文档记录了一名反跨性别活动家在新西兰的访问引发的抗议事件。文章详细描述了2023年3月26日，数千名抗议者在奥克兰的Albert Park抗议英国反跨性别活动家Kellie-Jay Keen-Minshull（Posie Parker）即将发表的演讲。抗议者们认为其言论会促进对跨性别群体的仇恨，因此通过举标语和制造噪音来表达不满。其中一名抗议者甚至向Posie Parker泼番茄汁，象征着“我们人民”的鲜血。此事件引发了关于言论自由与仇恨言论的激烈争论，众多政治人物对该事件发表了各自的看法。绿党及工党成员在此次抗议中表达了对跨性别群体的支持，而反对者则指责抗议者的行为影响言论自由。整起事件体现了针对跨性别者的社会环境和政治分歧，以及新西兰社会对待跨性别议题的复杂态度。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

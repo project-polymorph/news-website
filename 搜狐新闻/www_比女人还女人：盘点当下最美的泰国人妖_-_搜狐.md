@@ -76,6 +76,8 @@ Yoshi，1997年2月5日出生，泰国新人演员。随着泰剧《为爱所困
 本文汇总了当下泰国一些最美的变性人（人妖），通过介绍十位代表性人妖的个人经历和成就，展现了她们的独特魅力与美丽。文中提到的人妖有Yoshi、rose、POY、娜拉达、Sania、娜蒂、Tiptantree Rujiranon、侬可、Sirapassorn及PANVILAS MONGKOL，每位都在演艺圈取得了一定的成就，如参演热播剧、获选美冠军等，展现了变性人群体在社会文化中的影响力。同时，这篇文章也反映了变性人在泰国社会的接受度和他们努力追求美丽与事业成功的故事。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

@@ -87,6 +87,8 @@ Shameless garbage Obama
 本文件为有关美国前总统奥巴马长女玛莉亚（Malia Ann Obama）在其导演处女作中舍弃父姓的报道。文章探讨了她选择不使用奥巴马姓氏而希望自己靠才华打造事业的动机。此短片名为《心之所在》（The Heart，暂译），在犹他州的“日舞影展”上首次放映。奥巴马表示，他的女儿们总是选择不依靠父母的名声，希望公众能够关注作品本身而不是他们的家族背景。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

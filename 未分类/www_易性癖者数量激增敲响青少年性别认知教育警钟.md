@@ -54,6 +54,8 @@
 文章最后指出，家庭教育和社会化环境在性别认知形成中的重要性，呼吁加强对青少年的性别教育，以减少类似的心理问题发生。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

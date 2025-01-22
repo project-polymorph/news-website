@@ -59,6 +59,8 @@ Daisy最后更新：2023-09-10 13:41:24
 这篇文章不仅反映出当前政界对跨性别儿童医疗干预的分歧，也揭示了更广泛的社会和政治背景下关于性别认同的争论。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

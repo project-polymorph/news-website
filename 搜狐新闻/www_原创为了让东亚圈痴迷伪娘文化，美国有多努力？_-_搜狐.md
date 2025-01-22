@@ -118,6 +118,8 @@
 本文通过丰富的历史背景和实例研究，揭示了伪娘文化对东亚文化可能产生的深远影响，呼吁对这种文化现象的警惕与反思。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

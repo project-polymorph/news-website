@@ -35,6 +35,8 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 该文档介绍了台湾省变性艺人利菁的爱情故事，内容包括她的个人经历及与比自己小14岁的丈夫之间的感情生活。文章通过视频形式分享了利菁的爱情故事，展示了她在跨性别生活中的积极态度与勇敢追求爱情的决心。尤其突出了她与丈夫之间无关年龄差距而是建立在深厚感情基础上的美好关系，反映出她作为跨性别人士在爱情方面的正面体验和对社会上对于性别认同的包容态度。文章还提及了社会对跨性别人士的看法以及利菁在公众视野中的影响力。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

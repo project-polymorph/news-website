@@ -160,6 +160,8 @@ Andreja Pejic，原名Andrej Pejic。实际上她就是这篇文章的主要灵�
 本文探讨了跨性别模特在时尚界的独特地位与美丽瞬间。文章中的跨性别模特如Andreja Pejic、Stav Strashko、Lea.T和Benjamin Melzer，代表了不同时期与不同背景的跨性别人士。Andreja Pejic作为首位公开变性的模特，从男模转型为女模，其模特生涯跨越男装及女装秀场，体现了她对性别身份的自我认同，而Stav Strashko则以其雌雄同体而受到关注。Lea.T则分享了自身与知名父亲的关系以及她在时尚界取得的成就，而Benjamin Melzer成功转型为跨性别男模，成为跨性别群体中的一个积极榜样。文章不仅展示了这些模特的职业生涯，还探讨了性别认同的复杂性与社会接受度。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

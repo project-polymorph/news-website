@@ -42,6 +42,8 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 这篇文章报道了加拿大温哥华岛大学（VIU）女篮球员Harriette Mackenzie控诉其对手球队哥伦比亚圣经学院（CBC）在比赛中对她进行暴力对待的事件。Mackenzie由于其跨性别身份，在社交媒体上发布了视频，指责CBC教练在比赛后曾与VIU教练团成员争执，并声称对手在随后的比赛中故意对她施加暴力。这起事件引发了人们对跨性别运动员在女子体育赛事中的参与权及其面临的歧视与暴力问题的关注。Mackenzie提到，她的成就常常被质疑，很多人认为她的成功是因为她的跨性别身份，而不是努力和奉献。尽管CBC方面反驳了Mackenzie的指控，强调没有故意伤害对手，但事件仍引发了对跨性别运动参与的争论和思考。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

@@ -20,6 +20,8 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 本文是关于一位19岁跨性别者的三次"逃亡"经历的报道，来源于凤凰网。文章通过视频展示了该跨性别者在不同阶段遇到的挑战和勇敢的选择。这些"逃亡"并不仅仅是身体上的移动，更是心理上的挣扎与自我认同的追寻。视频长度为2分30秒，观看次数达到2.5万，反映了社会对跨性别者生存现状的关注。特别声明部分强调了内容为用户上传，凤凰网仅提供信息存储空间的服务。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

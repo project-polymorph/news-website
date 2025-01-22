@@ -58,6 +58,8 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp
 本文记录了2010年12月31日WWE摔角比赛的年终评选活动，其中一位被称为“伪娘”的选手意外夺得“最佳女星”奖，令许多观众感到惊讶。文章通过生动的文字描述和丰富的图片展示了这场比赛的精彩瞬间，突出展现了该选手在展示中的独特表现。WWE比赛的多元性在本次颁奖中得到了体现，反映了对性别表达多样性的接纳与认可。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

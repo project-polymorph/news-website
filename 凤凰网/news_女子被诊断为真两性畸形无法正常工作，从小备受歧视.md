@@ -22,6 +22,8 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 本文讲述了一名女性因被诊断为真两性畸形而面临的困境。她从小受到社会的歧视，甚至连家人也将她疏远，渴望能成为一个“正常的女人”。该文通过她的故事揭示了社会对跨性别者，尤其是对真两性者的偏见和不理解。这不仅是一个个人的生命故事，也是对社会歧视的深刻记录，引人深思。文中提到她在成长过程中经历的痛苦与挑战，以及她对自身身份的渴望与反思，让人对于跨性别和性别认同的复杂性有了更深入的理解。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

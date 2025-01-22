@@ -19,6 +19,8 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 本文报道了韩国首位变性军人的去世事件，时间为2021年3月4日。文章详细叙述了这位变性军人的背景及其在军队服役期间的经历，特别提到他曾因性别认同问题被勒令退伍的事件。这一事件引发了社会对于跨性别人士在军事服务中权益的关注。文章来源于凤凰网，并附有该事件的图片，为公众提供了直观的信息，反映了跨性别群体在社会中的生存现状和面临的困境。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

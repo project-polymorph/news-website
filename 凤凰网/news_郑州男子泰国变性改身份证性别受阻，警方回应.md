@@ -20,6 +20,8 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 本文报告了一名来自郑州的男子在泰国完成变性手术后，面临改身份证性别的困难及警方的回应。该事件引起了社会的广泛关注与讨论，涉及到跨性别个体在法律身份上转换的挑战。警方在此事中的回应说明了相关法律流程与政策，加强了公众对跨性别人士在身份认同与法律保护方面所面临的问题的理解。文章来源于凤凰网，旨在揭示生存现状以及社会对跨性别个体的态度与回应。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

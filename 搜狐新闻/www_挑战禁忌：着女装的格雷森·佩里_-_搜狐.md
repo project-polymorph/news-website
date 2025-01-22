@@ -185,6 +185,8 @@
 整体来看，文章展示了格雷森·佩里的传奇人生与艺术成就，强调了他通过艺术表达自我身份与对社会现象深入思考的能力。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

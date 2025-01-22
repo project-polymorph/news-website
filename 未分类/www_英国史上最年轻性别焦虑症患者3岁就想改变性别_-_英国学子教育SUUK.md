@@ -34,6 +34,8 @@
 本文件记录了英国男孩Daniel作为史上最年轻性别焦虑症患者的真实故事，详细描述了其母亲Kerry McFadyen如何支持Daniel进行性别认同的过渡。文件讨论了性别焦虑症的定义及表现，Daniel在年仅3岁时表现出的性别不认同反应，试图通过剪刀伤害自己以变成女孩。该案例引起了家人的极大关注，最终父母决定尊重Daniel的选择，逐步让他转变为女孩Danni。文件中还提到了医生对女孩Danni的支持，包括药物推迟青春期的建议以及未来可能的变性手术。同时，Kerry McFadyen通过建立Facebook页面，旨在分享他们的故事并帮助其他与性别认同相关的家庭。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

@@ -90,6 +90,8 @@
 最后，文章呼吁创造一个更能接纳多样性与自主权的环境，减少对跨性别及间性人群体的偏见与歧视。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

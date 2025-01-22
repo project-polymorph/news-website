@@ -18,6 +18,8 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 该文件记录了一位跨性别人权活动家在旧金山监事委员会上的发声，表达了对跨性别群体面临的痛苦与困境的强烈不满和抗议。活动家通过激烈的言辞和情感的呼喊，呼吁人们重视跨性别人士的生存现状，强调他们在社会中遭遇的歧视与不公。文件中提到的时间标志着这次发声的及时性，反映出当今社会对跨性别议题的关注。文中也提及了来源于凤凰网，表明了该信息的传播渠道和背景。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

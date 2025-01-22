@@ -39,6 +39,8 @@ Copyright by chinadaily.com.cn. All rights reserved. None of this material may b
 本文讨论了泰国一家新成立的航空公司招聘变性人妖作为空服人员的事件，旨在通过这独特的用人方式吸引乘客并强调平权理念。文章深入介绍了人妖的定义，包括‘ladyboy’和‘katoey’这两个术语，解释了变性者与异装癖者的区别。该公司希望借此招募在竞争激烈的航空行业中脱颖而出，同时展现对性别多样性的接受与尊重。文章包含了相关的法律、社会环境及此类招聘对跨性别群体的意义。此外，文中还出现了相关链接，以供读者了解更多信息和故事。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |

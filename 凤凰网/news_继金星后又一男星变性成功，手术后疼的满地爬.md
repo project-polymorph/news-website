@@ -45,6 +45,8 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 这篇文章讲述了一位男性明星成功变性后的经历，强调了手术的痛苦与挑战，描述其外貌变化使其看起来甚至比著名女星杨颖还要美丽。文章提到手术后的恢复过程，并引发了人们对跨性别者生活和社会接受度的关注。特别提到这一变化是在公众视野下的，这对于社会对跨性别者的理解和支持有一定的影响。该文章由凤凰网发布，属于娱乐新闻范畴，反映了社会对变性手术和性别认同问题的逐渐关注。
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
 ### 附加信息 [Processed Page Metadata] { data-search-exclude }
 
 | Attribute       | Value                                  |
