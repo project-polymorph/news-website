@@ -1,0 +1,268 @@
+{
+  "query": "变性手术",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 1,
+  "endpoint": "/news",
+  "date": "2025-02-26T18:09:45.596319",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "变性手术",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "news",
+        "num": 100,
+        "page": 1,
+        "tbs": "qdr:m",
+        "engine": "google"
+      },
+      "news": [
+        {
+          "title": "洛杉矶儿童医院宣布暂停给19岁以下孩子做变性手术！加州威胁调查-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20250207A01UNF00",
+          "snippet": "川普总统在1月28日签署行政令，禁止用联邦资金以及保险公司为儿童变性手术支付费用。洛杉矶儿童医院（CHLA）周二（2月4日）宣布，自2 月1 日起暂停对19 岁以下患者提供变性...",
+          "date": "3 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScH0QMgG2nzFcIlptYc13SwcboGcGLMpAYN7Jvh4nfiK58XpPILJG9Ygg&usqp=CAI&s",
+          "position": 1
+        },
+        {
+          "title": "特朗普最新签署： 禁止跨性别运动员参加女子体育赛事！",
+          "link": "https://www.shangbaoindonesia.com/read/2025/02/06/berita-luar-negeri-1738857883",
+          "snippet": "【每日经济新闻】 据央视新闻客户端消息，当地时间2月5日，美国总统特朗普签署一项行政命令，禁止跨性别运动员参加女子体育赛事。 据报道，当天下午在签令仪式上，特朗普...",
+          "date": "3 周前",
+          "source": "Shangbao Indonesia",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3Y9AJnqleYm8C9pxdn-hniAPXVQQUZA0ULb6ipF6SVwzoK7jD0mkIQI&usqp=CAI&s",
+          "position": 2
+        },
+        {
+          "title": "特朗普签署行政命令，限制19岁以下的儿童及青少年改变性别",
+          "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250129-%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4%EF%BC%8C%E9%99%90%E5%88%B619%E5%B2%81%E4%BB%A5%E4%B8%8B%E7%9A%84%E5%84%BF%E7%AB%A5%E5%8F%8A%E9%9D%92%E5%B0%91%E5%B9%B4%E6%94%B9%E5%8F%98%E6%80%A7%E5%88%AB",
+          "snippet": "美国总统特朗普周三签署行政命令，限制19岁以下的儿童及青少年取得性别转换的（gender transition）医疗程序。这是特朗普重新执政以来，针对跨性别者所采取的最新行动。",
+          "date": "4 周前",
+          "source": "RFI",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkeldSpvHekJQSHavT-PFQVDDMKWePNueIKSgZIoTAgzdYxtypMntnLc&usqp=CAI&s",
+          "position": 3
+        },
+        {
+          "title": "LA儿童医院宣布暂停给孩子做变性手术 加州威胁调查",
+          "link": "https://info.51.ca/articles/1394813",
+          "snippet": "川普总统在1月28日签署行政令，禁止用联邦资金以及保险公司为儿童变性手术支付费用。洛杉矶儿童医院（CHLA）周二（2月4日）宣布，自2 月1 日起暂停对19 岁以下患者提供变性...",
+          "date": "2 周前",
+          "source": "无忧资讯",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHheeoPqolN1CfqQETH-K2xoTWaRKTWS5jlmVQNBW5vgIU6L7BiH36dPY&usqp=CAI&s",
+          "position": 4
+        },
+        {
+          "title": "[万物相]“女子比赛只允许女性参加”",
+          "link": "https://cnnews.chosun.com/client/news/viw.asp?nNewsNumb=20250262360&cate=C08&mcate=M1001",
+          "snippet": "在美国硅谷IT公司工作的一位旅美韩国侨胞在去年大选时生平第一次给共和党投票，这是因为他初中生的儿子说：“老师说性别是自己选择的。我想成为女人，以后要用女厕所。",
+          "date": "2 周前",
+          "source": "朝鲜日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMHWO5tFPta_VZDaGJ1Bgfvp6rakpu-QWM8Ew3KJV6eCusGe4HBpbScvI&usqp=CAI&s",
+          "position": 5
+        },
+        {
+          "title": "川普將簽署行政令 禁止變性人服兵役",
+          "link": "https://www.epochtimes.com/gb/25/1/27/n14423519.htm",
+          "snippet": "美国总统川普（特朗普）预计将于周一（1月27日）签署一项新的行政命令，限制变性人在军队中服役。",
+          "date": "1 个月前",
+          "source": "大紀元",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpG81JxgyRSvBQFaW6JFKvoWtq6XgshHzH-yQHkgd1q_csGo5a81GBy2g&usqp=CAI&s",
+          "position": 6
+        },
+        {
+          "title": "美国家情报总监：将解雇在工作平台发布淫秽聊天的情报人员",
+          "link": "https://news.ifeng.com/c/8hI86K8RSQ1",
+          "snippet": "福克斯新闻网2月25日报道，特朗普任命的国家情报总监贾巴德正在对情报界的雇员采取行动。 贾巴德25日发布了一项指令，将解雇在美国国家安全局（NSA）“Intelink”消息平台上...",
+          "date": "8小时前",
+          "source": "凤凰网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOq2LogIcPbdu8CmhOXIh8DeIKS5flKBUmc1viAynl8brIZGw9XoJ4gI&usqp=CAI&s",
+          "position": 7
+        },
+        {
+          "title": "特朗普签署行政命令 禁止未成年人做变性手术",
+          "link": "https://www.chinapress.com.my/20250129/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4-%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%81%9A%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF/",
+          "snippet": "（华盛顿29日综合电）美国总统特朗普周二（28日）签署行政命令，禁止未成年人接受任何改变性别的手术或化学干预，联邦机构将撤销过去所依照的世界跨性别健康专业协会（WPATH）...",
+          "date": "1 个月前",
+          "source": "中國報 China Press",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XaNqBknsxmK1Rh7ffggqMjFcNj0KMl5y8k_6ixbyXcb0BJ43EG2rVN4&usqp=CAI&s",
+          "position": 8
+        },
+        {
+          "title": "限制19岁以下儿少性别转换 川普签署行政命令",
+          "link": "https://www.swissinfo.ch/chi/%E9%99%90%E5%88%B619%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E5%B0%91%E6%80%A7%E5%88%AB%E8%BD%AC%E6%8D%A2-%E5%B7%9D%E6%99%AE%E7%AD%BE%E7%BD%B2%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4/88798764",
+          "snippet": "法新社华盛顿28日综合外电报导）美国总统川普今天签署行政命令，限制19岁以下儿童及青少年取得性别转换（gender transition）医疗程序。这是他重新执政以来，针对跨性别者所...",
+          "date": "1 个月前",
+          "source": "SWI swissinfo.ch",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6iZcuDmbxXDc3PfdCBiVErj9cUzLC_j81KpCgCHQIQKnMnNnNVk67bZ0&usqp=CAI&s",
+          "position": 9
+        },
+        {
+          "title": "美参议员：我来告诉你马斯克发现了什么- 顾晓军53的日志BackChina Network",
+          "link": "https://www.backchina.com/blog/383938/article-396471.html",
+          "snippet": "参议员约翰·肯尼迪谈到马斯克和DOGE揭露美国国际开发署时说：“我来告诉你马斯克先生发现了什么。我觉得这很有趣。他发现：. -美国纳税人正在向阿富汗捐款.",
+          "date": "2 周前",
+          "source": "BackChina",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRuIz3Z9jhHYK7BXC-uz4l4qCCf06Z556Hd1xhiIk5nnCQT9t7JSNEwZZ&usqp=CAI&s",
+          "position": 10
+        },
+        {
+          "title": "马斯克的复仇?川普限制19岁以下儿少性别转换-美国看台",
+          "link": "https://news.creaders.net/us/2025/01/29/2826590.html",
+          "snippet": "美国总统川普（Donald Trump）竞选期间的最大金主、全球首富马斯克（Elon Musk）去年公开说，“我儿子塞维尔（Xavier Alexander Musk）死了，被觉醒思想病毒杀害了。",
+          "date": "1 个月前",
+          "source": "万维读者网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl4UoZs2YBL6bkDsaGL4tViEzarEM6HT4PbyMj23iRQ0wSEzKuTXuq4kg&usqp=CAI&s",
+          "position": 11
+        },
+        {
+          "title": "川普「禁止青少年變性」行政令 遭第2名聯邦法官擋下",
+          "link": "https://www.worldjournal.com/wj/story/121468/8554293?zh-cn",
+          "snippet": "川普总统1月28日签署「保护儿童免受化学和手术残害」(Protecting Children From Chemical...",
+          "date": "1 周前",
+          "source": "世界新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCXHokj4hQWy0DTgv66H82IEszwOYF6uZYGGgDVfpWWJZ922pyxOvhwPY&usqp=CAI&s",
+          "position": 12
+        },
+        {
+          "title": "鳄梨小哥减肥200斤，皮肤撑大却回不去了！看着夸张双下巴，他决定全切！",
+          "link": "https://news.qq.com/rain/a/20250224A09R1E00",
+          "snippet": "知名油管吃播鳄梨小哥成功减肥113公斤，恢复清瘦身形。 2.鳄梨小哥曾发布库存视频迷惑网友，最终实现轰动全网的惊喜。 3.然而，鳄梨小哥近日宣布将做变性手术，引发网友热...",
+          "date": "2 天前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAu8klk7hJvqAvRH7z8TB0aHO3vjNvIeDMRups0lv23qKk1o5fCJIg_D4&usqp=CAI&s",
+          "position": 13
+        },
+        {
+          "title": "上海交通大学第九人民医院硕士肖治刚——成为一名好医生的必修课-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20250221A04ZYW00",
+          "snippet": "导语：肖治刚，上海交通大学第九人民医院硕士毕业，中国医美最高学府科班出身，作为幼态魅眼针及VOA口周年轻态创研者，他凭借实力揽获众多国家专利认证。",
+          "date": "5 天前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM8CaRF5luncsGePD-9ZqLnnTo8mxvv6_lmzKipCHkPAYPF-uwffleHE0&usqp=CAI&s",
+          "position": 14
+        },
+        {
+          "title": "特朗普签署行政令 禁止跨性别运动员参加女子体育赛事",
+          "link": "https://news.qq.com/rain/a/20250206A01DSZ00",
+          "snippet": "当地时间2月5日，美国总统特朗普签署一项行政命令，禁止跨性别运动员参加女子体育赛事。该行政命令是特朗普及其政府推进限制跨性别权利的最新举措。",
+          "date": "3 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVBbcF5RIvvOHi0sLGOB4NOY3ja8J__pbH7pj8SkaFpP1oPFihPAyGCD4&usqp=CAI&s",
+          "position": 15
+        },
+        {
+          "title": "政治正确害了美国，特朗普上台要拿变性人开刀，呼吁社会回归常识",
+          "link": "https://view.inews.qq.com/a/20250211A03EZ700?uid%5B0%5D=100192333666&uid%5B1%5D=100192333666",
+          "snippet": "【军武次位面】作者：金色轰炸机特朗普上任后在美国发动了一场“常识革命”，他在演讲中提到，“我上任以来的72个小时，世界看到的是一场常识革命，美国很快就会比以往任何时候...",
+          "date": "2 周前",
+          "source": "腾讯网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfkLPdkEK36e3sgQVSGGx7TC54pAxARzU5lCNAzcBjcz6WoRF_4Rg9yo&usqp=CAI&s",
+          "position": 16
+        },
+        {
+          "title": "马斯克捅了马蜂窝，美国国际开发署果然是个邪恶的反人类机构",
+          "link": "https://view.inews.qq.com/a/20250211A02CKA00",
+          "snippet": "最近两天，特朗普在接到马斯克的调查报告后，立刻关闭了美国的国际开发署。这份调查报告触目惊心，从真正意义上为人们展示了末日帝国肮脏的手段。有研究者已经考据发现，...",
+          "date": "2 周前",
+          "source": "腾讯网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuoGXgDxf1RalckQoU1R7MEAyG27hoDczWk59MNKI545_tOIRX5u2dWg&usqp=CAI&s",
+          "position": 17
+        },
+        {
+          "title": "白宫：美国曾向哈萨克斯坦提供450万美元用于“打击虚假信息”",
+          "link": "https://cn.inform.kz/news/guo450yongyu-c831f7/",
+          "snippet": "发布会上，莱维特批评拜登政府的财政决策，称其在多个领域的支出“毫无理性”。她提到，美国政府拨款200万美元用于危地马拉的变性手术项目，同时还向伊拉克的《芝麻街》新...",
+          "date": "3 周前",
+          "source": "哈通社",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKz944_CYaIwmHC8eYZAIpy_DEGCAEO9jh2K4BehdrKmJll2h4VnFJtA&usqp=CAI&s",
+          "position": 18
+        },
+        {
+          "title": "惠虎宇：川普重塑美国教育体系背后的信仰之争",
+          "link": "https://www2.ntdtv.com/gb/2025/02/16/a103959404.html",
+          "snippet": "在停止向美国国际开发署（USAID）提供资金几天后，美国总统川普和他的盟友埃隆‧马斯克将审计目标对准了联邦教育部。此前，据《华尔街日报》等多家美国媒体报导，川普正在...",
+          "date": "1 周前",
+          "source": "新唐人電視台",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvTHgicuVdORSJl-nyS82XbPM0RHrfPqv72zIFEMdmo-SdQDp6sT8eUc&usqp=CAI&s",
+          "position": 19
+        },
+        {
+          "title": "特朗普签行政令 限制19岁以下儿童青少年“性别转换”",
+          "link": "https://www.enanyang.my/node/648041",
+          "snippet": "美国总统特朗普28日签署行政命令，限制19岁以下儿童及青少年取得性别转换（gender transition）医疗程序。",
+          "date": "1 个月前",
+          "source": "Enanyang",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfnkzasqjDOy6YCEhzrLIH00ajb9p9GXGuuNmxQCEX_8IXy79m-rR8owI&usqp=CAI&s",
+          "position": 20
+        },
+        {
+          "title": "特朗普横扫深层政府 美国颠覆外国工具曝光",
+          "link": "https://www.enanyang.my/node/652192",
+          "snippet": "特朗普以马斯克主导的政府效率部横扫美国国际开发署等多个部门，揭露深层政府颠覆政权的项目，把美国外交方向推上穷兵黩武之路，每年耗资近500亿美元。",
+          "date": "3 天前",
+          "source": "Enanyang",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr49HnqP2cqh51Tml4tVmL87PjSOiriS3Fr3pdpu_hEuUAtvrV1_5EVus&usqp=CAI&s",
+          "position": 21
+        },
+        {
+          "title": "【特朗普重返白宫】 签署行政命令 禁19岁以下人士转换性别",
+          "link": "https://www.orientaldaily.com.my/news/international/2025/01/30/709152",
+          "snippet": "（华盛顿30日讯）美国总统特朗普周二签署行政命令，限制19岁以下的儿童及青少年取得性别转换的（gender transition）医疗程序。这是当特朗普重新执政以来，针对跨性别者所...",
+          "date": "4 周前",
+          "source": "马来西亚东方日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdw0WdJjskzu-QdSaaDmVBxcmZJ4VCej17f7NRx9ilX1X3t8yxohKOICI&usqp=CAI&s",
+          "position": 22
+        },
+        {
+          "title": "共同民主党代表李在明发言",
+          "link": "https://www.mk.co.kr/cn/columnists/11247683",
+          "snippet": "共同民主党代表李在明最近再次右击,称\"民主党本来就不是进步政党,而是重视增长的中立、保守政党\",民主党一片哗然。 民主党不是进步政党的发言从阶级论的标准来看是妥当...",
+          "date": "3 天前",
+          "source": "매일경제",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRQsl9gBSlM1OhG8Kn6Y0Nn29SSvdZ6dXj_-WTQK3LEGAL0N19CEeoc3k&usqp=CAI&s",
+          "position": 23
+        },
+        {
+          "title": "特朗普限19岁以下 性别转换",
+          "link": "https://www.chinapress.com.my/20250130/%E7%89%B9%E6%9C%97%E6%99%AE%E9%99%9019%E5%B2%81%E4%BB%A5%E4%B8%8B-%E6%80%A7%E5%88%AB%E8%BD%AC%E6%8D%A2/",
+          "snippet": "（华盛顿29日综合电）美国总统特朗普在周三签署行政命令，限制19岁以下儿童及青少年取得性别转换（gender transition）医疗程序。这是他重新执政以来，针对跨性别者所采取的...",
+          "date": "1 个月前",
+          "source": "中國報 China Press",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAD2HctE40Fjd6qdjsP2wxQ-Z8WfA2GQdiG6wOI7tQWGw13c87PMYFPo&usqp=CAI&s",
+          "position": 24
+        },
+        {
+          "title": "美国撞机事件中直升机飞行员身份曝光",
+          "link": "https://www.bannedbook.org/bnews/baitai/20250131/2148752.html",
+          "snippet": "美国撞机事件中直升机飞行员身份曝光传为变性人。图为经过手术变为女性的黑鹰直升机飞行员乔·埃利斯（Jo Ellis）（网络图片）. 【希望之声2025年1月31日】（希望之声记者李...",
+          "date": "4 周前",
+          "source": "禁闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0JSbA9Dt7xu33obpgnuu0MEOxnXJ054LXDPLKDbdbovN7fAGbnFHow3o&usqp=CAI&s",
+          "position": 25
+        },
+        {
+          "title": "特朗普马斯克“史诗级查帐”，参议员惊爆：金援恐怖组织",
+          "link": "https://stnn.cc/c/2025-02-09/3955433.shtml",
+          "snippet": "美国民主党人士近日纷纷表达对特朗普总统与马斯克的不满，指控特朗普绕过程序，授权马斯克稽核政府支出。",
+          "date": "2 周前",
+          "source": "星岛环球网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYSAY6ADeoMj8aDxoKpmTRCLNJOnrBRc0_l_eUfTbywXhZ_58pvekfwkw&usqp=CAI&s",
+          "position": 26
+        },
+        {
+          "title": "川普签行政命令 限制19岁以下青少年儿童性别转换",
+          "link": "https://www.soundofhope.org/post/866798",
+          "snippet": "美国总统#川普周三（1月29日）签署#行政命令，限制19岁以下儿童及青少年取得#性别转换（gender transition）医疗程序。",
+          "date": "4 周前",
+          "source": "希望之声",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMyeeUlWgryQRdD1xK3-LE1H-Cr3eBYat82ojIsRPxlxdzSagJ9XVnd8E&usqp=CAI&s",
+          "position": 27
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}
