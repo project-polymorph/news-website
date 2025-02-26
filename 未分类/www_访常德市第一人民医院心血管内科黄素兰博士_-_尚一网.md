@@ -79,7 +79,7 @@
 版权声明：Copyright © 2006-2024 CDYEE.COM Corporation,All Rights Reserved　[尚一网](http://www.cdyee.com) 版权所有
 
 网站地址:湖南省常德市柳叶路常德日报传媒集团 邮编:415000　邮箱: news@cdyee.com
-
+<!-- tcd_original_link http://www.cdyee.com/news/content/2024-11/01/content_3132010.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

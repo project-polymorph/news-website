@@ -32,7 +32,7 @@
 **作者：** 多元故事荟
 
 **标签：** [塞拉](https://news.163.com/keywords/5/5/585e62c9/1.html) [内夫](https://news.163.com/keywords/5/8/5185592b/1.html) [诗歌](https://news.163.com/keywords/8/d/8bd76b4c/1.html) [俄罗斯](https://news.163.com/keywords/4/c/4fc47f5765af/1.html) [安德烈](https://news.163.com/keywords/5/8/5b895fb770c8/1.html) [跨性别者](https://news.163.com/keywords/8/e/8de86027522b8005/1.html) [lgbt](https://news.163.com/keywords/0/6/006c006700620074/1.html)
-
+<!-- tcd_original_link https://c.m.163.com/news/a/J13SEMT6052880KM.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

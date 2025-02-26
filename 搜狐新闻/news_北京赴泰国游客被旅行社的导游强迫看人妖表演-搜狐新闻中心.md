@@ -53,8 +53,7 @@
 ![栓在电话亭上的小男孩](https://photo.pic.sohu.com/images/news/2005-12-01/108eaf576c3.jpg)
 
 ![中国大学生2005的黑暗](https://photo.pic.sohu.com/images/news/2005-12-01/108eb18244c.jpg)
-
-
+<!-- tcd_original_link http://news.sohu.com/20050419/n225239729.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

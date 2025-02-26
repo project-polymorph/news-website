@@ -52,7 +52,7 @@
 
 1. K. Altman. Forehead reduction and orbital contouring in facial feminisation surgery for transgender females. British Journal of Oral and Maxillofacial Surgery 56 (2018) 192–197.
 2. Marcelo Di Maggio. Forehead and orbital rim remodeling. Facial Plast Surg Clin N Am 27 (2019) 207–220.
-
+<!-- tcd_original_link https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6969 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

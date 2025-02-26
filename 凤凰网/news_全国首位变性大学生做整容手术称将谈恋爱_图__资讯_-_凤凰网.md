@@ -34,7 +34,7 @@
 
 您要为您发言论的后果负责，故请各位遵纪守法并注意语言文明。  
 以上留言只代表网友个人观点，不代表凤凰网观点。  
-
+<!-- tcd_original_link https://news.ifeng.com/society/2/200703/0323_344_92175.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

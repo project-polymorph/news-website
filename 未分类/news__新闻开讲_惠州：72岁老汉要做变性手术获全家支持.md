@@ -28,7 +28,7 @@
 **评论**:  
 - 这是一个关于勇气与变革的故事，值得关注与支持。  
 - 现代社会越来越多元，理解与包容是每个人的责任。
-
+<!-- tcd_original_link http://news.cctv.com/2017/02/18/VIDEpc69AMKO7DS55W34Ki5z170218.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

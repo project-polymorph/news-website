@@ -27,7 +27,7 @@
 **标签:** 变性人, 羞辱
 
 **评论:** [\[我来说两句\]](https://pinglun.sohu.com/s373258738.html)
-
+<!-- tcd_original_link http://news.sohu.com/20130419/n373258738.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -17,7 +17,7 @@
 ## 联系我们 { data-search-exclude }
 
 点击此处进行工作咨询和询问: [联系我们](https://almostjp.com/zh-CN/contact/)
-
+<!-- tcd_original_link https://almostjp.com/zh-CN/news/20240408/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

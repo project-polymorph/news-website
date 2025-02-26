@@ -25,7 +25,7 @@
 **评论链接**: [我来说两句](https://pinglun.sohu.com/s379891578.html)  
 
 (责任编辑：UN628)
-
+<!-- tcd_original_link http://news.sohu.com/20130626/n379891578.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

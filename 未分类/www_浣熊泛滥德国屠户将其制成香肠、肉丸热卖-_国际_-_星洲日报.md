@@ -29,7 +29,7 @@
 **来源**: [星洲网](https://www.sinchew.com.my)  
 **标签**: [德国](https://www.sinchew.com.my/tag/%e5%be%b7%e5%9b%bd) | [香肠](https://www.sinchew.com.my/tag/%e9%a6%99%e8%82%a0) | [热卖](https://www.sinchew.com.my/tag/%e7%83%ad%e5%8d%96) | [肉丸](https://www.sinchew.com.my/tag/%e8%82%89%e4%b8%b8) | [浣熊](https://www.sinchew.com.my/tag/%e6%b5%a3%e7%86%8a)  
 **版权**: Copyright © 2024 Sin Chew Media Corporation Berhad (198301003518). All rights reserved.
-
+<!-- tcd_original_link https://www.sinchew.com.my/news/20241102/international/6041369 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

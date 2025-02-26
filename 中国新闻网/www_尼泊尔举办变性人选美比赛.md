@@ -46,7 +46,7 @@
 **标签:** 跨性别，选美比赛，尼泊尔，变性人  
 **作者:** 杨彦宇  
 **时间:** 2010年9月12日
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd/2010/09-13/6606.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

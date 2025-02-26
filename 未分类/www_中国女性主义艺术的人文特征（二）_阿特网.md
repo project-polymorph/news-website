@@ -37,7 +37,7 @@
 2012．11  
 
 **编辑：** 阿特
-
+<!-- tcd_original_link http://www.ccartd.com/news/detail/2013-1/130026294060000000_2.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

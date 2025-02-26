@@ -46,7 +46,7 @@
 科尔是几名曾在孩童时期有性别焦虑症且认为自己是异性、但后来随着年龄增长而对生理性别的不适感逐渐消退的变性者之一。她对未成年时向她进行性别转换手术的医疗专业人员，提起了诉讼。
 
 起诉书称，她的经历，包括双乳切除术，给她留下了“深深的身心创伤、严重的遗憾以及对医疗系统的不信任”。
-
+<!-- tcd_original_link https://chinese.christianpost.com/news/thousands-of-sex-change-surgeries-performed-on-minors-database.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

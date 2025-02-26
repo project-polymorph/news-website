@@ -60,7 +60,7 @@
 - 哇塞，这可不是天天都看得到的。——Anna24
 
 **标签**：[爸爸](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%88%B8%E7%88%B8) [剖腹产](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%89%96%E8%85%B9%E4%BA%A7) [男孩](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%B7%E5%AD%A9)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20140813/41553926_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -20,7 +20,7 @@
 “这之后，我们会让曼音做好生理和心理准备，让她有个过渡时期。万一，曼音不适应，如果她不想做了，还有余地。接着，我们将进行最终的性别改造变换身份。做变性手术前，我们会进行心理辅导，帮助“她”确认自己在社会中性别。一旦做了变性手术，意味着曼音将再也不可能成为男性，而且将完全丧失男性功能及生育能力。自我接受、社会接纳等一系列问题接踵而来的时候，我们担心曼音会不会对现在的决定后悔。因此我们希望她充分考虑清楚再进行手术！”
 
 标签：[诊断](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%AF%8A%E6%96%AD) [手术](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%89%8B%E6%9C%AF) [医疗美容](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8C%BB%E7%96%97%E7%BE%8E%E5%AE%B9)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20140508/40212392_4.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -30,7 +30,7 @@
 -   **08-04-28**·[袁泉首当导演 拍10分钟"异装癖"短片引赞赏](http://yule.sohu.com/20080428/n256555926.shtml)
 
 版权 © 2018 Sohu.com Inc. All Rights Reserved.
-
+<!-- tcd_original_link http://music.yule.sohu.com/20100507/n271973174.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

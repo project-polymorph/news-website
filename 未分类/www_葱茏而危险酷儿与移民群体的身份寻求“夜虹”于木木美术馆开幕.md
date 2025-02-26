@@ -70,7 +70,7 @@
 **展览时间**: 2022. 12. 17—2023. 03. 09  
 **展览地点**: 木木美术馆798馆  
 **策展人**: 王宗孚
-
+<!-- tcd_original_link https://www.shencaitang.com/news/4457 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

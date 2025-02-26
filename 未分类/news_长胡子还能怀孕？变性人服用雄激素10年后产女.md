@@ -32,7 +32,7 @@
 
 **版权**：Copyright©2009-2022 江苏省广播电视总台版权所有  
 **违法和不良信息举报电话**：（025）83187997 [中国互联网举报中心](http://www.12377.cn) 举报邮箱：litchi@vip.jsbc.com
-
+<!-- tcd_original_link http://news.jstv.com/a/20151115/1447553451719.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

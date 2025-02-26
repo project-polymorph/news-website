@@ -23,7 +23,7 @@
 **标签**：[周杰伦](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%91%A8%E6%9D%B0%E4%BC%A6) [金星](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%87%91%E6%98%9F) [阿尔发](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%98%BF%E5%B0%94%E5%8F%91)  
 
 ![图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20141103/42362852_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

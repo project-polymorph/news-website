@@ -299,7 +299,7 @@
 **文章转自** [丁香园](http://mp.weixin.qq.com/s?__biz=MzIyNDU0NjAxOA==&mid=2247486646&idx=1&sn=c395e144aa59712105ce4a031552d29f&chksm=e80c113bdf7b982d9530587963313aeff86c96eec1f11d9a2b85e65f7f0a70a96f87e48cad31&scene=4#wechat_redirect)  
 **原标题：** 《女儿的第二次出柜，颠覆我的人生观》  
 **特别声明：** 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[澎湃号](https://renzheng.thepaper.cn)。
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_5221979 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -81,7 +81,7 @@
 ![微信分享](http://www.cnr.cn/images2015/images/weixin.jpg)
 
 ![手机央广网](http://www.cnr.cn/images2015/images/sjygw.jpg)
-
+<!-- tcd_original_link http://news.cnr.cn/native/gd/20161201/t20161201_523297526_2.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

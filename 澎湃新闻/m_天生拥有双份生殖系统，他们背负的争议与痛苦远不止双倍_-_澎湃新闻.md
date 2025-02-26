@@ -171,7 +171,7 @@ CT下双侧隐睾的图像
 **原标题**: 天生拥有双份生殖系统，他们背负的争议与痛苦远不止双倍
 
 **阅读原文**: [链接](http://mp.weixin.qq.com/s?__biz=MzU0ODE1NDE0NQ==&mid=2247537113&idx=1&sn=bcef338cfc0d390cd31e91b9add68f89&chksm=fb416f97cc36e68157fc054515191d462fd009b9eca6e3ae9c3c24056e515b7e584feaa2ddc4&scene=4#wechat_redirect)
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_8224680 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

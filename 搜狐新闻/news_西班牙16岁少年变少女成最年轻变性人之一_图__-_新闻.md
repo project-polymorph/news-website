@@ -44,7 +44,7 @@
 --- 
 
 如需进一步的信息，请查询相关新闻或联系作者。
-
+<!-- tcd_original_link http://news.sohu.com/20100113/n269551728.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

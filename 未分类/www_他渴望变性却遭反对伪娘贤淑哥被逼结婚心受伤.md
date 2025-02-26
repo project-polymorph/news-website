@@ -54,7 +54,7 @@
 ---
 
 **广西新闻网版权所有** 未经书面授权禁止复制或建立镜像
-
+<!-- tcd_original_link http://www.gxnews.com.cn/staticpages/20110531/newgx4de425b6-3842247-2.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

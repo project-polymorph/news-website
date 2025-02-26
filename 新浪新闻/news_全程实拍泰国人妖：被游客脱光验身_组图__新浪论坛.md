@@ -46,7 +46,7 @@
 ---
 
 **版权声明**: 您在新浪论坛发表的作品，新浪网有权在网站内免费转载或引用。
-
+<!-- tcd_original_link http://news.sina.com.cn/bbs/p/2005/1201/22222292.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -42,7 +42,7 @@
 - ![](https://cdn.orangenews.hk/u/cms/www2024/05/20/3628fce6d41a4ffca434b0da0d91e3ac.png)
 
 **評論**
-
+<!-- tcd_original_link https://www.orangenews.hk/special/1187845/%E5%91%A8%E9%A1%AF%E5%B0%88%E6%AC%84---%E6%88%91%E6%89%80%E7%B6%93%E6%AD%B7%E7%9A%84%E9%A6%99%E6%B8%AF-%E5%A8%98%E7%82%AE%E5%8C%96.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

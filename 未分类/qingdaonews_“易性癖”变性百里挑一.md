@@ -77,7 +77,7 @@
 ---
 
 晨报记者 吴亭文并摄
-
+<!-- tcd_original_link https://qingdaonews.com/content/2006-02/24/content_6084790.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

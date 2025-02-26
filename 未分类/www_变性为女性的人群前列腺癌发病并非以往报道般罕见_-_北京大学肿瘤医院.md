@@ -28,7 +28,7 @@
 版权所有：北京大学肿瘤医院(本网站所有内容未经许可，不得以任何形式进行转载)　[京ICP备20028328号-2](http://www.beian.miit.gov.cn)　京公网安备110402131354号
 
 地址：北京海淀区阜成路52号（定慧寺） 邮编：100142 咨询电话：010-88121122
-
+<!-- tcd_original_link https://www.bjcancer.org/Html/News/Articles/16804.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

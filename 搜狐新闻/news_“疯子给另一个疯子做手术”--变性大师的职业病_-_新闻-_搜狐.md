@@ -76,7 +76,7 @@
 
 **版权**: © 2003 Sohu.com Inc. All rights reserved.  
 **编辑**: [给编辑写信](mailto:editor@sohu-inc.com)
-
+<!-- tcd_original_link https://news.sohu.com/76/21/news148182176.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -75,7 +75,7 @@ LGBT 群体中的每个人都以不同的方式识别自己，并对自己的身
 -  [Kris 的角落 – 与其他孩子共度时光](https://fireflyin.org/zh/resources/news-library/kris-corner-spend-time-with-your-other-kids/)
 -  [Kris' Corner – 踏上过山车](https://fireflyin.org/zh/resources/news-library/kris-corner-stepping-on-the-roller-coaster/)
 -  [2024 年年度庆典](https://fireflyin.org/zh/resources/news-library/annual-celebration-2024/)
-
+<!-- tcd_original_link https://fireflyin.org/zh/resources/news-library/how-you-can-enhance-your-allyship-for-the-lgbtq-community/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

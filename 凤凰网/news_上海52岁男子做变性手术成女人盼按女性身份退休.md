@@ -67,7 +67,7 @@
 希望我们的社会能更宽容，对待“罗晓青”们的态度也能更平和些。
 
 **版权声明**: 本文章版权归凤凰网所有，未经授权，不得转载
-
+<!-- tcd_original_link https://news.ifeng.com/c/7fb6q05pZiu -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

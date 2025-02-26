@@ -31,7 +31,7 @@
 - [细胞](http://so.cntv.cn/search.php?qtext=细胞&sid=0000&pid=0000)
 - [女性角色](http://so.cntv.cn/search.php?qtext=女性角色&sid=0000&pid=0000)
 - [日本漫画家](http://so.cntv.cn/search.php?qtext=日本漫画家&sid=0000&pid=0000)
-
+<!-- tcd_original_link http://news.cntv.cn/20120220/111407.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

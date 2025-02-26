@@ -82,7 +82,7 @@
 **评论：** 88字
 
 **标签：** 性别，变性，心理健康，社会认同
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-04-26/detail-ikknscsk0116036.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

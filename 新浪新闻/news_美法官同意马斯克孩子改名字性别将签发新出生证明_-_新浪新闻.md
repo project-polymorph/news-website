@@ -74,7 +74,7 @@
 **CD的迷失** 3
 > 能不能别整错别字，改名改姓。  
 > **2022-06-24 湖南长沙**
-
+<!-- tcd_original_link https://news.sina.cn/2022-06-24/detail-imizirav0381725.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -91,7 +91,7 @@ _5.0分好评_
 _转发至微博_ 
 
 [图片]
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-03-19/detail-ikknscsi6133880.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

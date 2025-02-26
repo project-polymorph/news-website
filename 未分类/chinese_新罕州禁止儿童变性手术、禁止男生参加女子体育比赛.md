@@ -37,7 +37,7 @@
 苏努努称赞他签署成为法律的法案是“符合常识的两党解决方案，反映了全州家长的价值观”。
 
 他说：“绝大多数花岗岩州人都赞同这种做法，因为它公平、平衡，没有政治考量。通过颁布这些措施，我们将继续坚持安全、公平的原则，并维护公民的常识。”
-
+<!-- tcd_original_link https://chinese.christianpost.com/news/new-hampshire-bans-body-mutilating-sex-change-surgeries-for-under-18s.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

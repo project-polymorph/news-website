@@ -25,7 +25,7 @@
 *责任编辑：hn_新闻*
 
 *版权声明：本文为中国青年网版权所有，未经授权，不得转载。*
-
+<!-- tcd_original_link http://news.youth.cn/sh/201602/t20160209_7618171.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

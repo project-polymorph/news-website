@@ -38,7 +38,7 @@
 “因此，最高法院认为，《第七章》规定，受保护的雇主在做出与就业相关的决定时考虑雇员的性取向或变性身份是非法的”。
 
 2021年10月，CEA对拜登政府提起诉讼，认为该规定迫使他们这样的宗教团体采取违背自身信仰的行动。
-
+<!-- tcd_original_link https://chinese.christianpost.com/news/biden-cant-force-christians-to-perform-trans-surgeries-court.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

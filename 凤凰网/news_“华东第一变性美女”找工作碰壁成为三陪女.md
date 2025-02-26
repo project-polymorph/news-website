@@ -60,7 +60,7 @@
 - [河南一变性人落选“标准美女” 广场举牌抗议](http://news.ifeng.com/society/2/200901/0108_344_958361.shtml)
 
 **标签:** 变性美女, 黄宁倩, 变性人
-
+<!-- tcd_original_link https://news.ifeng.com/society/2/200907/0703_344_1232112.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

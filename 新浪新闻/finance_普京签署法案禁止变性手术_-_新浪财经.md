@@ -32,7 +32,7 @@
 公开资料显示，变性手术在阿富汗、沙特阿拉伯、埃及、埃塞尔比亚、尼日利亚、文莱、马尔代夫等国均是非法的。
 
 本文系观察者网独家稿件，未经授权，不得转载。
-
+<!-- tcd_original_link https://finance.sina.com.cn/roll/2023-07-25/doc-imzcwnsv8049871.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

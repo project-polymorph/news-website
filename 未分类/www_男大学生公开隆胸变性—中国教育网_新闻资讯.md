@@ -35,7 +35,7 @@
 - [争创凉山一流民办电脑学校](/news/mbjy/2007/3/content_74855.shtml)
 - [3所民办培训学院被撤销](/news/mbjy/2007/3/content_74856.shtml)
 - [民办高校宣传将被“监管”](/news/mbjy/2007/3/content_74857.shtml)
-
+<!-- tcd_original_link http://www.chinaedunet.com/news/gdjy/2007/3/content_74848.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

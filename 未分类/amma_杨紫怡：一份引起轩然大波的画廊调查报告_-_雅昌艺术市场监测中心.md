@@ -66,7 +66,7 @@
 据此，我们呼吁，在加强研究并从速建立画廊业大数据、协助中国画廊业提高社会服务能力的同时，确立与艺术家共同成长的使命和责任也是中国画廊业自身改变的必修课。
 
 **责任编辑**: 杨晓萌
-
+<!-- tcd_original_link https://amma.artron.net/observation_shownews.php?newid=940199 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

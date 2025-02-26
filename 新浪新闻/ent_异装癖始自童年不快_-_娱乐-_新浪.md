@@ -40,7 +40,7 @@
 
 版权 © 1996 - 2006 SINA Inc. All Rights Reserved  
 [版权所有](http://home.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link http://ent.sina.com.cn/x/2006-01-16/0135960544.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

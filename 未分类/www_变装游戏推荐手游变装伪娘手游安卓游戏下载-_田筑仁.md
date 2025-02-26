@@ -132,7 +132,7 @@
 
 10. **《地牢求生2》**  
 地牢求生系列的第二部作品，这款游戏保留了前作诸多经典的玩法，同时加入了roguelike元素，*悉的玩法和环境，不过这一次挑战对于玩家来说却是前所未有的。
-
+<!-- tcd_original_link http://www.tianzhurenhe.com/news/118388.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

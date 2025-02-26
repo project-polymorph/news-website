@@ -38,7 +38,7 @@ Apple 媒体联络
 
 **来源：** Apple新闻发布  
 **更新日期：** 2023年5月9日
-
+<!-- tcd_original_link https://www.apple.com.cn/newsroom/2023/05/apple-watch-pride-edition-celebrates-the-lgbtq-community/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

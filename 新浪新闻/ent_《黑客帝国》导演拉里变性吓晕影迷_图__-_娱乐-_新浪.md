@@ -53,7 +53,7 @@
 新浪新闻官方
 
 值得关注的资讯 精彩视频抢先看 5.0分好评
-
+<!-- tcd_original_link http://ent.sina.cn/star/euro_usa/2012-08-03/detail-iawzunex6093870.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

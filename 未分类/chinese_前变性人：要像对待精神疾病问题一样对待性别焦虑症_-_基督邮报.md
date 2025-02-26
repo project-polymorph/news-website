@@ -63,7 +63,7 @@
 时间: 星期四, 2021年04月29日  
 作者: N/A  
 标签: 性别焦虑症, 跨性别, 心理健康
-
+<!-- tcd_original_link https://chinese.christianpost.com/news/detransitioner-says-gender-dysphoria-is-mental-health-issue.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

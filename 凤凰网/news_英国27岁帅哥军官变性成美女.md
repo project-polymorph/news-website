@@ -16,7 +16,7 @@
 15岁开始军旅生涯的她原本担心陆军不能见容变性人，没想到军方“思想非常前卫”，加上父母大力支持她变性，因此从阿富汗回国后，开始变性之路，接受荷尔蒙治疗、根除胡子、动一些手术等等。现在她转调到北约克郡，完全以女儿身示人，过得开心又有自信。
 
 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150122/42991052_5.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

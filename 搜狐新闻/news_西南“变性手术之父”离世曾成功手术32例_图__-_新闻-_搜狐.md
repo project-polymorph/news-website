@@ -96,7 +96,7 @@
 - 07-09-28 04:32·[德国男孩成最年幼变性人 12岁治疗18岁手...](https://news.sohu.com/20070928/n252398015.shtml)
 - 07-06-30 11:05·[江西男子穿裙装七年欲做变性手术(图)](https://news.sohu.com/20070630/n250843578.shtml)
 - 07-06-01 11:04·[山东小伙变性手术顺利完成 成为真正女人(图)](https://news.sohu.com/20070601/n250346810.shtml)
-
+<!-- tcd_original_link http://news.sohu.com/20080724/n258346201.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

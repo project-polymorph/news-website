@@ -63,7 +63,7 @@
 
 扫码免费试音  
 ![](Public/images/c_weixin.svg)
-
+<!-- tcd_original_link https://www.soundems.com/news/detail/14892.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

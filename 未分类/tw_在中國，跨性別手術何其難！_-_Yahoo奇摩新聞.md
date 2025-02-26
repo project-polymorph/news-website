@@ -32,7 +32,7 @@
 作者：**吳子游** 中國青年學者，專長為性別研究。
 
 [原始連結](https://www.rti.org.tw/news/view/id/2114902)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E5%9C%A8%E4%B8%AD%E5%9C%8B-%E8%B7%A8%E6%80%A7%E5%88%A5%E6%89%8B%E8%A1%93%E4%BD%95%E5%85%B6%E9%9B%A3-062000243.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

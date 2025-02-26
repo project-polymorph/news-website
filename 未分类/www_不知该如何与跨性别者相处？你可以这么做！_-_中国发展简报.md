@@ -85,7 +85,7 @@
 [下一篇:公益工具 | 如何设计一个有价值的公益行动计划](https://www.chinadevelopmentbrief.org.cn/news/detail/65722.html)  
 
 ---
-
+<!-- tcd_original_link https://www.chinadevelopmentbrief.org.cn/news/detail/15664.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

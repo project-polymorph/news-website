@@ -25,7 +25,7 @@ Slavicsek表示：“在游戏中，我们有大量的混合婚姻和同性恋�
 - **支持语言**: 官方中文
 
 **版权**: 本文属于原创文章，如若转载，请注明来源。
-
+<!-- tcd_original_link https://news.zol.com.cn/914/9145406.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

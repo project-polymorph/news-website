@@ -27,7 +27,7 @@
 **热点资讯**: 精彩视频抢先看  
 **评分**: 5.0分好评  
 **类型**: 免费 / 绿色应用 / 优质
-
+<!-- tcd_original_link https://news.sina.cn/sa/2010-12-28/detail-ikftpnny4457931.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

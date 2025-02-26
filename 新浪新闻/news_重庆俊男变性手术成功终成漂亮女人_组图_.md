@@ -85,7 +85,7 @@
 **新浪网友0** 2  
 “吃饱了撑的，社会的一个鬼胎！”  
 **2005-09-23**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-09-23/detail-ikknscsi7831843.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

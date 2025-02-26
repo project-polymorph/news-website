@@ -36,7 +36,7 @@
 
 版权 © 2016 Sohu.com Inc. All Rights Reserved. 
 [搜狐公司版权所有](https://corp.sohu.com/s2007/copyright/)
-
+<!-- tcd_original_link http://music.yule.sohu.com/20090206/n262085622.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -60,7 +60,7 @@
 **审核：** 史册  
 
 ![川观新闻二维码](https://wapcdn.thecover.cn/cdn/cbgc/static/img/copyright-qrcode.jpg)
-
+<!-- tcd_original_link https://cbgc.scol.com.cn/news/5590267 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

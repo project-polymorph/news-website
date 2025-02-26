@@ -20,7 +20,7 @@
 
 ### 版权声明
 中原网 版权所有，未经书面授权禁止使用。
-
+<!-- tcd_original_link https://news.zynews.cn/2016-06/07/content_10680403_21.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

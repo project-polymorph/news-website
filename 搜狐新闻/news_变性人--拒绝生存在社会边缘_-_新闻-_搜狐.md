@@ -137,7 +137,7 @@
 ![搜狐招聘](https://hr.sohu.com/hrm.html)  
 ![关于搜狐](https://www.sohu.com/about/)  
 ![版权所有](https://www.sohu.com/about/copyright.html)  
-
+<!-- tcd_original_link http://news.sohu.com/1/0504/62/subject220016282.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

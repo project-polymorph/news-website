@@ -148,7 +148,7 @@ Getty Images
 Getty Images
 
 Leigh Bowery（中）充滿創意的 Club Kid 打扮，直到今日還是許多國際級設計大師的創作靈感來源，左為 Jean Paul Gaultier 的設計，右為 Alexander McQueen 的設計。
-
+<!-- tcd_original_link https://www.harpersbazaar.com/tw/celebrity/celebritynews/g22005968/8-must-know-drag-artists/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

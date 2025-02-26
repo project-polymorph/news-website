@@ -68,7 +68,7 @@
 3. 和学校老师沟通，保障孩子不受到别人欺负和骚扰。
 
 标签： [养父母](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%85%BB%E7%88%B6%E6%AF%8D) [生长发育](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%9F%E9%95%BF%E5%8F%91%E8%82%B2) [小伙伴](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B0%8F%E4%BC%99%E4%BC%B4)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20141221/42763329_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

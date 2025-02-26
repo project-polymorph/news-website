@@ -24,7 +24,7 @@
 海峡飞虹版权所有  
 
 [关于](/about) | [联系我们](/contactus) | [网站声明](/statement) | [网站地图](/map) | [京ICP备05064898号-47](https://beian.miit.gov.cn)
-
+<!-- tcd_original_link https://www.itaiwannews.cn/2014-5-30/1372d111-9c95-30ce-f197-4220c7097740.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

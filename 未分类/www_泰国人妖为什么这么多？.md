@@ -109,7 +109,7 @@
 **联系方式:**   
 - [ติดต่อเรา](https://kf.wangzhankefu.com/#/yqLink?teamID=0e0a135e-a7dc-4b77-94d6-af1f69b66160)  
 - [contact us](https://kf.wangzhankefu.com/#/yqLink?teamID=0e0a135e-a7dc-4b77-94d6-af1f69b66160)
-
+<!-- tcd_original_link http://www.thailovechina.com/cn/typenews.asp?id=1787 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

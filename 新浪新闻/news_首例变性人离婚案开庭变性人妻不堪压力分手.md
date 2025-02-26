@@ -29,7 +29,7 @@
 说说你的看法
 
 转发至微博
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-08-13/detail-ikknscsk0770603.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

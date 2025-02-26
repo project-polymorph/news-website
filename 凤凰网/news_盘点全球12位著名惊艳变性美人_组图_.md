@@ -32,7 +32,7 @@
 ---
 
 标签: 变性人, 变性手术, 变性美女
-
+<!-- tcd_original_link https://news.ifeng.com/photo/other/200810/1013_1399_828604_1.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

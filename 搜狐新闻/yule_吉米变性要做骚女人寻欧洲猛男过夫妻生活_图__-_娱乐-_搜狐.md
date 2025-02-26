@@ -64,7 +64,7 @@
 ---
 
 **版权声明**：本文为搜狐娱乐原创内容，版权所有，未经允许不得转载。
-
+<!-- tcd_original_link http://yule.sohu.com/20070329/n249055429.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

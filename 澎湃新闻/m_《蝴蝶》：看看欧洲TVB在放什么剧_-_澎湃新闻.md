@@ -41,7 +41,7 @@ Tony Marchant在采访里提到，现在在英国，凡是有性别认知障碍�
 
 责任编辑：程娱  
 校对：张亮亮
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_2543439 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

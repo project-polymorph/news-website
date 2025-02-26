@@ -16,7 +16,7 @@
 终审法院裁定涉案政策对上诉人在《香港人权法案》第十四条下的权利，包括性别认同权利及身体完整权利的侵害并不相称，认为该政策确实对有关人士施加不可接受的严苛负担，未有在上诉人的权利与政策带来的社会利益之间取得合理平衡，因此一致裁定两名上诉人得直。
 
 版权 © RTHK. E-mail: [cnews@rthk.hk](mailto:cnews@rthk.hk)
-
+<!-- tcd_original_link https://news.rthk.hk/rthk/ch/component/k2/1686750-20230206.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

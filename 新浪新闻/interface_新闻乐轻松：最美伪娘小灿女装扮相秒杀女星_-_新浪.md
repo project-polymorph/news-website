@@ -58,7 +58,7 @@
 **标签:** 热点资讯 精彩视频抢先看 5.0分好评
 
 [图片]
-
+<!-- tcd_original_link https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fnews.sina.com.cn%2Fs%2F2014-01-14%2F183029241793.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -44,7 +44,7 @@
 ---
 
 图片信息保留，所有信息已按要求整理为 markdown 格式。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2009-09-16/detail-ikftpnny4185288.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -15,7 +15,7 @@
 
 来源：凤凰网  
 标签：变性人选美, 日本, 春菜爱, 泰国
-
+<!-- tcd_original_link https://news.ifeng.com/photo/hot/200911/1102_5486_1415931.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

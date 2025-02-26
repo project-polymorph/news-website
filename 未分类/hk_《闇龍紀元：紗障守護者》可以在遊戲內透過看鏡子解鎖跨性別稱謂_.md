@@ -21,7 +21,7 @@ BioWare 經典遊戲系列最新作《闇龍紀元：紗障守護者》（Dragon
 
 **編輯**: 大摳  
 **來源網址**: [Yahoo新聞](https://hk.news.yahoo.com/)
-
+<!-- tcd_original_link https://hk.news.yahoo.com/%E3%80%8A%E9%97%87%E9%BE%8D%E7%B4%80%E5%85%83%EF%BC%9A%E7%B4%97%E9%9A%9C%E5%AE%88%E8%AD%B7%E8%80%85%E3%80%8B%E5%8F%AF%E4%BB%A5%E5%9C%A8%E9%81%8A%E6%88%B2%E5%85%A7%E9%80%8F%E9%81%8E%E7%9C%8B%E9%8F%A1%E5%AD%90%E8%A7%A3%E9%8E%96%E8%B7%A8%E6%80%A7%E5%88%A5%E7%A8%B1%E8%AC%82%E8%88%87%E6%94%B9%E5%8B%95%E5%B0%8D%E8%A9%B1%E9%81%B8%E9%A0%85-111507617.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

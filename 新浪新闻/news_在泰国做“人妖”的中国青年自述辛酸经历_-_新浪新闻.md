@@ -59,7 +59,7 @@
 - [泰国人妖 畸形的美丽(组图)](http://eladies.sina.com.cn/2004-06-25/98581.html) 2004-06-25 14:43:16
 - [拒绝人妖！对A3角色的一点想法](http://games.sina.com.cn/z/a3/2004-06-07/140477.shtml) 2004-06-07 13:58:06
 - [组图：泰国人妖--另一种风情](http://news.sina.com.cn/s/2004-04-29/09322431200s.shtml) 2004-04-29 09:32:00
-
+<!-- tcd_original_link http://news.sina.com.cn/s/2004-08-29/12304170956.shtml?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

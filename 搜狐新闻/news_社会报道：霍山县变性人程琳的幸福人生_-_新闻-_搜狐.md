@@ -44,7 +44,7 @@
 Copyright © 2000-2006 Anhui Internet News Center. All rights reserved.  
 
 搜狐不良信息举报邮箱：[jubao@contact.sohu.com](mailto:jubao@contact.sohu.com)
-
+<!-- tcd_original_link http://news.sohu.com/20060803/n244608755.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

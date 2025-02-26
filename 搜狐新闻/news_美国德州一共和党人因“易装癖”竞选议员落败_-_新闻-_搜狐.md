@@ -26,7 +26,7 @@
 Copyright © 2005 Sohu.com Inc. All rights reserved. 
 
 ![](https://images.sohu.com/ccc.gif)
-
+<!-- tcd_original_link http://news.sohu.com/2004/04/16/48/news219854831.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

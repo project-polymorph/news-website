@@ -21,7 +21,7 @@
 电话: 86-10-88828000  
 京ICP证 040089号  
 网络传播视听节目许可证号: 0105123  
-
+<!-- tcd_original_link http://www.china.com.cn/v/news/2010-06/08/content_20207367.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

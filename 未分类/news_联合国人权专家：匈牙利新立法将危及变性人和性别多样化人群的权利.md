@@ -49,7 +49,7 @@
 **标签**: [人权](/zh/news/topic/human-rights)
 
 [联合国人权事务高级专员巴切莱特](https://www.un.org/sg/zh/content/profiles/ver%C3%B3nica-bachelet-jeria-0)今天表示，各国需要确保同性恋、双性恋、跨性别及性别多样化人群(LGBTI)不会在[2019冠状病毒病](https://www.un.org/zh/coronavirus)大流行的情况下在寻求医疗保健时面临歧视或害怕报复。
-
+<!-- tcd_original_link https://news.un.org/zh/story/2020/04/1056282 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

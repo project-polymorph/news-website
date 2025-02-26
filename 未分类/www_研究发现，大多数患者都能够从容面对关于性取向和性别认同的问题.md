@@ -65,7 +65,7 @@ Dr. Griffin 说：“这些发现可能推广到全美国类似的其他地区�
 **Sharon Theimer, Mayo Clinic****公共事务部，****507-284-5005****，电子邮件：**
 
 [**newsbureau@mayo.edu**](mailto:newsbureau@mayo.edu)
-
+<!-- tcd_original_link https://www.newswise.com/articles/%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%EF%BC%8C%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%82%A3%E8%80%85%E9%83%BD%E8%83%BD%E5%A4%9F%E4%BB%8E%E5%AE%B9%E9%9D%A2%E5%AF%B9%E5%85%B3%E4%BA%8E%E6%80%A7%E5%8F%96%E5%90%91%E5%92%8C%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E7%9A%84%E9%97%AE%E9%A2%98 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

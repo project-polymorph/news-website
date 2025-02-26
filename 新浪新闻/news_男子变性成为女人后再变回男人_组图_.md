@@ -72,7 +72,7 @@
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 新浪新闻官方
-
+<!-- tcd_original_link https://news.sina.cn/sa/2010-11-09/detail-ikftssap3392812.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -52,7 +52,7 @@
   **时间：2002-04-27**
 
 热门评论中，大家对于案件的看法激烈，反映了社会对变性人群体的关注与争议。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2002-04-27/detail-ikkntiak6990110.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

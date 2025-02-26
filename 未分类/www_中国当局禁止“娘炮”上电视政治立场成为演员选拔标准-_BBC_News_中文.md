@@ -123,7 +123,7 @@ Play video, "打造“男子汉”？ 北京男孩学校的新尝试", 节目全
 -   [女权](https://www.bbc.com/zhongwen/topics/c61k92l3ez3t)  
 -   [娛樂](https://www.bbc.com/zhongwen/topics/cr1nyxkxqdnt)  
 -   [中國](https://www.bbc.com/zhongwen/topics/cv85rd690y1t)  
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-58432243 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

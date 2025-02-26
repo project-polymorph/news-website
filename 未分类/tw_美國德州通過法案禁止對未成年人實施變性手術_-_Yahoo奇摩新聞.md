@@ -29,7 +29,7 @@
 - ![](https://s.yimg.com/bt/api/res/1.2/.qHWbPOwuv6NjpVmpnOqJg--~B/Zmk9ZmlsbDtweW9mZj01MDtweG9mZj01MDt3PTUxNDtoPTI4ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/cv/apiv2/sportslottery/Sports_lottery_Mobile.png.cf.webp)  
   新聞專題  
   #### [運彩這樣玩](https://tw.news.yahoo.com/topic/sportslottery)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E9%80%9A%E9%81%8E%E6%B3%95%E6%A1%88-%E7%A6%81%E6%AD%A2%E5%B0%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%AF%A6%E6%96%BD%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93-134023799.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

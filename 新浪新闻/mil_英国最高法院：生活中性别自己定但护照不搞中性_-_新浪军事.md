@@ -42,7 +42,7 @@ BBC报道称，最高法院15日一致驳回了艾伦凯恩的上诉，指出填
 持有中性护照的人需要与他们计划访问的目的地的大使馆核实其资格。否则，他们可能面临被讯问、人身搜查、拘留、被拒绝入境、罚款等。
 
 ![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://mil.sina.cn/dgby/2021-12-16/detail-ikyamrmy9306459.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

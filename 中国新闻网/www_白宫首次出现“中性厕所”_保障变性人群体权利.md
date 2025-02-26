@@ -42,7 +42,7 @@
 
 ### 评论
 - 这是一项重要的政策改变，体现了对跨性别群体的尊重和支持。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/m/gj/2015/04-09/7193682.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

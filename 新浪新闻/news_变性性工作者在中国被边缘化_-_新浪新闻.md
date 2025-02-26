@@ -63,7 +63,7 @@
 Copyright © 1996-2015 SINA Corporation, All Rights Reserved
 
 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link http://news.sina.com.cn/w/zg/gjzt/2015-01-20/0550576.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

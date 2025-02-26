@@ -62,7 +62,7 @@
 - [每日邮报](http://so.cntv.cn/search.php?qtext=每日邮报&sid=0000&pid=0000)
 - [护士](http://so.cntv.cn/search.php?qtext=护士&sid=0000&pid=0000)
 - [新生宝宝](http://so.cntv.cn/search.php?qtext=新生宝宝&sid=0000&pid=0000)
-
+<!-- tcd_original_link http://news.cntv.cn/20120302/113221.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

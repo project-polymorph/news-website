@@ -45,7 +45,7 @@
 ![logo](https://img.takefoto.cn/web/skin/images/bjd-login-logo.png)  
 
 长按二维码查看文章详情  
-
+<!-- tcd_original_link https://news.bjd.com.cn/2022/05/18/10089546.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

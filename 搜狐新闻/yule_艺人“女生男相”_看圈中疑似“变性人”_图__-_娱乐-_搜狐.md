@@ -34,7 +34,7 @@
 **版权**
 
 Copyright © 2005 Sohu.com Inc. All rights reserved. [搜狐公司版权所有](https://www.sohu.com/about/copyright.html)
-
+<!-- tcd_original_link http://yule.sohu.com/20051213/n227678831.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

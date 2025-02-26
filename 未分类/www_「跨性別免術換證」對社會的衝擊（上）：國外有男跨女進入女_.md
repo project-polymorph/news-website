@@ -85,7 +85,7 @@
 - [吳宇萱](https://www.thenewslens.com/tag/258533)
 
 【加入關鍵評論網會員】每天精彩好文直送你的信箱，每週獨享編輯精選、時事精選、藝文週報等特製電子報。還可留言與作者、記者、編輯討論文章內容。
-
+<!-- tcd_original_link https://www.thenewslens.com/article/161127 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

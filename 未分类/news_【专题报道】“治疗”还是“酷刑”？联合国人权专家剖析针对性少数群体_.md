@@ -86,7 +86,7 @@ Matheus Affonso
 马德里加尔-博尔洛斯：“我紧急呼吁联合国会员国针对矫正治疗采取果断行动，并共同努力在全球范围内禁止这类做法。”
 
 黄莉玲，联合国纽约总部报道。
-
+<!-- tcd_original_link https://news.un.org/zh/story/2020/07/1062101 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

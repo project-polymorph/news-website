@@ -17,7 +17,7 @@
 **标签**: [美军](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%BE%8E%E5%86%9B) [军演](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%86%9B%E6%BC%94) [海军陆战队](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F)
 
 凤凰新媒体版权所有 版权 © 2013 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://news.ifeng.com/a/20141022/42269517_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

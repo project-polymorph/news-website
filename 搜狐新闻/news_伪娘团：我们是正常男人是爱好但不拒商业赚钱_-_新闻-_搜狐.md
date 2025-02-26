@@ -68,7 +68,7 @@
 **(责任编辑：new2)**  
 
 ---
-
+<!-- tcd_original_link http://news.sohu.com/20120425/n341566168.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -25,7 +25,7 @@
 
 ### 版权信息
 新浪新闻官方
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-09-24/detail-ikknscsi4336234.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

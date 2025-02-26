@@ -21,8 +21,7 @@
 ---
 版权 © 1996-2010 SINA Corporation, All Rights Reserved  
 [新浪简介](http://corp.sina.com.cn/chn/)│[广告服务](http://emarketing.sina.com.cn/)│[联系我们](http://www.sina.com.cn/contactus.html)│[网站律师](http://www.sina.com.cn/intro/lawfirm.shtml)  
-
-
+<!-- tcd_original_link http://news.sina.com.cn/c/2010-05-10/154020241230.shtml?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

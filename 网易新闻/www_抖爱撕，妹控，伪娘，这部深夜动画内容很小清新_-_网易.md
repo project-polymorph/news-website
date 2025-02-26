@@ -94,7 +94,7 @@
 
 图片来源：
 ![动漫N次番](https://static.ws.126.net/f2e/www/index2014/images/sprite_dw2.png)
-
+<!-- tcd_original_link https://www.163.com/dy/article/D3FHIEJO05159SNS.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -52,7 +52,7 @@
 **新浪网友0** 1  
 **有点美女味道，比“湖南小伙变性感美女 走上从艺之路”强多了。。。。。**  
 **2005-09-13**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-09-13/detail-ikknscsi7725272.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

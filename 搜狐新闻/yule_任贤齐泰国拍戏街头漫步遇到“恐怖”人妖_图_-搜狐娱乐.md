@@ -21,7 +21,7 @@
 ---
 
 **版权说明：** 文章及图片版权均属于原作者及来源网站，未经允许不得转帖或用于商业用途。
-
+<!-- tcd_original_link http://yule.sohu.com/46/84/article164278446.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

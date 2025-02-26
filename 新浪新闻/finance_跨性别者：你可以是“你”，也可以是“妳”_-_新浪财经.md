@@ -91,7 +91,7 @@
 希望我们都可以接纳自我，拥抱自我，和自己和解。
 
 ![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://finance.sina.cn/insurance/bxzx/2021-01-03/detail-iiznezxs9366465.d.html?oid=4103642396898698&vt=4&cid=76659&node_id=76659 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

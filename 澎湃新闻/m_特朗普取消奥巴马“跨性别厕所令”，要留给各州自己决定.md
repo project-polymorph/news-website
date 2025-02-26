@@ -16,7 +16,7 @@
 斯派塞说，特朗普相信“州权”。他说，与公立学校等公立场所卫生间有关的跨性别者权利问题最好留给美国的50个州来决定。
 
 校对：丁晓
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_1625665 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

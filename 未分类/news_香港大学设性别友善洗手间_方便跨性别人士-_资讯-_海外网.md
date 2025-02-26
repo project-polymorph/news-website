@@ -18,7 +18,7 @@
 责编：朱箫
 
 ![性别友善洗手间](http://statics.haiwainet.cn/images/logoS.jpg)
-
+<!-- tcd_original_link http://news.haiwainet.cn/n/2016/0902/c3541083-30284387.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

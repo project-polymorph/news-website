@@ -64,7 +64,7 @@
 好的评论会让人崇拜
 
 查看50条评论
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-06-19/detail-ikknscsi0610925.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

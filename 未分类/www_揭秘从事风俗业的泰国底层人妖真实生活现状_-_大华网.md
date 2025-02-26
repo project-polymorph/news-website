@@ -108,7 +108,7 @@
 --- 
 
 大华网 版权所有 Copyright 2007-2018 DAWANEWS.COM All Rights Reserved. Address:105-8828 Heather Street,Vancouver,BC,V6P 3S8 TEL:604-267-1778 FAX:604-267-1338 ICP 备 I0002427号
-
+<!-- tcd_original_link http://www.dawanews.com/dawa/node3/n12/u1ai48119.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

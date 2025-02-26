@@ -77,7 +77,7 @@
 ![图片](http://www.hinews.cn/news/images/d_shix.jpg)
 
 版权声明： 以上内容由[南海网](http://www.hinews.cn/)原创生产，未经书面许可，任何单位及个人不得以任何方式或理由对上述内容的任何部分进行使用、复制、修改、抄录、传播或与其它产品捆绑使用、销售。如需转载，请与南海网联系授权，凡侵犯本公司版权等知识产权的，本公司必依法追究其法律责任。电子邮箱：nhwglzx@163.com。
-
+<!-- tcd_original_link http://www.hinews.cn/news/system/2008/08/01/010300369.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

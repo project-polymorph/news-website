@@ -60,7 +60,7 @@
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 免责声明： 本文来自华商报。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2010-01-06/detail-ikmxzfmi9598818.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

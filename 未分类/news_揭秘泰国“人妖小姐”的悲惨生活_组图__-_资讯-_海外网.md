@@ -24,7 +24,7 @@
 ---
 
 版权声明：海外网版权所有，未经书面授权禁止使用。
-
+<!-- tcd_original_link http://news.haiwainet.cn/n/2015/0216/c3541083-28433527.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

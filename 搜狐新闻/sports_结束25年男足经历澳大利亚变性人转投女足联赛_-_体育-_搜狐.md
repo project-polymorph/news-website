@@ -23,7 +23,7 @@
 ![评论](https://images.sohu.com/cs/sms/ad/wenzhangyetuiguang/050728/images/wl_mmssp_46.gif)
 
 版权 © 2005 Sohu.com Inc. All rights reserved.
-
+<!-- tcd_original_link https://sports.sohu.com/20050624/n226063119.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

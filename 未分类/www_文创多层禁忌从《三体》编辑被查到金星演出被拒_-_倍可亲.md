@@ -87,7 +87,7 @@
 
 相关专题：[被带走](/infolist/news-626/)  
 [我也说几句](/portal.php?mod=portalcp&ac=comment&op=reply&aid=942096)
-
+<!-- tcd_original_link https://www.backchina.com/news/2024/11/03/942096.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

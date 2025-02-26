@@ -27,7 +27,7 @@ Follow Yuan Tung
 ---
 
 Copyright 2024 Yuan Tung Financial Relations Limited. All rights reserved.
-
+<!-- tcd_original_link https://www.yuantung.com.hk/eng/insights/details/news-reports-about-queer -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

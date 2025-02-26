@@ -142,7 +142,7 @@ Play video, "打造“男子汉”？ 北京男孩学校的新尝试", 節目全
 
 ### [趙薇遭全網封殺鄭爽收天價罰單 中國娛樂圈持續動蕩](https://www.bbc.com/zhongwen/trad/chinese-news-58356159)  
 2021年8月27日
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/trad/chinese-news-58432243 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

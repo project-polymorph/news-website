@@ -38,7 +38,7 @@
 **评论**: 88字
 
 **操作**: [转发至微博](https://cmnt.sina.cn/index?product=comos&index=kkntiam1830551&tj_ch=news&is_clear=0)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-12-01/detail-ikkntiam1830551.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

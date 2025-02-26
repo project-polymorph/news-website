@@ -47,7 +47,7 @@ Yahoo奇摩新聞推出深度報導專題，希望和讀者一起關注更多台
 - [跨性別者「免術換證」申請者：竟因跨性別身分無法在銀行開戶](https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5-%E5%85%8D%E8%A1%93%E6%8F%9B%E8%AD%89-%E5%AE%87%E8%90%B1-%E8%BA%AB%E5%88%86%E8%AD%89-111553902.html)
 
 - [農曆過年親戚靈魂拷問 跨性別者怎麼辦？](https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5-%E5%85%8D%E8%A1%93%E6%8F%9B%E8%AD%89-%E9%81%8E%E5%B9%B4-112112300.html)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85-%E5%B0%8Fa%E8%BE%A3-%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93-%E8%B5%B0%E9%90%98%E7%8D%8E-104610054.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

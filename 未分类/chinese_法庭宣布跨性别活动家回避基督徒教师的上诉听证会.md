@@ -48,7 +48,7 @@
 
 - [英国：基督徒可不赞同跨性别，但不能在工作中表达](https://chinese.christianpost.com/news/christians-do-not-have-to-affirm-transgenderism-but-cannot-say-that-at-work-tribunal-appeal.html)  
   ![](https://cdn-chinese.christianpost.com/files/cache/thumbnail/2/69/26996_a_85_85.jpg)
-
+<!-- tcd_original_link https://chinese.christianpost.com/news/trans-activist-removed-from-christian-teachers-appeal-hearing.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

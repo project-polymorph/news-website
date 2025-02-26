@@ -34,7 +34,7 @@
 说说你的看法
 
 88字
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4552306.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

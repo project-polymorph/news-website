@@ -39,7 +39,7 @@
 
 ![其他图片](http://www.chinanews.com/fileftp/2009/01/2009-01-05/U76P4T47D10095F980DT20090105144626.jpg)
 ![其他图片](http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F972DT20090114134657.jpg)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/life/news/2010/03-12/2165149.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

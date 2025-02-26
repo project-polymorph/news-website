@@ -70,7 +70,7 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. [搜狐公司](https://corp
 --- 
 
 此内容为跨性别相关的内容存档，涉及重要图片和相关信息。
-
+<!-- tcd_original_link http://news.sohu.com/20120720/n348623623.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

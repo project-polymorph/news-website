@@ -26,7 +26,7 @@
 广州美莱整形外科主任罗延平指出，变性手术周期长、手术多，很多细节方面的改造比单纯的器官改造还难。“目前还没组织专家会诊，没有具体方案，大致的手术阶段是，先进行颜面五官改造，再进行形体塑造，最后再进行其他性器官改造手术。”
 
 标签：[刘霆](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%88%98%E9%9C%86) [手术](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%89%8B%E6%9C%AF) [医生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8C%BB%E7%94%9F)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20140815/41593191_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

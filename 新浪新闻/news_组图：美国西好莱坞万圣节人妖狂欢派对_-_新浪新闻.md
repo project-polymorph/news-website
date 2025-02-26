@@ -43,7 +43,7 @@
 88字
 
 立即转发
-
+<!-- tcd_original_link https://news.sina.cn/sa/2002-11-05/detail-ikknscsi0279912.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

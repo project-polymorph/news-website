@@ -72,7 +72,7 @@
 
 **评论：** 共有评论2条  
 **[点击查看](http://comment.ifeng.com/view.php?chId=344&docId=1578744&docName=28%e5%b2%81%e7%94%b7%e5%ad%90%e4%b8%ba%e5%8f%98%e6%80%a7%e6%8c%a5%e5%88%80%e8%87%aa%e5%ae%ab+%e6%af%8d%e4%ba%b2%e6%9b%be%e8%a6%81%e6%96%ad%e7%bb%9d%e5%85%b3%e7%b3%bb&docUrl=http%3a%2f%2fnews.ifeng.com%2fsociety%2f2%2f201003%2f0317_344_1578744.shtml)**
-
+<!-- tcd_original_link https://news.ifeng.com/society/2/201003/0317_344_1578744.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

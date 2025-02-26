@@ -51,7 +51,7 @@ A生于泰国中产阶层家庭，“她”当人妖不是为了赚钱，而是�
 **评论数**: 68
 
 **转发链接**: [_0_](https://cmnt.sina.cn/index?product=comos&index=kkntiak8841064&tj_ch=news&is_clear=0)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-12-13/detail-ikkntiak8841064.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

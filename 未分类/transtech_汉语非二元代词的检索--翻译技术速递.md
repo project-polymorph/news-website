@@ -49,7 +49,7 @@
 ---
 
 ![微信关注沙龙君](http://transtech.lingosail.com/static/img/frontend/news/shalongwechatCode.jpg)
-
+<!-- tcd_original_link http://transtech.lingosail.com/news/detail/188108 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

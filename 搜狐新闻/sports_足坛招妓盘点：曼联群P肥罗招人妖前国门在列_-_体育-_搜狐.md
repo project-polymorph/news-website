@@ -41,7 +41,7 @@
 - 我们尊重网友发言的权利，请您尊重他人，文明用语。
 
 Copyright © 2018 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp.sohu.com/s2007/copyright/)
-
+<!-- tcd_original_link https://sports.sohu.com/20100906/n274744037_5.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

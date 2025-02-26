@@ -71,7 +71,7 @@ Netflix称赞艾利奥特是超级英雄，只要他愿意，随时可以在《�
 **原标题**: 《盗梦空间》女主宣布是跨性别男性：请用“他”或“他们”称呼我  
 
 **特别声明**: 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[https://renzheng.thepaper.cn](https://renzheng.thepaper.cn)。
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_10272167 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

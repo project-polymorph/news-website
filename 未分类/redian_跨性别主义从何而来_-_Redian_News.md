@@ -54,7 +54,7 @@
 原文刊载于福音联盟中文网站，转发略有编辑，原标题：How the Self Transformed Sex
 
 [微信扫码关注该文公众号作者](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&__biz=MzIxOTM4NTk2OA==&mid=2247489127&idx=1&sn=3ba917a4c125f8da61f08d86396a69fb)
-
+<!-- tcd_original_link https://redian.news/wxnews/878700 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

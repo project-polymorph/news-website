@@ -67,7 +67,7 @@ Alejandro Jimenez是德克萨斯州立大学的大二学生，他的梦想是在
 面对如此多的不确定性，18岁的纽约跨性别大学生Eli强调了社区的重要性，尤其是对那些现在感到担忧的年轻人来说。
 
 “你并不孤单，”It Gets Better的大使Eli说。出于安全考虑，他要求只透露自己的名字。“我们会走出困境。有很多酷儿成年人过着幸福长寿的生活，你也会的。”
-
+<!-- tcd_original_link https://m.163.com/dy/article_cambrian/JGU8PFON0552JRS3.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

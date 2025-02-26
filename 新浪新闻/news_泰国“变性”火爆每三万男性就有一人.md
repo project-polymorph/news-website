@@ -27,7 +27,7 @@
 ---
 
 **评论**: 请输入评论内容
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2799549.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

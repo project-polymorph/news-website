@@ -73,7 +73,7 @@
 \[4\]Bockting,W.O.,Robinson,B.E.,&Rosser,B.R.S.(1998).Transgender HIV prevention:A qualitative needs assessment.AIDS Care,10(4),505–525.  
 
 本文来源：医学界妇产科频道  
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_13911151 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

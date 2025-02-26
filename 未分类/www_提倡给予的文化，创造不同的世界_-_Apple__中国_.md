@@ -136,7 +136,7 @@ Apple 媒体联络
 ![新闻稿](https://www.apple.com.cn/newsroom/images/2024/10/apple-introduces-m4-pro-and-m4-max/tile/Apple-M4-chip-series-hero-lp.jpg.landing-regular.jpg)  
 ### Apple 发布 M4 Pro 和 M4 Max 芯片  
 2024 年 10 月 30 日
-
+<!-- tcd_original_link https://www.apple.com.cn/newsroom/2019/01/out-of-a-culture-of-giving-a-world-of-difference/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -141,7 +141,7 @@ Thompson, R. G. (2020). Embracing Authenticity: Self-Acceptance and Identity Exp
 Rodriguez, M. H. (2021). Breaking Gender Barriers: "The Danish Girl" and the Power of Representation. Gender & Media Studies, 48(1), 89-106.
 
 Williams, E. R. (2022). Gender Identity and Social Change: The Impact of "The Danish Girl" on Public Discourse. Journal of Communication and Culture, 39(4), 215-232.
-
+<!-- tcd_original_link https://www.sohu.com/a/693065490_121656233 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

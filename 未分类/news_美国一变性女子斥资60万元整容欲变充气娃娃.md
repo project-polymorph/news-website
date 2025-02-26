@@ -45,7 +45,7 @@ Katella的朋友米歇尔·沃勒尔(Michel Voeller)称，“作为朋友我们�
 
 来源：环球网  
 编辑：李莎宁
-
+<!-- tcd_original_link https://news.rednet.cn/c/2014/03/24/3304870.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

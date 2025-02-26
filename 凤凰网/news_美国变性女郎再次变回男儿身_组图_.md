@@ -21,7 +21,7 @@
 [**泰国举办世界变性人选美大赛 三甲揭晓\[组图\]**](http://news.ifeng.com/photo/other/200711/1112_1399_293755.shtml "泰国举办世界变性人选美大赛 三甲揭晓[组图]")  
 [**号称“中国最美男人”为演戏吃雌性激素**](http://news.ifeng.com/photo/other/200707/0710_1399_152471.shtml "号称“中国最美男人”为演戏吃雌性激素")  
 [**越南少女红星性爱视频网上曝光 全国震撼\[组图\]**](http://news.ifeng.com/photo/society/200710/1025_1400_272560.shtml "越南少女红星性爱视频网上曝光 全国震撼[组图]")
-
+<!-- tcd_original_link https://news.ifeng.com/photo/society/200711/1122_1400_306790.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

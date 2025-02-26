@@ -91,7 +91,7 @@ id：CROME星空萌
 -   原文链接：[https://kuaibao.qq.com/s/20181109A1Q01R00?refer=cp_1026](https://kuaibao.qq.com/s/20181109A1Q01R00?refer=cp_1026)
 -   腾讯「腾讯云开发者社区」是腾讯内容开放平台帐号（企鹅号）传播渠道之一，根据[《腾讯内容开放平台服务协议》](https://om.qq.com/notice/a/20160429/047194.htm)转载发布内容。
 -   如有侵权，请联系 cloudcommunity@tencent.com 删除。
-
+<!-- tcd_original_link https://cloud.tencent.com/developer/news/345222 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

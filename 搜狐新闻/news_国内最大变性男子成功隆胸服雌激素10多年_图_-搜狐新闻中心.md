@@ -119,7 +119,7 @@
 ---
 
 转自搜狐
-
+<!-- tcd_original_link http://news.sohu.com/20050629/n226117747.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

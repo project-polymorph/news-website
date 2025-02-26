@@ -380,7 +380,7 @@ US$25 每班
 13-18
 
 © 2024 校外
-
+<!-- tcd_original_link https://outschool.com/zh-TW/classes/ongoing-queer-lgbtq-news-events-and-culture-U1seJRDB?srsltid=AfmBOorL6iC_A1KIaJEtYw0AISUE1udK9VF0TMGybJOe5KUiNYu1gv9u -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

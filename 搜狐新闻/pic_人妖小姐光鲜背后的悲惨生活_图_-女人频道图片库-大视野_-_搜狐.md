@@ -20,7 +20,7 @@
 ---
 
 Copyright © 2014 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有](http://corp.sohu.com/s2007/copyright/)
-
+<!-- tcd_original_link http://pic.women.sohu.com/group-280558.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

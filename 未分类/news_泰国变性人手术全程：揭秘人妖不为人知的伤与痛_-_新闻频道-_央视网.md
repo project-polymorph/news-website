@@ -29,7 +29,7 @@
 ---
 
 责任编辑：魏新民
-
+<!-- tcd_original_link http://news.cntv.cn/20120202/114889_7.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

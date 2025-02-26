@@ -52,7 +52,7 @@
 ---
 
 **版权信息:** 凤凰新媒体 版权所有 © 2013 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://fashion.ifeng.com/health/longevity/photo/detail_2012_08/01/16460369_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

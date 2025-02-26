@@ -74,7 +74,7 @@
 **直接毙了吧 留着恶心人**  
 **2011-06-24**  
 新浪网友
-
+<!-- tcd_original_link https://news.sina.cn/sa/2011-06-24/detail-ikftpnny4851413.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

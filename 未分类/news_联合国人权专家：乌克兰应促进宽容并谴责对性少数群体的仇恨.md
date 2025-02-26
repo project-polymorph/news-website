@@ -48,7 +48,7 @@
 **标签**: [人权](https://zh/news/topic/human-rights)  
 
 联合国人权高专办发言人斯罗赛尔（Elizabeth Throssell）今天向记者表示，最近几周，乌克兰各地发生了多起针对罗姆人、性少数群体和其他少数群体的[严重暴力和骚扰事件](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=23166&LangID=E)，人权高专办呼吁乌克兰政府立即采取行动，密切关注国内极右翼团体动向，对此类袭击事件采取“零容忍”政策。
-
+<!-- tcd_original_link https://news.un.org/zh/story/2019/05/1034172 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

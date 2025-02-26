@@ -32,7 +32,7 @@
 **版权**: Copyright © 2003 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有
 
 ![图标](https://images.sohu.com/pixel.gif)
-
+<!-- tcd_original_link http://news.sohu.com/09/93/news148429309.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

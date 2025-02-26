@@ -52,7 +52,7 @@
 Copyright © 2013 - 2024 Tencent Cloud. All Rights Reserved. 腾讯云 版权所有  
 深圳市腾讯计算机系统有限公司 ICP备案/许可证号：[粤B2-20090059](https://beian.miit.gov.cn/#/Integrated/index) [深公网安备号 44030502008569](https://www.beian.gov.cn/portal/index.do)  
 腾讯云计算（北京）有限责任公司 京ICP证150476号 | [京ICP备11018762号](https://beian.miit.gov.cn/#/Integrated/index) | [京公网安备号11010802020287](https://www.beian.gov.cn/portal/index.do)
-
+<!-- tcd_original_link https://cloud.tencent.com/developer/news/647829 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

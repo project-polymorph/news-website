@@ -52,7 +52,7 @@
 **评论链接:** [当前热评](index.php?act=newsreply&nid=692262#poppin)
 
 **版权信息:** Copyright (C) All rights Reserved. 
-
+<!-- tcd_original_link https://www.6parknews.com/newspark/view.php?app=news&act=view&nid=692262 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

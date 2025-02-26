@@ -42,7 +42,7 @@
 ## 评论 { data-search-exclude }
 
 您所处的位置 [网站首页](../../index.htm) > [媒体聚焦](../../mtjj.htm) > 正文
-
+<!-- tcd_original_link https://www.shsmu.edu.cn/news/info/1007/4494.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

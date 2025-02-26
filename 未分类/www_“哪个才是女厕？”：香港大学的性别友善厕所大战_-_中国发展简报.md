@@ -79,7 +79,7 @@ S. Bear Gergman为此撰写一文《跨性别者的膀胱》，诉说自己身�
 
 版权 © 2024 北京益行公益信息交流服务中心  
 [京ICP备2021028761号-3](https://beian.miit.gov.cn/#/Integrated/recordQuery)
-
+<!-- tcd_original_link https://www.chinadevelopmentbrief.org.cn/news/detail/16251.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

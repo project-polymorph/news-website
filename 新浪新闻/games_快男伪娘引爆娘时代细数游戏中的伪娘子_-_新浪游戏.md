@@ -251,7 +251,7 @@ CS OL－崔智云
 
 Copyright © 1996 - 2014 SINA Corporation, All Rights Reserved  
 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link http://games.sina.com.cn/zt/weiniang2010/index.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -44,7 +44,7 @@
 [_0_](https://cmnt.sina.cn/index?product=comos&index=kkntiak9638355&tj_ch=news&is_clear=0)  
 88字  
 立即转发
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-02-27/detail-ikkntiak9638355.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -43,7 +43,7 @@
 ---
 
 本网站所刊载信息，不代表中新社观点。 刊用本网站稿件，务经书面授权。法律顾问:大地律师事务所 赵小鲁 方宇
-
+<!-- tcd_original_link http://www.chinanews.com.cn/news/2005/2005-05-15/26/574217.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

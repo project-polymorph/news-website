@@ -110,7 +110,7 @@ DSM第四版的序言中有这样一段话，“无论是行为偏离正常（�
 --- 
 
 版权信息：Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
-
+<!-- tcd_original_link https://blog.sina.com.cn/s/blog_5b2b70620102wvvm.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

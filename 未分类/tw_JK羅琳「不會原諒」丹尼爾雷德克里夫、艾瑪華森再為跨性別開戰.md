@@ -25,7 +25,7 @@ JK羅琳在X（推特）分享相關報導後表示，她非常憤怒，「成�
 ![丹尼爾雷德克里夫（右1）和艾瑪華森（中）不認同JK羅琳對跨性別者的想法。（圖／Getty）](https://s.yimg.com/ny/api/res/1.2/wG0OVG2cEaIDyZGi.FH5PQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc2MTtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2024-04/2af82ab0-f7f1-11ee-af7d-ed859af3fce6)
 
 [**作者：Yahoo奇摩新聞娛樂記者 許瑞麟／綜合報導**](https://tw.news.yahoo.com/yahoo_ent_2--entertainment/archive)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/jk%E7%BE%85%E7%90%B3%E3%80%8C%E4%B8%8D%E6%9C%83%E5%8E%9F%E8%AB%92%E3%80%8D%E4%B8%B9%E5%B0%BC%E7%88%BE%E9%9B%B7%E5%BE%B7%E5%85%8B%E9%87%8C%E5%A4%AB%E3%80%81%E8%89%BE%E7%91%AA%E8%8F%AF%E6%A3%AE-%E5%86%8D%E7%82%BA%E8%B7%A8%E6%80%A7%E5%88%A5%E9%96%8B%E6%88%B0%EF%BC%9A%E9%9D%9E%E5%B8%B8%E6%86%A4%E6%80%92-105317266.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

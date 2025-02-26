@@ -45,7 +45,7 @@
 ![](http://i5.chinanews.com/photo/hd_img/k03-03.gif)
 
 ![](http://i3.chinanews.com/photo/special_img2009/blank.gif)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/news/photo_hd/2009/11-01/2781.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -184,7 +184,7 @@ END
 **原标题：《新西兰变性人，淘汰出局》**  
 
 [阅读原文](http://mp.weixin.qq.com/s/a-h5myM1ZhiMisUC0whwFg)
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_13887853 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

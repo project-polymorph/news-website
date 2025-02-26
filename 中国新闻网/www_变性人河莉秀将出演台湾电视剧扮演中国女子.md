@@ -29,7 +29,7 @@
 - [图文：韩国变性人河莉秀主演影片《黄头发Ⅱ》](http://www.chinanews.com.cn//2001-04-17/26/86119.html) (2001-04-17 11:45:05)
 
 本网站所刊载信息，不代表中新社观点。　刊用本网站稿件，务经书面授权。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/2002-11-27/26/247547.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

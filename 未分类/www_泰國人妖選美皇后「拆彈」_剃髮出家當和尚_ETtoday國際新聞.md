@@ -28,7 +28,7 @@ ETtoday留言 FB留言
 ### 版權信息
 
 **版權所有，非經授權，不得轉載。** [ETtoday著作權聲明](https://www.ettoday.net/member/clause_copyright.php)
-
+<!-- tcd_original_link https://www.ettoday.net/news/20130517/208948.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

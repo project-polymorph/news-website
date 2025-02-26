@@ -102,7 +102,7 @@ TA们有很多共性的地方。比如，都有压抑和不堪回首的青春期
 **评论:** 10408条  
 **版权:** 版权所有 请勿转载  
 **推荐:** [新浪图片](https://photo.sina.com.cn/) | [看见](https://www.weibo.com/) | [秦翼](https://www.weibo.com/)
-
+<!-- tcd_original_link http://slide.news.sina.com.cn/slide_1_33131_94566.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

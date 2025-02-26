@@ -26,7 +26,7 @@
 ## 相关新闻 { data-search-exclude }
 
 [更多关于 强奸 变性人 的新闻>>](https://news.sogou.com/news?query=强奸 变性人&pid=31023101&md=listTopics&name=&mode=0&sort=0)
-
+<!-- tcd_original_link http://news.sohu.com/20090220/n262357550.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

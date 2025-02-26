@@ -26,7 +26,7 @@
 - [巴黎奧運／國光獎金有二千萬想怎麼使用？李洋、林郁婷都想做這件事](https://www.setn.com/News.aspx?NewsID=1516550&from=y)
 - [拳擊／林郁婷鶯歌大遊行鄉親父老塞爆 受訪再提「J個朋友」J.K羅琳](https://www.setn.com/News.aspx?NewsID=1516396&from=y)
 - [柔道／辛苦幫粉絲簽了4小時名卻被網友拿去賣 連珍羚難過發文了...](https://www.setn.com/News.aspx?NewsID=1516485&from=y)
-
+<!-- tcd_original_link https://tw.sports.yahoo.com/news/%E6%8B%B3%E6%93%8A-%E9%81%AD%E5%B7%9D%E6%99%AE%E6%9A%97%E8%AB%B7-%E8%AE%8A%E6%80%A7%E4%BA%BA-%E6%9E%97%E9%83%81%E5%A9%B7-%E5%9C%A8%E5%8F%8B%E5%96%84%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E6%88%91%E5%80%91%E6%9C%83%E5%8E%BB%E5%8C%85%E5%AE%B9-120020981.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

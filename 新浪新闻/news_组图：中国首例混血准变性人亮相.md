@@ -26,7 +26,7 @@
 **新浪新闻官方**
 
 ---
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-08-17/detail-ikftssap2702762.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

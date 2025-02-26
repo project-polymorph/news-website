@@ -31,7 +31,7 @@
 - “小便，第四张没有打码，有点不习惯！” - 跟帖局首席新闻官 
 
 本内容仅供个人表达看法，并不表明网易立场。
-
+<!-- tcd_original_link https://news.163.com/photoview/00AP0001/79229.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

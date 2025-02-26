@@ -41,7 +41,7 @@ Wu Tsang的艺术创作涉及性别、性取向、种族和阶级，其主题涵
 ---
 
 **版权**: Copyright © 1996-2012 SINA Corporation, All Rights Reserved 新浪公司 版权所有
-
+<!-- tcd_original_link http://collection.sina.com.cn/hwdt/20120719/111875874.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

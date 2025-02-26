@@ -27,7 +27,7 @@
 责任编辑：吴亮
 
 版权所有 中国互联网新闻中心 电子邮件: news@china.org.cn 电话: 86-10-88828000 [京ICP证 040089号-1](https://beian.miit.gov.cn/) 网络传播视听节目许可证号:0105123
-
+<!-- tcd_original_link http://news.china.com.cn/2021-09/06/content_77734967.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

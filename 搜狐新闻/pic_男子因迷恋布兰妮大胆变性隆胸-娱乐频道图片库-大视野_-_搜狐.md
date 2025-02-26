@@ -18,7 +18,7 @@
 - [搜狐微博](javascript:void(0))
 - [人人网](javascript:void(0))
 - [QQ空间](javascript:void(0); "分享到QQ空间")
-
+<!-- tcd_original_link http://pic.v.sohu.com/group-365319.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

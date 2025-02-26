@@ -38,7 +38,7 @@
 
 > 相关新闻来源：[俄罗斯卫星通讯社](https://sputniknews.cn/)  
 > [完整文章链接](https://sputniknews.cn/20240802/1060756921.html)
-
+<!-- tcd_original_link https://sputniknews.cn/20240802/1060756921.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

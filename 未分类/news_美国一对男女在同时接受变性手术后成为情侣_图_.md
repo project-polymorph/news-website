@@ -46,7 +46,7 @@
 ---  
 
 太长
-
+<!-- tcd_original_link http://news.cnhubei.com/xw/gj/201211/t2316327.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

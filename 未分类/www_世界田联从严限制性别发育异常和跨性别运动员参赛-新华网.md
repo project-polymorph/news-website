@@ -24,7 +24,7 @@ _2023_03/24 15:15:51
 
 Copyright © 2000 - 2024 XINHUANET.com All Rights Reserved.  
 制作单位：新华网股份有限公司  版权所有：新华网股份有限公司
-
+<!-- tcd_original_link http://www.news.cn/sports/2023-03/24/c_1129461122.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -44,7 +44,7 @@
 **王展9569** 0  
 变态不是自残的理由，既然如此不满足自己性别，死了吧！  
 **2013-09-11**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2013-01-06/detail-ikmxzfmk1700521.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

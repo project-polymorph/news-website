@@ -96,7 +96,7 @@
 天平如何才能平衡？始终是个问题。尊重不是说说而已，可以尊重为名强迫接受，也是一种暴力。跨性别者的权益应当被保护，普通公民的权益也不能忽视。这显然已经不是靠医学、“法令”就可以解决的事。  
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/kuaibao_detail.jsp?contid=2270711&from=kuaibao -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

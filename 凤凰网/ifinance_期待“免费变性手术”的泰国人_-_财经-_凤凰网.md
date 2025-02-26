@@ -30,7 +30,7 @@
 **日期**: 2023年5月25日  
 **标签**: 泰国, 跨性别, 手术, 医疗, 性别重置  
 **作者**: 不详  
-
+<!-- tcd_original_link http://ifinance.ifeng.com/13734504/news.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

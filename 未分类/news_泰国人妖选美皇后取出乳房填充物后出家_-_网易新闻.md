@@ -34,7 +34,7 @@
 **评论**: 共有1766条评论，点击查看[评论](https://comment.tie.163.com/PHOT11PA0001591M.html)。
 
 **版权**: © 1997-2024 网易公司版权所有
-
+<!-- tcd_original_link https://news.163.com/photoview/591M0001/34602.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -146,7 +146,7 @@ poy被喻为泰国最美的变性人，最近与韩国变性人河莉秀相遇�
 ![泰国小胖墩变性性感美女](https://n1.itc.cn/img8.wb/smccloud/fetch/2015/09/04/81394337727275356.JPEG)
 
 [原文链接](https://yule.sohu.com/20150904/n420387210.shtml)
-
+<!-- tcd_original_link https://yule.sohu.com/20150904/n420387210.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -85,7 +85,7 @@
 **经营许可证编号**：[京ICP00000008号](https://bbs.sohu.com/license.htm)  
 **《互联网电子公告服务管理规定》**  
 **《全国人大常委会关于维护互联网安全的规定》**
-
+<!-- tcd_original_link http://news.sohu.com/20040723/n221167234.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

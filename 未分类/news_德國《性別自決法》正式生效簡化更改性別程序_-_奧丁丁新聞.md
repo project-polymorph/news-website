@@ -68,7 +68,7 @@
 德國之聲中文網每天向您公正、及時地報導天下大事，以及全面介紹德國與歐洲的社會生活。
 
 [Source](https://www.dw.com/zh/德国《性别自决法》正式生效-简化更改性别程序/a-70659485?zhongwen=trad&maca=chi-VAS-VT-OwlNews-TW-Lang_KOPIE-35563-xml-media)
-
+<!-- tcd_original_link https://news.owlting.com/articles/851346 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

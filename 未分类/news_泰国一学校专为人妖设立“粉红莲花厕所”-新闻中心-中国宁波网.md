@@ -33,7 +33,7 @@
 ![](http://www.cnnb.com.cn/pic/0/04/21/41/4214177_806742.jpg)
 
 Copyright(C) 2001-2024 cnnb.com.cn All Rights Reserved
-
+<!-- tcd_original_link http://news.cnnb.com.cn/system/2004/06/27/000848307.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

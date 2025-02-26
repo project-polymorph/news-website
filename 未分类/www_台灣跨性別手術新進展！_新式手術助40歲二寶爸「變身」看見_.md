@@ -34,7 +34,7 @@
 目前台灣跨性別人數約佔總人口的0.5%，約有10萬餘人。林口長庚醫院院長陳建宗表示，跨性別置換手術是個新興的議題，期許林口長庚醫院「性別置換醫療團隊」提供完整的醫療技術，幫助民眾走出自我，活出嶄新人生。
 
 **關鍵字**: [變性手術](https://www.healthnews.com.tw//search/?keyword=變性手術), [性別置換手術](https://www.healthnews.com.tw//search/?keyword=性別置換手術), [胡瀞暄](https://www.healthnews.com.tw//search/?keyword=胡瀞暄), [3D內視鏡](https://www.healthnews.com.tw//search/?keyword=3D內視鏡), [跨性別手術](https://www.healthnews.com.tw//search/?keyword=跨性別手術), [陰道重建](https://www.healthnews.com.tw//search/?keyword=陰道重建), [跨性別者](https://www.healthnews.com.tw//search/?keyword=跨性別者), [整形外科](https://www.healthnews.com.tw//search/?keyword=整形外科)
-
+<!-- tcd_original_link https://www.healthnews.com.tw/article/61111 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

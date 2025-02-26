@@ -32,7 +32,7 @@
 **版权**: © 1996 - 2004 SINA Inc. All Rights Reserved  
 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)  
 **评论**: [新浪简介](http://corp.sina.com.cn/chn/) | [About Sina](http://corp.sina.com.cn/eng/)
-
+<!-- tcd_original_link http://news.sina.com.cn/c/2004-07-17/08563110488s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

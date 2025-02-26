@@ -40,7 +40,7 @@
 ### [台湾通过亚洲首部同性婚姻专法](/zhongwen/simp/chinese-news-48306662)
 
 **时间：** 2019年5月17日
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-69166017 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

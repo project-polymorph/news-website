@@ -41,7 +41,7 @@
 ----
 
 本報導版權所有，轉載時請注明來源。
-
+<!-- tcd_original_link https://newtalk.tw/news/view/2021-11-19/669082 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -62,7 +62,7 @@
 ![transgender symbol on a traffic light](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/5EAC/production/_97063242_hi039937038.jpg.webp)  
 ### [性別認同：跨性別人士權益會弱化女性權益？](/zhongwen/trad/uk-40772676)  
 2017年7月31日  
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/trad/chinese-news-64327239 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

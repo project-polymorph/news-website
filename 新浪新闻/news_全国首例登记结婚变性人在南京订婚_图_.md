@@ -146,7 +146,7 @@
 **新浪网友0**
 **q**  
 **2004-05-03**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-04-25/detail-ikkntiak9841148.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

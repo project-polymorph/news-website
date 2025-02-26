@@ -28,7 +28,7 @@
 [**辩论区**](https://comment2.news.sohu.com/viewdebates.action?id=246081473)  
 
 版权 © 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有](https://corp.sohu.com/s2007/copyright/)
-
+<!-- tcd_original_link http://news.sohu.com/20061030/n246081473.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

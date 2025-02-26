@@ -51,7 +51,7 @@
 - [英七旬老翁变身艺伎 成为全球首位变性艺伎(图)](http://www.chinanews.com.cn/gj/dqsj/news/2008/10-23/1422183.shtml)
 - [图：变性人在菲律宾首都展身姿](http://www.chinanews.com.cn/gj/kong/news/2008/10-18/1416829.shtml)
 - [河莉秀欲提携陈莉莉 坦言在韩国变性人压力大](http://www.chinanews.com.cn/yl/mxzz/news/2008/10-09/1406805.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/jk/ysbb/news/2008/11-04/1437129.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

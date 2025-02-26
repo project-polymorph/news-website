@@ -75,7 +75,7 @@ _部分資料來自網路 ( [@memethief90](https://twitter.com/memethief90/statu
 ### 註解：
 
 - *以上內容完整且原樣保留，所有圖片、資料來源、作者信息等毫无修改。*
-
+<!-- tcd_original_link https://news.gamme.com.tw/1752983 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

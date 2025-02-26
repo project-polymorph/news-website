@@ -19,7 +19,7 @@
 [原文链接](https://sports.sohu.com/20130925/n387208392.shtml)
 
 **责任编辑**: 樊晋平
-
+<!-- tcd_original_link https://sports.sohu.com/20130925/n387208392.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

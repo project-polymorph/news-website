@@ -24,7 +24,7 @@
 - [泰收紧为男性变性政策 需“心理符合”女性特征](http://www.chinanews.com.cn/gj/gj-sswh/news/2009/11-25/1984310.shtml)
 - [16个秘密揭开男人"真面目" 英国第一变性美人(图)](http://www.chinanews.com.cn/life/news/2009/11-25/1983558.shtml)
 - [英国变性第一人：妩媚妖娆曾被毕加索追求(组图)](http://www.chinanews.com.cn/life/news/2009/11-25/1983056.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/life/news/2009/12-14/2016345.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -50,7 +50,7 @@
 4. 以上聲明的「懶人包」已上傳到Instagram：[https://www.instagram.com/p/CoW_4VXhrER/](https://www.instagram.com/p/CoW_4VXhrER/)
 
 注：雖然社會形容此案件時有時用上「跨性別」字眼，但我們在聲明用的字眼是「變性人」，英文是Transexual，簡稱TS，是跨性別Transgender（TG）類別下的細分類。有時也會統稱為「跨性別」Transgender（TG），因此兩個詞語有時是互用。但變性人(TS)特別指尋求醫療援助進行性別重置療法，例如性別肯定激素治療和性別重置手術的人士（像今次案件的人士）。而「跨性別」（TG）指一些認同自己的性別為非生理性別的人士，而他們不一定尋求醫療援助。基於以上分別，我們用上「變性人」一詞。
-
+<!-- tcd_original_link https://christiantimes.org.hk/Common/Reader/News/ShowNews.jsp?Nid=170895&Pid=104&Version=0&Cid=2052&Charset=big5_hkscs -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

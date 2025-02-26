@@ -170,7 +170,7 @@
 ---
 
 转自搜狐
-
+<!-- tcd_original_link http://news.sohu.com/2004/03/18/05/news219480521.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

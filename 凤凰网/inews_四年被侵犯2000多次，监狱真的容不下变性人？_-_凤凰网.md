@@ -104,7 +104,7 @@
 - [Daily Mail](http://www.dailymail.co.uk/news/article-5964539/Transgender-prisoner-female-jail-sexually-assaulted-four-women.html)
 
 责任编辑人：王家乐 PX043
-
+<!-- tcd_original_link http://inews.ifeng.com/59285449/news.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

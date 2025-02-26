@@ -72,7 +72,7 @@ JATENZO是FDA批准的首款且唯一口服软凝胶，用于睾酮替代疗法�
 
 © 2024 All Rights Reserved 医药魔方 版权所有  
 沪ICP备2024080838号-7
-
+<!-- tcd_original_link https://bydrug.pharmcube.com/news/detail/5ee2c1e5605b93b122d02f22ecf9c3f5 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

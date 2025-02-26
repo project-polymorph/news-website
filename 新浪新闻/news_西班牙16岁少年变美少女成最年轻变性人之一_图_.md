@@ -30,7 +30,7 @@
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)  
 **标签**：变性, 年轻, 法律, 医疗
-
+<!-- tcd_original_link https://news.sina.cn/sa/2010-01-14/detail-ikmxzfmi9632525.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

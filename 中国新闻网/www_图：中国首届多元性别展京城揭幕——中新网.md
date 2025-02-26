@@ -15,7 +15,7 @@
 ![图片2](U225P4T8D1733590F116DT20090615085149.jpg)
 
 **版权声明**: 凡注有“cnsphoto”字样的图片版权均属中国新闻网,未经书面授权,不得转载使用。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/tp-shfq/news/2009/06-15/1733590.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

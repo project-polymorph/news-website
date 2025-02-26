@@ -88,7 +88,7 @@
 
 **刊登这些新闻比贩黄还毒 记者为了一时之功利,会致一个无辜于死地.别人日后如何生活? 为别人想想吧!!! 笔下留情!**  
 2006-06-07  
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-06-07/detail-ikftpnny3617967.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

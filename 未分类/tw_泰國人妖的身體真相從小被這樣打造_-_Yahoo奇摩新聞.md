@@ -25,7 +25,7 @@
 **標籤**: 人妖, 泰国, 性别  
 **作者**: 國際中心  
 **編輯**: 未知  
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E6%B3%B0%E5%9C%8B%E4%BA%BA%E5%A6%96%E7%9A%84%E8%BA%AB%E9%AB%94%E7%9C%9F%E7%9B%B8-%E5%BE%9E%E5%B0%8F%E8%A2%AB%E9%80%99%E6%A8%A3%E6%89%93%E9%80%A0-014000586.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

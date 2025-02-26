@@ -46,7 +46,7 @@
 
 [返回原文链接](https://news.sohu.com/20150131/n408268728.shtml)  
 **责任编辑：** UN006
-
+<!-- tcd_original_link https://news.sohu.com/20150131/n408268728.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

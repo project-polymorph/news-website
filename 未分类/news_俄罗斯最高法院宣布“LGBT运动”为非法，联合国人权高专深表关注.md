@@ -35,7 +35,7 @@ LGBT是同性恋、双性恋和跨性别者等性少数群体的英文缩写。
 - **作者**: 联合国新闻编辑部
 
 ![](https://mc.yandex.ru/watch/98581370)
-
+<!-- tcd_original_link https://news.un.org/zh/story/2023/11/1124457 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

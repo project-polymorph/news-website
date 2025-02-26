@@ -38,7 +38,7 @@
 普理查德的同僚、议会议员安德鲁·珀西表示，对年仅9岁的儿童采取治疗、阻止其正常发育与生长的过程是与传统观念不相符的，他认为人们会对这一治疗方案感到惊恐。
 
 标签：[性发育](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%A7%E5%8F%91%E8%82%B2) [发育](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%91%E8%82%B2) [男孩](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%B7%E5%AD%A9)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20140521/40395744_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

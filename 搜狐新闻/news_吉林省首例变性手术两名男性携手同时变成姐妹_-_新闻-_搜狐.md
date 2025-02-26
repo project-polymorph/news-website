@@ -49,7 +49,7 @@
 
 * 注：请各位遵纪守法并注意语言文明。  
 * 版权信息：版权所有 © 2005 Sohu.com Inc. All rights reserved. [关于我们](https://www.sohu.com/about/)
-
+<!-- tcd_original_link http://news.sohu.com/2004/02/25/89/news219198956.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

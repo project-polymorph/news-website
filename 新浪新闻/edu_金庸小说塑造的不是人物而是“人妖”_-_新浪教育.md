@@ -54,7 +54,7 @@
 好的评论会让人崇拜
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://edu.sina.cn/sa/2001-03-30/detail-ikftpnny8626116.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

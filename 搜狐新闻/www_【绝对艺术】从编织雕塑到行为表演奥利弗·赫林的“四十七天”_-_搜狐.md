@@ -94,7 +94,7 @@
 **联系我们**:  
 邮箱：market@absolutemagazine.cn  
 地址：北京市 朝阳区 秀水路1号 建国门外 外交公寓2号楼一单元41号 **绝对传媒**
-
+<!-- tcd_original_link https://www.sohu.com/a/151108402_306436 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

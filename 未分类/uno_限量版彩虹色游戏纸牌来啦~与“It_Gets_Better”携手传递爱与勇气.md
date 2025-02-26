@@ -75,7 +75,7 @@ It Gets Better构想了一个世界，所有(LGBTQ+)youth都可以自由地平�
 ![版权信息](https://nie.res.netease.com/comm/NIE_copyRight/images/netease.2.png)  
 ![版权信息](https://nie.res.netease.com/comm/NIE_copyRight/images/nie.2.png)  
 **版权：** 网易公司版权所有 ©1997-2024  
-
+<!-- tcd_original_link https://uno.163.com/news/official/20210520/28794_949018.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

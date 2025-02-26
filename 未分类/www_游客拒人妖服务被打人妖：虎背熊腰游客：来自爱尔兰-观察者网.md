@@ -29,7 +29,7 @@
 - **标签：** 游客
 - **责任编辑：** 刘响
 - **链接：** [请支持独立网站，转发请注明本文链接](https://www.guancha.cn/broken-news/2015_05_04_318268.shtml)
-
+<!-- tcd_original_link https://www.guancha.cn/broken-news/2015_05_04_318268.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

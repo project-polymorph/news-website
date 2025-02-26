@@ -113,7 +113,7 @@ Mario Montez也是安迪·沃霍尔工厂培养出的一位明星。他以男扮
 安迪·沃霍尔：银幕上的明星  
 展期：2015.10.30-2016.1.24  
 多伦多电影节Bell Lightbox文化大厦）
-
+<!-- tcd_original_link http://inews.ifeng.com/yidian/46321714/news.shtml?ch=ref_zbs_ydzx_news -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

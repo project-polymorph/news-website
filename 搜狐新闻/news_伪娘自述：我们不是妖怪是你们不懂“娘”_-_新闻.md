@@ -150,7 +150,7 @@
 ###### 栏目策划：冰清 主持人：袁文 页面设计：Agui
 
 Copyright © 2017 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp.sohu.com/s2007/copyright/)
-
+<!-- tcd_original_link http://news.sohu.com/s2012/newsmaker77/index.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

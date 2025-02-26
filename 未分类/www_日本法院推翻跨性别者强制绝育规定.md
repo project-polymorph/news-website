@@ -47,7 +47,7 @@
 ---
 
 ![Human Rights Watch](https://www.hrw.org/)
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2023/10/16/japan-court-rules-against-mandatory-transgender-sterilization -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

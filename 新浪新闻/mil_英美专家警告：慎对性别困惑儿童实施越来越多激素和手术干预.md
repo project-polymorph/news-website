@@ -25,7 +25,7 @@
 - 立即转发
 
 **标签**：#跨性别 #儿童 #性别困惑 #性别干预
-
+<!-- tcd_original_link https://mil.sina.cn/2019-07-25/detail-ihytcerm6250622.d.html?vt=4 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

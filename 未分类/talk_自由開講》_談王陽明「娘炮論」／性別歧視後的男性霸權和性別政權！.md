@@ -35,7 +35,7 @@
 - [自由廣場》奧運性別爭議 性平之路仍漫長](https://talk.ltn.com.tw/article/paper/1661147)
 - [自由開講》比起軍費 增補兵源也亟需補強](https://talk.ltn.com.tw/article/breakingnews/4760461)
 - [自由開講》不只台灣之光！林郁婷用拳擊為性別歧視受壓迫者在世界發聲！](https://talk.ltn.com.tw/article/breakingnews/4763535)
-
+<!-- tcd_original_link https://talk.ltn.com.tw/article/breakingnews/4777854 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

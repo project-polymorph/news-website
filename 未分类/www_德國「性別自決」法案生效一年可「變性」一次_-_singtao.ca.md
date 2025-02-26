@@ -54,7 +54,7 @@
 ---
 
 以上內容由加拿大星島日報提供。
-
+<!-- tcd_original_link https://www.singtao.ca/6922606/2024-11-02/news-%E5%BE%B7%E5%9C%8B%E3%80%8C%E6%80%A7%E5%88%A5%E8%87%AA%E6%B1%BA%E3%80%8D%E6%B3%95%E6%A1%88%E7%94%9F%E6%95%88++%E4%B8%80%E5%B9%B4%E5%8F%AF%E3%80%8C%E8%AE%8A%E6%80%A7%E3%80%8D%E4%B8%80%E6%AC%A1/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

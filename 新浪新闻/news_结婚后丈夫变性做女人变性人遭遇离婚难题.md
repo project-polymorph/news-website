@@ -51,7 +51,7 @@
 **时间**: 2003-12-30
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2158162.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

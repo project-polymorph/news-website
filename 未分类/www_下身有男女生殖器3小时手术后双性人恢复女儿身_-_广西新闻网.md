@@ -50,7 +50,7 @@
 桂公网安备 45010302000154号  
 
 互联网出版许可证（桂）字003号 桂B2-20040022
-
+<!-- tcd_original_link http://www.gxnews.com.cn/staticpages/20130507/newgx518844f7-7516571.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

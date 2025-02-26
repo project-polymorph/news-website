@@ -80,7 +80,7 @@
 
 **版权**: 版权所有 © 1996 - 2004 SINA Inc. All Rights Reserved  
 **评论链接**: [评论](http://comment.sina.com.cn/cgi-bin/comment/comment.cgi?channel=shuo&newsid=97573)
-
+<!-- tcd_original_link http://eladies.sina.com.cn/2004-06-16/97573.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

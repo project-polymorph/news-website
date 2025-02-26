@@ -71,7 +71,7 @@ tags: [性別認同, 跨性別, 法律, 德國]
 未經同意，不得擅自利用本站內容。
 
 Copyright © 2024 Plain Law Movement All rights reserved.
-
+<!-- tcd_original_link https://plainlaw.me/posts/dailynews-2024-04-19 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

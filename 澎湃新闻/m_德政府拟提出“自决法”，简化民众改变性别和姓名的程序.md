@@ -19,7 +19,7 @@
 德国司法部长马可·布施曼表示，他相信今年晚些时候内阁将会通过立法来纳入这些变化。
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/wifiKey_detail.jsp?contid=18815377&from=wifiKey -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

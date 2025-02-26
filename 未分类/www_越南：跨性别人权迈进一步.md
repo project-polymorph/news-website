@@ -42,8 +42,7 @@
 - 2024年 07月 12日: [日本通过法律‘增进对LGBT人士的理解’](https://www.hrw.org/zh-hans/news/2023/07/12/japan-passes-law-promote-understanding-lgbt-people)  
   
   ![Supporters of Equality Act Japan gather in front of parliament](https://www.hrw.org/sites/default/files/styles/square/public/media_2023/202307asia_japan_lgbt_equalityact_protest.jpg?h=c6980913&itok=p33c77Zv) 
-
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2015/11/30/284029 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

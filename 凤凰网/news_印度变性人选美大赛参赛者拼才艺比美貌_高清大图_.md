@@ -22,7 +22,7 @@
 凤凰新媒体 版权所有 不得转载  
 [legal@ifeng.com](mailto:legal@ifeng.com)  
 京ICP证030609号
-
+<!-- tcd_original_link https://news.ifeng.com/photo/bigpicture/355_slide.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -148,7 +148,7 @@
 [跨性別](/taxonomy/term/102)
 
 [Facebook](/#facebook) [Twitter](/#twitter) [Line](/#line) [Email](/#email) [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fhotline.org.tw%2Fnews%2F3408&title=%E3%80%8A2023%E5%8F%B0%E7%81%A3%E8%B7%A8%E6%80%A7%E5%88%A5%E6%97%8F%E7%BE%A4%E7%94%9F%E6%B4%BB%E8%99%95%E5%A2%83%E5%A0%B1%E5%91%8A%E3%80%8B%E6%9A%A8%E8%A8%98%E8%80%85%E6%9C%83)
-
+<!-- tcd_original_link https://hotline.org.tw/news/3408 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

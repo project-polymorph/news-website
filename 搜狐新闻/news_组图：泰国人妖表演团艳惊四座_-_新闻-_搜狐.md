@@ -35,7 +35,7 @@
 - 06-11-06 10:11·[图文:泰国普吉岛特色"人妖"表演](https://news.sohu.com/20061106/n246217660.shtml)
 - 06-08-05 10:19·[啤酒城内严禁人妖表演 发现人妖最高罚款10万](https://news.sohu.com/20060805/n244634782.shtml)
 - 06-07-07 14:45·[七名人妖被武汉警方遣返出境 机场即兴表...](https://news.sohu.com/20060707/n244150670.shtml)
-
+<!-- tcd_original_link http://news.sohu.com/20090819/n266073153.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

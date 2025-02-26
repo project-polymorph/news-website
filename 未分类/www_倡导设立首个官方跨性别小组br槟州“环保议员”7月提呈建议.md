@@ -55,7 +55,7 @@
 ---
 
 _关注《当今大马》[WhatsApp频道](https://mk.my/whatsapp) 随时接收新闻推送。_
-
+<!-- tcd_original_link https://www.malaysiakini.com/news/132645 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

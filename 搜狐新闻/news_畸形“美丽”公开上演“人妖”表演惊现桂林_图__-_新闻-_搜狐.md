@@ -56,7 +56,7 @@
 - [武汉一酒吧竟提供“人妖”脱衣舞表演(图)](https://news.sohu.com/20061121/n246528030.shtml)(11/21 15:19)
 - [啤酒城内严禁人妖表演 发现人妖最高罚款10万](https://news.sohu.com/20060805/n244634782.shtml)(08/05 10:19)
 - [7名“人妖”来汉非法表演 警方依法将其遣返出境](https://news.sohu.com/20060707/n244140218.shtml)(07/07 08:45)
-
+<!-- tcd_original_link http://news.sohu.com/20070326/n248979590.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

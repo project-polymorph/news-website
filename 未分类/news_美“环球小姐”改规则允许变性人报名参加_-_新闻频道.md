@@ -58,7 +58,7 @@
 - [参赛资格](http://so.cntv.cn/search.php?qtext=参赛资格&sid=0000&pid=0000)
 - [修改规则](http://so.cntv.cn/search.php?qtext=修改规则&sid=0000&pid=0000)
 - [有线电视新闻网](http://so.cntv.cn/search.php?qtext=有线电视新闻网&sid=0000&pid=0000)
-
+<!-- tcd_original_link http://news.cntv.cn/20120414/104135.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -50,7 +50,7 @@
 ![image](http://y1.ifengimg.com/ifengimcp/pic/20151029/f01c9b968d073033eaa9_size1826_w3102_h4985.jpg)
 
 ![image](http://y1.ifengimg.com/ifengimcp/pic/20151029/a1a6a3fb22d42d02f5ca_size676_w2185_h3277.jpg)
-
+<!-- tcd_original_link http://inews.ifeng.com/yidian/46041082/news.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

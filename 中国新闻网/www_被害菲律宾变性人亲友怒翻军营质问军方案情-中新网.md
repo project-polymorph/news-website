@@ -15,7 +15,7 @@
 评论： [查看评论(0)](http://comment.chinanews.com/comments/comments.php?newsid=hd_51824)  
 [我要评论](http://comment.chinanews.com/comments/comments.php?newsid=hd_51824)  
 【**顶**]() 【**踩**()】
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2014/10-23/425142.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

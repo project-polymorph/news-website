@@ -26,7 +26,7 @@
 标签：[师生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B8%88%E7%94%9F) [学生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A6%E7%94%9F) [校园](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%A0%A1%E5%9B%AD) 
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150408/43506249_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

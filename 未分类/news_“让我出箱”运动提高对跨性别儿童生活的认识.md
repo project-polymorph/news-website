@@ -66,7 +66,7 @@
 - 来源：[联合国新闻](https://news.un.org/zh/story/2022/03/1101322)
 - 标签：联合国艾滋病规划署, 性少数群体
 - 日期：2022年3月31日
-
+<!-- tcd_original_link https://news.un.org/zh/story/2022/03/1101322 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

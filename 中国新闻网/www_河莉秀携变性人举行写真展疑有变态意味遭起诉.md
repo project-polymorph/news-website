@@ -34,7 +34,7 @@
 - [变性艺人河莉秀自爆婚姻生活：时而乖巧时而性感](http://www.chinanews.com.cn/yl/mxzz/news/2009/03-03/1585616.shtml)
 - [韩星河莉秀在内地收养小孩？网友认为"明显炒作"](http://www.chinanews.com.cn/yl/mxzz/news/2009/02-27/1581610.shtml)
 - [河莉秀欲提携陈莉莉 坦言在韩国变性人压力大](http://www.chinanews.com.cn/yl/mxzz/news/2008/10-09/1406805.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/yl/yl-mxzz/news/2010/02-22/2130887.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

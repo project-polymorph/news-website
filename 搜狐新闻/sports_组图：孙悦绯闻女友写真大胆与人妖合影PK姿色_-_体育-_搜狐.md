@@ -60,7 +60,7 @@
 10. [吉林篮球宝贝小文性感写真 百变造型展傲人身材](https://pic.sports.sohu.com/group-206397.shtml)
 11. [连载：强吻阿娇阿sa元凶曝光 超级富豪身家70亿](https://lz.club.sports.sohu.com/lz/serialise_details.php?serialise=46302&tp=2)
 12. [图集：央视体育美女主播写真 靓丽演绎红黑诱惑](https://p.club.sports.sohu.com/bp-101982.html)
-
+<!-- tcd_original_link https://sports.sohu.com/20090919/n266840208_2.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

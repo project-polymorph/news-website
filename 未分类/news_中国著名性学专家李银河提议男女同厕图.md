@@ -80,7 +80,7 @@
 **纠错：** [171964650@qq.com](mailto:171964650@qq.com)  
 
 ![图片](http://www.cnnb.com.cn/pic/0/04/21/41/4214177_806742.jpg)
-
+<!-- tcd_original_link http://news.cnnb.com.cn/system/2004/08/11/000884448.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -17,7 +17,7 @@
 **标签:** 跨性别选美, 巴西变性人选美  
 **评论:** [查看评论(0)](http://comment.chinanews.com/comments/comments.php?newsid=5408803)  
 **分享到:** 更多...
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257172.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

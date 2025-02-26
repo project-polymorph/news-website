@@ -13,7 +13,7 @@
 
 ![Image 1](http://i2.chinanews.com/simg/hd/2013/11/27/200x133_ac526990e7bd414899602554ae50eb87.jpg)  
 ![Image 2](http://i2.chinanews.com/simg/hd/2013/11/26/200x133_735462eeacab44ab8b3dcb068afbd619.jpg)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2013/11-27/269968.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

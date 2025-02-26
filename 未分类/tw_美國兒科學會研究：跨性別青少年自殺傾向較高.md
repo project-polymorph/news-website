@@ -27,7 +27,7 @@
 **標籤**: 跨性別, 自殺, 研究, 青少年  
 **作者**: Kairos  
 **編輯**: 不明
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E5%85%92%E7%A7%91%E5%AD%B8%E6%9C%83%E7%A0%94%E7%A9%B6-%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9D%92%E5%B0%91%E5%B9%B4%E8%87%AA%E6%AE%BA%E5%82%BE%E5%90%91%E8%BC%83%E9%AB%98-033403011.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

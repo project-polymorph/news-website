@@ -84,7 +84,7 @@
 
 - **马来西亚国会下议院前副议长：仁义礼智信反映到国家治理层面 道理是相通的**  
   ![马来西亚国会下议院前副议长：仁义礼智信反映到国家治理层面 道理是相通的](https://d.ifengimg.com/w72_h40/x0.ifengimg.com/ucms/2024_44/F1BC00881BED99CDA5EA85CD4B7C764BF9C2287C_size29_w1079_h606.webp)
-
+<!-- tcd_original_link https://news.ifeng.com/c/8MIpRa1mRMG -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

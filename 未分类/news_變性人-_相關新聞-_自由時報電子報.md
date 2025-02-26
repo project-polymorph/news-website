@@ -124,7 +124,7 @@
 ---
   
 2024年11月12日‧星期二‧甲辰年十月十二日
-
+<!-- tcd_original_link https://news.ltn.com.tw/topic/%E8%AE%8A%E6%80%A7%E4%BA%BA -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

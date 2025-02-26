@@ -34,7 +34,7 @@ Gay-rights advocates cheered the decision. 'It's quite absurd that Hong Kong has
 **编辑：** 卢晓雪  
 
 **标签：** [翻译服务](https://www.oktranslation.cn/ "翻译服务")
-
+<!-- tcd_original_link https://www.oktranslation.com/news/twininfo36131.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

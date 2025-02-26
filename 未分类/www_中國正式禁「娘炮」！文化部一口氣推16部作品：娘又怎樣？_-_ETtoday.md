@@ -61,7 +61,7 @@ ETtoday留言 FB留言
 - [娘炮](/news/tag/娘炮/)
 
 © ETtoday.net All Rights Reserved.
-
+<!-- tcd_original_link https://www.ettoday.net/news/20210907/2073503.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -23,7 +23,7 @@
 - [死因研訊｜女子腦手術後中風昏迷兩年後過世 裁判官裁定死於自然](news-detail.php?r=2023106&y=2024)
 - [41歲男星離世遺愛妻及雙胞胎女兒 疑因打新冠疫苗陷重症 長期住院臨終瘦到皮包骨](news-detail.php?r=2022036&y=2024)
 - [多地開展聚集性「不明原因肺炎」疫情防控應急演練 網民：新冠又來？](news-detail.php?r=2017573&y=2024)
-
+<!-- tcd_original_link https://hd.stheadline.com/ncov/news-detail.php?y=2020&r=1181218 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

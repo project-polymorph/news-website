@@ -206,7 +206,7 @@ Macaleo一个人去了上海的医院，诊断结果在她的预料之中：她�
 **特别声明**
 
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场。
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_8786958 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -260,7 +260,7 @@
 摄影：本报记者 张寒  
 
 新京报制图/丁华勇
-
+<!-- tcd_original_link http://news.cctv.com/society/20070627/100106.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

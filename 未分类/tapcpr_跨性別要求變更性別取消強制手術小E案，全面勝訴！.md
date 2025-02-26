@@ -69,7 +69,7 @@
 - [人工生殖法草案建議書](http://tapcpr.org/hot-news/press-release/2024/08/20/人工生殖法草案建議書)
 - [反歧視草案建議書](http://tapcpr.org/hot-news/press-release/2024/08/14/反歧視草案建議書)
 - [【跨性別變更性別登記Vivi案】再戰性別變更——伴盟訴求依法國模式「不提供」醫療診斷證明](http://tapcpr.org/hot-news/press-release/2024/07/11/跨性別變更性別登記vivi案-再戰性別變更-伴盟訴求依法國模式-不提供-醫療診斷證明)
-
+<!-- tcd_original_link https://tapcpr.org/hot-news/2021/09/28/%EF%BC%9A%E8%B7%A8%E6%80%A7%E5%88%A5%E8%A6%81%E6%B1%82%E8%AE%8A%E6%9B%B4%E6%80%A7%E5%88%A5%E5%8F%96%E6%B6%88%E5%BC%B7%E5%88%B6%E6%89%8B%E8%A1%93%E5%B0%8Fe%E6%A1%88-%E5%85%A8%E9%9D%A2%E5%8B%9D%E8%A8%B4 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

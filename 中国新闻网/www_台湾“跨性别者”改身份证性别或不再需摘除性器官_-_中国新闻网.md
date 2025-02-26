@@ -28,7 +28,7 @@
 网友评论  以下留言仅代表网友个人观点
 
 [台湾频道:](/taiwan/index.shtml) [万象](https://channel.chinanews.com/cns/cl/tw-wxqq.shtml) [时事](https://channel.chinanews.com/cns/cl/tw-jjtw.shtml) [时评](https://channel.chinanews.com/cns/cl/tw-thsp.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tw/2014/12-26/6914460.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

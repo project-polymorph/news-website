@@ -55,7 +55,7 @@
 **做自己的事!**  
 **时间**: 2007-04-29  
 新浪网友
-
+<!-- tcd_original_link https://news.sina.cn/sa/2007-04-26/detail-ikftssap2870413.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

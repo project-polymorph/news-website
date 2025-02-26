@@ -27,7 +27,7 @@
 [世界观](https://channel.chinanews.com/cns/cl/gj-zxsjg.shtml)  
 
 **版权声明**：本文为原创，转载请注明出处。
-
+<!-- tcd_original_link https://www.chinanews.com/gj/2015/03-23/7149986.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

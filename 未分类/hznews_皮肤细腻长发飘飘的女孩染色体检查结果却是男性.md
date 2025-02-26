@@ -60,7 +60,7 @@
 [浙公网安备：33010002000058号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010002000058)  
 
 版权 © 2001 - 2024 Hangzhou.com.cn All Rights Reserved
-
+<!-- tcd_original_link https://hznews.hangzhou.com.cn/kejiao/content/2012-05/23/content_4210035_2.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

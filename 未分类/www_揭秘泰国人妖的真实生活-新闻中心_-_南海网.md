@@ -124,7 +124,7 @@
 ·凡注明为其它来源的信息，均转载自其它媒体，转载目的在于传递更多信息，并不代表本网赞同其观点和对其真实性负责。  
 
 ![南海网24小时新闻报料热线966123](http://www.hinews.cn/news/images/96613-1.jpg)
-
+<!-- tcd_original_link http://www.hinews.cn/news/system/2014/11/15/017115488.shtml?WSKY=7322e -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

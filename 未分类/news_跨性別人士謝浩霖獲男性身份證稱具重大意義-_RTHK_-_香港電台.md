@@ -25,7 +25,7 @@
 E-mail: [cnews@rthk.hk](mailto:cnews@rthk.hk)
 
 ![DCSIMG](http://sdc.rthk.hk/dcseht10h000004r7f320gnyr_5q2e/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2)
-
+<!-- tcd_original_link https://news.rthk.hk/rthk/ch/component/k2/1751001-20240429.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

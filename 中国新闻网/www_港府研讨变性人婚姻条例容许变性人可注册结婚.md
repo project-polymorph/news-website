@@ -22,7 +22,7 @@
 网友评论　以下留言仅代表网友个人观点
 
 [港澳频道:](/gangao/index.shtml) [社会百态](https://channel.chinanews.com/cns/cl/ga-stwx.shtml) [港澳与内地](https://channel.chinanews.com/cns/cl/ga-gaynd.shtml) [财经直通车](https://channel.chinanews.com/cns/cl/ga-cjxw.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/ga/2014/04-02/6020020.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

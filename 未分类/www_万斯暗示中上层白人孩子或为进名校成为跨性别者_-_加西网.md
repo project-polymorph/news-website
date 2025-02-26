@@ -20,7 +20,7 @@
 
 **注:**  
 - 新闻来源于其它媒体，内容不代表本站立场！
-
+<!-- tcd_original_link https://www.westca.com/News/article/sid=1044858/lang=schinese.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

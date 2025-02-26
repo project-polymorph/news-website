@@ -89,8 +89,7 @@
 --- 
 
 **版权声明：** 本文版权归四川新闻网-成都商报所有。  
-
-
+<!-- tcd_original_link http://music.yule.sohu.com/20100507/n271972989.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

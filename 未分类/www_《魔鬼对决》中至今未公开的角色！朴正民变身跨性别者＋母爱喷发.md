@@ -44,7 +44,7 @@
 - [朴正民](https://www.koreastardaily.com/sc/tags/%E6%9C%B4%E6%AD%A3%E6%B0%91)
 
 © 2024 KSD 韩星网版权所有 不得转载，非得本站书面同意 请勿抄袭、转载、改写或引述本站内容。
-
+<!-- tcd_original_link https://www.koreastardaily.com/sc/news/129128 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

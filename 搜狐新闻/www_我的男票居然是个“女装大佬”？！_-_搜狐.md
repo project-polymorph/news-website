@@ -222,7 +222,7 @@ Hailey乐此不疲地用垫肩大廓形西装外套打造出街造型，无论�
 撰文：Ashley  
 微信编辑：Yiran Wang  
 部分图源：IG/微博/网络/东方IC
-
+<!-- tcd_original_link https://www.sohu.com/a/284978372_99985468 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

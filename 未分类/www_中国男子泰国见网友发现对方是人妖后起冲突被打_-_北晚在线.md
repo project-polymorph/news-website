@@ -35,7 +35,7 @@
 - 跨性别
 - 泰国
 - 新闻
-
+<!-- tcd_original_link http://www.takefoto.cn/viewnews-808582.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

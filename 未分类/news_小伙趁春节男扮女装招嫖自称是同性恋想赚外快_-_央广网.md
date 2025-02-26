@@ -29,8 +29,7 @@
 - [女的都弱爆了！ 这些男神男扮女装秒杀范冰冰An...](http://www.cnr.cn/ent/list/20150129/t20150129_517568178.shtml)  
 - [钟汉良何炅刘烨黄晓明 男星萌死人不偿命男扮女...](http://www.cnr.cn/ent/tpgd/20150129/t20150129_517565963.shtml)  
 - [广西:学长男扮女装代学妹考试 两学生被开除(图)](http://www.cnr.cn/newscenter/native/gd/20150122/t20150122_517500112.shtml)  
-
-
+<!-- tcd_original_link http://news.cnr.cn/native/gd/20150225/t20150225_517804987.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -111,7 +111,7 @@ LGBT文学可以追溯到古典时代。在二十世纪，E·M·福斯特、弗�
 ---
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/wifiKey_detail.jsp?contid=8248806&from=wifiKey -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

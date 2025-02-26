@@ -122,7 +122,7 @@ Drag up your life!
 ![13.gif](../../../images/2022-08/f67df3e589e74865808f1c74c14aa29f.gif)
 
 Copyright© 2020 文化传播学院 All Rights Reserved 技术支持：天润顺腾
-
+<!-- tcd_original_link https://news.culr.edu.cn/whcbxy/xsgz/xsmj/xzxjxsbz/8dbb5d037e544a17a49bfb48fc95817c.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

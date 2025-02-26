@@ -67,7 +67,7 @@ IOC医学主任巴吉特认为新的规定势在必行：“这是一个科学�
 88字
 
 立即转发
-
+<!-- tcd_original_link https://news.sina.cn/2016-01-26/detail-ifxnurxn9986831.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

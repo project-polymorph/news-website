@@ -38,7 +38,7 @@
 **时间**：2005-04-16  
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-04-16/detail-ikkntiam3265191.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

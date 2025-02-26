@@ -103,7 +103,7 @@ Notice: The content above (including the videos, pictures and audios if any) is 
 - [现场：被小意外惹恼，特朗普竞选集会怒砸话筒](https://news.ifeng.com/c/8eBGJOXCn4X)
 
   ![特朗普竞选集会](https://d.ifengimg.com/w72_h40/x0.ifengimg.com/ucms/2024_44/037C4CA76C115890E262748898F57E1EAA222B9C_size73_w975_h549.jpg)
-
+<!-- tcd_original_link https://news.ifeng.com/c/7ouj0SdFrV8 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

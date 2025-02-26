@@ -37,7 +37,7 @@ _责任编辑：Pawan_
 ![活动图片](https://news.ipcf.org.tw/wp-content/uploads/2024/11/02120423/%E6%AD%A6%E7%95%8C%E9%83%A84%E4%BA%BA%E5%8F%97%E5%9B%B0%E5%8D%A1%E7%A4%BE%E6%BA%AA-%E7%A9%BA%E5%8B%A4%E5%B0%8B%E7%8D%B2%E5%90%8A%E6%8E%9B%E4%B8%8B%E5%B1%B1-768x461.jpg)
 
 版权 © 2021 Indigenous Peoples Cultural Foundation All Rights Reserved.
-
+<!-- tcd_original_link https://news.ipcf.org.tw/143872 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

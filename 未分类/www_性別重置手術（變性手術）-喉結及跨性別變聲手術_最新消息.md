@@ -52,7 +52,7 @@
 
 1. Tara Elena Song, Nancy Jiang. Transgender Phonosurgery: A Systematic Review and Meta-analysis. Otolaryngology–Head and Neck Surgery 2017, Vol. 156(5) 803–808
 2. Carolyn R. Hodges‑Simeon et al. Testosterone therapy masculinizes speech and gender presentation in transgender men (2021) 11:3494
-
+<!-- tcd_original_link https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=7611 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

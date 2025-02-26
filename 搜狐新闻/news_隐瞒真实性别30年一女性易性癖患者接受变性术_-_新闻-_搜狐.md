@@ -50,7 +50,7 @@
 **版权**：Copyright © 2016 Sohu.com Inc. All Rights Reserved.  
 **联系方式**：[jubao@contact.sohu.com](mailto:jubao@contact.sohu.com)  
 **隐私权**：[保护隐私权](https://www.sohu.com/about/privacy.html)
-
+<!-- tcd_original_link http://news.sohu.com/20080605/n257304010.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

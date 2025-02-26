@@ -79,7 +79,7 @@
 ---
 
 *本文來源: art-mate.net*
-
+<!-- tcd_original_link https://www.art-mate.net/enews/202411 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

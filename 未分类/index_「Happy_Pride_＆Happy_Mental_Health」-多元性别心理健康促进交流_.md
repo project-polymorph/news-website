@@ -25,7 +25,7 @@
 ![dot image pixel](https://sp.analytics.yahoo.com/sp.pl?a=10000&b=%E3%80%8CHappy%20Pride%20%EF%BC%86Happy%20Mental%20Health%E3%80%8D-%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E4%BF%83%E8%BF%9B%E4%BA%A4%E6%B5%81%E4%BC%9A%E8%AE%AE&.yp=10080398&f=https%3A%2F%2Findex.tnu.edu.tw%2Fzh_cn%2FLatest_news_2%2F-Happy-Pride-%25EF%25BC%2586Happy-Mental-Health-%25E5%25A4%259A%25E5%2585%2583%25E6%2580%25A7%25E5%2588%25A5%25E5%25BF%2583%25E7%2590%2586%25E5%2581%25A5%25E5%25BA%25B7%25E4%25BF%2583%25E9%2580%25B2%25E4%25BA%25A4%25E6%25B5%2581%25E6%259C%2583%25E8%25AD%25B0-16882934_59126cae1d41c86b020003d0h&enc=UTF-8&yv=1.16.5)
 
 ![](https://www.facebook.com/tr?id=4405502549548608&ev=PageView&noscript=1)
-
+<!-- tcd_original_link https://index.tnu.edu.tw/zh_cn/Latest_news_2/-Happy-Pride-%EF%BC%86Happy-Mental-Health-%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E4%BF%83%E9%80%B2%E4%BA%A4%E6%B5%81%E6%9C%83%E8%AD%B0-16882934_59126cae1d41c86b020003d0h -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

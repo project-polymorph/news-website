@@ -49,7 +49,7 @@
 
 **标签**：异装癖，变脸  
 **参考资料**：[点击查看更多](http://news.sohu.com/news?query=异装癖 变脸)
-
+<!-- tcd_original_link http://arts.cul.sohu.com/20130712/n381279823.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

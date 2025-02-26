@@ -41,7 +41,7 @@
 **作者**: 侯虹斌（专栏作家）
 
 **标签**: [刘霆](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%88%98%E9%9C%86) [性征](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%A7%E5%BE%81) [模范](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%A8%A1%E8%8C%83)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150410/43520143_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

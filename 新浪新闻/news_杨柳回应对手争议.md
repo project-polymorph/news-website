@@ -44,7 +44,7 @@
 **指间有个太阳666**: 二椅子只敢参加女子项目  
 **时间**: 2024-08-10  
 **地点**: 辽宁沈阳
-
+<!-- tcd_original_link https://news.sina.cn/gn/2024-08-10/detail-incicfvq5020336.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

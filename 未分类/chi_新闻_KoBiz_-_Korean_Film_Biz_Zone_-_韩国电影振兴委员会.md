@@ -30,7 +30,7 @@
 
 **来源**: KoBiz - Korean Film Biz Zone  
 **标签**: 酷儿题材, 同性电影, 韩国电影
-
+<!-- tcd_original_link https://chi.koreanfilm.or.kr/06_news/?mcode=0406010000&mode=2&no=3709&page=1 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

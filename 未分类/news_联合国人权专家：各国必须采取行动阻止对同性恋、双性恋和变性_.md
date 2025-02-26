@@ -42,7 +42,7 @@
 直接通过您的邮箱接收每日更新 [**点击此处订阅相关主题**](https://news.un.org/zh/content/un-newsletter-subscribe?utm_source=UN News&utm_medium=email&utm_campaign=un_news_newsletter)
 
 下载适用于您的[**iOS**](https://itunes.apple.com/us/app/un-news-reader/id496893005?mt=8)或[**Android**](https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en)设备的联合国新闻应用程序
-
+<!-- tcd_original_link https://news.un.org/zh/story/2019/10/1042992 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

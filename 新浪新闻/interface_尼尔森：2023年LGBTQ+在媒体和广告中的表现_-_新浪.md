@@ -62,7 +62,7 @@
 _标签：LGBTQ+、媒体、广告、跨性别_
 
 _版权声明：本文来源于199IT_
-
+<!-- tcd_original_link https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2024-03-01%2Fdoc-inakuawt0800964.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

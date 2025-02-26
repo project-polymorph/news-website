@@ -29,7 +29,7 @@
 
 评论内容：  
 [说说你的看法](https://cmnt.sina.cn/index?product=comos&index=kkntian1734792&tj_ch=news&is_clear=0)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2009-06-17/detail-ikkntian1734792.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

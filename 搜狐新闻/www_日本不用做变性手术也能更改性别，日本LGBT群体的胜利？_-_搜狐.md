@@ -104,7 +104,7 @@
 日本有10%人口为LGBT，乡民们哀嚎厕所已经看不懂男女了……
 
 内容来源： 网络综合整理
-
+<!-- tcd_original_link https://www.sohu.com/a/731485205_195499 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

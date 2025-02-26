@@ -42,7 +42,7 @@
 - [變性](https://health.ettoday.net/search.phtml?keyword=變性) 
 
 > ※本文版權所有，非經授權，不得轉載。[[ETtoday著作權聲明]](https://www.ettoday.net/member/clause_copyright.php)
-
+<!-- tcd_original_link https://health.ettoday.net/news/2696404 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

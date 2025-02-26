@@ -27,7 +27,7 @@
 点击查看更多评论
 
 进入评论区，查看196条评论。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2007-11-12/detail-ikftpnny3960736.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

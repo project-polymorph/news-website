@@ -38,7 +38,7 @@
 	Savav．Perovic教授表示，变性手术是一种特殊的手术，不是有钱或者想做变性手术就做得了的，而是有严格的规定，必须经过生理、心理等一系列的检查和确认才能够进行手术。 
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fnews.sina.com.cn%2Fo%2F2004-04-13%2F09322291945s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

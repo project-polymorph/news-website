@@ -38,7 +38,7 @@
 ---
 
 **版权声明:** 本内容的版权归原作者所有。
-
+<!-- tcd_original_link https://www.facebook.com/vasternews/videos/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%B0%E9%93%81%E5%86%85%E4%B8%80%E5%BC%82%E8%A3%85%E7%99%96%E7%94%B7%E5%BC%BA%E6%89%92%E8%BD%A6%E9%97%A8%E8%BF%99%E7%9C%9F%E6%98%AF%E4%B8%8D%E8%A6%81%E5%91%BD%E4%BA%86/834299708393889/?locale=hi_IN -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

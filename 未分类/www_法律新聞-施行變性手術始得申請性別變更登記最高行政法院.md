@@ -28,7 +28,7 @@
 - [跨性別者的性別平等校園－簡評桃園地方法院 108 年度桃簡字第 2000 號民事判決](/treatise/pl_article.aspx?AID=P000255769)
 
 本網站智慧財產權為法源資訊股份有限公司所有 未經正式書面授權 禁止重製轉載節錄 敬請詳閱並遵守[使用規範](/event/declare01.aspx)
-
+<!-- tcd_original_link https://www.lawbank.com.tw/news/NewsContent.aspx?NID=196185.00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

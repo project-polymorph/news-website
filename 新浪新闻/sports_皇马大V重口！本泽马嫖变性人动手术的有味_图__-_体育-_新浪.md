@@ -26,7 +26,7 @@
 **作者**：席尔瓦  
 **版权信息**：Copyright © 1996-2013 SINA Corporation, All Rights Reserved  
 **评论链接**：[欢迎发表评论](#J_Comment_Wrap)
-
+<!-- tcd_original_link http://sports.sina.com.cn/g/2013-09-24/12086798458.shtml?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

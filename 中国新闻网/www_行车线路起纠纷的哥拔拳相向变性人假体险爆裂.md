@@ -46,7 +46,7 @@
 权限信息：  
 - 备案号: 110102003042-1 
 - 版权：[中国新闻网](http://www.chinanews.com/)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/jk/ysbb/news/2009/01-13/1525998.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

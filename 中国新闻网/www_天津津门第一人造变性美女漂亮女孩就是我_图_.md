@@ -59,7 +59,7 @@
 - [变性人曾为生计男变女 今为爱情欲重回男儿身](http://www.chinanews.com.cn/sh/news/2007/05-18/938275.shtml)
 
 本网站所刊载信息，不代表中新社观点。刊用本网站稿件，务经书面授权。未经授权禁止转载、摘编、复制及建立镜像，违者依法必究。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/sh/news/2007/08-03/993930.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

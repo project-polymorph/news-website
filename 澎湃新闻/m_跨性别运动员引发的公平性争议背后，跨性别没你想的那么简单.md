@@ -117,7 +117,7 @@ Gilles-Harrison氏阴茎再造术
 \[4\] 史上第一位变性人的故事，X博士，2015.03.12  
 
 **阅读原文**: [点击这里](http://mp.weixin.qq.com/s/JivbCK_jOsUKgXZ2IQMVQg)
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_14217420 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

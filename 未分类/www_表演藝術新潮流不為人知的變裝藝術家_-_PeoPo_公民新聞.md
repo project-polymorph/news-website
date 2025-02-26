@@ -52,7 +52,7 @@
 
 ### 作者其他報導
 - 欲了解其他報導，請參閱 [更多](#)。
-
+<!-- tcd_original_link https://www.peopo.org/news/688358 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

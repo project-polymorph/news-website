@@ -69,7 +69,7 @@
 - [跨性别身份案终极胜诉：重温香港“跨仔”谢浩霖争取性别“正名”之路](https://www.bbc.com/zhongwen/trad/chinese-news-64327239)
 
 **本篇报道已经存档，不能再作修订。**
-
+<!-- tcd_original_link https://zh.wikinews.org/zh-cn/%E6%9C%AA%E5%AE%8C%E6%88%90%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E8%A2%AB%E6%8B%92%E6%94%B9%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%80%A7%E5%88%A5_%E9%A6%99%E6%B8%AF%E7%B5%82%E5%AF%A9%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E6%94%BF%E5%BA%9C%E9%81%95%E6%B3%95 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

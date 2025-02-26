@@ -130,7 +130,7 @@ C.“妹妹下把一起啊，我这把没发挥好，下把带你上分，包你
 ![当玩家在Apex里寻找赛博男娘_光·遇 | 大神](https://img.166.net/reunionpub/ds/kol/20240508/092209-39nqmtv0r5.png?imageView&tostatic=0&thumbnail=1500x0)
 
 我想，他喜欢的男娘，可以是虚拟的、纸片的、二次元的、只存在于网络的，但一定不会是三次元的。
-
+<!-- tcd_original_link https://m.ds.163.com/article/663ad4465770037b28162a6f/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -50,7 +50,7 @@
 - [北京国际电影节明星闪耀](http://news.hangzhou.com.cn/gnxw/content/2012-04/24/content_4165590.htm)  
 - [男子水库溺水身亡 同伴救助不成功放手自保](http://news.hangzhou.com.cn/shxw/content/2012-04/24/content_4165534.htm)  
 - [部分老酸奶厂商称产品并未添加工业明胶](http://news.hangzhou.com.cn/gnxw/content/2012-04/10/content_4143878.htm)  
-
+<!-- tcd_original_link https://news.hangzhou.com.cn/gjxw/content/2012-05/10/content_4191836.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

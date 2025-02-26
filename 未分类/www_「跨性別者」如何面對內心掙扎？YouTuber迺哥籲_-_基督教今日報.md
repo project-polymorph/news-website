@@ -140,7 +140,7 @@
 - [#跨性別女性](Search.aspx?PK=000000003156943d9b4583b885d6134382950822a1f67550)
 - [#性別再造](Search.aspx?PK=00000000315696b8a960c64f8d81fc4e9291a8454c0b41fd)
 - [#性別重制](Search.aspx?PK=0000000031569a2832c9809801cf5f43bca3420d2d709c79)
-
+<!-- tcd_original_link https://www.cdn-news.org/news/N2306060002 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

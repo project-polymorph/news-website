@@ -319,7 +319,7 @@ C先生是跨性别男性，寸短，银色耳环，日常穿着男士西装和�
 （为保护受访者隐私，文中部分人物为化名）
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/kuaibao_detail.jsp?contid=5530241&from=kuaibao -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

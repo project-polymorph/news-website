@@ -38,7 +38,7 @@
 
 **CopyRight 2003-2011 © All Rights Reserved.**  
 版权所有：新西兰中文先驱报社
-
+<!-- tcd_original_link http://epaper.chnet.co.nz/Html/2012-8-16/News_29264.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

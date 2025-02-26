@@ -23,7 +23,7 @@
 **标签**：跨性别, 橄榄球, 性别认同
 
 ![点击进入下一页](http://www.chinanews.com/sports/index.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/ty/2013/03-05/4616685.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

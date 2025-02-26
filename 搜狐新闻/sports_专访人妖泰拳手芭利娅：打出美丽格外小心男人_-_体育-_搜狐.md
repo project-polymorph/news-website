@@ -66,7 +66,7 @@
 
 ### 版权声明
 本文为搜狐体育原创，未经许可不得转载。
-
+<!-- tcd_original_link https://sports.sohu.com/20120307/n336933226.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

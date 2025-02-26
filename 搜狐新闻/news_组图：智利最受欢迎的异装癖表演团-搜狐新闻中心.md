@@ -37,7 +37,7 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. [版权所有](https://www.
 **评论：**
 
 请各位遵纪守法并注意语言文明。
-
+<!-- tcd_original_link http://news.sohu.com/20050311/n224643913.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -27,7 +27,7 @@
 **稿源：** 红网
 
 **版权：** © 2012 SINA Corporation, All Rights Reserved
-
+<!-- tcd_original_link https://news.sina.com.cn/o/2012-10-13/005425348198.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

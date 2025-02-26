@@ -24,7 +24,7 @@
 更新時間：2016/05/16 07:06
 
 - [利菁](https://news.tvbs.com.tw/news/searchresult/利菁/news)
-
+<!-- tcd_original_link https://news.tvbs.com.tw/amp/detail/other/468765 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

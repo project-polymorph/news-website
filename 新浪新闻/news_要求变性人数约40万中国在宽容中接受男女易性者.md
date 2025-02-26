@@ -63,7 +63,7 @@
 好的评论会让人崇拜
 
 查看3条评论
-
+<!-- tcd_original_link https://news.sina.cn/sa/2002-04-06/detail-ikknscsi0134953.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

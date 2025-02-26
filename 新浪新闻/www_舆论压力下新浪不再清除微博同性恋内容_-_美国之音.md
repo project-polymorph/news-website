@@ -31,7 +31,7 @@
 
 - ![中美联姻的同性恋伴侣](https://gdb.voanews.com/b8604a30-273c-4cb1-9181-f374b4e8694e_tv_b1_w100_r1.jpg)
 - [中美联姻的同性恋伴侣](https://www.voachinese.com/a/1756542.html)
-
+<!-- tcd_original_link https://www.voachinese.com/a/news-china-sina-weibo-backtracks-from-gay-content-ban-after-outrage-20180416/4350273.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -35,7 +35,7 @@
 - [美國大選](https://www.setn.com/Klist.aspx?TagID=93760)
 - [廣告](https://www.setn.com/Klist.aspx?TagID=137)
 - [跨性別](https://www.setn.com/Klist.aspx?TagID=21908)
-
+<!-- tcd_original_link https://www.setn.com/News.aspx?NewsID=1556127 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

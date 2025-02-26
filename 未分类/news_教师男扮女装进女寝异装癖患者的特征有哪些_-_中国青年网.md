@@ -31,7 +31,7 @@
 责任编辑：许丽婧  
 
 ---
-
+<!-- tcd_original_link http://news.youth.cn/sh/201605/t20160505_7953835.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

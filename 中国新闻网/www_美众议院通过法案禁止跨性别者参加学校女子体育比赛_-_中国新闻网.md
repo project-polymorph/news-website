@@ -47,7 +47,7 @@
 --- 
 
 **标签**: #跨性别 #体育 #法案 #美国 #政治
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/2023/04-21/9993949.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

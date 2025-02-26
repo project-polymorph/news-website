@@ -19,7 +19,7 @@
 **时间**：2023年5月10日  
 **标签**：跨性别, LGBTQ, 健康政策, 拜登政府  
 **版权**：© 2023 相关媒体版权所有  
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_12605520 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

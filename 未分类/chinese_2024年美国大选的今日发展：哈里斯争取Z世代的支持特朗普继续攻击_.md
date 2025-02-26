@@ -91,7 +91,7 @@
 ### 依靠Al Jazeera获得真相和透明度
 
 我们使用饼干和其他跟踪技术来提供和个性化内容和广告，启用功能，衡量网站性能并启用社交媒体共享。您可以选择自定义您的偏好设置。[了解更多有关我们的饼干政策的信息。](https://privacy.aljazeera.net/cookie/)
-
+<!-- tcd_original_link https://chinese.aljazeera.net/news/political/liveblog/2024/10/25/2024%E5%B9%B4%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E7%9A%84%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B1%95%E7%A2%A7%E6%98%82%E6%96%AF%E5%9C%A8%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%E9%9B%86 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

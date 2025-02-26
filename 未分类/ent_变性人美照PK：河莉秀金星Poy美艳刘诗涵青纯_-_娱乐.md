@@ -110,7 +110,7 @@
 为了实现孩提时的梦想——做变性手术。16岁的侬可为了筹到30万泰铢(100泰铢约合3美元)的手术费，他把奖学金一点点积攒起来，再加上各种选美比赛的奖金，一起带到医院。5个月后，变性手术顺利完成，她又接着做了植乳手术。尽管两次手术都很痛苦，却都很成功。
 
 [免责声明](http://www.qingdaonews.com/content/2013-12/01/content_10484164.htm)
-
+<!-- tcd_original_link https://ent.qingdaonews.com/content/2014-12/30/content_10844903_all.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

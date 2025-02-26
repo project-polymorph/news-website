@@ -112,7 +112,7 @@
 免费 / 绿色应用 / 优质
 
 <input type="hidden" src="https://cmnt.sina.cn/index?product=comos&index=nchnqma6668276&tj_ch=news&is_clear=0" />
-
+<!-- tcd_original_link https://news.sina.cn/2024-08-04/detail-inchnqma6668276.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

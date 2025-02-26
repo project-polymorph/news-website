@@ -27,7 +27,7 @@
 但法官张举能反问，人权法正是为了保障社会上的少数或弱者，假如要先得到主流意见认可，或与人权法理念背道而驰。
 
 ![插图](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2010-08-11/detail-ikmyaawa3070670.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

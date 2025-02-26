@@ -52,7 +52,7 @@
     ### [‘教育群众改变思维’](https://www.hrw.org/zh-hans/report/2024/05/22/educate-masses-change-their-minds/chinas-forced-relocation-rural-tibetans)
     中国政府胁迫西藏农牧民搬迁
     ![Two men speaking with another man in a house](https://sites/default/files/styles/square/public/media_2024/05/202405asia_china_tibet_ccp_meeting.jpg?h=cfd2cf8d&itok=oD8-iEUC)
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2019/10/07/334475 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

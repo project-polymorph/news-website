@@ -67,7 +67,7 @@
 生物通 版权所有  
 ![](https://alicdn.ebioweb.com/QR_ebiotrade.jpg) 生物通微信公众号  
 ![](https://alicdn.ebioweb.com/QR_ebiotradeweibo.png) 生物通新浪微博  
-
+<!-- tcd_original_link https://m.ebiotrade.com/newsf/2023-3/20230309024712700.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

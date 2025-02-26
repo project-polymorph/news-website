@@ -17,7 +17,7 @@
 版权: Copyright © 1996-2007 SINA Corporation, All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml) 
 
 ![广告图](https://beacon.sina.com.cn/a.gif?noScript)
-
+<!-- tcd_original_link https://news.sina.com.cn/c/2007-06-21/143312066423s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

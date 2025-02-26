@@ -140,7 +140,7 @@
 桃姐曾想为她们写一本书，但后来放弃了，“怎么写？故事全是悲剧”。
 
 _**（应采访对象要求，本文中娆娆、彬彬、染儿、桃姐、卡卡为化名。）**_
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_1412430 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -45,7 +45,7 @@
 ![Image](https://www.zaobao.com/uploads/allimg/240621/0944234061-0-lp.jpg)
 
 [评论](https://www.zaobao.com/plus/list.php?tid=4)
-
+<!-- tcd_original_link http://www.quzaobao.com/news/opinion/202406/2220300.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

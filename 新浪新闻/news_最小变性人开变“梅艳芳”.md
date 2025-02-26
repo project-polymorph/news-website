@@ -32,7 +32,7 @@
 昨日，小小分别给学校老师和远在家乡的父母打去电话，说了自己要做手术的事。马上就要做手术了，小小内心充满期待，幻想着自己变成女人后，一定要像一个平凡女人一样恋爱，结婚。
 
 ![女人花](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-12-04/detail-ikkntiam5252828.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

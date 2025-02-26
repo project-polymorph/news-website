@@ -41,7 +41,7 @@ Nik-Ahd等表示：PSA筛查在接受性别确认激素的跨性别女性中的�
 地址：北京海淀区阜成路52号（定慧寺） 邮编：100142 咨询电话：010-88121122
 
 技术支持：[![54doctor我是医生网](https://Content/Areas/Common/images/54doctor.png)](http://www.54doctor.net/)
-
+<!-- tcd_original_link https://www.bjcancer.org/Html/News/Articles/19148.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

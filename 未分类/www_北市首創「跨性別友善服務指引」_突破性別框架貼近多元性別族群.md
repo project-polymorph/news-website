@@ -51,7 +51,7 @@
 - ![我的E政府](/images/egov.png)
 - ![臺北市政府](/Images/footer_logo.png)
 - [手機掃描QR Code，可取得此頁連結。]
-
+<!-- tcd_original_link https://www.dvsa.gov.taipei/News_Content.aspx?n=F350380FF01A3D46&sms=72544237BBE4C5F6&s=4CC09D347BEA6C3E -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

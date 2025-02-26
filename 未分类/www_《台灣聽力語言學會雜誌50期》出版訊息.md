@@ -43,7 +43,7 @@
 傳真：02-2599-4337  
 
 2011© The Speech-Language-Hearing Association, Taiwan Design By 元伸[網頁設計](http://www.ozchamp.com/ "網頁設計")
-
+<!-- tcd_original_link https://www.slh.org.tw/index.php?do=news&tpid=1&pid=11&id=5224 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

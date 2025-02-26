@@ -45,7 +45,7 @@
 - 06-05-27 02:49·[少女病愈返家打官司](https://news.sohu.com/20060527/n243432973.shtml)
 - 06-03-22 19:40·[拒载断足少女事件:航空公司拒载理由合法...](https://news.sohu.com/20060322/n242422003.shtml)
 - 06-03-15 19:12·[(东方时空)岩松信箱:信任与期待(组图)](https://news.sohu.com/20060315/n242310289.shtml)
-
+<!-- tcd_original_link http://news.sohu.com/20070707/n250944171.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

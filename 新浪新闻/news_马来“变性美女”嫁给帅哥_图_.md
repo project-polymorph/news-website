@@ -15,7 +15,7 @@
 马思健苦苦追求了3年，连续进行了6次求婚，才终于感动钟洁希的“芳心”，使她答应自己的求婚。据钟洁希称，她一直不敢接受马思健的求婚，主要是因为担心男方的家长会反对，因为她毕竟是一名变性人，无法为男方家庭传宗接代，生儿育女。
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-11-16/detail-ikkntiam5114010.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

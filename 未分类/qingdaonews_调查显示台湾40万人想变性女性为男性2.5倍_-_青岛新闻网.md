@@ -22,7 +22,7 @@
 至于真正“性别认同障碍”，除想变性的“念头”，个案大多有更具体的行为表现，例如在衣着打扮上与一般人不同(男穿女装或女穿男装)，或因强烈的灵魂错置感而须就医等。
 
 ![](../../../../images/hiaologo.gif)
-
+<!-- tcd_original_link https://qingdaonews.com/content/2009-02/22/content_7998797.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

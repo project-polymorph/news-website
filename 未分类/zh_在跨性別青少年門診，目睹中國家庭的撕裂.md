@@ -147,7 +147,7 @@
 
 - **FollowNature** 發表評論於 2023-01-05 02:50:00
   無解。感覺應該讓孩子成年後再做決定的好，尤其手術治療。未成年人會改變的。
-
+<!-- tcd_original_link https://zh.wenxuecity.com/news/2023/01/05/12062795.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

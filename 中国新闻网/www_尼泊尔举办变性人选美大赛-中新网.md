@@ -20,7 +20,7 @@
 **标签**：跨性别、变性人、选美大赛  
 **版权**：版权所有，未经许可不得转载。  
 **评论**：[查看评论](http://comment.chinanews.com/comments/comments.php?newsid=4247120) 
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2012/10-15/139605.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

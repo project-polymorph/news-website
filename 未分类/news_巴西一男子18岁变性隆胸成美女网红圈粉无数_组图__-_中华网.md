@@ -32,7 +32,7 @@
 
 ### 版权声明
 版权所有 © 中华网
-
+<!-- tcd_original_link https://news.china.com/hd/11127798/20160802/23200595.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -34,7 +34,7 @@
 ---
 
 **欢迎加入[Yahoo奇摩电影戏剧粉丝团](https://www.facebook.com/YahooTW.Movies)，接收更多Movie讯息！**
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E3%80%8A%E9%AB%98%E6%A0%A1%E5%8D%81%E5%85%AB%E7%A6%81%E3%80%8B%E8%BD%89%E6%80%A7%E5%A5%B3%E6%98%9F%E6%9D%AD%E7%89%B9%E8%96%9B%E4%BD%9B%E3%80%8C%E6%8B%92%E6%BC%94%E5%A4%9A%E5%80%8B%E8%B7%A8%E6%80%A7%E8%A7%92%E8%89%B2%E3%80%8D%EF%BC%9A%E6%88%91%E5%8F%AA%E6%98%AF%E6%83%B3%E4%BB%A5%E5%A5%B3%E6%80%A7%E8%BA%AB%E4%BB%BD%E5%BE%80%E5%89%8D%E8%A1%8C%EF%BC%81-033253465.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

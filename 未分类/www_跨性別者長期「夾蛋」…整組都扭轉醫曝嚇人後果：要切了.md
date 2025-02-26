@@ -32,7 +32,7 @@
 - 跨性別者  
 
 **來源連結:** [三立新聞網 SETN.COM](https://www.setn.com/News.aspx?NewsID=921675)
-
+<!-- tcd_original_link https://www.setn.com/news.aspx?newsid=921675 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

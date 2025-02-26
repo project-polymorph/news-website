@@ -70,7 +70,7 @@
 免费 / 绿色应用 / 优质
 
 太长
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-06-27/detail-ikknscsk0430105.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -42,7 +42,7 @@
 ![要吃苹果还是香蕉？带上眼镜你眨眨眼我就知道](https://news.66wz.com/pic/003/001/046/00300104621_50784278.png)  
 ![澳洲60吨运往中国奶粉被全部没收](https://news.66wz.com/pic/003/001/047/00300104787_4543e41d.png)  
 ![欧弟暂离“天天兄弟” 汪涵邀请杨洋王凯加盟](https://news.66wz.com/pic/003/001/048/00300104849_de6543ef.jpg)
-
+<!-- tcd_original_link https://news.66wz.com/system/2014/02/28/104015305.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

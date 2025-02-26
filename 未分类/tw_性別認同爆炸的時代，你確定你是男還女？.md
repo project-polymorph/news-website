@@ -66,7 +66,7 @@
 (圖片取自flickr)
 
 延伸閱讀：[你是男是女？性別團體籲開放性別不註記](http://news.knowing.asia/news/2d728213-0661-460a-92b4-e5cc523a838c)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E7%88%86%E7%82%B8%E7%9A%84%E6%99%82%E4%BB%A3-%E4%BD%A0%E7%A2%BA%E5%AE%9A%E4%BD%A0%E6%98%AF%E7%94%B7%E9%82%84%E5%A5%B3-120000613.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

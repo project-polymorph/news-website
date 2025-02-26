@@ -67,7 +67,7 @@ CK经常在其广告中表现出对边缘群体的支持。在过去的几年里
 ![](http://p9.itc.cn/q_70/images03/20200628/bce599ef9f164a60ac3d0b4ae8066645.png)
 
 **来源|观察者网风闻社区@一颗鸭梨君**
-
+<!-- tcd_original_link https://www.sohu.com/a/404558843_115479 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

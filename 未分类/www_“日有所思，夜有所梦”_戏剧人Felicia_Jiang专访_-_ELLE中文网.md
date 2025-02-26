@@ -20,7 +20,7 @@ TANA最早在伦敦上演，收获了观众的广泛好评。观众尤其对剧�
 ![工作坊](https://hips.hearstchina.com/hmg-prod/images/31491-666b0dda00f5f.png?resize=980:*)
 ![工作坊](https://hips.hearstchina.com/hmg-prod/images/31492-666b0dda25215.png?resize=980:*)
 ![工作坊](https://hips.hearstchina.com/hmg-prod/images/31490-666b0dd9e25e8.png?resize=980:*)
-
+<!-- tcd_original_link https://www.ellechina.com/fashion/news/a44416364/16883858962/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

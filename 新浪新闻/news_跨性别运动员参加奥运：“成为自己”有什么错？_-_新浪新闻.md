@@ -149,7 +149,7 @@
 ## 快来新闻客户端参与评论获金币兑礼品吧！  { data-search-exclude }
 
 [转发]
-
+<!-- tcd_original_link https://news.sina.cn/2021-08-04/detail-ikqciyzk9568173.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

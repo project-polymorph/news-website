@@ -26,7 +26,7 @@
 ### 快来新闻客户端参与评论获金币兑礼品吧！
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/gj/2015-07-06/detail-ifxesfty0456184.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

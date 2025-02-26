@@ -38,9 +38,7 @@ Email: [chicago@mail.moe.gov.tw](mailto:chicago@mail.moe.gov.tw "chicago@mail.mo
 Last Updated: 2024-10-24  
 
 [駐芝加哥代表處教育組 Education Division in Chicago QRCode]
-
-
-
+<!-- tcd_original_link https://depart.moe.edu.tw/CHICAGO/News_Content.aspx?n=8A1BB98A4CAC7168&sms=82113FBED4A742DF&s=136EEA384FE01810 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

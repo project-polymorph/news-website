@@ -28,7 +28,7 @@
 ### 版权声明
 
 国新办发函2006.78号 Copyright © 2014 [66wz.com](https://www.66wz.com). All rights reserved.
-
+<!-- tcd_original_link https://news.66wz.com/system/2014/05/17/104105150.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

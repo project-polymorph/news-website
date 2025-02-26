@@ -28,7 +28,7 @@ LGBT是同性恋、双性恋和跨性别者等性少数群体的英文缩写。
 对于俄罗斯广泛使用“极端主义”标签起诉自认为是反对者的人，包括政治家、记者、人权维护者和其他人士，蒂尔克也表达了关切。
 
 **来源**: [联合国](https://news.un.org/feed/view/zh/story/2023/11/1124457)
-
+<!-- tcd_original_link https://www.ungeneva.org/zh/news-media/news/2023/11/88014 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

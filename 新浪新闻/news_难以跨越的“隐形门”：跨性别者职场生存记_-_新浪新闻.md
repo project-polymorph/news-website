@@ -322,7 +322,7 @@ C先生是跨性别男性，寸短，银色耳环，日常穿着男士西装和�
 责任编辑：郑亚鹏 SN238
 
 ![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://news.sina.cn/sh/2020-01-21/detail-iihnzahk5471671.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

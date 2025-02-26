@@ -33,7 +33,7 @@
 ## 版权声明 { data-search-exclude }
 
 此内容为转载，版权归原作者所有。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/yl/kong/news/2009/05-07/1680314.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

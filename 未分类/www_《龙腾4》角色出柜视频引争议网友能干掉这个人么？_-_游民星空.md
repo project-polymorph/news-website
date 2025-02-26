@@ -34,7 +34,7 @@
 更多相关资讯请关注：[龙腾世纪4：影障守护者专区](https://www.gamersky.com/z/dragon-age-the-veilguard/)
 
 **标签**：游戏资讯，龙腾世纪4：影障守护者，主机游戏，XSX，PS5，PC游戏
-
+<!-- tcd_original_link https://www.gamersky.com/news/202411/1838743.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

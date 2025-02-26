@@ -43,7 +43,7 @@
 ---
 
 **引用来源：** 重庆晚报
-
+<!-- tcd_original_link http://news.sohu.com/20061019/n245894720.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

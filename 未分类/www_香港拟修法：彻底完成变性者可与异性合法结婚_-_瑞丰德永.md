@@ -29,7 +29,7 @@
 ------ 
 
 版权所有©2006-2020 星斗科技，保留所有权利。
-
+<!-- tcd_original_link http://www.rf.hk/hkzn/hknews/32974.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

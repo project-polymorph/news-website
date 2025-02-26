@@ -55,7 +55,7 @@
 - [特朗普女婿首次公开否认“通俄”](http://www.cnr.cn/picture/pic/guoji/20170725/t20170725_523867332.shtml)
 - [特朗普再次否认“通俄案” 称具有“绝对赦免权”](http://www.cnr.cn/newscenter/gjxw/gnews/20170724/t20170724_523864085.shtml)
 - [特朗普入主白宫半年整 白宫新闻发言人宣布辞职](http://www.cnr.cn/china/qqhygbw/20170722/t20170722_523862991.shtml)
-
+<!-- tcd_original_link http://m.cnr.cn/news/20170727/t20170727_523871592.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

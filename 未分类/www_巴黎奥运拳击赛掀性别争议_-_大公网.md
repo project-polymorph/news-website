@@ -39,7 +39,7 @@
 ### **0**条评论_文明上网理性发言，请遵守新闻评论服务协议_
 
 Copyright © 2024 Takungpao _All Rights Reserved_ [京ICP备13049349号](http://www.miibeian.gov.cn) [京公网安备11010502037337号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502037337)
-
+<!-- tcd_original_link https://www.takungpao.com/news/232111/2024/0803/997312.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

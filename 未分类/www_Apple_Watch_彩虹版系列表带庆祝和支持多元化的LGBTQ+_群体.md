@@ -70,7 +70,7 @@ Apple 于 1984 年推出 Macintosh，为个人技术带来了巨大变革。今�
 Apple 媒体联络
 
 [media.cn@apple.com](mailto:media.cn@apple.com)
-
+<!-- tcd_original_link https://www.apple.com.cn/newsroom/2021/05/apple-watch-pride-edition-bands-celebrate-the-diverse-lgbtq-movement/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

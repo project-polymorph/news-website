@@ -33,7 +33,7 @@
 **版权声明**: Copyright © 1996-2006 SINA Corporation, All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)  
 
 ![](http://image2.sina.com.cn/sms/yypic/smsnews/images2/newszhengwenyeoewe01.gif)
-
+<!-- tcd_original_link https://news.sina.com.cn/w/2006-05-30/09009065743s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

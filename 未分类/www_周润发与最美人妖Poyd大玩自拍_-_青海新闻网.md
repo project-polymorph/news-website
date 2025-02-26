@@ -22,7 +22,7 @@
 - 互联网新闻信息许可证：63120170001
 - 青ICP备19000163号
 - 青公网安备 63010302000199号
-
+<!-- tcd_original_link http://www.qhnews.com/index/system/2014/07/28/011466032.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

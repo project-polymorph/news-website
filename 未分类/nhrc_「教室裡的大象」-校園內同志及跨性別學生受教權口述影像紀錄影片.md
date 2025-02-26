@@ -21,7 +21,7 @@
 
 - **更新日期**：113-11-12
 - **瀏覽人次**：534
-
+<!-- tcd_original_link https://nhrc.cy.gov.tw/News_Video_Content.aspx?n=8582&s=4970 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

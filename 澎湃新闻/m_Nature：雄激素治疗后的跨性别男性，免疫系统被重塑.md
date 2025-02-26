@@ -45,7 +45,7 @@
 
 **原标题**：《Nature：雄激素治疗后的跨性别男性，免疫系统被重塑**  
 特别声明：本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[澎湃号认证](https://renzheng.thepaper.cn)。**
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_28638946 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

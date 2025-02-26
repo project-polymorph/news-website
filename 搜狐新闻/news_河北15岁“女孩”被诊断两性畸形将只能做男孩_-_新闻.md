@@ -121,7 +121,7 @@
 --- 
 
 **分享给他人**: 如果您觉得这篇文章对您有帮助，请分享给您的朋友。
-
+<!-- tcd_original_link http://news.sohu.com/20130412/n372532775.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -42,7 +42,7 @@
 邓光平称，许是患了易性癖病，这种病轻的可通过心理咨询或亲人关爱、环境变化等方式进行治疗，但如病情严重，就只有通过变性手术解决了。  
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-08-12/detail-ikknscsi0979772.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

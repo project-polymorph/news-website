@@ -58,7 +58,7 @@ LGBT中一直以來常被影集或電影作為支線、嘲弄、甚至是常常�
 0 位討論
 
 参与议题
-
+<!-- tcd_original_link https://www.thenewslens.com/article/40919 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

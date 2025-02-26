@@ -106,7 +106,7 @@
 - [性别标记](https://search.cctv.com/search.php?qtext=性别标记)
 - [性别教育](https://search.cctv.com/search.php?qtext=性别教育)
 - [性别认同](https://search.cctv.com/search.php?qtext=性别认同)
-
+<!-- tcd_original_link http://news.cctv.com/2020/02/22/ARTIJ5mYNQzX05v1IZiDuRoN200222.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

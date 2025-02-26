@@ -32,7 +32,7 @@
 由此，小林在进行户籍性别登记变更时陷入僵局。目前，资中公安部门正在根据现有政策想办法积极协调处理。在现有的法律规章下，小林最后是否能够成功更改自己户口登记性别，四川新闻网将继续关注。
 
 ![说两句](http://www.cnr.cn/images2015/images/slj.gif)
-
+<!-- tcd_original_link http://news.cnr.cn/native/gd/20150723/t20150723_519291110.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

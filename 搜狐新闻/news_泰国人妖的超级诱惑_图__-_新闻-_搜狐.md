@@ -28,7 +28,7 @@
 - [泰国人妖大赛22岁学生夺冠 希望获父母认可(图)](https://news.sohu.com/20060522/n243351624.shtml) (05/22 15:31)
 
 隐私权和版权说明：Copyright © 2016 Sohu.com Inc. All Rights Reserved.  [版权所有](https://corp.sohu.com/s2007/copyright/)
-
+<!-- tcd_original_link http://news.sohu.com/20070228/n248403411.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

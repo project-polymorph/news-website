@@ -117,7 +117,7 @@ Ralph 通过制作酷儿游戏、将收入捐赠给艾滋病组织等行为，�
 \[14\] Anti-Defamation League. (2019, June). Free to play? hate, harassment, and positive social experiences in online games. Retrieved November 26, 2021, from [https://www.adl.org/free-to-play](https://www.adl.org/free-to-play).
 
 _本文为用户投稿，不代表 indienova 观点。_
-
+<!-- tcd_original_link https://indienova.com/indie-game-news/a-few-words-on-queer-games/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

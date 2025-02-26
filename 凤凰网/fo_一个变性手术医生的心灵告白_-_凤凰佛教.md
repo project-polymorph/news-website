@@ -25,7 +25,7 @@
 ![冈底斯的诱惑](http://imgco.ifeng.com/tres/fojiao/0121g04.jpg)
 
 ![帕苏帕蒂那寺](http://imgco.ifeng.com/tres/fojiao/0108g06.jpg)
-
+<!-- tcd_original_link https://fo.ifeng.com/zhongsheng/200808/0812_42_51154.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

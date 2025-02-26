@@ -22,7 +22,7 @@
 [查看全部评论>>](https://gentie.ifeng.com/c/comment/83BGhT6Ygsl)  
 
 ![](http://x0.ifengimg.com/feprod/c/2023_6_5/18_8_26/ad-logo.png)
-
+<!-- tcd_original_link https://news.ifeng.com/c/83BGhT6Ygsl -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

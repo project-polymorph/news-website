@@ -147,7 +147,7 @@
 **新浪网友0** 0  
 **纯粹是一个变态狂！！！！**  
 **2007-01-27**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-11-09/detail-ikftssap2776602.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

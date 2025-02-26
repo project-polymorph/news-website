@@ -9,7 +9,7 @@
 
 ![泰国征兵现场](http://p0.ifengimg.com/cmpp/2018_15/cea9dc501f41a93_w1024_h683.jpg)  
 *当地时间2018年4月7日，泰国那拉提瓦，当地民众参加征兵体检。变性人引人注目。供图：MADAREE TOHLALA /视觉中国*
-
+<!-- tcd_original_link https://news.ifeng.com/c/7fZn5czEoHL -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

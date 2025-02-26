@@ -25,7 +25,7 @@
 长期关注儿少保护专家高雄市政府卫生局黄志中局长呼吁，面对性别认同与性取向不一致的青少年，父母师长应以更理解、尊重、包容与陪伴的态度与之互动，让他们自信地去开拓自己的人生!
 
 ![跨性别青少年](https://khd.kcg.gov.tw/upload/news/0_%E9%9D%92%E5%B0%91%E5%B9%B4%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E9%97%9C%E6%87%B7%E3%80%8C%E6%88%91%E4%B8%8D%E6%98%AF%E6%95%85%E6%84%8F%E7%9A%84-%E8%AB%87%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9D%92%E5%B0%91%E5%B9%B4%E3%80%8D.jpg)
-
+<!-- tcd_original_link https://health.kcg.gov.tw/News_Content.aspx?n=A354A5298C8A4AA8&sms=26BD5515159837CE&s=6EB6392CF74CDC68 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

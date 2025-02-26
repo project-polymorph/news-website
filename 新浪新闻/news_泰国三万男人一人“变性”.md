@@ -21,7 +21,7 @@
 说说你的看法
 
 转发至微博
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-02-27/detail-ikknscsi2805073.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

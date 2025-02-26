@@ -69,7 +69,7 @@
 #### 版权信息
 
 央广网版权所有
-
+<!-- tcd_original_link http://news.cnr.cn/native/gd/20161003/t20161003_523176123.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -73,7 +73,7 @@
 - [广东湛江首例变性手术：东北汉子要做漂亮女人](http://www.chinanews.com.cn/sh/news/2009/03-11/1596528.shtml)
 
 ---
-
+<!-- tcd_original_link https://www.chinanews.com/jk/news/2009/06-16/1736036.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

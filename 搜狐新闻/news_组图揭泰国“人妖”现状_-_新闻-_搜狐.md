@@ -53,9 +53,7 @@
 ![组图:揭泰国“人妖”现状](https://photocdn.sohu.com/20130121/Img364140792.jpg)
 
 **作者：图片已做模糊处理** (来源：光明网)
-
-
-
+<!-- tcd_original_link http://news.sohu.com/20130121/n364140779.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

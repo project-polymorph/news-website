@@ -24,7 +24,7 @@
 微軟的使命是賦能地球上的每個人及每個組織能夠實現更多，成就非凡，不僅支持性別平等議題，更提倡多元包容文化的提升。我們深信科技的推動可以幫助他人發聲，盼能共同努力營造一個性別友善的工作環境，促進員工主動擁抱差異，讓每個人都感受到包容和尊重，讓企業與社會更加強大。
 
 ![更多故事](https://news.microsoft.com/wp-content/uploads/prod/sites/74/2023/12/20231206_124525-scaled-e1703842555177.jpg)
-
+<!-- tcd_original_link https://news.microsoft.com/zh-tw/features/di-microsoft-transgender-2/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

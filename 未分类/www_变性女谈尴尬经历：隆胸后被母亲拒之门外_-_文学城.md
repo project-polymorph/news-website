@@ -42,7 +42,7 @@
 --- 
 
 版权说明: 新闻内容取自各大新闻媒体，内容并不代表本网立场！
-
+<!-- tcd_original_link https://www.wenxuecity.com/news/2006/08/07/socialnews-15247.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

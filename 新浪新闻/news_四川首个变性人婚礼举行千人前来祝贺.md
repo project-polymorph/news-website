@@ -34,7 +34,7 @@
 **壬子为人**  
 **和变性人结婚的人可能也是变性人吧！**  
 **时间**: 2004-05-02
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-05-01/detail-ikkntiak9859586.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

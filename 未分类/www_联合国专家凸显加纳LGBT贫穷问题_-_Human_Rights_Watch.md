@@ -36,7 +36,7 @@ Three young women can't ever return home because of their sexuality
 ## 注释 { data-search-exclude }
 - 2024年 09月 24日 Report: [‘我们再也不能秉笔直书’](https://www.hrw.org/report/2024/09/25/389164)
 - 2024年 05月 22日 Report: [‘教育群众改变思维’](https://www.hrw.org/report/2024/05/22/educate-masses-change-their-minds/chinas-forced-relocation-rural-tibetans)
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2018/06/26/319602 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

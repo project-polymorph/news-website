@@ -52,7 +52,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 **评论**: 该文章显示了社会对性取向及心理健康问题的重要关注。
 
 **标签**: 跨性别, 同性恋, 双性恋, 抑郁症
-
+<!-- tcd_original_link https://www.163.com/dy/article/HQSIFN11054477ZV.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

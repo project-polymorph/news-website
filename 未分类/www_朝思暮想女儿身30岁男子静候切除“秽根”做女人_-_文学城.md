@@ -26,7 +26,7 @@
 ![Freestar](https://a.pub.network/core/imgs/fslogo-green.svg)
 
 版权声明：新闻取自各大新闻媒体，新闻内容并不代表本网立场！
-
+<!-- tcd_original_link https://www.wenxuecity.com/news/2004/03/30/socialnews-3406.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

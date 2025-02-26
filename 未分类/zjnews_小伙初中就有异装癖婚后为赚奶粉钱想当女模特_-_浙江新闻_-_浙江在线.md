@@ -64,7 +64,7 @@
 ![示例图片](http://img.zjolcdn.com/pic/0/05/09/62/5096200_879271.jpg)
 
 请您文明上网、理性发言并遵守相关规定。 
-
+<!-- tcd_original_link https://zjnews.zjol.com.cn/system/2012/08/13/018731864.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

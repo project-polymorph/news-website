@@ -53,7 +53,7 @@
 **状态:** 免费 / 绿色应用 / 优质  
 
 **安装:** 打开新浪新闻
-
+<!-- tcd_original_link https://news.sina.cn/sa/2009-06-16/detail-ikknscsk4896472.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

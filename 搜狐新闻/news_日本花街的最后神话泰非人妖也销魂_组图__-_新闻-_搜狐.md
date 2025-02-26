@@ -60,7 +60,7 @@ Copyright © 1997-2010 by [www.people.com.cn](http://www.people.com.cn). all rig
 ---  
 
 **免责声明**: 此内容为网络转载，未经作者授权不得以任何形式转载或使用。
-
+<!-- tcd_original_link http://news.sohu.com/20100411/n271434723.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

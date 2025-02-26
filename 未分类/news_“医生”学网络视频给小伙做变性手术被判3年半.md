@@ -30,7 +30,7 @@
 
 版权 © 2011-2022 海外网传媒有限公司，未经书面授权禁止使用  
 原文链接: [点击这里](https://www.thepaper.cn/newsDetail_forward_2459458)
-
+<!-- tcd_original_link http://news.haiwainet.cn/n/2018/0920/c3541083-31401103.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

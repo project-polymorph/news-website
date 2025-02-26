@@ -24,7 +24,7 @@
 
 ### 版權
 本新聞授權條款: [創用CC 姓名標示 3.0 台灣 (CC BY 3.0) 授權條款](https://creativecommons.org/licenses/by/3.0/tw/)
-
+<!-- tcd_original_link https://www.peopo.org/news/692028 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

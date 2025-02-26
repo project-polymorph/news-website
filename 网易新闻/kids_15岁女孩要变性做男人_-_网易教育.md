@@ -11,7 +11,7 @@
 时间: 2014年11月11日  
 
 ![心理小屋](http://img5.cache.netease.com/edu/2014/11/11/201411111519057ee23.png)  
-
+<!-- tcd_original_link http://kids.163.com/special/xlxw_090/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

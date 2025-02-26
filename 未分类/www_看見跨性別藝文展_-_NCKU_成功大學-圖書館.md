@@ -55,7 +55,7 @@ E-Mail: [em65790@email.ncku.edu.tw](mailto:em65790@email.ncku.edu.tw)
 
 © 成功大學圖書館 版權所有 | 地址：701401 台南市大學路一號 | 電話：(06)275-7575 ext.65760 傳真：(06)237-8232 | 電子郵件：[em65700@email.ncku.edu.tw](mailto:em65700@email.ncku.edu.tw)  
 更新日期: 2024-11-13
-
+<!-- tcd_original_link https://www.lib.ncku.edu.tw/news/news_show_ch_news.php?news_id=5910 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

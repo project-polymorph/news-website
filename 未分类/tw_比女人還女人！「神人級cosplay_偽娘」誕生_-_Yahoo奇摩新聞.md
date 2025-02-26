@@ -43,7 +43,7 @@
 ---
 
 **版权声明**：内容来自 Yahoo 娱乐，未经授权禁止转载。
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E6%AF%94%E5%A5%B3%E4%BA%BA%E9%82%84%E5%A5%B3%E4%BA%BA%EF%BC%81%E3%80%8C%E7%A5%9E%E4%BA%BA%E7%B4%9A-cosplay-%E5%81%BD%E5%A8%98%E3%80%8D%E8%AA%95%E7%94%9F-091516019.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

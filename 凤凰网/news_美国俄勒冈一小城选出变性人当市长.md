@@ -42,7 +42,7 @@
 感动 | 同情 | 无聊 | 愤怒 | 搞笑 | 难过 | 高兴 | 路过 
 
 ---
-
+<!-- tcd_original_link https://news.ifeng.com/world/oddnews/200811/1109_2593_869444.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

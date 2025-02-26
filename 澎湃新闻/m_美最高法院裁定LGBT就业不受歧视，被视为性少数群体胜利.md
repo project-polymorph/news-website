@@ -35,7 +35,7 @@
 特朗普上台以来一直试图压缩LGBT群体在奥巴马时代所取得的权益。就在最高法院作出这项裁决前三天，特朗普政府不决定撤销奥巴马时代对联邦管理的医疗保险中对于跨性别者的非歧视保护。
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/kuaibao_detail.jsp?contid=7863138&from=kuaibao -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

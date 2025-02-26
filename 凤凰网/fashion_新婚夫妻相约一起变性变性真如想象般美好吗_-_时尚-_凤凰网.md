@@ -78,7 +78,7 @@
 ·[新婚夫妇不宜立即怀孕](http://fashion.ifeng.com/baby/haoyun/beiyun/detail_2012_01/11/11898078_0.shtml?_from_ralated)  
 
 **免责声明**：本文仅代表作者个人观点，与凤凰网无关。其原创性以及文中陈述文字和内容未经本站证实，对本文以及其中全部或者部分内容、文字的真实性、完整性、及时性本站不作任何保证或承诺，请读者仅作参考，并请自行核实相关内容。
-
+<!-- tcd_original_link https://fashion.ifeng.com/health/yiyao/chanjing/detail_2012_08/14/16792063_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

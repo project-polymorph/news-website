@@ -66,7 +66,7 @@ Poy被赞为“最美人妖皇后”之后，手术的细节照片在网络上�
 **标签：** [性别规范](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%A7%E5%88%AB%E8%A7%84%E8%8C%83) [变性美女](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%98%E6%80%A7%E7%BE%8E%E5%A5%B3) [性别认同](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C)
 
 ![凤凰文化](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://culture.ifeng.com/yanjie/detail_2014_04/09/35591631_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

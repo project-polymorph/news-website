@@ -33,7 +33,7 @@
 - [健康網》吵架有助健康？ 研究：雙方壓抑怒氣早死風險高2倍](https://health.ltn.com.tw/article/breakingnews/3899832)
 - [健康網》87％的人會衝動消費 專家：列張購物清單！](https://health.ltn.com.tw/article/breakingnews/3897404)
 - [健康網》研究：每天快走10分鐘降18％憂鬱症風險](https://health.ltn.com.tw/article/breakingnews/3897343)
-
+<!-- tcd_original_link https://health.ltn.com.tw/article/breakingnews/3903516 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

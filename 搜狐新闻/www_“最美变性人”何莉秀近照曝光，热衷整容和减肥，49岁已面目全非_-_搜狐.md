@@ -102,7 +102,7 @@
 反观河莉秀，她一直走在自我改造的路上，现在年纪越大反而辨识度越低。大家更欣赏哪一种变性人呢？
 
 ![](https://q9.itc.cn/images01/20241001/a12f55b926d5485094d804f3de422fbd.jpeg)
-
+<!-- tcd_original_link https://www.sohu.com/a/813338552_121054503 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

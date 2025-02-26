@@ -40,7 +40,7 @@ Slavicsek 强调，“让坦洛林成为非二元性别感觉是正确的”。*
 ---
 
 **版权声明:** 本文内容版权所有，未经授权不得转载。
-
+<!-- tcd_original_link https://news.mydrivers.com/1/1011/1011811.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

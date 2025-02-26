@@ -50,7 +50,7 @@
 - ![布拉德利·在被判刑后改名为切尔西·曼宁，并确定了新的女性身份](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/12AF1/production/_93592567_manning_ap976.jpg.webp)  
   ### [美国总统奥巴马决定释放泄密士兵曼宁](/zhongwen/simp/world-38658803)  
   **日期：** 2017年1月17日  
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-39008036 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -43,7 +43,7 @@
 - [美国总统大选](/tag/美国总统大选/)  
 
 版权 © 2024 Sin Chew Media Corporation Berhad (198301003518). All rights reserved.
-
+<!-- tcd_original_link https://www.sinchew.com.my/news/20241103/international/6045179 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

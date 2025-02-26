@@ -16,7 +16,7 @@
 ![图片3](http://www.chinanews.com/tp/hd2011/2013/10-22/part/U399P4T425D28936F16507DT20131022112434.jpg)  
 
 [我要评论](http://comment.chinanews.com/comments/comments.php?newsid=5408803)  |  [查看评论(0)](http://comment.chinanews.com/comments/comments.php?newsid=5408803)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257080.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

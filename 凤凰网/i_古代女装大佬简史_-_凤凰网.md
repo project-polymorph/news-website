@@ -159,7 +159,7 @@
 本文节选自《风月同天：古代文化变迁中的细节》
 
 ![古 代 女 装 大 佬 简 史](https://x0.ifengimg.com/ucms/2022_13/51C0106D68404D198579CAC4F39F83C11A7BC199_size88_w1080_h1542.jpg)
-
+<!-- tcd_original_link https://i.ifeng.com/c/8EYivVFRukT -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

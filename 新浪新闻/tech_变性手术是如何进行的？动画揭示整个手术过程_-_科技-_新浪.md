@@ -67,7 +67,7 @@
 - **叫主哥----叶均** 434  
   **一根屌就这样变成逼了**  
   **2015-12-09 广东河源**
-
+<!-- tcd_original_link https://tech.sina.cn/d/bk/2015-12-09/detail-ifxmnurf8459384.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

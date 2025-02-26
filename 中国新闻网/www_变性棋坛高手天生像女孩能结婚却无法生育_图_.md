@@ -37,7 +37,7 @@
 ---  
 
 ![图片](U186P4T8D1644347F107DT20090414083819.jpg)  
-
+<!-- tcd_original_link https://www.chinanews.com.cn/ty/kong/news/2009/04-14/1644347.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

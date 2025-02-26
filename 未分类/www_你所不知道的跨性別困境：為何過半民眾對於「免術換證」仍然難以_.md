@@ -222,7 +222,7 @@ TG（Transgender）指的是性別認同與天生指定生理性別相異，期�
 - [TG](https://www.thenewslens.com/tag/173249)  
 - [TS](https://www.thenewslens.com/tag/277719)  
 - [性別登記](https://www.thenewslens.com/tag/277720)  
-
+<!-- tcd_original_link https://www.thenewslens.com/article/173540 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

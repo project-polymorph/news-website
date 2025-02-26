@@ -39,7 +39,7 @@
 国际特赦组织记录到中国对跨性别者的系统性压迫和歧视。近年来，大规模的审查行动导致许多线上LGBTI公众号和社交媒体账户被关闭。这摧毁了线上和线下的LGBTI活动。
 
 中国警方多次因不合理、定义宽泛且措辞模糊的指控，逮捕、长时间拘留和监禁人权捍卫者，包括LGBTI行动者。
-
+<!-- tcd_original_link https://zh.amnesty.org/content-type/more-resources/news/hong-kong-transgender-activist-must-not-be-deported-to-mainland-china/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

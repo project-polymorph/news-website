@@ -67,7 +67,7 @@ iWeekly周末画报独家稿件，未经许可，请勿转载
 ### 评论
 0 评论  
 文明上网理性发言，请遵守[《新闻评论服务协议》](https://new.qq.com/static/coralinfo.htm)
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20231208A09N6O00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

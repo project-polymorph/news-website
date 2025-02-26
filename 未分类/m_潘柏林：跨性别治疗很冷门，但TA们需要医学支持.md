@@ -210,7 +210,7 @@ Macaleo一个人去了上海的医院，诊断结果在她的预料之中：她�
 **校对**：臧恒佳  
 
 **原标题**：《跨性别治疗医生潘柏林：这个领域很冷门，但TA们需要医学支持》
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_8786958 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -98,7 +98,7 @@ QQ：343514496
 
 copyright © 2010 powered by 178.com  
 [178游戏网](http://www.178.com/ "178首页") 版权所有
-
+<!-- tcd_original_link http://news.178.com/s/weiniang.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

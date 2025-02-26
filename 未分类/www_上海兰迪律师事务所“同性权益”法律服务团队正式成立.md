@@ -38,7 +38,7 @@ LGBT群体(女同性恋者Lesbians、男同性恋者Gays、双性恋者Bisexuals
 电话: 021-6652 9952  
 邮箱: marketing@landinglawyer.com  
 地址: 上海市虹口区东大名路1089号，兰菲城市大厦东塔16层  
-
+<!-- tcd_original_link https://www.landinglawyer.com/en/news/1069.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

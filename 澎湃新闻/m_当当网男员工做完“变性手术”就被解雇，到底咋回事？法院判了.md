@@ -118,7 +118,7 @@
 来源：中国普法
 
 **原标题：《当当网男员工做完“变性手术”就被解雇，到底咋回事？法院判了》**
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_8176623 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

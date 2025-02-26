@@ -31,7 +31,7 @@
 **版权声明：** 国新办发函2006.78号 Copyright © 2013 [66wz.com](https://www.66wz.com). All rights reserved.
 
 **评论说明：** 网友评论仅供其表达个人看法，并不表明温州网立场。
-
+<!-- tcd_original_link https://news.66wz.com/system/2013/06/27/103703870.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

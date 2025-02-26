@@ -114,7 +114,7 @@
 **输入评论内容：**
 
 ![评论](https://tp3.sinaimg.cn/1392597202/50/0/1)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-03-16/detail-ikknscsi2856728.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

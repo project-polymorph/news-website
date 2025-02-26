@@ -22,7 +22,7 @@
 ---
 
 **版权归** © 韩国最大的传媒机构《中央日报》中文网所有，未经协议授权, 禁止随意转载、复制和散布使用
-
+<!-- tcd_original_link https://chinese.joins.com/news/articleView.html?idxno=35576 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

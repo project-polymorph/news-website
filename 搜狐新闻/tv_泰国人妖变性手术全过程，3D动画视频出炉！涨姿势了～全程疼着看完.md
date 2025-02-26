@@ -29,7 +29,7 @@ _(评论评价可进行举报，相关选项为：色情淫秽、广告垃圾、
 Copyright © 2024 All Rights Reserved. 请仔细阅读 [搜狐视频隐私政策](https://tv.sohu.com/upload/privacy/index.html) 、[版权声明](https://intro.sohu.com/#/copyright) 、[反盗版和反盗链权利声明](https://tv.sohu.com/s2016/piracy/index.shtml) 
 
 ![二维码](https://photocdn.tv.itc.cn/img/20240723/pic_org_ba10b91f-2bc9-46c0-8595-92c47f9c237b.avif)
-
+<!-- tcd_original_link https://tv.sohu.com/v/dXMvMzI1NjAxODg5LzkzMzA5OTY3LnNodG1s.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -69,7 +69,7 @@
 （照片由受访者提供）
 
 标签：[刘霆](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%88%98%E9%9C%86) [模范](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%A8%A1%E8%8C%83) [母亲](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%AF%8D%E4%BA%B2)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150409/43517172_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

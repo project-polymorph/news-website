@@ -25,7 +25,7 @@
 - [变性人在厦门向脑瘫幼儿捐款](http://www.chinanews.com.cn/tp/shfq/news/2006/12-26/844374.shtml)  
 
 **备注：** 本网站所刊载信息，不代表中新社观点。刊用本网站稿件，务经书面授权。未经授权禁止转载、摘编、复制及建立镜像，违者依法必究。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/other/news/2007/03-08/886999.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

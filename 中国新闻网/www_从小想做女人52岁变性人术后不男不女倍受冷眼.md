@@ -98,7 +98,7 @@
 - [过量女性荷尔蒙污染英国河流 致公鱼变性成母鱼](http://www.chinanews.com.cn//kj/ryzr/news/2006/07-24/762820.shtml)
 - [变性人上网卖淫招来杀身祸 嫖娼者杀人被判死刑](http://www.chinanews.com.cn//others/news/2006/07-05/753283.shtml)
 - [变性后照片被滥用 河南变性人状告整形中心侵权](http://www.chinanews.com.cn//others/news/2006/07-04/752929.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/sh/news/2006/11-10/818501.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

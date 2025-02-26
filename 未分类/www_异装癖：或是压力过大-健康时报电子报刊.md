@@ -23,7 +23,7 @@
 **版权**: 健康时报
 
 ---
-
+<!-- tcd_original_link https://www.jksb.com.cn/newspaper/Html/2011-07-18/26373.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

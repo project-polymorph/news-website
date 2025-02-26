@@ -41,7 +41,7 @@
 4. [HBO Max's Harry Potter 7-Season TV Reboot Is Officially In the Works](https://www.teenvogue.com/story/hbo-max-harry-potter-tv-reboot)
 
 **特别声明：**以上文章内容仅代表作者本人观点，不代表新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发布后的30日内与新浪网联系。
-
+<!-- tcd_original_link https://k.sina.cn/article_1047467705_3e6f16b90190181n9.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

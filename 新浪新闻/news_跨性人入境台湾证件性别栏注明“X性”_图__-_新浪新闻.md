@@ -53,7 +53,7 @@
 **若遭歹徒强暴,依中国刑法,其非女性,施暴者不构成强奸罪.这是个法律问题.**  
 **2013-10-01**  
 新浪网友
-
+<!-- tcd_original_link https://news.sina.cn/sa/2013-10-01/detail-ikmyaawa5363806.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

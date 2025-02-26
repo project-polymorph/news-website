@@ -56,7 +56,7 @@
 - [昆曲《怜香伴》发布会图片 文化顾问:李银河](http://yule.sohu.com/20100415/n271528550.shtml)  
 
 版权 © 2018 Sohu.com Inc. All Rights Reserved.
-
+<!-- tcd_original_link http://music.yule.sohu.com/20100507/n271973058.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

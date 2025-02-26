@@ -30,7 +30,7 @@
 ![相关图片](http://img.ifeng.com/tres/news/d091229001.jpg)
 
 **评论：** 共有评论66条 [点击查看](http://comment.ifeng.com/view.php?chId=16&docId=1499051&docName=%e5%a5%a5%e5%b7%b4%e9%a9%ac%e4%bb%bb%e5%91%bd%e9%a6%96%e4%bd%8d%e5%8f%98%e6%80%a7%e4%ba%ba%e9%ab%98%e5%ae%98+%e6%9b%be%e4%b8%ba%e5%b8%8c%e6%8b%89%e9%87%8c%e6%9c%8d%e5%8a%a1&docUrl=http%3a%2f%2fnews.ifeng.com%2fworld%2f201001%2f0105_16_1499051.shtml)
-
+<!-- tcd_original_link https://news.ifeng.com/world/201001/0105_16_1499051.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

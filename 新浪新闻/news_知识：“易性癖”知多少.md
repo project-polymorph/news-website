@@ -53,7 +53,7 @@
 ---
 
 **版权声明**: 本文为现代金报原创内容，版权归原作者所有。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-12-02/detail-ikknscsi5015531.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

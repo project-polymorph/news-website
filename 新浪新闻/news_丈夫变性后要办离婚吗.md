@@ -28,7 +28,7 @@
 请说说你的看法
 
 [评论]
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-08-02/detail-ikkntiam7526159.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

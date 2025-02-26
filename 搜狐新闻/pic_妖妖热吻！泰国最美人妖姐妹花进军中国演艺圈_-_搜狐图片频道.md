@@ -21,7 +21,7 @@
 ![妖妖热吻！泰国最美人妖姐妹花进军中国演艺圈](http://m3.biz.itc.cn/pic/new/stn/82/23/Img6602382_stn.jpg)  
 
 Copyright © 2014 Sohu.com Inc. All Rights Reserved.
-
+<!-- tcd_original_link http://pic.yule.sohu.com/group-563075.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

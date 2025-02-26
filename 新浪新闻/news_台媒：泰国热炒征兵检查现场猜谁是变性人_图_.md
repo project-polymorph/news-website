@@ -261,7 +261,7 @@ NamzomZomy，一名展会的Showgirl，泰国去年“10大话题女”之一，
 **原标题：台媒：泰国热炒征兵检查 现场猜谁是变性人(图)**  
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/gj/2015-04-11/detail-iavxeafs5052768.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

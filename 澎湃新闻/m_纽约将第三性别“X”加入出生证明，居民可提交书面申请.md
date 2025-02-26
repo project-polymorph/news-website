@@ -35,7 +35,7 @@
 （原题为《纽约将第三性别“X”加入出生证明 居民可书面申请》）
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/wifiKey_detail.jsp?contid=2518090&from=wifiKey -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

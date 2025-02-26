@@ -75,7 +75,7 @@ Copyright © 1996-2012 SINA Corporation, All Rights Reserved
 
 **注：**  
 时效性信息可能会随时间而变更，引用时请关注原始报道及最新消息。
-
+<!-- tcd_original_link http://hb.sina.com.cn/zt/weiniang/index.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

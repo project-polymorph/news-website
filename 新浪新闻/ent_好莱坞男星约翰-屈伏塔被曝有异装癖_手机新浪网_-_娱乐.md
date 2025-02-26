@@ -20,7 +20,7 @@
 ![美国媒体爆出的屈伏塔女装照片](http://i1.sinaimg.cn/ent/pc/2009-08-22/296/U1817P28T296D10284F8915DT20090822115814.gif)
 
 *版权：新浪公司版权所有*
-
+<!-- tcd_original_link http://ent.sina.com.cn/s/u/2012-05-25/12293639967.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

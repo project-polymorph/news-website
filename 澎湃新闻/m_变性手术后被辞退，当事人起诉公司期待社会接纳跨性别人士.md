@@ -82,7 +82,7 @@
 （原题为：《对话首例跨性别平等就业权纠纷案当事人：我并不追求所谓精神抚慰金》）
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/wifiKey_detail.jsp?contid=5148837&from=wifiKey -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

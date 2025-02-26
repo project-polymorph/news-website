@@ -30,7 +30,7 @@
 记者昨天了解到，高婷婷表示将利用这赔偿的5万元，寻找其他有能力的医院继续接受变性手术，以早日完成他的“女儿梦”。
 
 ![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-05-17/detail-ikknscsi6654625.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

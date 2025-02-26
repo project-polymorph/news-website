@@ -38,7 +38,7 @@
 - [【跨性別變更性別登記Vivi案】再戰性別變更——伴盟訴求依法國模式「不提供」醫療診斷證明](http://tapcpr.org/hot-news/press-release/2024/07/11/跨性別變更性別登記vivi案-再戰性別變更-伴盟訴求依法國模式-不提供-醫療診斷證明)
 
 [更多伴盟消息...](/hot-news)
-
+<!-- tcd_original_link https://tapcpr.org/hot-news/2023/08/01/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%8F%8B%E5%96%84%E6%A0%A1%E5%9C%92-8%E6%89%80%E5%AD%B8%E6%A0%A1%E8%A9%95%E6%AF%94%E7%B5%90%E6%9E%9C%E5%87%BA%E7%88%90 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -16,7 +16,7 @@ _2017-11-23 08:24:52_  _来源：新浪娱乐_
 ![二维码](http://vip.qingdaonews.com/news/wap/2017/cpewm/ewm.jpg)
 
 识别二维码关注青岛新闻网微信qdxww0532
-
+<!-- tcd_original_link https://news.qingdaonews.com/wap/2017-11/23/content_20052819.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

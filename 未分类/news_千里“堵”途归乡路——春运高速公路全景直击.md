@@ -84,7 +84,7 @@
 项目负责：新华网
 
 Copyright © 2000 - 2016 XINHUANET.com All Rights Reserved. 　制作单位：新华网 版权所有 [新华网](http://www.xinhuanet.com) | [关于我们](http://www.xinhuanet.com/aboutus.htm) | [联系我们](http://news.xinhuanet.com/way.htm) | [我要链接](http://www.xinhuanet.com/linktous.htm) | [版权声明](http://www.xinhuanet.com/xinhua_copyright.htm) | [技术服务中心](http://www.xinhuanet.com/jsfw/index.html)
-
+<!-- tcd_original_link http://news.xinhuanet.com/politics/2015-02/17/c_1114397891.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

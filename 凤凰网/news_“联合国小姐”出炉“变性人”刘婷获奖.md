@@ -25,7 +25,7 @@
 版权声明：凤凰资讯官方微信  
 
 [![凤凰新闻 天天有料](https://y3.ifengimg.com/a/2015/0130/b3e486531275e3b.JPG)](http://api.3g.ifeng.com/ifengtg?adid=11345)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150926/44740018_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

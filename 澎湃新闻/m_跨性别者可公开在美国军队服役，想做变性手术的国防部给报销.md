@@ -36,7 +36,7 @@
 来源: 《纽约时报》
 时间: 2016年6月30日
 标签: 跨性别者、美国军队、变性手术、国防部
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_1492030 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

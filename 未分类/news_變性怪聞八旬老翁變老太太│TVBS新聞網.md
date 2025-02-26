@@ -28,7 +28,7 @@
 
 ### 來源
 - TVBS新聞網
-
+<!-- tcd_original_link https://news.tvbs.com.tw/life/490722 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -113,7 +113,7 @@
 *（文中易性男女均化名）*
 
 ![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-03-05/detail-ikknscsi2823988.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

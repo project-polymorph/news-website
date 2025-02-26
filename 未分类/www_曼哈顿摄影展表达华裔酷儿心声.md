@@ -28,7 +28,7 @@
 位于曼哈顿的奕来画廊(Eli Klein)展出「定向：中国当代摄影中的酷儿性向」(Direction:Queerness in Chinese Contemporary Photography)摄影群展。(主办方提供)
 
 标签: [曼哈顿](https://www.worldjournal.com/search/tagging/8877/%E6%9B%BC%E5%93%88%E9%A1%BF?zh-cn) [华裔](https://www.worldjournal.com/search/tagging/8877/%E5%8D%8E%E8%A3%94?zh-cn) [同志](https://www.worldjournal.com/search/tagging/8877/%E5%90%8C%E5%BF%97?zh-cn)
-
+<!-- tcd_original_link https://www.worldjournal.com/wj/story/121390/7585527?from=wj_referralnews&zh-cn -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

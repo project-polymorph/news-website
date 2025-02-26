@@ -30,7 +30,7 @@
 ---
 
 以下评论只代表网友个人观点，不代表科学网观点。
-
+<!-- tcd_original_link https://news.sciencenet.cn/htmlnews/2024/9/529355.shtm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

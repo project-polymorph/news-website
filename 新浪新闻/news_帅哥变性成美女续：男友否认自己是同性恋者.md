@@ -62,8 +62,7 @@
 新浪新闻官方  
 
 ---
-
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-09-12/detail-ikkntiam4551779.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

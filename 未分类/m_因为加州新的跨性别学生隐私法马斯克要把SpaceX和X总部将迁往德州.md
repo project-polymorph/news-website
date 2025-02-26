@@ -41,7 +41,7 @@
 [图片]
 
 ![](/img/logo-btm.465da0f6.png)
-
+<!-- tcd_original_link http://m.chinanews.com/wap/detail/chs/zw/hm669768593b81af49edce4bec.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

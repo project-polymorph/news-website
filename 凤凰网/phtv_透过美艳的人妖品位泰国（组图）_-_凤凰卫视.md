@@ -35,7 +35,7 @@
 
 ## 备注 { data-search-exclude }
 - 以上留言只代表网友个人观点，不代表凤凰网观点。
-
+<!-- tcd_original_link http://phtv.ifeng.com/phinfo/200705/0510_45_115740_3.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -41,7 +41,7 @@ Vilain认为，国际奥委会的方法更加科学：任何运动员都不应�
 ---
 
 《中国科学报》 (2023-04-07 第1版 要闻)
-
+<!-- tcd_original_link https://news.sciencenet.cn/sbhtmlnews/2023/4/373959.shtm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

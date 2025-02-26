@@ -30,7 +30,7 @@ CCTV.com消息：变性艺人一直是娱乐圈一个敏感话题。前日（1�
 **版权声明**: 中国中央电视台 版权所有 [京ICP备05065290号](http://www.miibeian.gov.cn/) [网上传播视听节目许可证号 0102004](http://www.miibeian.gov.cn/)  
 
 **备注**: 该内容旨在提高对跨性别群体的关注和理解。
-
+<!-- tcd_original_link http://news.cctv.com/society/20070326/103325.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -27,7 +27,7 @@
 
 **标签:** 变性手术, 库珀, 医保  
 **评论:** 共有评论0条
-
+<!-- tcd_original_link https://news.ifeng.com/world/201001/0126_16_1525200.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

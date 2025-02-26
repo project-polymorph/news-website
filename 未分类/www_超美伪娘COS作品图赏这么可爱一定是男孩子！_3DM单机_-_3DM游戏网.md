@@ -34,7 +34,7 @@
 
 **版权信息**  
 CopyRight©2003-2018 违法和不良信息举报（021-54473036） All Right Reserved  
-
+<!-- tcd_original_link https://www.3dmgame.com/news/201312/2312462.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

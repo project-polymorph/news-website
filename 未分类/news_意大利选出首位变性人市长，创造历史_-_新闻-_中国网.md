@@ -24,7 +24,7 @@
 责任编辑：卢小凡
 
 版权所有 中国互联网新闻中心 电子邮件: [news@china.org.cn](mailto:news@china.org.cn) 电话: 86-10-88828000 京ICP证 040089号 网络传播视听节目许可证号:0105123
-
+<!-- tcd_original_link http://news.china.com.cn/2019-05/30/content_74836514.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

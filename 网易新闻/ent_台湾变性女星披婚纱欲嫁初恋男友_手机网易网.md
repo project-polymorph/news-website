@@ -64,7 +64,7 @@
   有没有搞错，他男友这么帅？！
 
 **网友跟贴仅供其表达个人看法，并不表明网易立场。**
-
+<!-- tcd_original_link http://ent.163.com/photoview/00AJ0003/568374.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

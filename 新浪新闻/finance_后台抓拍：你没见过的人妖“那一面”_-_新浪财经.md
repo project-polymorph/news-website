@@ -30,7 +30,7 @@
 **标签**: #跨性别 #选美 #泰国 #第三性 #娜拉达
 
 **版权声明**: 版权所有 © 央广网。
-
+<!-- tcd_original_link https://finance.sina.cn/sa/2010-05-17/detail-ikkntiam5359389.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

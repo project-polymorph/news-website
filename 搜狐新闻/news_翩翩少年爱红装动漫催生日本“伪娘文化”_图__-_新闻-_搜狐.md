@@ -47,7 +47,7 @@
 (来源：《文汇报》)
 
 版权信息: 版权所有 © 2018 Sohu.com Inc. All Rights Reserved.
-
+<!-- tcd_original_link http://news.sohu.com/20100720/n273634980.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

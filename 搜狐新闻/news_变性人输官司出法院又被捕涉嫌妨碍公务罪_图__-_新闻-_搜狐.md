@@ -51,7 +51,7 @@
 ## 相关搜索： { data-search-exclude }
 
 [变性人](https://www.sogou.com/web?query=变性人&pid=02021103) [高婷婷](https://www.sogou.com/web?query=高婷婷&pid=02021103) [法院](https://www.sogou.com/web?query=法院&pid=02021103) [洗头房](https://www.sogou.com/web?query=洗头房&pid=02021103) [变性](https://www.sogou.com/web?query=变性&pid=02021103)
-
+<!-- tcd_original_link http://news.sohu.com/20070417/n249481244.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

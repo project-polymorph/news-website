@@ -21,7 +21,7 @@
 - [食物及卫生局](http://www.fhb.gov.hk/chs/index.html)
 
 ![人口政策](https://www.news.gov.hk/sc/images/banner/295x46/population_29546_c.gif)
-
+<!-- tcd_original_link https://sc.news.gov.hk/TuniS/www.news.gov.hk/tc/categories/law_order/html/2014/01/20140113_182912.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

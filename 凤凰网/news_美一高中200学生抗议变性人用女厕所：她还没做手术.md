@@ -31,7 +31,7 @@
 标签：[学生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A6%E7%94%9F) [校园](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%A0%A1%E5%9B%AD) [体育课](http://search.ifeng.com/sofeng/search.action?c=1&q=%E4%BD%93%E8%82%B2%E8%AF%BE)
 
 版权所有 © 2016 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150902/44572545_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

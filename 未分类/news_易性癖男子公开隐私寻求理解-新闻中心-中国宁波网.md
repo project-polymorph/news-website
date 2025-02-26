@@ -71,7 +71,7 @@
 **纠错：** [171964650@qq.com](mailto:171964650@qq.com)
 
 ![高洋的另外一张照片](http://www.cnnb.com.cn/pic/0/04/21/41/4214177_806742.jpg)
-
+<!-- tcd_original_link http://news.cnnb.com.cn/system/2006/03/03/005084041.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -32,7 +32,7 @@
 
 ## 版权 { data-search-exclude }
 本文版权归原作者所有，转载请注明来源。
-
+<!-- tcd_original_link http://inews.ifeng.com/44319987/news.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -44,7 +44,7 @@ C先生是民间组织贵州黔程工作组的发起人和负责人。他表示�
 ---
 
 © 2024 美国之音 
-
+<!-- tcd_original_link https://www.voachinese.com/a/voa-news-chinese-panel-rules-against-plaintiff-in-transgender-job-discrimination-20160510/3323405.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

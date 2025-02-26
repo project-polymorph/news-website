@@ -54,7 +54,7 @@
 **日期**: 2024年4月3日  
 **標籤**: #跨性別 #身份證 #個人權利  
 **編輯**: 未知  
-
+<!-- tcd_original_link https://hk.news.yahoo.com/%E6%94%BF%E5%BA%9C%E6%94%BE%E5%AF%AC%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E6%94%B9%E8%BA%AB%E4%BB%BD%E8%AD%89-%E5%BE%8B%E5%B8%AB%EF%BC%9A%E6%8A%BD%E6%9F%A5%E8%A1%80%E6%B6%B2%E4%BE%B5%E7%8A%AF%E5%80%8B%E4%BA%BA%E6%AC%8A%E5%88%A9-%E5%9C%98%E9%AB%94%EF%BC%9A%E6%89%8B%E8%A1%93%E8%A6%81%E6%B1%82%E6%90%8D%E8%BA%AB%E9%AB%94%E5%AE%8C%E6%95%B4%E6%AC%8A%EF%BD%9Cyahoo-093844909.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

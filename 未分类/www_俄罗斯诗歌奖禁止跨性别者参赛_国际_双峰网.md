@@ -35,7 +35,7 @@
 ---
 
 极虎网声明：未经许可，不得转载。
-
+<!-- tcd_original_link http://www.jihuc.com/news/177284/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

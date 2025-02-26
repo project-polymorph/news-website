@@ -47,7 +47,7 @@
 - [北京奥运会设性别鉴定中心 想男扮女装？没门！](http://www.chinanews.com.cn/gj/kong/news/2008/07-28/1326628.shtml)
 - [奥运探秘：四种方法可助专家鉴定运动员性别](http://www.chinanews.com.cn/olympic/news/2008/07-27/1325871.shtml)
 - [北京奥运成立性别鉴定实验室 为奥运史上首次](http://www.chinanews.com.cn/olympic/news/2008/07-27/1325571.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/olympic/news/2008/07-29/1328518.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

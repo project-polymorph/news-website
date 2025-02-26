@@ -34,7 +34,7 @@
 - [#LGBTQ](https://newtalk.tw/search?q=LGBTQ&type=tab)
 - [#汙名化](https://newtalk.tw/search?q=%E6%B1%99%E5%90%8D%E5%8C%96&type=tab)
 - [#同婚專法](https://newtalk.tw/search?q=%E5%90%8C%E5%A9%9A%E5%B0%88%E6%B3%95&type=tab)
-
+<!-- tcd_original_link https://newtalk.tw/news/view/2019-05-21/249241 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

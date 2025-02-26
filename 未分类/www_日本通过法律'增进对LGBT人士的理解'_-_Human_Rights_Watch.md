@@ -36,7 +36,7 @@ Human Rights Watch
 
 ### [Ouster of Anti-LGBT Official in Japan Should Prompt Reform](https://www.hrw.org/news/2023/02/09/ouster-anti-lgbt-official-japan-should-prompt-reform)
 ![Prime Minister Fumio Kishida apologizes for discriminatory remarks about the LGBT community by his former executive secretary at the House of Representatives.](https://www.hrw.org/sites/default/files/styles/square/public/media_2023/02/202302lgbt_japan_Fumio_Kishida_apologizes.jpg?h=822c48cc&itok=rYsfEoyq)
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2023/07/12/japan-passes-law-promote-understanding-lgbt-people -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

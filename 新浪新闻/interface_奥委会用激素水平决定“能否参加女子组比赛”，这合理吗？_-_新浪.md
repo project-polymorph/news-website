@@ -274,7 +274,7 @@
 15. 明白知识（2021）改变性别后参加奥运会比赛，公平吗？[链接](https://mp.weixin.qq.com/s/2hvfwB5gSdqoGnYDBz3ANg)
 16. Questions raised about fairness in Olympics qualification criteria. (2021). Retrieved from [链接](https://www.savewomenssport.com/media-releases/may-7th-2021----questions-raised-about-fairness-in-olympics-qualification-criteria-)
 17. WEIGHTLIFTING AND AGE. (2018). Retrieved from [链接](https://torokhtiy.com/blogs/warm-body-cold-mind/weightlifting-and-age)
-
+<!-- tcd_original_link https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2021-08-06%2Fdoc-ikqcfncc1273700.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

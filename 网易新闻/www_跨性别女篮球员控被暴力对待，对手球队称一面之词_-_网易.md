@@ -35,7 +35,7 @@ CBC则表示，「我们相信跨性别选手参加女子大学的议题，是�
 特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。
 
 Notice: The content above (including the pictures and videos if any) is uploaded and posted by a user of NetEase Hao, which is a social media platform and only provides information storage services.
-
+<!-- tcd_original_link https://www.163.com/dy/article/JG02B5NE0549VVJM.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

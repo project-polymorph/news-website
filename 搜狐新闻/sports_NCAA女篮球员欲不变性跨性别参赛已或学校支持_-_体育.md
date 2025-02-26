@@ -37,7 +37,7 @@
 - [南非800米冠军性别难辨 变性手术相当兴奋剂?](https://sports.sohu.com/20090821/n266128041.shtml) (09-08-21)
 - [高尔夫美女曾变性 性别检查奥运冠军竟被迫脱光](https://sports.sohu.com/20090709/n265095018.shtml) (09-07-09)
 - [年龄和性别都占优势 许利民望出任女篮助理教练](https://sports.sohu.com/20090225/n262464561.shtml) (09-02-25)
-
+<!-- tcd_original_link https://sports.sohu.com/20101105/n277162906.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

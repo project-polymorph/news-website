@@ -44,7 +44,7 @@
 
 ## 版权声明 { data-search-exclude }
 本网站由天津北方网版权所有。
-
+<!-- tcd_original_link http://news.enorth.com.cn/system/2010/08/04/004907343.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

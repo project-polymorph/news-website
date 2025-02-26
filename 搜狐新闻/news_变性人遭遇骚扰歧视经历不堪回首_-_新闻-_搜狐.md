@@ -133,7 +133,7 @@
 - [英国首个变性人抖内幕 毕加索和猫王曾向她求爱](https://news.sohu.com/20060612/n243677247.shtml)(06/12 04:22)
 - [全国首位通过网络征婚的变性人携男友首次亮相](https://news.sohu.com/20060420/n242895724.shtml)(04/20 02:40)
 - [变性人当“喜神” 你同意吗?](https://news.sohu.com/20060111/n241375142.shtml)(01/11 08:38)
-
+<!-- tcd_original_link http://news.sohu.com/20070208/n248128576.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -12,7 +12,7 @@
 (原题为《美国跨性别前奥运冠军将竞选加州州长》)
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/kuaibao_detail.jsp?contid=12368441&from=kuaibao -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

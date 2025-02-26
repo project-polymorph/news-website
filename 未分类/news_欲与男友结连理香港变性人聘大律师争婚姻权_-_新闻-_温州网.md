@@ -44,8 +44,7 @@ W本为男性，2005至2008年在香港公立医院施手术变为女儿身。�
 
 版权声明：温州网 版权所有  
 Copyright © 2000 - 2009 66wz.com. All Rights Reserved  
-
-
+<!-- tcd_original_link https://news.66wz.com/system/2013/04/11/103604368.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

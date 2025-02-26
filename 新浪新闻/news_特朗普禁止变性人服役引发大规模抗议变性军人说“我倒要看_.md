@@ -40,7 +40,7 @@
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 请说说你的看法：
-
+<!-- tcd_original_link http://news.sina.cn/2017-07-27/detail-ifyinryq6505115.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

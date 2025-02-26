@@ -87,7 +87,7 @@
 **版权信息:** 2013-11-08 07:06:07
 
 **标签:** 变性人, 美国, 军队, 性别认同, 就业权利
-
+<!-- tcd_original_link http://news.sina.cn/gj/2014-10-22/detail-iawzunex4278929.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

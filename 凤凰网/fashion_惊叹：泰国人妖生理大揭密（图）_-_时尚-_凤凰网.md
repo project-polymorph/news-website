@@ -34,7 +34,7 @@
 
 ### 参考资料
 - 凤凰网旅游：[惊叹：泰国人妖生理大揭密（图）](http://fashion.ifeng.com/travel/culture/detail_2006_11/22/141587_0.shtml)
-
+<!-- tcd_original_link https://fashion.ifeng.com/travel/culture/detail_2006_11/22/141587_1.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

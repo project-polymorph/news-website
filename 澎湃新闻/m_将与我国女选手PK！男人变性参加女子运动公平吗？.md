@@ -101,7 +101,7 @@
 **原标题**：《奥运迎首位跨性别举重运动员，将与我国女选手PK！男人变性参加女子运动公平吗？》
 
 **特别声明**：本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[https://renzheng.thepaper.cn](https://renzheng.thepaper.cn)。
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_13765253 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -40,7 +40,7 @@
 
 **上一篇**：[什么是泰国人妖？](https://www.glofang.com/news/show/91163/ "什么是泰国人妖？")  
 **下一篇**：[泰国人妖表演令我们目瞪口呆](https://www.glofang.com/news/show/91165/ "泰国人妖表演令我们目瞪口呆")
-
+<!-- tcd_original_link https://www.glofang.com/news/show/91164/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

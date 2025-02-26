@@ -61,7 +61,7 @@
 文/图 记者吴先华
 
 ![新浪新闻 logo](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2009-12-18/detail-ikmxzfmi9542799.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

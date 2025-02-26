@@ -68,7 +68,7 @@ KCM Trade驻悉尼首席市场分析师Tim Waterer表示，“日元整个10月�
 **评论区：** 
 
 [1条评论](https://gentie.ifeng.com/c/comment/8e2pQtf2ZvX)/[2人参与](https://gentie.ifeng.com/c/comment/8e2pQtf2ZvX)
-
+<!-- tcd_original_link https://finance.ifeng.com/c/8e2pQtf2ZvX -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

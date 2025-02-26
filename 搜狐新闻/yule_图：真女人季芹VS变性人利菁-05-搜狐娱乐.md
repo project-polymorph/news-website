@@ -38,7 +38,7 @@
 ## 注释 { data-search-exclude }
 
 - 本文内容完整保留，并保证信息准确无误，不对信息作任何更改。
-
+<!-- tcd_original_link http://yule.sohu.com/2004/05/29/58/article220305840.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

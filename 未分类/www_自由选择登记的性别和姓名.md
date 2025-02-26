@@ -34,7 +34,7 @@
 感谢您的注册！
 
 我们已向您登记的邮箱发出确认电邮。请确认您的电邮地址，以便日后接受新闻简讯。
-
+<!-- tcd_original_link https://www.deutschland.de/zh-hans/news/ziyouxuanzedengjidexingbiehexingming -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -57,8 +57,7 @@
 
 _[252](https://cmnt.sina.cn/index?product=comos&index=kknscsi2806099&tj_ch=news&is_clear=0)_  
 转发至微博  
-
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-02-28/detail-ikknscsi2806099.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

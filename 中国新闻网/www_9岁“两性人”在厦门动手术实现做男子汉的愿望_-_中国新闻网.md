@@ -60,7 +60,7 @@ W的家人找到市妇幼保健院。医生检查发现，W小腹右侧是睾丸
 - [湖南两性人变性之路崎岖坎坷 医院希望其变女人](http://www.chinanews.com.cn/news/2004/2004-11-02/26/501400.shtml)
 - [“两性人”嫖娼被抓受轻罚 南京法律界人士存争议](http://www.chinanews.com.cn/news/2004/2004-11-02/26/501400.shtml)
 - [14年历经4次艰辛手术 武汉一两性人终成男子汉](http://www.chinanews.com.cn/n/2004-01-30/26/396040.html)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/jk/ysbb/news/2008/08-28/1363834.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

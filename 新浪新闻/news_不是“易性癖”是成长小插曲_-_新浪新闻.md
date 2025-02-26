@@ -51,7 +51,7 @@
 - 88字
 
 **版权**: 内容来源于海峡都市报
-
+<!-- tcd_original_link https://news.sina.cn/sa/2007-10-12/detail-ikkntiam9625944.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

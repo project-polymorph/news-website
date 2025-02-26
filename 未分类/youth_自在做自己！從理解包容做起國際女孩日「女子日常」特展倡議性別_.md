@@ -35,7 +35,7 @@
 - [#高雄市政府青年創業發展基金](News_Tag.aspx?n=9&sms=10146&t=44)
 - [#Pinway](News_Tag.aspx?n=9&sms=10146&t=60)
 - [#駁二](News_Tag.aspx?n=9&sms=10146&t=62)
-
+<!-- tcd_original_link https://youth.kcg.gov.tw/News_Content.aspx?n=9&s=10687&sms=10146 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

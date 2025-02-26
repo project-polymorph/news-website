@@ -69,7 +69,7 @@
 
 - [使用DynamicPageList扩展的页面](/wiki/Category:%E4%BD%BF%E7%94%A8DynamicPageList%E6%89%A9%E5%B1%95%E7%9A%84%E9%A1%B5%E9%9D%A2 "Category:使用DynamicPageList扩展的页面")
 - [Kitabc12345 (记者)](/wiki/Category:Kitabc12345_\(%E8%A8%98%E8%80%85\) "Category:Kitabc12345 (記者)")
-
+<!-- tcd_original_link https://zh.wikinews.org/zh-cn/%E5%BE%B7%E5%9C%8B%E9%80%9A%E9%81%8E%E6%80%A7%E5%88%A5%E8%87%AA%E6%B1%BA%E6%B3%95 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

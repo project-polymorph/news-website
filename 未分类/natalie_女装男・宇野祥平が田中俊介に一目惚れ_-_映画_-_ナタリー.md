@@ -69,7 +69,7 @@
 - [映画「恋するけだもの」「恋のクレイジーロード」公式 (@koikure55) | Twitter](https://twitter.com/koikure55)
 - [「恋するけだもの」本編映像1](https://youtu.be/TAIbHOBJSuo)
 - [「恋するけだもの」本編映像2](https://youtu.be/1xZvvxz0j8g)
-
+<!-- tcd_original_link https://natalie.mu/eiga/news/405207 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

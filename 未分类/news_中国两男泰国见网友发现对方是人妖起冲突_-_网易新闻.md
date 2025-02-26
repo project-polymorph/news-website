@@ -42,7 +42,7 @@
 网友评论仅供其表达个人看法，并不表明网易立场。
 
 © 1997-2024 网易公司版权所有
-
+<!-- tcd_original_link https://news.163.com/photoview/00AO0001/2186989.html?from=tj_xytj -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

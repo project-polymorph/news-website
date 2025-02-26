@@ -28,7 +28,7 @@ Mimi表示，自己始终没有忘记曾经在寺院的生活，时至今日，�
 标签：[寺院](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AF%BA%E9%99%A2) [寺庙](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AF%BA%E5%BA%99) [戒律](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%88%92%E5%BE%8B)
 
 \[责任编辑：PN060\]
-
+<!-- tcd_original_link https://news.ifeng.com/a/20151218/46727719_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

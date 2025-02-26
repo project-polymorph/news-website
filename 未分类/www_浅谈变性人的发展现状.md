@@ -91,7 +91,7 @@
 电话：010-84833276  
 传真: 010-84831639-8006  
 邮箱：admin@womenwatch-china.org  
-
+<!-- tcd_original_link http://www.womenwatch.org.cn/?news_3/1936.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

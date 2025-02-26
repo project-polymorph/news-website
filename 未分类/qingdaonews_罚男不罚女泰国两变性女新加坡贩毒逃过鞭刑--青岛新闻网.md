@@ -42,7 +42,7 @@
 ![版权信息](http://www.qingdaonews.com/img/daily-1111/daily_navpoint2.gif)  
 ![版权信息](http://www.qingdaonews.com/img/daily-1111/daily_navstuff2.gif)  
 ![版权信息](http://www.qingdaonews.com/img/daily-1111/daily_navpoint2.gif)
-
+<!-- tcd_original_link https://qingdaonews.com/content/2006-01/22/content_5932675.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

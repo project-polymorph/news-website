@@ -67,7 +67,7 @@
 - [特朗普](http://so.cntv.cn/search.php?qtext=特朗普&sid=0000&pid=0000)
 - [榜样](http://so.cntv.cn/search.php?qtext=榜样&sid=0000&pid=0000)
 - [选区](http://so.cntv.cn/search.php?qtext=选区&sid=0000&pid=0000)
-
+<!-- tcd_original_link http://news.cntv.cn/20120405/106864.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

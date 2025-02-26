@@ -16,7 +16,7 @@
 
 **原标题**:市长签行政令 纽约跨性别者可自由选择男女厕所  
 **责任编辑**：hn_新闻
-
+<!-- tcd_original_link http://news.youth.cn/jsxw/201603/t20160308_7717909.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

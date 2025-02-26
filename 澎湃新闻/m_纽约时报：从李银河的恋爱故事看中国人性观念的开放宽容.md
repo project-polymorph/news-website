@@ -54,7 +54,7 @@
 文章称，在宣布两人的关系时，李银河没有拐弯抹角。“爱情从来是超凡脱俗的，”她在博客中写道。
 
 **（编译 葛沁怡 上海外国语大学英国研究中心iChina媒体工作室为报道提供帮助）**
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_1309571 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -25,7 +25,7 @@
 [版权声明](https://www.sohu.com/about/copyright.html)  
 
 ![图片](https://images.sohu.com/ccc.gif)
-
+<!-- tcd_original_link http://news.sohu.com/20040810/n221445042.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

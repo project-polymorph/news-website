@@ -58,7 +58,7 @@
 电话：68774515、 68772023、 68752331  
 
 版权所有 © 武汉大学2023
-
+<!-- tcd_original_link https://news.whu.edu.cn/xywh/bfxy/39.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -30,7 +30,7 @@ RT称，2022年2月俄罗斯对乌克兰发起特别军事行动后不久，乌�
 **评论**: [3评论](https://gentie.ifeng.com/c/comment/8ZORjhzMq5k) [25人参与](https://gentie.ifeng.com/c/comment/8ZORjhzMq5k)  
 
 ![](http://x0.ifengimg.com/feprod/c/2023_6_5/18_8_26/ad-logo.png)
-
+<!-- tcd_original_link https://news.ifeng.com/c/8ZORjhzMq5k -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

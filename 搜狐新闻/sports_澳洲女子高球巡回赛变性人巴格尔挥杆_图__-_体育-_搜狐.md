@@ -21,7 +21,7 @@
 
 **版权声明**  
 Copyright © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有
-
+<!-- tcd_original_link https://sports.sohu.com/2004/03/03/34/news219283439.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

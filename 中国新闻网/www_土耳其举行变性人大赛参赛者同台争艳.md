@@ -16,7 +16,7 @@
 ![图片2](http://i2.chinanews.com/simg/hd/2016/05/27/200x133_58f8744fae004854a6a63f11667b6cd8.jpg)
 
 **来源**：[中新网](http://www.chinanews.com/tp/hd2011/2016/05-27/641005.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2016/05-27/641044.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

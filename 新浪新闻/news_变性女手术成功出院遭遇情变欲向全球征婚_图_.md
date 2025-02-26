@@ -67,7 +67,7 @@
 **评论区**: 88字
 
 **转发至微博**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-11-23/detail-ikknscsi8328365.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

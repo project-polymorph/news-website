@@ -98,7 +98,7 @@
 - [《男变女好痛苦!变性艺人留绝笔》追踪———...](https://news.sohu.com/20070130/n247923595.shtml)(01/30 08:34)
 - [男变女好痛苦!海口变性艺人绝笔失踪(图)](https://news.sohu.com/20070126/n247850836.shtml)(01/26 08:20)
 - [变性艺人不堪歧视 网上发绝笔书后失踪(组图)](https://news.sohu.com/20070125/n247837832.shtml)(01/25 14:28)
-
+<!-- tcd_original_link http://news.sohu.com/20070206/n248065056.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

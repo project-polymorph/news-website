@@ -79,7 +79,7 @@ GayWheels.com网站对于同性恋和汽车发展也有一些发现，在其曾�
 
 **版权声明**: Copyright © 2018 Sohu.com Inc. All Rights Reserved.  
 **联系邮箱**: [jubao@contact.sohu.com](mailto:jubao@contact.sohu.com)
-
+<!-- tcd_original_link http://auto.sohu.com/20161209/n475360564.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

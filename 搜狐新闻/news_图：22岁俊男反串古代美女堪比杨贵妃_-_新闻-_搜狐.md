@@ -42,7 +42,7 @@
 
 **评论:**  
 [[我来说两句](https://comment2.news.sohu.com/viewcomments.action?id=261328086)(4条)]
-
+<!-- tcd_original_link http://news.sohu.com/20081220/n261328086.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

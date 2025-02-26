@@ -50,7 +50,7 @@ Reena友人Jonathan拿著「廢除377A」的標語受訪時說，不僅是LGBT�
 ---
 
 ![dot image pixel](https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Tue%2C%2012%20Nov%202024%2017%3A46%3A20%20GMT&n=0&b=%E3%80%8C%E7%B2%89%E7%B4%85%E5%A4%A7%E8%BB%8D%E3%80%8D%E9%87%8D%E7%8F%BE%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%B3%E6%9E%2597%E5%85%AC%E5%9C%92%20%E7%88%ADLGBT%E5%B9%B3%E6%AC%8A-154138649.html&.yp=428726&f=https%3A%2F%2Ftw.news.yahoo.com%2F%25E7%25B2%2589%25E7%25B4%2585%25E5%25A4%25A7%25E8%25BB%258D-%25E9%2587%258D%25E7%258F%25BE%25E6%2596%25B0%25E5%258A%25A0%25E5%259D%25A1%25E8%258A%25B3%25E6%259E%2597%25E5%2585%25AC%25E5%259C%2592-%25E7%2588%25ADlgbt%25E5%25B9%25B3%25E6%25AC%258A-154138649.html&enc=UTF-8&gdpr=0&isOathFirstParty=1&us_privacy=1YNN&gpp=DBABBg~BVoIgACY.QA&gpp_sid=8&yv=1.16.5&country=tw&property=news&pstcat=news&tag=LGBT%2C%20%E6%96%B0%E5%8A%A0%E5%9D%A1&title=%E3%80%8C%E7%B2%89%E7%B4%85%E5%A4%A7%E8%BB%8D%E3%80%8D%E9%87%8D%E7%8F%BE%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%B3%E6%9E%9C%20%E7%88%ADLGBT%E5%B9%B3%E6%AC%8A)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E7%B2%89%E7%B4%85%E5%A4%A7%E8%BB%8D-%E9%87%8D%E7%8F%BE%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%8A%B3%E6%9E%97%E5%85%AC%E5%9C%92-%E7%88%ADlgbt%E5%B9%B3%E6%AC%8A-154138649.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

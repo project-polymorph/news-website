@@ -46,7 +46,7 @@
 **标签**: 健康及卫生  
 
 [2019冠状病毒病](https://www.un.org/zh/coronavirus)大流行增加了同性恋、双性恋、跨性别者和间性者的社会经济脆弱性，这是今天开幕的2020年国际艾滋病大会上展示的一项在线调查的结果。
-
+<!-- tcd_original_link https://news.un.org/zh/story/2020/11/1071372 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

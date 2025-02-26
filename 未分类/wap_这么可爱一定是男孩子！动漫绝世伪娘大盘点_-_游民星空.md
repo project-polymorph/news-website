@@ -43,7 +43,7 @@
 **标签**：跨性别，动漫，伪娘 
 
 ---
-
+<!-- tcd_original_link https://wap.gamersky.com/news/Content-213026_14.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

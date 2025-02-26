@@ -39,7 +39,7 @@
 - [好声音人气学员叶玮庭承认“微整形”(图)](http://ent.ifeng.com/tv/special/haoshengyin2/content-3/detail_2013_07/26/27959655_0.shtml)
 
 ![凤凰网logo](http://img.ifeng.com/page/Logo.gif)
-
+<!-- tcd_original_link https://ent.ifeng.com/tv/special/haoshengyin2/content-3/detail_2013_07/27/27982778_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

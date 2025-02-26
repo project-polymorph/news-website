@@ -29,7 +29,7 @@
 ---
 
 **版权声明**：本文内容来源于中新网，版权所有，转载请注明出处。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/life/news/2009/09-16/1868283.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -70,7 +70,7 @@
 海外网版权所有，未经书面授权禁止使用
 
 Copyright 2011-2014 by www.haiwainet.cn all rights reserved
-
+<!-- tcd_original_link http://news.haiwainet.cn/n/2015/0409/c3541089-28615191.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

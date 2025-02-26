@@ -28,7 +28,7 @@
 -   [豪车](http://so.cntv.cn/search.php?qtext=豪车&sid=0000&pid=0000)
 -   [致富](http://so.cntv.cn/search.php?qtext=致富&sid=0000&pid=0000)
 -   [男子](http://so.cntv.cn/search.php?qtext=男子&sid=0000&pid=0000)
-
+<!-- tcd_original_link http://news.cntv.cn/china/20121025/107752.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

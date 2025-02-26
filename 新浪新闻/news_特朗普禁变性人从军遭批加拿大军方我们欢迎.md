@@ -120,7 +120,7 @@ CNN还采访到了变性前海豹突击队员克里斯蒂·贝克（Kristin Beck
 新浪新闻官方
 
 ![新浪新闻logo](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/gj/2017-07-27/detail-ifyinvwu2649751.d.html?vt=4&pos=108 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

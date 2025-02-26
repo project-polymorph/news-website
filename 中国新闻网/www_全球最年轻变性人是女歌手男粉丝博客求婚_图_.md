@@ -40,7 +40,7 @@
 
 **相关新闻**  
 - [德16岁男童完成变性手术 成全球最年轻变性人(图)](http://www.chinanews.com.cn/gj/dqsj/news/2009/02-05/1550858.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/yl/ytcf/news/2009/02-06/1552949.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

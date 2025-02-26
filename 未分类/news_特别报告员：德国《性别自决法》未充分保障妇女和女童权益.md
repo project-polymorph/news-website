@@ -35,7 +35,7 @@
 - [人权专家](https://news.un.org/zh/tags/renquanzhuanjia)
 
 ![Yandex](https://mc.yandex.ru/watch/98581370)
-
+<!-- tcd_original_link https://news.un.org/zh/story/2024/10/1133046 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

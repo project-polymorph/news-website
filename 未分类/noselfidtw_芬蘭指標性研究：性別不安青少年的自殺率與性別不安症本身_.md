@@ -27,7 +27,7 @@
 ## 相關連結 { data-search-exclude }
 - [A Finnish study is changing how we approach transgender kids](https://nypost.com/2024/02/24/opinion/a-finnish-study-is-changing-how-we-approach-trans-kids/) - New York Post ([備份](https://archive.ph/cNc60))
 - [該芬蘭研究PDF](https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf) - BMJ Mental Health ([備份](https://web.archive.org/web/20240306032037/https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf))
-
+<!-- tcd_original_link https://noselfidtw.cc/news/a-finnish-study-is-changing-how-we-approach-transgender-kids/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

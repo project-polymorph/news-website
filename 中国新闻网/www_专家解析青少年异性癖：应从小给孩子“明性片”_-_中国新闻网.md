@@ -52,7 +52,7 @@
 
 ![](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F980DT20100423111451.jpg)  
 ![](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F981DT20100423110629.jpg)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/jk/news/2010/05-24/2300966.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

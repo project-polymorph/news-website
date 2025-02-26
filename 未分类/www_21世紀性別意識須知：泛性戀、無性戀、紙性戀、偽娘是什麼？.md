@@ -87,7 +87,7 @@ Photo Credit: Shutterstock / 達志影像
 - [Fictosexuality](https://www.thenewslens.com/tag/321041)  
 - [Otokonoko](https://www.thenewslens.com/tag/321042)  
 - [LGBTIS](https://www.thenewslens.com/tag/321043)  
-
+<!-- tcd_original_link https://www.thenewslens.com/article/196118 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

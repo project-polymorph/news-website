@@ -296,7 +296,7 @@
 作者: 小小故事汇
 
 标签: [双性人](https://news.163.com/keywords/5/c/53cc60274eba/1.html), [小民](https://news.163.com/keywords/5/0/5c0f6c11/1.html), [阿琴](https://news.163.com/keywords/9/3/963f7434/1.html), [医生](https://news.163.com/keywords/5/3/533b751f/1.html)
-
+<!-- tcd_original_link https://c.m.163.com/news/a/HFO5RNKM0553E0DM.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

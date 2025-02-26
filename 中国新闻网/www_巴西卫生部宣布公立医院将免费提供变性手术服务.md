@@ -36,7 +36,7 @@
 **评论**  
 您可以[查看评论](http://comment.chinanews.com.cn/comments/comments.php?newsid=1275460)  | [进入社区](http://bbs.chinanews.com.cn)  
 **免责声明**: 本评论观点只代表网友个人观点，不代表中国新闻网立场。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/gj/lmfz/news/2008/06-07/1275460.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

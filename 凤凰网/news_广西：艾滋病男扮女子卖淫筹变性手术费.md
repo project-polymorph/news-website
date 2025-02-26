@@ -30,7 +30,7 @@
 \[责任编辑：彭莹羿 PN062\]
 
 标签：[韦某](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%9F%A6%E6%9F%90) [民警](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B0%91%E8%AD%A6) [刑侦](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%88%91%E4%BE%A6)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20160401/48301408_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

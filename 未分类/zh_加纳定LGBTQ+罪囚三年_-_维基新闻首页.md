@@ -97,7 +97,7 @@
 如果确实需要修正错误，请在[讨论页](https://zh.wikinews.org/w/index.php?title=Talk:%E5%8A%A0%E7%B4%8D%E5%AE%9ALGBTQ%2B%E7%BD%AA_%E5%9B%9A%E4%B8%89%E5%B9%B4&action=edit&redlink=1 "Talk:加纳定LGBTQ+罪 囚三年（页面不存在）")提出你的修改建议，并且[通知管理员注意](https://zh.wikinews.org/wiki/Wikinews:%E7%AE%A1%E7%90%86%E5%91%98%E9%80%9A%E5%91%8A%E6%9D%BF/%E6%96%B0%E8%81%9E%E9%A0%81%E9%9D%A2#修改已保護頁面 "Wikinews:管理员通告板/新闻页面")。
 
 依据[存档常规](https://zh.wikinews.org/wiki/Wikinews:%E5%AD%98%E6%A1%A3%E5%B8%B8%E8%A6%8F "Wikinews:存档常规")，存档后之修正只限于非内容事项（错别字、格式等）。请注意，新闻中列出的消息来源URL可能因时间久远无法使用。
-
+<!-- tcd_original_link https://zh.wikinews.org/zh-hans/%E5%8A%A0%E7%B4%8D%E5%AE%9ALGBTQ%2B%E7%BD%AA_%E5%9B%9A%E4%B8%89%E5%B9%B4 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

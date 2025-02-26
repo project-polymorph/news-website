@@ -219,7 +219,7 @@
 领导和老板，当然都不用跪。
 
 很不幸，在没有成为领导和老板之前，该跪还得跪。
-
+<!-- tcd_original_link https://news.creaders.net/china/2024/11/02/2792018.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

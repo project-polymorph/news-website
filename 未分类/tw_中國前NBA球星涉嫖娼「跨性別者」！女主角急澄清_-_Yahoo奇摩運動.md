@@ -31,7 +31,7 @@
 《民視新聞網》提醒您，有關散布猥褻物品罪：刑法第235條第1項：「散布、播送或販賣猥褻之文字、圖畫、聲音、影像或其他物品，或公然陳列，或以他法供人觀覽、聽聞者，處二年以下有期徒刑、拘役或科或併科三萬元以下罰金。」。《民視新聞網》提醒您：不良行為，請勿模仿！
 
 **原文出處:** [中國NBA退役球星涉嫖娼「跨性別者」！「女主角」澄清後帳號秒消失](https://www.ftvnews.com.tw/news/detail/2024A18W0062?utm_source=yahoo&utm_medium=InArticl)
-
+<!-- tcd_original_link https://tw.sports.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E5%89%8Dnba%E7%90%83%E6%98%9F%E6%B6%89%E5%AB%96%E5%A8%BC-%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85-%E5%A5%B3%E4%B8%BB%E8%A7%92%E6%80%A5%E6%BE%84%E6%B8%85-021105824.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

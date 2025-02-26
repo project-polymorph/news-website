@@ -23,7 +23,7 @@
 
 **评论**：  
 [查看评论(0)](http://comment.chinanews.com/comments/comments.php?newsid=3535667)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2011/12-15/79953.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

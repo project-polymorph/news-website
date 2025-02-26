@@ -23,7 +23,7 @@
 ![埃卢姆斯](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F981DT20100423110629.jpg)
 
 【编辑: 刘通】
-
+<!-- tcd_original_link http://www.chinanews.com.cn/ty/2010/11-05/2636825.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

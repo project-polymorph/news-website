@@ -19,7 +19,7 @@
 --- 
 
 **标签：** 变性人, 选美, 巴西, 彩排, 世界选美大赛
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2013/12-09/274839.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

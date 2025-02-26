@@ -53,7 +53,7 @@
 『以上的變化均是溫柔親眼所見的臨床報告！』
 
 資料來源：<http://www.xiasl.com/shownews.asp?newsid=370>
-
+<!-- tcd_original_link https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender2/newsroom/newsroom_2_surgery19.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

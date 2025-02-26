@@ -10,7 +10,7 @@
 **时间：** 2006.02.05 10:15  
 **来源：** 温州都市报  
 **作者：** 本报记者
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-02-05/detail-ikkntiam6457667.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

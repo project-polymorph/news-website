@@ -56,7 +56,7 @@
 ---
 
 **版权信息**：生物通 版权所有
-
+<!-- tcd_original_link https://m.ebiotrade.com/newsf/2001-4/L01417132319.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

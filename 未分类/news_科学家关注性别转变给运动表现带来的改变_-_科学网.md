@@ -66,7 +66,7 @@ Harper仍在做日常工作，她在写一本关于体育领域性别差异的�
 《中国科学报》 (2018-08-09 第3版 国际)  
 
 以下评论只代表网友个人观点，不代表科学网观点。
-
+<!-- tcd_original_link https://news.sciencenet.cn/htmlnews/2018/8/416379.shtm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -96,7 +96,7 @@ BBC是少有的到广东佛山去专程采访她的外国媒体。
 ---
 
 **版权信息**：BBC News 中文
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese_news/2012/07/120712_china_transexual -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -24,7 +24,7 @@
 **踩**()  
 
 ![](http://i7.chinanews.com/tp/2011hd/images/bottom_1.gif)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2011/12-30/82728.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

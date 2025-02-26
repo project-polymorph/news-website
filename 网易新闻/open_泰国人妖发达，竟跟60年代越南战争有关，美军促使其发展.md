@@ -47,7 +47,7 @@
 - [网络营销](http://emarketing.163.com/)
 - [网站地图](http://sitemap.163.com/)
 - [公开课用户服务协议](/special/serviceagreement_open)
-
+<!-- tcd_original_link https://open.163.com/newview/movie/free?pid=FIQ087JFV&mid=XIQ087JGG -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

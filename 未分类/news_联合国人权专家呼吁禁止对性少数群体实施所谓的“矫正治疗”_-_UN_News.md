@@ -47,7 +47,7 @@
 [人权](https://zh.news/topic/human-rights)
 
 5月17日是“国际不再恐同日”。联合国秘书长古特雷斯发表[致辞](https://www.un.org/sg/en/content/sg/statement/2020-05-17/secretary-generals-message-the-international-day-against-homophobia-biphobia-and-transphobia)，呼吁各地人民支持性少数群体自由、平等生活的权利。
-
+<!-- tcd_original_link https://news.un.org/zh/story/2020/07/1061591 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

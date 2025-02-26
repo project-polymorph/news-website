@@ -41,7 +41,7 @@
 **版权：** 综合中国日报网
 
 **标签：** [奥巴马](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A5%A5%E5%B7%B4%E9%A9%AC) [古铁雷斯](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%A4%E9%93%81%E9%9B%B7%E6%96%AF) [白宫](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%99%BD%E5%AE%AB)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150626/44044902_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

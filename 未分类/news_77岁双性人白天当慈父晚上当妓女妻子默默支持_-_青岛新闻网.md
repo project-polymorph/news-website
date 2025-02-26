@@ -38,7 +38,7 @@
 - 10-27·[双性人犯罪致人死亡 四部门会商应关男监女监](http://www.qingdaonews.com/content/2010-10/27/content_8540571.htm)
 - 08-17·[男子自称双性人广场征婚](http://www.qingdaonews.com/gb/content/2010-08/17/content_8459739.htm)
 - 05-10·[17岁双性人北京欲还男儿身 常深夜摸黑洗澡](target="_blank")
-
+<!-- tcd_original_link https://news.qingdaonews.com/shehui/2014-04/09/content_10376992.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

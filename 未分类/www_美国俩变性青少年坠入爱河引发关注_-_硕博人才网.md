@@ -37,7 +37,7 @@
 阿伦的母亲还承诺，只要他能筹到初步变性手术费用3770美元的一半，她愿意承担另一半。凯蒂则全力帮助阿伦实现愿望。  
 
 版权 © 2020 硕博人才网 版权所有
-
+<!-- tcd_original_link http://www.shuobo114.com/news/news-show.php?id=370 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

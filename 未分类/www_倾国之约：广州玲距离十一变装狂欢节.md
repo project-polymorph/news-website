@@ -109,7 +109,7 @@
 ## 下一篇： [广州玲距离9月15日中秋主题活动：花好月圆，中秋狂欢](#) { data-search-exclude }
 
 © 广州玲距离摄影工作室 版权所有
-
+<!-- tcd_original_link http://www.ljlcd.com/mobile/news_detail?news_PK=98 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

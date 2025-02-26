@@ -32,7 +32,7 @@
 *編輯推介*
 
 *版權聲明：信報財經新聞有限公司版權所有，不得轉載。Copyright © 2024 Hong Kong Economic Journal Company Limited. All rights reserved.*
-
+<!-- tcd_original_link https://www2.hkej.com/instantnews/current/article/3729059/%E9%97%9C%E6%B3%A8%E5%9C%98%E9%AB%94%E5%B0%8D%E8%BA%AB%E4%BB%BD%E8%AD%89%E8%BD%89%E6%80%A7%E5%88%A5%E8%A6%81%E6%B1%82%E6%84%9F%E5%A4%B1%E6%9C%9B -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

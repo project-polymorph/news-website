@@ -21,7 +21,7 @@
 **版权：** Copyright © 2000 - 2016 XINHUANET.com　All Rights Reserved.  
 **制作单位：** 新华网  
 **[新华网](http://www.xinhuanet.com)** | **[关于我们](http://www.xinhuanet.com/aboutus.htm)** | **[联系我们](http://news.xinhuanet.com/way.htm)** | **[版权声明](http://www.xinhuanet.com/xinhua_copyright.htm)**
-
+<!-- tcd_original_link http://news.xinhuanet.com/world/2014-05/19/c_1110753993.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

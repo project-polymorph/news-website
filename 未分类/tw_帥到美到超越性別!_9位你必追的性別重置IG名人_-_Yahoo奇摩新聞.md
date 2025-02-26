@@ -224,7 +224,7 @@ Laith Ashley
 [比女人还懂化妆! 6位你不能不知道的男性美妆达人!](https://www.harpersbazaar.com/tw/celebrity/g25281007/6-male-make-up-guru/?utm_source=yahoo&utm_medium=rss)
 
 ＊本文由哈潑时尚 Harper's BAZAAR 报导，未经授权同意不得转载
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E5%B8%A5%E5%88%B0%E7%BE%8E%E5%88%B0%E8%B6%85%E8%B6%8A%E6%80%A7%E5%88%A5-9%E4%BD%8D%E4%BD%A0%E5%BF%85%E8%BF%BD%E7%9A%84%E6%80%A7%E5%88%A5%E9%87%8D%E7%BD%AEig%E5%90%8D%E4%BA%BA-220900856.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

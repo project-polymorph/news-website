@@ -44,7 +44,7 @@ Josh表示自己其实还看了医生，虽然出柜为跨性别，但自己喜�
 **标签：** [社会](https://www.gamersky.com/news/4088/) | [跨性别](https://www.gamersky.com/news/107235/) | [美国](https://www.gamersky.com/news/4087/) | [娱乐](https://www.gamersky.com/news/11946/)  
 
 **评论(285)** 
-
+<!-- tcd_original_link https://www.gamersky.com/news/202411/1838928.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

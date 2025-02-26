@@ -25,7 +25,7 @@
 Kpopn 的 Tien 報導轉載請註明 [kpopn.com](https://kpopn.com)  
 
 ![customer_logo](https://www.likr.tw/pushImage/kpopn/image/20230320000001_chrome_100x100_1731383389.png)
-
+<!-- tcd_original_link https://www.kpopn.com/2024/11/01/news-squid-game-2-teaser-park-sung-hoon-style -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

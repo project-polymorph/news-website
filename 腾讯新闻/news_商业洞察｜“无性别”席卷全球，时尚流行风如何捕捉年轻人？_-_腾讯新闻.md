@@ -36,7 +36,7 @@ bosie成立于2018年，是国内首个切入「无性别时尚」品类的新�
 评论 0文明上网理性发言，请遵守[《新闻评论服务协议》](https://new.qq.com/static/coralinfo.htm) 
 
 ![版权信息](http://inews.gtimg.com/newsapp_ls/0/12597139796/0)
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20220805A01ME700 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -86,8 +86,7 @@ PLOS ONE发言人大卫克努森说，这项研究在出版之前，**已经由�
 
 - Lisa Littman. Rapid-onset gender dysphoria in adolescents and young adults: A study of parental reports.
 - Meredith Wadman. New paper ignites storm over whether teens experience ‘ rapid onset ’ of transgender identity
-
-
+<!-- tcd_original_link https://www.sohu.com/a/254500363_354973 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

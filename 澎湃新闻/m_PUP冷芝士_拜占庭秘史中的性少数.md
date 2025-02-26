@@ -68,7 +68,7 @@ Roland Betancourt: 我希望能够尽可能直言不讳地去发表观点声援�
 **特别声明**: 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点。  
 
 [阅读原文](http://mp.weixin.qq.com/s/3iaAVebnOr0BlNDcppalxg)
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_12025720 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

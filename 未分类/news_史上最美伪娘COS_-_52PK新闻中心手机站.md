@@ -51,7 +51,7 @@ _密码：_
 _匿名_
 
 版权 © 2002-2012 www.52pk.com All Rights Reserved. 版权所有
-
+<!-- tcd_original_link http://news.52pk.com/shtml/201006/903829_7.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

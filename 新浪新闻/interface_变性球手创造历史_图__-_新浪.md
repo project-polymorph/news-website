@@ -22,7 +22,7 @@
 她说：“我并不担心公平问题，如果我感觉自己有优势的话，在比赛时肯定会感觉很难受。而且就我自己的亲身经历，我所看过的医学研究结果，像我这样的完全变性人根本没有什么优势可言。现在我最想做的就是保持自尊。我8岁就开始打球，现在仍想打下去。”
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fnews.sina.com.cn%2Fw%2F2004-02-16%2F11591814027s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

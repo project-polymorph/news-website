@@ -38,7 +38,7 @@
 
 - [性政治首頁](../../index.html) 
 - [回新聞剪報](../news.html)
-
+<!-- tcd_original_link https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender2/newsroom/newsroom_4_China5.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

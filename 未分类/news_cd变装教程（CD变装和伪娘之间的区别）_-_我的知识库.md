@@ -31,7 +31,7 @@ CD变装的男性，其实很多时候，只是一种满足自我的玩法，多
 
 关键词： 
 原标题：cd变装教程（CD变装和伪娘之间的区别）
-
+<!-- tcd_original_link https://news.08nm.com/archives/372329 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -45,7 +45,7 @@
 - [露背](http://so.cntv.cn/search.php?qtext=露背&sid=0000&pid=0000)
 - [短裙](http://so.cntv.cn/search.php?qtext=短裙&sid=0000&pid=0000)
 - [披肩长发](http://so.cntv.cn/search.php?qtext=披肩长发&sid=0000&pid=0000)
-
+<!-- tcd_original_link http://news.cntv.cn/20120531/116057.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

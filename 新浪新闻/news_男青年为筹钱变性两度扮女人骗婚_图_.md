@@ -98,7 +98,7 @@
 **新浪网友0**  
 **关男监还是女监呢？关男监的话肯定完了**  
 **时间:** 2006-12-05
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-12-04/detail-ikftpnny3781555.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -28,7 +28,7 @@
 
 **标签**：跨性别、医疗、社会问题  
 **参考资料**：[更多精彩内容请进入健康频道](http://www.chinanews.com.cn/health.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com/jk/jk-ysbb/news/2010/02-24/2136586.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -157,7 +157,7 @@
 
 （文中江林为化名）  
 责任编辑人：王家乐 PX043  
-
+<!-- tcd_original_link http://inews.ifeng.com/50729702/news.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

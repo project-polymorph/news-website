@@ -76,7 +76,7 @@
 - [经公安部门确认身份 变性人在兰州可以登记结婚](http://www.gs.chinanews.com.cn/n/2003-09-10/1/6886.html) (2003-09-10 13:54:25)
 - [变性人结婚合法有效 民政部就此作出明确答复](http://www.chinanews.com.cn/n/2003-01-17/26/264535.html) (2003-01-17 09:25:50)
 - [图文：韩国变性艺人河莉秀透露已有结婚对象](http://www.chinanews.com.cn//2002-06-14/26/194791.html) (2002-06-14 08:46:02)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/n/2004-03-03/26/408924.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

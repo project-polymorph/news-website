@@ -86,7 +86,7 @@
 [1](https://news.sohu.com/20070627/n250791584_1.shtml)  
 [2](https://news.sohu.com)  
 **评论：** 102条
-
+<!-- tcd_original_link http://news.sohu.com/20070627/n250791584.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

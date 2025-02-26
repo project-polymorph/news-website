@@ -38,7 +38,7 @@ Yoshin此前男儿身时的照片。
 ### _请您文明上网、理性发言，并遵守相关规定。网友评论仅供其表达个人看法，并不表明温州网立场。_  
 
 **版权声明：** 国新办发函2006.78号 Copyright © 2014 [66wz.com](http://www.66wz.com). All rights reserved.
-
+<!-- tcd_original_link https://news.66wz.com/system/2016/01/22/104703789.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -78,7 +78,7 @@
 - [五旬男子爱打扮成女人 苦于无力支付变性手术费](http://zjnews.zjol.com.cn/05zjnews/system/2008/08/29/009885068.shtml)  
 - [变性美女号召力不俗 整形真人秀引数千人围观](http://zjnews.zjol.com.cn/05zjnews/system/2008/08/02/009799152.shtml)  
 - [嘉兴第一人造变性美女曙光“破茧成蝶”](http://zjnews.zjol.com.cn/05zjnews/system/2008/07/16/009735893.shtml)
-
+<!-- tcd_original_link https://zjnews.zjol.com.cn/system/2009/04/14/015424934.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

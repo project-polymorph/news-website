@@ -69,7 +69,7 @@
 研究人员伦德伯格给出的建议也颇为无奈，他认为各个运动项目需要结合具体情况制定自己的政策，“让所有人都满意那是不可能的。”
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/yidian_promDetail.jsp?contid=8994480&from=yidian -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

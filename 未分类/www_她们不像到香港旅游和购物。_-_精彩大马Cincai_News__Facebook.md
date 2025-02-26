@@ -10,7 +10,7 @@
 ![不准变性人入境 香港涉歧视惹议](https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/3114124681247597155?url=http%3A%2F%2Fwww.themalaymailonline.com%2Fuploads%2Farticles%2F2016-09%2F160925hongkong_yl.jpg&fb_obo=1&utld=themalaymailonline.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=06_Q399PlRj2IKmxplk7uXBFxtijnQgAHDaUpC8UoUwu27QAkk&oe=67358CD5&_nc_sid=7a31ef)
 
 有官员问这两名女子是否已切割...
-
+<!-- tcd_original_link https://www.facebook.com/cincainewsdotcom/posts/%E6%B8%B8%E5%AE%A2%E8%AF%A5%E9%95%BF%E5%95%A5%E6%A0%B7%E9%A6%99%E6%B8%AF%E6%8B%92%E7%BB%9D%E8%AE%A9%E4%B8%A4%E5%90%8D%E6%B3%B0%E5%9B%BD%E5%8F%98%E6%80%A7%E4%BA%BA%E5%85%A5%E5%A2%83%E7%9A%84%E7%90%86%E7%94%B1%E6%98%AF%E5%A5%B9%E4%BB%AC%E4%B8%8D%E5%83%8F%E5%88%B0%E9%A6%99%E6%B8%AF%E6%97%85%E6%B8%B8%E5%92%8C%E8%B4%AD%E7%89%A9/1777858082501886/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

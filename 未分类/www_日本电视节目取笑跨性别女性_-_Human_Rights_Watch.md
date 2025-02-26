@@ -44,7 +44,7 @@
 标签：LGBT权利  
 区域／国家：亚洲 / 日本  
 来源：[Human Rights Watch](https://www.hrw.org/zh-hans/news/2019/11/21/335883)  
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2019/11/21/335883 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

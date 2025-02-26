@@ -65,7 +65,7 @@
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 **热门评论**: [点击查看更多评论](https://cmnt.sina.cn/index?product=comos&index=kftpnny4270913&tj_ch=news&is_clear=0) 
-
+<!-- tcd_original_link https://news.sina.cn/sa/2010-03-17/detail-ikftpnny4270913.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

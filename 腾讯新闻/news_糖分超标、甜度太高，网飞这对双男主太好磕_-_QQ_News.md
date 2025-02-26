@@ -177,7 +177,7 @@ X等于kiss，这话既表达了感谢，也表达了自己的爱意。
 2022年5月5日  
 回复  
 ![用户头像](http://inews.gtimg.com/newsapp_bt/0/0331175301626_8958/0)
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20220504A0B63W00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

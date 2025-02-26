@@ -79,7 +79,7 @@
 ---
 
 （文中易性男女均化名）
-
+<!-- tcd_original_link http://news.sohu.com/2004/03/07/01/news219330162.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

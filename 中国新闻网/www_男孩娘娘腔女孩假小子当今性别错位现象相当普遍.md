@@ -116,7 +116,7 @@
 ——河北省涞源县人民银行 杜明骏
 
 ---
-
+<!-- tcd_original_link https://www.chinanews.com.cn/m/sh/2015/04-11/7199893.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

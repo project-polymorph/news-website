@@ -68,7 +68,7 @@
 **用户6622573413** 0  
 **变性人脑子有点不正常，如大家都变性还正常吗？**  
 **时间**: 2020-07-05
-
+<!-- tcd_original_link https://news.sina.cn/2020-07-05/detail-iirczymm0681713.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

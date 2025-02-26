@@ -22,7 +22,7 @@
 ---
 
 ![图片说明](http://image2.sina.com.cn/dy/31/U608P1T31D315F479DT20041105192710.jpg)
-
+<!-- tcd_original_link https://news.sina.com.cn/s/2006-12-15/090510779184s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

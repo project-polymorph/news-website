@@ -37,7 +37,7 @@
 - 24小时：大马人的理想家园需具备哪些条件？ 用数据与例子给你正解
 
 **版权**：Copyright © 2024 Sin Chew Media Corporation Berhad (198301003518). All rights reserved.
-
+<!-- tcd_original_link https://www.sinchew.com.my/news/20240609/international/5671532 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

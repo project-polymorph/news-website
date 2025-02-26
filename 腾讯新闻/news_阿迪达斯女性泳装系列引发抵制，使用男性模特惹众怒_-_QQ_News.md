@@ -40,7 +40,7 @@
 **评论者：人是铁饭是钢**  
 **时间：2023年5月19日**  
 **内容：这个世界 看不懂**
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20230518A090MV00?no-redirect=1 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

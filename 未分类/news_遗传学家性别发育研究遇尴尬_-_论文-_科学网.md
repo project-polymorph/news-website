@@ -74,7 +74,7 @@ Vilain则设法以科学为根据维护这一政策。不过，他坦言，尽�
 更多阅读:
 
 [《自然》相关报道（英文）](http://www.nature.com/news/the-spectrum-of-sex-development-eric-vilain-and-the-intersex-controversy-1.19873)
-
+<!-- tcd_original_link https://news.sciencenet.cn/htmlnews/2016/6/348793.shtm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

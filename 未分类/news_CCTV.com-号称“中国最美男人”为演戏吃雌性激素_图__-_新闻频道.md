@@ -48,7 +48,7 @@
 - [首届中国生态文化博览会将亮相昆明](http://news.cctv.com/society/20070710/105260.shtml)
 - [针对中低收入者　云南省将推限价商品房](http://news.cctv.com/society/20070710/105356.shtml)
 - [贯彻监督法的又一举措《嘉兴人大·公报版》创刊](http://news.cctv.com/society/20070710/105207.shtml)
-
+<!-- tcd_original_link http://news.cctv.com/society/20070710/107000.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

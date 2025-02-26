@@ -23,7 +23,7 @@
 卫生部门已经驳回了丹尼尔的申请，并派出心理医生探视丹尼尔，劝告他放弃这个众人认为“异想天开”的想法。(天石/阿MAY）
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-06-28/detail-ikkntiam0294951.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

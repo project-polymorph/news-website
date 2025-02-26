@@ -53,7 +53,7 @@
 ![陳語安化身DJ女神感謝前任！吐露過去戀情：珍惜相愛的另一半](assets/images/400S.jpg)
 
 ---
-
+<!-- tcd_original_link https://ent.ltn.com.tw/news/breakingnews/4846227 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

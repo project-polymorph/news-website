@@ -35,7 +35,7 @@
 **版权：** 搜狐公司 版权所有  
 **联系方式：** [editor@sohu.com](mailto:editor@sohu.com)  
 **链接到搜狐：** [搜狐首页](https://www.sohu.com)
-
+<!-- tcd_original_link http://news.sohu.com/20050307/n224565511.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

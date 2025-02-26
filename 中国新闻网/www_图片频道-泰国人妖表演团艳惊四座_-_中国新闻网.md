@@ -32,7 +32,7 @@
 - [日星东山纪之私生活混乱 邻居骂"人妖王八蛋"](http://www.chinanews.com.cn/yl/mxzz/news/2008/12-01/1469293.shtml)
 
 ![图片频道底部](http://www.chinanews.com.cn/fileftp/2009/07/2009-07-29/U33P4T47D11468F968DT20090729104424.jpg)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/tp/news/photo_special/2009/08-14/3576.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

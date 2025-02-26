@@ -33,7 +33,7 @@
 * ![圖片1](https://s.yimg.com/uu/api/res/1.2/Gh_8o6XXCsrjrmLgprVztA--~B/Zmk9c3RyaW07aD0yODg7dz01MTQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/ko/gotv_ctitv_com_tw_678/c00a84058f2c548b5ad7a05260cd4c79.cf.webp)
 * 
 * ![圖片2](https://s.yimg.com/uu/api/res/1.2/T9YfZM7i6vmScvX.NiFJcQ--~B/Zmk9c3RyaW07aD0yODg7dz01MTQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/ko/ctwant_com_582/6aeaa7ecf61d774e72acb17dfb001b1f.cf.webp)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E7%B2%89%E7%B4%85%E5%A4%A7%E8%BB%8D-%E6%B9%A7%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%AC%E5%9C%92-%E7%88%AD%E5%8F%96lgbtq%E5%B9%B3%E6%AC%8A-131547209.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

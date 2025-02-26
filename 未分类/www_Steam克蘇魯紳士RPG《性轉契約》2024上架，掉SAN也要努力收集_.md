@@ -63,7 +63,7 @@
 由 FoxSister 開發製作的成人 RPG 新作《性轉契約與痴漢少女》預計在 2024 年發售，有興趣的紳士可先加入願望清單關注。
 
 【2023/11/24 12:15 PM】修正內文有關 H 場景動態 CG 文字介紹。
-
+<!-- tcd_original_link https://www.4gamers.com.tw/news/detail/61166/sex-change-contract-and-molester-girl-coming-2024 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -119,7 +119,7 @@
 
 版权信息：版权归 [中国民俗学网](https://www.chinesefolklore.org.cn/) 所有。  
 文章来源：中国民俗学网【本文责编：程浩芯】
-
+<!-- tcd_original_link https://www.chinafolklore.org/web/index.php?Page=2&NewsID=20739 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

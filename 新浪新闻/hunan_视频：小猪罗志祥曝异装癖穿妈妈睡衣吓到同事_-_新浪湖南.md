@@ -28,7 +28,7 @@
 
 Copyright © 1996 - 2016 SINA Corporation, All Rights Reserved  
 新浪公司版权所有
-
+<!-- tcd_original_link https://hunan.sina.com.cn/video/zonghe/2012-09-03/15131369.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

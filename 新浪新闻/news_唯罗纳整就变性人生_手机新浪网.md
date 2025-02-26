@@ -44,7 +44,7 @@ _![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 88字
 
 立即转发
-
+<!-- tcd_original_link https://news.sina.cn/sa/2012-09-14/detail-ikmyaawa4224599.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

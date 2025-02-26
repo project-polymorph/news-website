@@ -211,7 +211,7 @@ Poy主要活跃于泰国和东南亚地区的演艺圈。
 ![image51](http://5b0988e595225.cdn.sohucs.com/images/20191110/3b175e186e694ea1a4c262149e2cd076.jpeg)
 
 希望每一位到泰国的游客，在看她们表演的时候，不要歧视她们，更不要恶语相向。
-
+<!-- tcd_original_link https://www.sohu.com/a/352822536_363544 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

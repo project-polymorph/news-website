@@ -40,7 +40,7 @@
 
 匿名  
 用户名 密码 [注册](http://uc.ifeng.com/up/registerStep1.html)  
-
+<!-- tcd_original_link https://news.ifeng.com/world/200905/0516_16_1160665.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

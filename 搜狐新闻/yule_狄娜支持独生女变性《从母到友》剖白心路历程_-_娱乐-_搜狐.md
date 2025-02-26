@@ -37,7 +37,7 @@
 - 10-01-28 · [利菁遭医师公开变性过程 变性靓模身价暴涨(图)](https://yule.sohu.com/20100128/n269883990.shtml)
 
 版权 © 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有](https://corp.sohu.com/s2007/copyright/) 
-
+<!-- tcd_original_link http://yule.sohu.com/20100402/n271275239.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

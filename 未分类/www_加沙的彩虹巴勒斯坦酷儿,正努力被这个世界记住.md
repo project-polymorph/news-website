@@ -118,7 +118,7 @@ haha,那为什么要匿名？精神分裂到这种程度，实在是叹为观止
 **speakoutloudly**  
 发表评论于 2023-12-09 19:59:06  
 LGBTQ在哈马斯手下能有活路？看看他们亮明LGBTQ是被哈马斯会不会用石头砸死它。
-
+<!-- tcd_original_link https://www.wenxuecity.com/news/2023/12/09/125314020.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

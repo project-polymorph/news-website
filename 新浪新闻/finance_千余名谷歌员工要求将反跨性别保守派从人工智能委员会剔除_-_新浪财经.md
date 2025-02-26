@@ -72,7 +72,7 @@ LGBTQ指性少数群体，即女同性恋者、男同性恋者、双性恋者、
 
 Copyright © 1996-2019 SINA Corporation 
 All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link https://finance.sina.com.cn/roll/2019-04-02/doc-ihsxncvh7575628.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

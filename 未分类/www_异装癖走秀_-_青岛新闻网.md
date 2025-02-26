@@ -25,7 +25,7 @@
 **相关链接**  
 上一篇：[朱军被发哥玩残](../06/content_8226768.htm)  
 下一篇：[百度老婆竟是美羊羊](content_8227580.htm)  
-
+<!-- tcd_original_link https://www.qingdaonews.com/content/2009-12/07/content_8227565.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

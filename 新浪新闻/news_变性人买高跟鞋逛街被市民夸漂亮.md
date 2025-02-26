@@ -52,7 +52,7 @@
 
 **新浪网友0**：祝福她的新生。相信生命会因此改变。  
 **时间**：2006-08-22  
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-08-22/detail-ikftssap2706419.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

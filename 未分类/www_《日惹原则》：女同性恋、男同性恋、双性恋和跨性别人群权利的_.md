@@ -76,7 +76,7 @@
 ## 源 { data-search-exclude }
 日期：2007年03月26日  
 来源：[Human Rights Watch](https://www.hrw.org/zh-hans/news/2007/03/26/yogyakarta-principles-milestone-lesbian-gay-bisexual-and-transgender-rights)
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2007/03/26/231641 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

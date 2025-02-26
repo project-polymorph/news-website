@@ -38,7 +38,7 @@
 - [美国跨性别网红被关入男监狱 因在酒店袭警被捕](https://www.gamersky.com/ent/202211/1538028.shtml)  
 
 **评论(_0_人参与，_0_条评论)**  
-
+<!-- tcd_original_link https://www.gamersky.com/news/202302/1571056.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

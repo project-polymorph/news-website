@@ -51,7 +51,7 @@
 据报道，位于埃塞克斯郡切姆斯福德的博斯韦尔学校（The Boswells School），曾以罗琳的名字命名了该校一栋建筑。但在去年夏天，奥运冠军凯利·霍尔摩斯（Kelly Holmes）取代了罗琳的位置，这栋建筑换了新名字。无独有偶，英格兰里士满的一所小学在去年也取消了用罗琳的名字继续命名校内建筑。
 
 **编辑**: 彭小菲
-
+<!-- tcd_original_link https://app.bjtitle.com/8816/newshow.php?newsid=6086907&typeid=20&uid=381211&did=353615274688244&mood=wx -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

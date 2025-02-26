@@ -70,7 +70,7 @@ _![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 好的评论会让人崇拜
 
 **查看157条评论**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-09-22/detail-ikkntiam4653360.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

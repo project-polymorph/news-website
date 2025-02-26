@@ -27,7 +27,7 @@
 ### 评论
 
 - [我来说两句](https://comment2.news.sohu.com/viewcomments.action?id=253191517)(9条)
-
+<!-- tcd_original_link http://news.sohu.com/20071112/n253191517_2.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

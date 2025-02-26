@@ -34,7 +34,7 @@
 法律顾问：[legal@ifeng.com](mailto:legal@ifeng.com)  
 京ICP证030609号  
 本站通用网址：凤凰网建议使用IE5.5以上版本浏览
-
+<!-- tcd_original_link https://news.ifeng.com/photo/200704/0429_24_111458_4.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

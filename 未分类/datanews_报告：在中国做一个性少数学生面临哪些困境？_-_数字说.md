@@ -55,7 +55,7 @@
 ![](https://file.caixin.com/file/content/images/new/logo_bottom.png)
 
 ![](https://apollo.caixin.com/count.gif?GUID=938791113&GID30=938791113&TGUID=1731411169442&ENTITY_FROM=null&ENTITY_COUNT=0&cur=https%3A%2F%2Fdatanews.caixin.com%2F2019-05-05%2F101411360.html&title=%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%81%9A%E4%B8%80%E4%B8%AA%E6%80%A7%E5%B0%91%E6%95%B0%E5%AD%A6%E7%94%9F%E9%9D%A2%E4%B8%B4%E5%93%AA%E4%BA%9B%E5%9B%B0%E5%A2%83%EF%BC%9F_%E6%95%B0%E5%AD%97%E8%AF%B4%E9%A2%91%E9%81%93_%E8%B4%A2%E6%96%B0%E7%BD%91&urr=&email=&keyWord=&st=0&daye=17314111694441394076351&pageurl=https%3A%2F%2Fdatanews.caixin.com%2F2019-05-05%2F101411360.html&id=101411360&channel=158&category=100594224%3B100594247%3B101411360&tags=&tagNames=&type=&rootId=&location=%E4%B8%AD%E5%9B%BD&originReferrer=&extNum2=5)
-
+<!-- tcd_original_link https://datanews.caixin.com/2019-05-05/101411360.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -145,7 +145,7 @@ CCTV.com消息（法治在线）：
 ### 版权声明
 中国中央电视台 版权所有 [京ICP备05065290号](http://www.miibeian.gov.cn/)  [网上传播视听节目许可证号 0102004](http://www.miibeian.gov.cn/)  
 系统集成：[长天集团](http://www.pansky.com.cn)  网页设计：[中视河图](http://www.orm.cn)  
-
+<!-- tcd_original_link http://news.cctv.com/law/20070301/106261.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -71,7 +71,7 @@
 已有2位凤凰网友参与评论 
 
 （评论内容省略）
-
+<!-- tcd_original_link https://news.ifeng.com/mainland/200906/0604_17_1187459_1.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

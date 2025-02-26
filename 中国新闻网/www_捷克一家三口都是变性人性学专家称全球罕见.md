@@ -30,7 +30,7 @@
 - [泰300公斤变性人减肥治疗成功 以87公斤出院](http://www.chinanews.com/gj/2010/12-17/2730264.shtml)
 - [美国男子变性为女人 假冒医生给女性检查胸部](http://www.chinanews.com/gj/2010/11-19/2667512.shtml)
 - [英男子23年两度"变性" 欲拍纪录片告诫世人(图)](http://www.chinanews.com/gj/2010/11-09/2642560.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/2011/01-31/2824298.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

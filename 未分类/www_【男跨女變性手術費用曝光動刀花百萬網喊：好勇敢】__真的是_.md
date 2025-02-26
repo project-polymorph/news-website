@@ -50,7 +50,7 @@
 - 編輯: 達人秀新聞
 
 耐心地進行相關的資料整理，有助於無障礙信息的傳播與共享。
-
+<!-- tcd_original_link https://www.facebook.com/GoodNews.FANS/videos/%E7%94%B7%E8%B7%A8%E5%A5%B3%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E8%B2%BB%E7%94%A8%E6%9B%9D%E5%85%89-%E5%8B%95%E5%88%80%E8%8A%B1%E7%99%BE%E8%90%AC%E7%B6%B2%E5%96%8A%E5%A5%BD%E5%8B%87%E6%95%A2/1807785576381961/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

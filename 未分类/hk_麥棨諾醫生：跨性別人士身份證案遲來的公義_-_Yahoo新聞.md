@@ -38,7 +38,7 @@
 ![Yahoo 新聞](https://s.yimg.com/ny/api/res/1.2/Rjio5Fu5gQsBXg_3wawEWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA7Y2Y9d2VicA--/https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-02%2F48c19710-b347-11ed-b7fb-397ee01bd197&compress=1&progressive=1&quality=75&client=hawkeye&signature=03a399bcde84656250ef84eeee5a5b2e1adfd6c4)
 
 ![圖片](https://s.yimg.com/ny/api/res/1.2/5ygO6cBuuuTkMv_f1eIx8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-06/2ace7fe0-e81b-11ec-87ff-fa014b118834)
-
+<!-- tcd_original_link https://hk.news.yahoo.com/%E9%BA%A5%E6%A3%A8%E8%AB%BE%E9%86%AB%E7%94%9F-%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%A1%88-%E6%80%A7%E5%88%A5%E9%87%8D%E7%BD%AE-%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C-%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E9%81%B2%E4%BE%86%E7%9A%84%E5%85%AC%E7%BE%A9-025901511.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

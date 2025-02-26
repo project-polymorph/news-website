@@ -40,7 +40,7 @@
 ---
 
 **版权**: 人民网版权所有，未经书面授权禁止使用
-
+<!-- tcd_original_link http://news.sina.com.cn/s/2004-04-05/09493095036.shtml?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

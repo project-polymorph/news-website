@@ -43,7 +43,7 @@
 - [綠學院》 三隻小豬ESG投資暗黑童話](https://talk.ltn.com.tw/article/breakingnews/4853363 "綠學院》 三隻小豬ESG投資暗黑童話")
 
 - [李忠憲的思考》真理的失落：實用主義的陰霾下，民主危機迫在眉睫](https://talk.ltn.com.tw/article/breakingnews/4854882 "李忠憲的思考》真理的失落：實用主義的陰霾下，民主危機迫在眉睫")
-
+<!-- tcd_original_link https://talk.ltn.com.tw/article/breakingnews/4841404 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

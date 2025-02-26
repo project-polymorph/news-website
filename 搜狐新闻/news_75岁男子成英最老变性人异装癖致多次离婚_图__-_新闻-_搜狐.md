@@ -36,7 +36,7 @@
 --- 
 
 ##### 更多关于 **异装癖 变性人** 的新闻>> [点击这里](https://news.sogou.com/news?query=异装癖 变性人&pid=31023101&md=listTopics&name=&mode=0&sort=0)
-
+<!-- tcd_original_link http://news.sohu.com/20090916/n266759439.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -66,7 +66,7 @@ Christine於書中收錄兩首新詩，記錄她性別過渡的感受。
 ![書中的第一頁以重影字句寫上「願大家在錯位與不符中，摸清自己的質地，明心見性」，巧妙突顯這種印刷術與跨性別的獨特和美麗。](https://s.yimg.com/ny/api/res/1.2/9P9Hn8mtq_m05RasXCFxpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2023-06/4abc1581-05af-11ee-99b9-a98865614f4d)
 
 书中的第一页以重影字句写上「愿大家在错位与不符中，摸清自己的质地，明心见性」，巧妙突显这种印刷术与跨性别的独特和美丽。
-
+<!-- tcd_original_link https://hk.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%96%87%E9%9B%86-%E6%98%8E%E5%BF%83%E8%A6%8B%E6%80%A7-%E8%AE%8A%E6%80%A7-%E6%84%89%E6%82%85%E8%88%87%E6%8E%99%E6%89%8E-%E8%B7%A8%E5%A5%B3-lgbtq-051814689.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -34,8 +34,7 @@
 ## 图片 { data-search-exclude }
 
 *无相关重要图片需要显示*  
-
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2015/05/28/270087 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

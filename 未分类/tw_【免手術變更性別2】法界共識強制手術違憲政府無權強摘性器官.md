@@ -60,7 +60,7 @@
 - [【鏡相人間】從生存到生活 台灣跨性別者處境與性別變更爭議](https://www.mirrormedia.mg/story/20240927pol001?utm_source=feed_related&utm_medium=yahoo)  
 - [【免手術變更性別1】學校違反醫囑強迫她住男宿 教官逼問：你是男還是女？](https://www.mirrormedia.mg/story/20240927pol002?utm_source=feed_related&utm_medium=yahoo)  
 - [【免手術變更性別3】性別認同不是病 精神科醫師：「今年是台灣跨性別元年」](https://www.mirrormedia.mg/story/20240927pol004?utm_source=feed_related&utm_medium=yahoo)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E5%85%8D%E6%89%8B%E8%A1%93%E8%AE%8A%E6%9B%B4%E6%80%A7%E5%88%A52-%E6%B3%95%E7%95%8C%E5%85%B1%E8%AD%98%E5%BC%B7%E5%88%B6%E6%89%8B%E8%A1%93%E9%81%95%E6%86%B2-%E6%94%BF%E5%BA%9C%E7%84%A1%E6%AC%8A%E5%BC%B7%E6%91%98%E6%80%A7%E5%99%A8%E5%AE%98-212857734.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

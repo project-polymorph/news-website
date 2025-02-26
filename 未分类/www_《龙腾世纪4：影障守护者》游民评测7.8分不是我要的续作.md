@@ -117,7 +117,7 @@
 冀公网备13010202001538  
 违法和不良信息举报电话：0311-89619111  
 邮箱：jubao@gamersky.com
-
+<!-- tcd_original_link https://www.gamersky.com/news/202410/1838090_2.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

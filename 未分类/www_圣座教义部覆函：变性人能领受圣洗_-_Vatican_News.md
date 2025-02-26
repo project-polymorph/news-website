@@ -38,7 +38,7 @@
 **作者**: 未知
 
 **编辑**: 未知
-
+<!-- tcd_original_link https://www.vaticannews.va/zh/vatican-city/news/2023-11/doctrine-faith-baptisms-transsexuals.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

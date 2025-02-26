@@ -33,7 +33,7 @@
 - [准变性女报名好男儿 称会女装上场出奇制胜(图)](http://www.chinanews.com.cn/yl/zyxw/news/2007/03-30/904087.shtml) 
 
 **版权声明：** 本网站所刊载信息，不代表中新社观点。 刊用本网站稿件，未经授权禁止转载、摘编、复制及建立镜像，违者依法必究。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/sh/news/2007/04-17/917208.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

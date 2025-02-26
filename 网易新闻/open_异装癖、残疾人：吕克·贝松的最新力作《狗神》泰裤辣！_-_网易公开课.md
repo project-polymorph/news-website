@@ -30,7 +30,7 @@
 
 ### 访问链接
 [网易公开课](https://ugc.open.163.com)
-
+<!-- tcd_original_link https://open.163.com/newview/movie/free?pid=SIL2HN8M8&mid=CIL2HN8N6 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

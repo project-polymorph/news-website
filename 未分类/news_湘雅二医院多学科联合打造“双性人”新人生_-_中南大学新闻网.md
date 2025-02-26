@@ -47,7 +47,7 @@
 - [学校导航](http://www.csu.edu.cn/index/xndh.htm) 
 
 ![image](../../images/znweibo.jpg)
-
+<!-- tcd_original_link https://news.csu.edu.cn/info/1018/157508.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

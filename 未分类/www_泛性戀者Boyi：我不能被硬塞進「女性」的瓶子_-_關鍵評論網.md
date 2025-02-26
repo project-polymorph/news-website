@@ -108,7 +108,7 @@ Boyi說，自己並不排斥男性，但組織「女角」只歡迎女性入會�
 1978年，代表LGBTQ的彩虹旗第一次在美國舊金山上空飛揚。旗幟最初有八種顏色，代表性慾、生命、治療、陽光、自然、藝術、和諧、精神，歌頌性小眾雖是少數，但生而為人，也應為一己的獨特之處感到驕傲。40年後，在性別平權步伐落後的香港，這面旗幟依然未被高掛。台灣將邁向同婚平權，香港卻連最基本的《性傾向歧視條例》也未諮詢。記者走訪多位來自不同界別、階級的LGBTQ人士，讓大家看見他們如何在社會每一角落發光發熱。（photo credit: 女角LesCorner）
 
 [看完整專題報導](https://www.thenewslens.com/feature/lgbtq-portraits)
-
+<!-- tcd_original_link https://www.thenewslens.com/feature/lgbtq-portraits/86488 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

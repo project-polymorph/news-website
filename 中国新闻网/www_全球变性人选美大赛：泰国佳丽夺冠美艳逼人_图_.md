@@ -15,7 +15,7 @@
 报道称，现年25岁的吉拉塔亚从25个国家的参赛佳丽中脱颖而出，荣获冠军；亚军与季军则分别由巴西和委内瑞拉佳丽获得。
 
 国际皇后小姐选美大赛(Miss International Queen)为世界各国变性人的年度盛事，自2004年以来，每年都在泰国芭堤雅最负盛名的变装歌舞秀俱乐部蒂芬妮俱乐部(Tiffany's Nightclub)举行。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/m/gj/2017/03-12/8171669.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

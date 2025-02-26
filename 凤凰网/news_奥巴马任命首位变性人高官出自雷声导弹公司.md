@@ -32,7 +32,7 @@
 *文明上网，登录评论！*
 
 所有评论仅代表网友意见，凤凰网保持中立。
-
+<!-- tcd_original_link https://news.ifeng.com/mil/3/201001/0106_341_1499965.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

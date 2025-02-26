@@ -101,7 +101,7 @@
 
 **评论** 39  
 文明上网理性发言，请遵守[《新闻评论服务协议》](https://new.qq.com/static/coralinfo.htm)
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20220619A047DR00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

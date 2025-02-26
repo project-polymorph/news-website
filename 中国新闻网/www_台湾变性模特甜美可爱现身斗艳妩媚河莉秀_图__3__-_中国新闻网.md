@@ -49,7 +49,7 @@
 ### 相关新闻
 - [美女模特自爆变性经历 记者不耐烦提问遭炮轰(图)](http://www.chinanews.com.cn/yl/news/2010/01-23/2087964.shtml)
 - [人气女模承认变性:18岁前男儿身 男友知真相大骂](http://www.chinanews.com.cn/yl/news/2010/01-22/2087124.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com/yl/news/2010/01-28/2095846.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

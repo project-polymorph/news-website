@@ -22,7 +22,7 @@ _关注《当今大马》[WhatsApp频道](https://mk.my/whatsapp) 随时接收�
 **来源**: Malaysiakini  
 **标签**: #跨性别, #权益, #文娱  
 **版权**: 本文版权归原作者所有，未经许可不得转载。
-
+<!-- tcd_original_link https://www.malaysiakini.com/news/245648 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

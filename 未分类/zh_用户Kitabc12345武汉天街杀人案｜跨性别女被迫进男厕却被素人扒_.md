@@ -28,7 +28,7 @@ terf女拳对这个事件该怎样说呢？
 
 **分类**:  
 - [User:Kitabc12345/自创媒体存档](https://zh.wikinews.org/wiki/Category:User:Kitabc12345/%E8%87%AA%E5%89%B5%E5%AA%92%E9%AB%94%E5%AD%98%E6%AA%94)  
-
+<!-- tcd_original_link https://zh.wikinews.org/zh-cn/User:Kitabc12345/%E6%AD%A6%E6%B1%89%E5%A4%A9%E8%A1%97%E6%9D%80%E4%BA%BA%E6%A1%88%EF%BD%9C%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E8%A2%AB%E8%BF%AB%E8%BF%9B%E7%94%B7%E5%8E%95_%E5%8D%B4%E8%A2%AB%E7%B4%A0%E4%BA%BA%E6%89%92%E5%85%89%E8%A1%A3%E6%9C%8D%E7%BE%9E%E8%BE%B1%E3%80%81%E6%AE%8B%E5%BF%8D%E6%9D%80%E5%AE%B3 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

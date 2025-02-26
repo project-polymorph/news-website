@@ -39,7 +39,7 @@
 ---
 
 **版权信息**: 央广网版权所有
-
+<!-- tcd_original_link http://news.cnr.cn/native/gd/20150808/t20150808_519480780_3.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

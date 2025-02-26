@@ -33,7 +33,7 @@
 - [性別](/search/tagging/2/性別)
 - [舞台](/search/tagging/2/舞台)
 - [變性](/search/tagging/2/變性)
-
+<!-- tcd_original_link https://udn.com/news/story/7332/8312425 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -39,7 +39,7 @@
 ### 参考资料
 - 台湾“今日新闻网”
 - 中新网
-
+<!-- tcd_original_link https://news.sina.cn/sa/2011-03-02/detail-ikftpnny4605565.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

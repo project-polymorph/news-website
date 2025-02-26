@@ -25,7 +25,7 @@
 评论成功
 
 文明上网，不传谣言，登录评论！
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150408/43507029_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

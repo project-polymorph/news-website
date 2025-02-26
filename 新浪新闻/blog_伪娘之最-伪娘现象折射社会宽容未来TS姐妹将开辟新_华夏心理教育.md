@@ -43,7 +43,7 @@ CD是英文 Cross-dress 的缩写，意思是变装。TS是英文 TransSexual �
 ---
 
 Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
-
+<!-- tcd_original_link https://blog.sina.com.cn/s/blog_677d4f090100j4b6.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

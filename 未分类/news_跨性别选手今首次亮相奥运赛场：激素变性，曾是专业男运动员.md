@@ -33,7 +33,7 @@
 © 中青网 2021
 
 标签：跨性别、奥运、体育
-
+<!-- tcd_original_link http://news.youth.cn/zc/202108/t20210802_13147644.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

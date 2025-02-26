@@ -205,7 +205,7 @@
 无数懵懂单纯的小朋友，最终成为文化战争的炮灰。
 
 ![图片20](https://p6.itc.cn/q_70/images03/20220902/fe0de14b2ca245c599797bb0e5750bca.png)
-
+<!-- tcd_original_link https://www.sohu.com/a/581775687_121124405 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

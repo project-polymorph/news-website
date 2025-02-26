@@ -39,7 +39,7 @@
 ## 版权及其他 { data-search-exclude }
 
 内容版权归原作者所有，转载请注明来源。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd/2010/11-20/15010.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

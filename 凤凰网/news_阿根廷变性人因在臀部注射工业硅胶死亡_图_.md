@@ -18,7 +18,7 @@
 ![图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png) 
 
 版权：凤凰新媒体 版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150507/43709776_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

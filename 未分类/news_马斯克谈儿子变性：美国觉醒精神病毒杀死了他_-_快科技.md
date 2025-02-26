@@ -57,7 +57,7 @@
 
 快科技（驱动之家旗下媒体）·1997-2024 版权所有  
 Copyright(C)Mydrivers.com, All Rights Reserved.
-
+<!-- tcd_original_link https://news.mydrivers.com/1/993/993141.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

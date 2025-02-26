@@ -166,7 +166,7 @@ DSM-5认为，个体不认同自己的性别，这不是疾病；只有个体因
 
 **评论**  
 - 网友评论仅供其表达个人看法，并不表明网易立场。
-
+<!-- tcd_original_link https://www.163.com/dy/article/HEASNG6F0521951V.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

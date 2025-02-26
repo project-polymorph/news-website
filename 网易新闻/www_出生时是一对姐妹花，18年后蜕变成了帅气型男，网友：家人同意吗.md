@@ -38,7 +38,7 @@
 目前没有热门跟贴。  
 
 **相关标签**: #跨性别 #易性癖 #双生儿 #性别认同
-
+<!-- tcd_original_link https://www.163.com/dy/article/EKFVEUKO05461BSI.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -68,7 +68,7 @@
 - [乐了新娘 苦了海豚](http://www.sciencenet.cn/htmlpaper/20156211403294036410.shtm)  
 - [科学家首次证实蜻蜓也有嗅觉](http://www.sciencenet.cn/htmlpaper/20143251251153332367.shtm)  
 - [研究表明面孔和个性存在密切联系](http://www.sciencenet.cn/htmlpaper/201181512573564918700.shtm)  
-
+<!-- tcd_original_link https://paper.sciencenet.cn/htmlnews/2018/9/417942.shtm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

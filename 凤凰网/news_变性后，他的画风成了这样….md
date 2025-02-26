@@ -21,7 +21,7 @@
 [![白鹿冰火之颂大片 明艳或冷御的百变风格](https://d.ifengimg.com/w180_h122_q90/x0.ifengimg.com/ucms/2024_44/E47140B6651188C30F6358C9BB69698F61B66549_size26_w351_h211.jpg)](https://fashion.ifeng.com/c/8e7kDBz6uq8 "白鹿冰火之颂大片 明艳或冷御的百变风格")
 
 [![金智媛高智感珠宝大片 简洁优雅的灵动之美](https://d.ifengimg.com/w180_h122_q90/x0.ifengimg.com/ucms/2024_44/3CE8941A93B1FDFCBB8BB87344BB730B4EE8F953_size114_w1080_h788.jpg)](https://fashion.ifeng.com/c/8e7kN0aVnpl "金智媛高智感珠宝大片 简洁优雅的灵动之美")
-
+<!-- tcd_original_link https://news.ifeng.com/c/7fa6Bg75zP6 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

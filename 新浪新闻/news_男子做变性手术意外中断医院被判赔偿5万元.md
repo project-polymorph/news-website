@@ -54,7 +54,7 @@
 免费 / 绿色应用 / 优质
 
 说说你的看法
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-05-18/detail-ikknscsi6656055.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

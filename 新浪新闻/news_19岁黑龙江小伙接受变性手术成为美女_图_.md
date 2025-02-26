@@ -45,7 +45,7 @@
 ---
 
 [_190_](https://cmnt.sina.cn/index?product=comos&index=kknscsi8196762&tj_ch=news&is_clear=0)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-11-06/detail-ikknscsi8196762.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

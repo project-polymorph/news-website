@@ -51,7 +51,7 @@
 [网站简介](http://www.hangzhou.com.cn/intro/index.htm) | [关于我们](http://www.hangzhou.com.cn/aboutus/index.htm) | [广告服务](http://www.hangzhou.com.cn/advintr/index.htm) | [建站服务](http://www.hangzhou.com.cn/webserver/index.htm) | [帮助信息](http://www.hangzhou.com.cn/helps/index.htm) | [联系方式](http://www.hangzhou.com.cn/contact/index.htm)  
 
 增值电信业务经营许可证：[浙B2-20060221](http://www.miibeian.gov.cn/) | 信息网络传播视听节目许可证：1105105 版权所有未经授权禁止复制或镜像法律顾问：[浙江智仁律师事务所律师](http://www.zhirenlawyer.com/) 马宏利  
-
+<!-- tcd_original_link https://news.hangzhou.com.cn/gjxw/content/2011-11/15/content_3958172_6.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

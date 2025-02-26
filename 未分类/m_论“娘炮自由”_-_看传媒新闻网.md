@@ -71,7 +71,7 @@ OK，我认同这个观点，毕竟君子“和而不同”，如果一个男人
 [审美](https://m.vct.news/keyword/shen-mei)  
 [歧视](https://m.vct.news/keyword/qi-shi)  
 [赚流量](https://m.vct.news/keyword/zhuan-liu-liang)  
-
+<!-- tcd_original_link https://m.vct.news/news/b14d1228-7458-4db5-955c-15463632d0ed -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

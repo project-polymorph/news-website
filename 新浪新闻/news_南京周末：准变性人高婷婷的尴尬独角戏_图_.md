@@ -82,7 +82,7 @@
 
 **新浪网友2**: 呵呵，比我还变态  
 **评论时间**: 2004-12-02
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-11-24/detail-ikkntiam1753039.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

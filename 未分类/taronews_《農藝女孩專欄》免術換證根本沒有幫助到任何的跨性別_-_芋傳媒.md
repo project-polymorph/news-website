@@ -49,7 +49,7 @@
 [農藝女孩看世界](https://taronews.tw/author/loveagrogirl/) 505 posts 0 comments
 
 寫寫農藝老故事，探索農業新知識。 一枚小螺絲釘，努力讓普羅大眾也能理解及關心農業產業。 這裡歡迎各種農業聊聊天，還有偶爾農婦的垃圾話。
-
+<!-- tcd_original_link https://taronews.tw/2024/11/02/1015736/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -55,7 +55,7 @@ LGBTQ+倡导组织“公平西弗吉尼亚州”的执行主任安德鲁·施耐
 **标签**: 跨性别, 医疗保险, LGBTQ+  
 **评论**: 0  
 **链接**: [点击分享到](http://m.qx978.com/)
-
+<!-- tcd_original_link http://m.qx978.com/news/show/136623/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -33,7 +33,7 @@
 - [【鏡相人間】他和他的她 台灣變裝皇后自我賦權史](https://www.mirrormedia.mg/story/20240802pol001?utm_source=feed_related&utm_medium=yahoo)
 - [【他和他的她番外篇】異性戀男導演嘗試變裝 陳昆禾：「我以為我已經很理解包容。」](https://www.mirrormedia.mg/story/20240802pol003?utm_source=feed_related&utm_medium=yahoo)
 - [【一鏡到底】下一站天后 變裝皇后妮妃雅](https://www.mirrormedia.mg/story/20240419pol001?utm_source=feed_related&utm_medium=yahoo)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E4%BB%96%E5%92%8C%E4%BB%96%E7%9A%84%E5%A5%B9%E7%95%AA%E5%A4%96%E7%AF%87-%E9%84%A7%E7%99%BE%E7%99%BE%E7%9A%84%E9%80%86%E8%A5%B2%E8%B7%AF-%E6%98%AF%E5%BE%9E%E9%90%B5%E7%8D%85%E7%8E%89%E7%8E%B2%E7%93%8F%E8%B5%B0%E6%88%90%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E-212858969.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

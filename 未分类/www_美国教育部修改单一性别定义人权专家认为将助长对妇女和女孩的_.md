@@ -26,7 +26,7 @@
 特别报告员是人权理事会特别程序的一部分。特别程序是联合国人权系统中最大的独立专家机构，是人权理事会独立实况调查和监测机制的总称，处理具体国家的情况或世界各地的专题问题。特别程序专家在自愿的基础上开展工作。他们不是联合国工作人员，不在联合国领取薪水。他们独立于任何政府或组织，以个人身份为联合国服务。
 
 **来源:** [美国教育部修改单一性别定义 人权专家认为将助长对妇女和女孩的暴力和歧视](https://news.un.org/feed/view/zh/story/2024/04/1128361)
-
+<!-- tcd_original_link https://www.ungeneva.org/zh/news-media/news/2024/04/92950/meiguojiaoyubuxiugaidanyixingbiedingyi -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

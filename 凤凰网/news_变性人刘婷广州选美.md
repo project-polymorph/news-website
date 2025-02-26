@@ -21,7 +21,7 @@
 ![二维码分享](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
 凤凰资讯版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150924/44727147_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

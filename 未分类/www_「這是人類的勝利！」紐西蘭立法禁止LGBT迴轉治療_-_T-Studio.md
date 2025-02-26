@@ -39,7 +39,7 @@
 
 #### 版權
 - 本文保留所有權利，禁止轉載或改編，未經書面同意不得使用。
-
+<!-- tcd_original_link https://www.t-studio.info/zh-TW/blogs/gender-news/92850?srsltid=AfmBOoooeaCvC_lXj6nlBGIPuKO5vTPO-Xy4PMdAYp0FzSXPT7U9DQgI -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

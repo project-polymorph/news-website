@@ -46,7 +46,7 @@ Wu Tsang：最近刚忙完上述各大展览，同时也发现完成《野》只
 
 ## 版权信息 { data-search-exclude }
 注：本站上发表的所有内容，均为原作者的观点，不代表雅昌艺术网的立场，也不代表雅昌艺术网的价值判断。
-
+<!-- tcd_original_link https://m-news.artron.net/20120719/n249421.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

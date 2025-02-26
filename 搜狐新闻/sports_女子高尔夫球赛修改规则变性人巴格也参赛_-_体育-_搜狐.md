@@ -32,7 +32,7 @@
 ---
 
 版权所有 © 2005 Sohu.com Inc. All rights reserved.
-
+<!-- tcd_original_link https://sports.sohu.com/20041126/n223197309.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

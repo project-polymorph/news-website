@@ -30,7 +30,7 @@
 
 ### 注释
 - 本文分析了中国首例变性手术的历史与社会反应。
-
+<!-- tcd_original_link https://wh.leju.com/news/2014-01-16/09393881100_5.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -23,7 +23,7 @@
 
 **版权声明**: 本文内容来自中国新闻网。  
 ![更多精彩内容请进入国际频道](http://www.chinanews.com.cn/international/index.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/gj-bm/news/2010/01-07/2059314.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

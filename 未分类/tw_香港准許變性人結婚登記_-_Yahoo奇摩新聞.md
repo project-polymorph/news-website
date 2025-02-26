@@ -30,7 +30,7 @@ W小姐不服，2009年向法院申請司法覆核，隔年被原訟庭判處敗
 **標籤**: 性別, 變性人, 結婚, 香港  
 
 ![香港准許變性人結婚](https://s.yimg.com/uu/api/res/1.2/Gh_8o6XXCsrjrmLgprVztA--~B/Zmk9c3RyaW07aD0yODg7dz01MTQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/ko/gotv_ctitv_com_tw_678/c00a84058f2c548b5ad7a05260cd4c79.cf.webp)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E9%A6%99%E6%B8%AF%E5%87%86%E8%A8%B1%E8%AE%8A%E6%80%A7%E4%BA%BA%E7%B5%90%E5%A9%9A%E7%99%BB%E8%A8%98-032916412.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

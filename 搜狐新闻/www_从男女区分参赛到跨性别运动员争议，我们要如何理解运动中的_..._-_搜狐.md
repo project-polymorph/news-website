@@ -80,7 +80,7 @@ David Epstein发现，青春期之前男孩和女孩的田径记录往往差异�
   Jon Pike  
 
 本文为独家原创内容，撰文：潘文捷，编辑：黄月，未经界面文化（ID：booksandfun）授权不得转载。
-
+<!-- tcd_original_link https://www.sohu.com/a/481534415_99897611 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -30,7 +30,7 @@ LPGA也透露，將在年底重新審視現有的性別規則，並在2025年實
 - [聯合新聞網](https://udn.com/news/story/7005/8329095) 
 
 ![Image](https://pgw.udn.com.tw/gw/photo.php?u=http://uc.udn.com.tw/photo/2024/10/31/98/30818577.jpg&s=Y&x=0&y=0&sw=1277&sh=852&w=300)
-
+<!-- tcd_original_link https://udn.com/news/story/7005/8329308 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

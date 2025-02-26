@@ -41,7 +41,7 @@
 请输入评论内容
 
 88字
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-08-04/detail-ikknscsi3836812.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -77,7 +77,7 @@ Photo Credit:洪滋敏
 跨性別者並不是「選擇」成為其他人，只是終其一生在尋找一個機會，能在充滿希望的世界裡「做自己」。在褪去各種外殼之後，他們在生命中的追尋其實與你我相去不遠，即使夢想前方是一條漫長又曲折的路。如果願意，請跟我們一起發現更多性別的模樣吧！
 
 [看完整專題報導](https://www.thenewslens.com/feature/2016transgender)
-
+<!-- tcd_original_link https://www.thenewslens.com/feature/2016transgender/35784 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

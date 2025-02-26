@@ -50,7 +50,7 @@
 **标签**: [人权](https://news.un.org/zh/news/topic/human-rights)  
 
 [联合国艾滋病规划署](http://www.unaids.org.cn/cn/index/ "(opens in a new window)")和性少数群体基金会（LGBT Foundation）从今天起启动了一项在线调查，以评估同性恋、双性恋、跨性别及性别多样化人群(LGBT)的幸福、性别和生活质量。
-
+<!-- tcd_original_link https://news.un.org/zh/story/2019/05/1035391 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

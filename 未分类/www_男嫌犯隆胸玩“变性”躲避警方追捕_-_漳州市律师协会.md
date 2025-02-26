@@ -36,7 +36,7 @@
 
 Copyright © 2024　 漳州市律师协会  
 [闽ICP备09051298号](https://beian.miit.gov.cn/)。![闽公网安备 35060202000551号](https://www.zzlawyers.com/images/gaba.png)[闽公网安备 35060202000551号](https://www.beian.gov.cn/)
-
+<!-- tcd_original_link https://www.zzlawyers.com/index.php?categoryid=23&m2016_articleid=186&moduleid=m2016_news&articleid=186 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

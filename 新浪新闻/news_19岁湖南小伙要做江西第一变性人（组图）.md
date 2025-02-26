@@ -54,7 +54,7 @@
 “如果在南昌没有成功，我原计划还到每个省的步行街去举牌，江西完了，去福建，然后河南，再是湖北……”
 
 稿源：红网 作者：董雷
-
+<!-- tcd_original_link https://news.sina.cn/sa/2009-04-08/detail-ikknscsk4662097.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

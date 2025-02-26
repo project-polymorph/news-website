@@ -108,7 +108,7 @@ _![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 **我希望大家给予他们多一些理解与关怀,,这样的勇气,永远永远都是最真挚的~!这个社会,需要大家的理解~!我们每个人,同样也都需要理解~!不要去歧视任何事物,因为你自己没有那个资格~!**
 
 **2005-07-29**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-12-31/detail-ikkntiak9012477.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

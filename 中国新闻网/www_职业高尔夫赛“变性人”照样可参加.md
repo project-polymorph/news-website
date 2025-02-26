@@ -32,7 +32,7 @@
 ![分享到中新空间](http://www.chinanews.com.cn/fileftp/2010/10/2010-10-20/U76P4T47D15735F981DT20101021094436.jpg)
 
 【编辑:赵彧】
-
+<!-- tcd_original_link https://www.chinanews.com.cn/ty/2010/12-02/2696096.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -34,7 +34,7 @@
 ![CAUSLOGO](https://caus.com/wp-content/uploads/elementor/thumbs/logo.a0173e1-qmdevbrme2hrfew8on29qvo18am8hkzuuoe8hk3vye.png)
 
 © 2024 CAUS.COM 版权所有
-
+<!-- tcd_original_link https://caus.com/all-articles/news/75012/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

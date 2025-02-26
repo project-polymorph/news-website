@@ -85,7 +85,7 @@
 ---
 
 © 央视国际 版权所有
-
+<!-- tcd_original_link http://news.cctv.com/society/20070426/103989.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

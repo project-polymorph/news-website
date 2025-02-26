@@ -27,7 +27,7 @@
 - [《色即是空2》演员变性：只想过自己希望的生活(图)](http://ent.ifeng.com/idolnews/jpkr/200711/1126_1836_311238.shtml)  
 
 版权所有 © 凤凰网
-
+<!-- tcd_original_link https://news.ifeng.com/photo/society/200804/0407_1400_478267_3.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

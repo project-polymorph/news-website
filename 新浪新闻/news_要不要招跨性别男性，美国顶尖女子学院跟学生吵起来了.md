@@ -56,7 +56,7 @@
 “我当然希望跨性别、非二元性别和对性别有疑问的学生感到受欢迎、被爱、被支持、被鼓励去探索，”自认为是跨性别男性的戈德施密特说。“但我的天哪，我真希望他们为了残疾学生或其他事情也能像这样团结起来。” 
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/2023-03-15/detail-imykxpqx8094719.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

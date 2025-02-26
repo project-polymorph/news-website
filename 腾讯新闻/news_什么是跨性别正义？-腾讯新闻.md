@@ -94,7 +94,7 @@ GUTS采访了“跨性别正义组织”（JusticeTran）理事会成员皮埃�
 回复
 
 ![无家可归](https://inews.gtimg.com/newsapp_bt/0/0331175301626_8958/0)
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20231208A098R400 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -48,7 +48,7 @@
 ![report](https://www.undp.org/sites/g/files/zskgke326/files/styles/featured_content_card_mobile_343_x_150_/public/2024-10/screenshot_2024-10-28_at_12.08.37_pm.png?h=4e13fb8e&itok=dpOqpHSb)
 
 ---
-
+<!-- tcd_original_link https://www.undp.org/zh/china/news/congmeitishangsuzaoduilgbtirenqunderenzhi -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

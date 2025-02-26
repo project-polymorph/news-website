@@ -50,7 +50,7 @@
 ![卡斯•伯德摄影作品《我看起来就像我爸》（2003）](http://image.thepaper.cn/www/image/4/199/389.JPG)
 
 卡斯•伯德（Cass Bird）在摄影中展现了那些身处社会性别边缘的人群的正面形象。她以此展现一个世界，像惠特曼那样拒绝社会的清规戒律。这张照片拍摄于布鲁克林的一个屋顶上，伯德的朋友马考莱（Macaulay）带着个帽子盯着镜头，帽子上写“我看起来就像我爸。”马考莱的社会性别看起来很模糊，她顶着的宣言亦如是。
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_1287912 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

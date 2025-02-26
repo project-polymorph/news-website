@@ -77,7 +77,7 @@
 
 版权声明：  
 所有内容版权归搜狐公司所有。
-
+<!-- tcd_original_link https://news.sohu.com/25/87/news201208725.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -53,7 +53,7 @@
 --- 
 
 **标签**：#变性四星上将 #蕾切尔·莱文 #美国公共卫生服务 #政治配额 #新冠疫情处理
-
+<!-- tcd_original_link https://news.sina.cn/gj/2021-10-21/detail-iktzscyy0847706.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -31,7 +31,7 @@
 
 - [Facebook](https://www.facebook.com/ChinaMedicalUniversityHospital)
 - [Instagram](https://www.instagram.com/cmuh_taiwan/)
-
+<!-- tcd_original_link https://www.cmuh.org.tw/NewsInfo/NewsArticle?no=8493 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

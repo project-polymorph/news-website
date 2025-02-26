@@ -41,7 +41,7 @@
 ![](https://p4.itc.cn/q_70/images03/20230422/16f25b435a314d5e9cf41e845352b42e.jpeg)
 
 更应该接纳的是，我们应该意识到每个人都有权利被尊重和平等对待，不论其性别、种族、宗教或任何其他标识。
-
+<!-- tcd_original_link https://www.sohu.com/a/669283875_121118978 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

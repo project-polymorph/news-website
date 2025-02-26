@@ -60,7 +60,7 @@ Kellie-Jay Keen-Minshull对这一决定感到高兴。
 _注：本文为新西兰中文先驱网编译/原创，欢迎转发分享；但严禁复制等未经授权的非法使用。违反上述声明者，本网将追究其相关法律责任。使用授权请联系[news@chnet.co.nz](mailto:news@chnet.co.nz)。_
 
 _[chineseherald.co.nz](http://chineseherald.co.nz/) All Rights Reserved 版权所有_
-
+<!-- tcd_original_link https://www.chineseherald.co.nz/news/new-zealand/fail-in-court/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

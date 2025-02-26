@@ -84,7 +84,7 @@
 [专题｜2024巴黎奥运会](https://www.cqnews.net/html/col1848903.html)  
 
 **责任编辑**：谭周
-
+<!-- tcd_original_link https://news.cqnews.net/1/detail/1269024025099476992/h5/content_1269024025099476992.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

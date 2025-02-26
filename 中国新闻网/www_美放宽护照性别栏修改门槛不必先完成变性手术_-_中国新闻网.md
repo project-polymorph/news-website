@@ -26,7 +26,7 @@
 **标签**：跨性别，护照，性别重置手术，WPATH  
 
 **版权**：本文版权归中国新闻网所有，转载请注明来源。  
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/gj-bm/news/2010/06-10/2335226.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -31,7 +31,7 @@
 - [专题／险被开脑勇出柜 印度王子宁负公主挺同志](https://www.cna.com.tw/news/aopl/202206240023.aspx)
 
 本网站之文字、图片及影音，非经授权，不得转载、公开播送或公开传输及利用。
-
+<!-- tcd_original_link https://www.cna.com.tw/news/aopl/202302090390.aspx -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

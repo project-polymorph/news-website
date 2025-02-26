@@ -42,7 +42,7 @@
 
 匿名评论  
 本评论观点只代表网友个人观点，不代表中国新闻网立场。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/jk/kong/news/2008/09-18/1386215.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

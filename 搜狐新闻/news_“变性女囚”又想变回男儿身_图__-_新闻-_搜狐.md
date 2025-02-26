@@ -21,7 +21,7 @@
 ![相关链接](https://images.sohu.com/ccc.gif)
 
 网页 新闻 音乐 购物 说吧 共找到 **3,617** 个相关新闻.
-
+<!-- tcd_original_link http://news.sohu.com/20060112/n241396900.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

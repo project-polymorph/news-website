@@ -48,7 +48,7 @@
 ![下载新浪财经app](http://n.sinaimg.cn/finance/article/tg_app_2017/front.jpg)
 
 ![下载新浪财经app](http://n.sinaimg.cn/finance/article/tg_app_2017/back.jpg)
-
+<!-- tcd_original_link http://doc.sina.cn/?id=comos:fyarref5522192 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

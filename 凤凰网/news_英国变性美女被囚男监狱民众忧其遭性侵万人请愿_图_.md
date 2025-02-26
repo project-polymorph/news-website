@@ -24,7 +24,7 @@
 
 **责任编辑**: PN061  
 **标签**: 变性人监狱 安全问题 请愿
-
+<!-- tcd_original_link https://news.ifeng.com/a/20151029/46041858_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

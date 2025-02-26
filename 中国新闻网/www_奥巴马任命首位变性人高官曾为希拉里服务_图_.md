@@ -21,7 +21,7 @@
 2005年，辛普森参选美国亚利桑那州众议院失败，在2008年召开的民主党国民大会中，辛普森担任希拉里-克林顿的代表。
 
 [返回国际频道更多精彩内容](http://www.chinanews.com.cn/international/index.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/gj-bm/news/2010/01-06/2055620.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

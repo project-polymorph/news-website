@@ -69,7 +69,7 @@ Lune Loh, who is studying for her masters in the UK, is seeking asylum after per
 In 2022, the National Council of Churches of Singapore [called on the government to guarantee the freedom of the clergy to preach against queer sex](https://www.straitstimes.com/singapore/politics/ndr-2022-lgbtq-community-express-relief-at-repeal-of-section-377a-religious-groups-voice-concerns), and the Roman Catholic Archdiocese of Singapore warned against a “slippery slope of no-return, weakening the fabric of a strong society”.
 
 Christian groups are known to [practice so-called conversion therapy](https://www.thepinknews.com/2019/07/28/singapore-lgbt-church-accused-of-trying-to-convert-gay-people/) in Singapore.
-
+<!-- tcd_original_link https://www.thepinknews.com/2023/07/14/singapore-lgbtq-queer-trans-asylum-attacks/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

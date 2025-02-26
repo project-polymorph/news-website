@@ -22,7 +22,7 @@
 ---
 
 网友评论  以下留言仅代表网友个人观点
-
+<!-- tcd_original_link http://www.chinanews.com.cn/gj/2014/09-23/6618785.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

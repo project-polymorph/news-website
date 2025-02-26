@@ -54,7 +54,7 @@ All 是众多吸引褒奖的变装国王之一，不仅因为他的表演，还�
 **评论**: 无
 
 **标签**: Drag, 跨性别, 性别表达, 艺术
-
+<!-- tcd_original_link https://fashion.sohu.com/20161025/n471296884.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

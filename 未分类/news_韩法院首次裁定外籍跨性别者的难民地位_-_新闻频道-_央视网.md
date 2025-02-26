@@ -19,7 +19,7 @@
 
 -   [性别认同](https://search.cctv.com/search.php?qtext=性别认同)
 -   [裁定](https://search.cctv.com/search.php?qtext=裁定)
-
+<!-- tcd_original_link https://news.cctv.com/2022/10/20/ARTIzpmNtx9AWF6TssiL1eqP221020.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

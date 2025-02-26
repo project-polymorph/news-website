@@ -129,7 +129,7 @@ Ad Astra的课程以人工智能、编码和应用科学为主。该校校长乔
 ---
 
 原标题：《深度 | 马斯克大儿子申请变性改名 拒与父亲有任何关系》
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_18684920 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

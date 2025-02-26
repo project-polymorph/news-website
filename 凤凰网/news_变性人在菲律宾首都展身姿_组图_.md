@@ -25,7 +25,7 @@
 - １０月  
 - 菲律宾首都  
 - 曼妙身材  
-
+<!-- tcd_original_link https://news.ifeng.com/photo/society/200810/1019_1400_836836_1.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

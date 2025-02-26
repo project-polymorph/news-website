@@ -35,7 +35,7 @@
 ![图片5](http://www.zjol.com.cn/pic/0/03/27/17/3271708_999993.jpg)
 
 ![图片6](http://www.zjol.com.cn/pic/0/03/29/44/3294402_651032.jpg)
-
+<!-- tcd_original_link https://zjnews.zjol.com.cn/system/2009/12/02/016121141.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

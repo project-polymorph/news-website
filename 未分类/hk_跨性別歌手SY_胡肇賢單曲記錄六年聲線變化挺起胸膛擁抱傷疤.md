@@ -70,7 +70,7 @@ SY 永遠不會忘記首次取得荷爾蒙藥的感覺，「我好興奮，急�
 三十而立，SY 的三十卻是人生的真正開始，「以前成日覺得，每日都咁多人死，點解唔係我死？依家終於開始享受緊自己人生，想同大家分享好多作品，所以唔要死喇，哈哈」，擁抱傷痕和自己，活得頂天立地。
 
 ![SY指，跨性別人士大多害怕遇到歧視，提醒同路人享受人生才是最重要。](https://s.yimg.com/ny/api/res/1.2/GyzWFpAEt0dwe3Kfqjrj3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2024-09/59e9c420-7a1c-11ef-b7f7-e435fc21d8a4)
-
+<!-- tcd_original_link https://hk.news.yahoo.com/%E7%9D%87%E7%89%87%EF%BD%9C%E8%B7%A8%E6%80%A7%E5%88%A5%E6%AD%8C%E6%89%8B-sy-%E8%83%A1%E8%82%87%E8%B3%A2-%E5%96%AE%E6%9B%B2%E8%A8%98%E9%8C%84%E5%85%AD%E5%B9%B4%E8%81%B2%E7%B7%9A%E8%AE%8A%E5%8C%96-%E6%8C%BA%E8%B5%B7%E8%83%B8%E8%86%9B%E6%93%81%E6%8A%B1%E5%82%B7%E7%96%A4%EF%BC%9A%E7%9C%9F%E4%BF%82%E6%B4%BB%E5%87%BA%E8%87%AA%E5%B7%B1%EF%BD%9Cyahoo-022723528.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

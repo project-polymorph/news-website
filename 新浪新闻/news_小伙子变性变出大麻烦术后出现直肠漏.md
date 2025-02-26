@@ -30,7 +30,7 @@
 
 **转发至微博**  
 [图片]
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-07-15/detail-ikknscsi3631114.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

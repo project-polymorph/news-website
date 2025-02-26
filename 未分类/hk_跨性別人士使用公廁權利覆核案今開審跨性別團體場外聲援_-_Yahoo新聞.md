@@ -39,7 +39,7 @@
 - [天文台预料桃芝周四早上在本港以南200公里左右掠过](https://hk.news.yahoo.com/%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E6%96%99%E6%A1%83%E8%8A%9D%E5%91%A8%E5%9B%9B%E6%97%A9%E4%B8%8A%E5%9C%A8%E6%9C%AC%E6%B8%AF%E4%BB%A5%E5%8D%97200%E5%85%AC%E9%87%8C%E5%B7%A6%E5%8F%B3%E6%8E%A0%E9%81%8E-042444224.html)
 
 - [破地狱主角个个都是楼神？其中一人层楼升值80倍！](https://hk.finance.yahoo.com/news/%E7%A0%B4%E5%9C%B0%E7%8D%84%E4%B8%BB%E8%A7%92%E5%80%8B%E5%80%8B%E9%83%BD%E4%BF%82%E6%A8%93%E7%A5%9E-%E5%85%B6%E4%B8%AD-%E4%BA%BA%E5%B1%A4%E6%A8%93%E5%8D%87%E5%80%8D80%E5%80%8D-073541729.html)
-
+<!-- tcd_original_link https://hk.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E5%85%AC%E5%BB%81%E6%AC%8A%E5%88%A9-%E8%A6%86%E6%A0%B8-%E5%B9%B3%E7%AD%89%E5%A6%82%E5%BB%81-%E8%B7%A8%E9%9D%92%E6%99%82%E5%88%BB-lgbtq-065534067.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

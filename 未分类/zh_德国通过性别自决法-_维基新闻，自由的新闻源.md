@@ -43,7 +43,7 @@
 如果确实需要修正错误，请在[讨论页](https://zh.wikinews.org/w/index.php?title=Talk:%E5%BE%B7%E5%9C%8B%E9%80%9A%E9%81%8E%E6%80%A7%E5%88%A5%E8%87%AA%E6%B1%BA%E6%B3%95&action=edit&redlink=1)提出你的修改建议，并且[通知管理员注意](https://zh.wikinews.org/wiki/Wikinews:%E7%AE%A1%E7%90%86%E5%91%98%E9%80%9A%E5%91%8A%E6%9D%BF/%E6%96%B0%E8%81%9E%E9%A0%81%E9%9D%A2#修改已保護頁面)。
 
 依据[存档常规](https://zh.wikinews.org/wiki/Wikinews:%E5%AD%98%E6%AA%94%E5%B8%B8%E8%A6%8F)，存档后之修正只限于非内容事项（错别字、格式等）。请注意，新闻中列出的消息来源URL可能因时间久远无法使用。
-
+<!-- tcd_original_link https://zh.wikinews.org/zh-hans/%E5%BE%B7%E5%9C%8B%E9%80%9A%E9%81%8E%E6%80%A7%E5%88%A5%E8%87%AA%E6%B1%BA%E6%B3%95 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

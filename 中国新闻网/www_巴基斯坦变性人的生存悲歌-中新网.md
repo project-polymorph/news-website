@@ -23,7 +23,7 @@
 [我要评论](http://comment.chinanews.com/comments/comments.php?newsid=4323853) [查看评论(0)](http://comment.chinanews.com/comments/comments.php?newsid=4323853)  
 **标签**：跨性别 悲歌 巴基斯坦  
 **来源**：中新网
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2012/11-13/147480.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

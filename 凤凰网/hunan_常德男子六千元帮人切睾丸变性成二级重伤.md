@@ -29,7 +29,7 @@
 **标签**: [睾丸](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%9D%BE%E4%B8%B8) [重伤](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%87%8D%E4%BC%A4) [常德](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B8%B8%E5%BE%B7)
 
 ![重要图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link http://hunan.ifeng.com/xzqh/cd/detail_2014_09/24/2947840_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -165,7 +165,7 @@ MTF群体（Male-to-Female），指的是其出生时被指派的生理性别为
 （文中所有受访者均为化名）
 
 \*作者：星期十， 来源：十点人物志（ID：sdrenwu），在这里，遇见每一个值得被记录的人。
-
+<!-- tcd_original_link https://www.sohu.com/a/629933347_121124777 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

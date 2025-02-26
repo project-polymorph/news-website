@@ -64,7 +64,7 @@
 ##### 推进循证决策：第八届全球国家评估能力会议
 
 [阅读更多](/zh/china/press-releases/tuijinxunzhengjuecedibajiequanqiuguojiapinggunenglihuiyi)
-
+<!-- tcd_original_link https://www.undp.org/zh/china/news/meitituidongjinbucujinzhongguoxingshaoshuquntidequanyi -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

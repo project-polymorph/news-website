@@ -35,7 +35,7 @@
 请输入评论内容
 
 说说你的看法
-
+<!-- tcd_original_link http://games.sina.cn/pi/eb/2013-09-13/detail-icfkptvx2820959.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

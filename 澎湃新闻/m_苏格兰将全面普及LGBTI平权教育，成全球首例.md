@@ -13,7 +13,7 @@
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[http://renzheng.thepaper.cn](http://renzheng.thepaper.cn)。
 
 来源：[Brut原色Brut原色视频官方澎湃号](https://m.thepaper.cn/user_interaction_3569782)
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_2659318 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

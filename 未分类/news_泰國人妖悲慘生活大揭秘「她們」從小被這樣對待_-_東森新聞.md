@@ -17,7 +17,7 @@
 ![東森新聞 51 頻道 24 小時線上直播｜Taiwan EBC 24h live news](https://img.youtube.com/vi/V1p33hqPrUk/mqdefault.jpg)
 
 ![氣象署預報 天兔將生成不排除威脅台灣！ 2大可能路徑曝光](https://img.youtube.com/vi/lYmrqVvNyJg/mqdefault.jpg)
-
+<!-- tcd_original_link https://news.ebc.net.tw/news/living/39084 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

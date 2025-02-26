@@ -59,7 +59,7 @@
 ![生物通新浪微博](https://alicdn.ebioweb.com/QR_ebiotradeweibo.png)
 
 [我要投稿](mailto:journal@ebiotrade.com)
-
+<!-- tcd_original_link https://m.ebiotrade.com/newsf/2024-9/20240905071407531.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

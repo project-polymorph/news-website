@@ -38,7 +38,7 @@
 - [图：韩国第一变性美女河莉秀展示骄人身材](http://www.chinanews.com.cn/tp/news/2009/03-03/1586294.shtml)
 - [图：中韩两国“变性美女”福州争艳](http://www.chinanews.com.cn/tp/news/2009/03-03/1586288.shtml)
 - [变性艺人河莉秀自爆婚姻生活：时而乖巧时而性感](http://www.chinanews.com.cn/yl/mxzz/news/2009/03-03/1585616.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/yl/kong/news/2009/04-13/1642713.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -49,7 +49,7 @@
 - [众说"伪娘" 快男海选19岁刘著"惊艳"登场惹关注](http://www.chinanews.com.cn/yl/news/2010/05-06/2266485.shtml)
 - [“伪娘”风席卷选秀节目（组图）](http://www.chinanews.com.cn/yl/news/2010/05-06/2266336.shtml)
 - [快男"伪娘"刘著引领新潮流 网友不拜春哥拜著姐](http://www.chinanews.com.cn/yl/news/2010/05-06/2266171.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/cul/news/2010/05-07/2268560.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

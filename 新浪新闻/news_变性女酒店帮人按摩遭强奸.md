@@ -43,7 +43,7 @@
 **评论时间：2016-06-15**  
 **地点：河南安阳**  
 ****回复TA**
-
+<!-- tcd_original_link http://news.sina.cn/2016-06-15/detail-ifxszmnz7362043.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

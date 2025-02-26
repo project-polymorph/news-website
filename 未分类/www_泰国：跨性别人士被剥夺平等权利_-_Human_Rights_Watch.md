@@ -53,7 +53,7 @@
 
 - **区域／国家**: 泰国
 - **主题**: LGBT权利
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2021/12/16/thailand-transgender-people-denied-equal-rights -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

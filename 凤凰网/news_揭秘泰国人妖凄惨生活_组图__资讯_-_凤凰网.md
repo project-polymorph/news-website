@@ -25,7 +25,7 @@
 
 ### 评论
 已有523位凤凰网友参与评论
-
+<!-- tcd_original_link https://news.ifeng.com/photo/other/200812/1217_1399_926687_2.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

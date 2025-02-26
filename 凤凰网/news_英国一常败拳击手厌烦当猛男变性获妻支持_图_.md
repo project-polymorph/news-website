@@ -41,7 +41,7 @@
 ![](http://img.ifeng.com/tres/appres/images/mood/motion_06.gif) 难过  
 ![](http://img.ifeng.com/tres/appres/images/mood/motion_07.gif) 高兴  
 ![](http://img.ifeng.com/tres/appres/images/mood/motion_08.gif) 路过
-
+<!-- tcd_original_link https://news.ifeng.com/world/200907/0721_16_1259642.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

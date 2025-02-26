@@ -35,7 +35,7 @@
 ## 评论 { data-search-exclude }
 
 网友评论仅供其表达个人看法，并不表明青岛新闻网同意其观点或证实其描述。
-
+<!-- tcd_original_link https://www.qingdaonews.com/content/2012-07/26/content_9342695.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

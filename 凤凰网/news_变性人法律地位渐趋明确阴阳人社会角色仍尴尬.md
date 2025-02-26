@@ -35,7 +35,7 @@ GID和间性一样，都是因基因或荷尔蒙异常，而未能在生理和�
 
 ---
 **版权**：本文来源于21世纪经济报道
-
+<!-- tcd_original_link https://news.ifeng.com/society/5/200911/1125_2579_1449691.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

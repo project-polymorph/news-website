@@ -71,7 +71,7 @@
 来源：医学界  
 责编：田栋梁  
 编辑：赵 静
-
+<!-- tcd_original_link https://finance.sina.com.cn/stock/stockzmt/2024-09-08/doc-incnmzsa6529072.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

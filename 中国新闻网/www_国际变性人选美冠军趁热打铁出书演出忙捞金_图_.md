@@ -22,7 +22,7 @@
 - [国际变性人选美大赛 日本“小姐”封后](http://www.chinanews.com.cn/tp/tp-gjxw/news/2009/11-01/1941158.shtml)
 - [高清：国际变性人选美 日本“小姐”封后](http://www.chinanews.com.cn/tp/news/photo_hd/2009/11-01/2780.shtml)
 - [国际变性人选美大赛31日将在泰国芭达雅举行](http://www.chinanews.com.cn/gj/gj-sswh/news/2009/10-29/1937924.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/yl/yl-mxzz/news/2009/11-05/1949570.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

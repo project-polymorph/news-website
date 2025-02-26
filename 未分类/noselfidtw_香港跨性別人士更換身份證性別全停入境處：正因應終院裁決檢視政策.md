@@ -40,7 +40,7 @@
 支撐網站的基本營運開銷，讓網站走得更長久。
 
 - [贊助網站](https://noselfidtw.cc/support)
-
+<!-- tcd_original_link https://noselfidtw.cc/news/hk-transgender-id-card-gender-marker-changes-suspended/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

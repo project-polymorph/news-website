@@ -95,7 +95,7 @@ Sam自己在做Les+的时候接触了更多的人、更多的事，视野更开�
 ---
 **评论**: [欢迎发表评论](http://comment4.news.sina.com.cn/comment/comment4.html?channel=sh&newsid=1-1-22500587&style=0)  
 **版权声明**: 版权所有 (http://www.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link http://news.sina.com.cn/s/sd/2011-05-20/151022500587_4.shtml?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

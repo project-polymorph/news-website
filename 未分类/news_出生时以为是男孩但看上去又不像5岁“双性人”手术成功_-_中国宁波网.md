@@ -30,7 +30,7 @@
 Copyright(C) 2001-2021 cnnb.com.cn All Rights Reserved  
 互联网新闻信息服务许可证：3312017004 信息网络传播视听节目许可证：1104076  
 违法和不良信息举报电话：0574-81850000 举报邮箱：nb81850@qq.com  
-
+<!-- tcd_original_link http://news.cnnb.com.cn/system/2021/07/09/030267388.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

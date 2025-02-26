@@ -44,7 +44,7 @@
 本组稿件综合《成都商报》、《晶报》等
 
 (责任编辑：静娅)
-
+<!-- tcd_original_link https://sports.sohu.com/20090414/n263371144.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

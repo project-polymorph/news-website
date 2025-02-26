@@ -52,7 +52,7 @@
 ![评论图标](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 *新浪新闻官方*
-
+<!-- tcd_original_link http://news.sina.cn/2014-09-09/detail-ianfzhni9694888.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

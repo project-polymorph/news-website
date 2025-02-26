@@ -28,7 +28,7 @@
 **免责声明**：本文仅代表作者个人观点，与本网无关。转载目的在于传递更多信息，并不代表本网赞同其观点和对其真实性负责。对本文以及其中全部或者部分内容、文字的真实性、完整性、及时性本站不作任何保证或承诺，请读者仅作参考，并请自行核实相关内容。  
 
 **版权**：Copyright YongYao.Net All Rights Reserved 版权所有 2006-2010 中国用药安全网
-
+<!-- tcd_original_link http://news.yongyao.net/newslist/201006/NZ043376.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

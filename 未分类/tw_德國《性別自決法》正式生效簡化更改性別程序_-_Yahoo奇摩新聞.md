@@ -65,7 +65,7 @@
 
 ## 來源 { data-search-exclude }
 德國之聲
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E5%BE%B7%E5%9C%8B-%E6%80%A7%E5%88%A5%E8%87%AA%E6%B1%BA%E6%B3%95-%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88-%E7%B0%A1%E5%8C%96%E6%9B%B4%E6%94%B9%E6%80%A7%E5%88%A5%E7%A8%8B%E5%BA%8F-094300676.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

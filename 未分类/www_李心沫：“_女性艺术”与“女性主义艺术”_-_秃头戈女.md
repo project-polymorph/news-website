@@ -76,7 +76,7 @@
                                                                                                ２０１２年８月１８日 
 
 Bald Girls 秃头戈女 © 2012-All rights reserved.
-
+<!-- tcd_original_link http://www.bald-girls.net/shownews.asp?id=33 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

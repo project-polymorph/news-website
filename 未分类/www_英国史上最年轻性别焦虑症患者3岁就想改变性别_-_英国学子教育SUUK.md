@@ -27,7 +27,7 @@
 ### 评论
 - 令人心痛的故事，但非常重要的是让人们认识到这个问题的存在。
 - 家庭的支持和理解是改变的关键。希望更多的家长能理解孩子的感受。
-
+<!-- tcd_original_link https://www.suuk.org/news/details.asp?id=11079 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

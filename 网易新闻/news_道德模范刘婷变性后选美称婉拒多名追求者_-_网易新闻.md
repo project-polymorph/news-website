@@ -48,7 +48,7 @@
 **版权信息**: 东方IC 供图，谢绝转载。
 
 **评论**: 本文评论包含了各种看法，表示出对变性人群体的不同态度。
-
+<!-- tcd_original_link https://news.163.com/photoview/00AP0001/98962.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -28,7 +28,7 @@
 --- 
 
 匿名评论 [进入社区](http://club.chinanews.com.cn/) [查看评论](http://comment.chinanews.com.cn/comments/comments.php?newsid=1730351)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/yl/news/2009/06-11/1730351.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -32,7 +32,7 @@
 - [#性別平等](https://www.orangenews.hk/tag/42700-性別平等.shtml)
 - [#皇室典範](https://www.orangenews.hk/tag/70011-皇室典範.shtml)
 - [#婦女歧視](https://www.orangenews.hk/tag/70012-婦女歧視.shtml)
-
+<!-- tcd_original_link https://www.orangenews.hk/international/1243767/%E8%81%AF%E5%90%88%E5%9C%8B%E7%B1%B2%E6%97%A5%E6%9C%AC%E4%BF%AE%E6%94%B9%E7%9A%87%E5%AE%A4%E5%85%B8%E7%AF%84%E5%AF%A6%E7%8F%BE%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89-%E6%97%A5%E6%94%BF%E5%BA%9C%E5%BC%B7%E7%83%88%E6%8A%97%E8%AD%B0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -52,7 +52,7 @@ Padawer去年在纽约时报杂志发表封面文章《男孩穿裙装 何错之
 **编辑:** 陆春艳  
 
 ![logo](http://i3.chinanews.com/2011/news/images/1.png)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/hr/2013/09-03/5237060.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -64,7 +64,7 @@
 從教育著手，讓每個人有機會自信做自己，是台灣目前的努力方向！究竟台灣雙性人有多少？政府如何加強力度保障雙性人權？8月中旬，被監察院糾正的衛生福利部及內政部即將提出修正報告，我們拭目以待。
 
 本文轉載自[央廣新聞網](https://news.rti.org.tw/subject/view/id/1862)
-
+<!-- tcd_original_link https://www.peoplemedia.tw/news/e80d88c6-fac6-4874-b953-5555955af5d1 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

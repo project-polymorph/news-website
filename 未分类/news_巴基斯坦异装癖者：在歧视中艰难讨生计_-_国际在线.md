@@ -76,7 +76,7 @@
 
 - [巴基斯坦少年睡过头躲过校园恐袭 成全班唯一幸存者](http://i.cri.cn/2014-12-18/a91f343b-f4d5-45cf-a309-a4050074d72d.html)
 - [本网记者探访巴基斯坦遇袭学校 场面惨烈](http://i.cri.cn/2014-12-18/3bf14b5e-b542-43dd-ad50-a405001c747e.html)
-
+<!-- tcd_original_link https://news.cri.cn/2015-1-21/558682b3-e97e-45a0-857d-a427008aeadb.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

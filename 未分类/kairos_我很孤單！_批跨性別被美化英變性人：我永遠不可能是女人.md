@@ -6,7 +6,7 @@
 Site will be available soon. Thank you for your patience!
 
 ![Sample Background](https://kairos.news/wp-content/uploads/2024/10/mt-sample-background.jpg)
-
+<!-- tcd_original_link https://kairos.news/124557 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

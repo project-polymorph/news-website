@@ -70,7 +70,7 @@
 [原文链接](https://news.sohu.com/20150924/n422000134.shtml)  
 **版权**：搜狐网  
 **评论**：我来说两句(![](https://comment.news.sohu.com/upload/comment4/images/loading_blue.gif)人参与)
-
+<!-- tcd_original_link https://news.sohu.com/20150924/n422000134.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

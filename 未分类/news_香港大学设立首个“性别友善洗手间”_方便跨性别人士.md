@@ -30,7 +30,7 @@
 **关于欣欣** | **加入欣欣** | **合作伙伴** | **免责声明** | **联系欣欣** | **友情链接**
 
 [欣欣旅游网 CNCN.com](https://www.cncn.com/)
-
+<!-- tcd_original_link https://news.cncn.com/237316.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

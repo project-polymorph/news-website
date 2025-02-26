@@ -46,7 +46,7 @@ YULE.SOHU.COM 2005-07-15 15:48
 ---
 
 Copyright © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 [版权所有](https://www.sohu.com/about/copyright.html)
-
+<!-- tcd_original_link http://yule.sohu.com/20050715/n226324965.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -41,7 +41,7 @@
 **玩家点评** （1507人参与，39条评论）  
 **评论**  
 （省略）
-
+<!-- tcd_original_link https://www.3dmgame.com/news/202411/3907643.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

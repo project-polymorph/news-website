@@ -22,7 +22,7 @@
 1. ![跨性别者=异装癖=女装大佬？你误解过的跨性别者们......](https://d.ifengimg.com/w72_h40/img1.ugc.ifeng.com/newugc/20190307/10/wemedia/23f26d6915af13b8edf440d56f310c464b102b76_size442_w640_h360.png)
 
 **声明：** 去你的野生性教育，是时候认真谈性了！
-
+<!-- tcd_original_link http://sports.ifeng.com/c/7ktCYZxriHK -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

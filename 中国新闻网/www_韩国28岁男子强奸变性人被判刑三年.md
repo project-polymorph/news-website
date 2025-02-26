@@ -21,7 +21,7 @@
 - [七次变性手术终圆梦 英国六旬老汉成女儿身(图)](http://www.chinanews.com.cn/jk/kong/news/2009/01-19/1532795.shtml)
 - [行车线路起纠纷的哥拔拳相向 变性人假体险爆裂](http://www.chinanews.com.cn/jk/ysbb/news/2009/01-13/1525998.shtml)
 - [台变性主持人利菁夜探胡瓜女婿美容诊所 为缩胸](http://www.chinanews.com.cn/yl/zyxw/news/2009/01-08/1519191.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/yt/news/2009/02-18/1569085.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

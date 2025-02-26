@@ -28,7 +28,7 @@ Efrén O. Pérez [perezeo@ucla.edu](mailto:perezeo@ucla.edu)
 ### Translations
 
 [English](/news-releases/594634)
-
+<!-- tcd_original_link https://www.eurekalert.org/news-releases/594634?language=chinese -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

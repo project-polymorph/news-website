@@ -38,7 +38,7 @@
 ![dot image pixel](https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Tue%2C%2012%20Nov%202024%2018%3A04%3A56%20GMT&n=0&b=%E9%A4%8A%E8%82%B2%E4%B8%80%E5%80%8B%E8%B7%A8%E6%80%A7%E5%88%A5%E5%AD%A9%E5%AD%90&.yp=428726&f=https%3A%2F%2Ftw.news.yahoo.com%2F%25E9%25A4%258A%25E8%2582%25B2-%25E5%2580%258B%25E8%25B7%25A8%25E6%2580%25A7%25E5%2588%25A5%25E5%25AD%25A9%25E5%25AD%2590-011738794.html&enc=UTF-8&gdpr=0&isOathFirstParty=1&us_privacy=1YNN&gpp=DBABBg~BVoIgACY.QA&gpp_sid=8&yv=1.16.5&country=tw&property=news&pstcat=lifestyle&tag=%E8%89%BE%E8%8E%89%2C%20%E7%A6%8F%E7%89%B9%2C%20%E5%A5%A7%E7%88%BE%E6%A3%AE&title=%E9%A4%8A%E8%82%B2%E4%B8%80%E5%80%8B%E8%B7%A8%E6%80%A7%E5%88%A5%E5%AD%A9%E5%AD%90)
 
 ---
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E9%A4%8A%E8%82%B2-%E5%80%8B%E8%B7%A8%E6%80%A7%E5%88%A5%E5%AD%A9%E5%AD%90-011738794.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

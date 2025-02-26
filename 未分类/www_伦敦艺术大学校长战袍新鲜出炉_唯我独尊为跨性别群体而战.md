@@ -59,7 +59,7 @@ _下一篇_：__[温布尔登学院戏服设计将在《玫瑰骑士》歌剧中
 -   [伦敦艺术大学本科申请条件](https://www.arts.org.cn/news/cjwt/1762.html)
 -   [伦敦艺术大学申请条件](https://www.arts.org.cn/news/cjwt/1764.html)
 -   [伦敦艺术大学有哪些专业](https://www.arts.org.cn/news/cjwt/1975.html)
-
+<!-- tcd_original_link https://www.arts.org.cn/news/activity/791.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

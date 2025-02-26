@@ -44,7 +44,7 @@
 - [无奇不有：英国慈母助儿变性 无臭榴莲却不讨好](http://www.chinanews.com.cn/gj/dqsj/news/2007/04-14/915525.shtml)
 - [变性美女报名参加福州健身小姐大赛遭到拒绝(图)](http://www.chinanews.com.cn/yl/mxzz/news/2007/04-03/907098.shtml)
 - [河莉秀与吉米分享变性经历：变性就如上大学(图)](http://www.chinanews.com.cn/yl/mxzz/news/2007/04-03/906431.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/sh/news/2007/05-16/935797.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

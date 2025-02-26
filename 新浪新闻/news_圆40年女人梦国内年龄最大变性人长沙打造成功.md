@@ -51,7 +51,7 @@
 相关链接：内年龄最大变性人隆胸成功
 
 (稿源：红网)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-12-14/detail-ikkntiam6141197.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

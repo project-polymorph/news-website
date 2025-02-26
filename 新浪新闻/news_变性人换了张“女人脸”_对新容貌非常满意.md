@@ -19,7 +19,7 @@
 **评论**：  
 说说你的看法  
 [转发至微博](https://cmnt.sina.cn/index?product=comos&index=kkntiak9224033&tj_ch=news&is_clear=0)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-01-17/detail-ikkntiak9224033.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -53,7 +53,7 @@
 ###### 版权声明
 
 凡本网来源标注是“基督时报”的文章权归基督时报所有。未经基督时报授权，任何印刷性书籍刊物、公共网站、电子刊物不得转载或引用本网图文。欢迎个体读者转载或分享于您个人的博客、微博、微信及其他社交媒体，但请务必清楚标明出处、作者与链接地址（URL）。其他公共微博、微信公众号等公共平台如需转载引用，请通过电子邮件（jidushibao@gmail.com）、电话 (021-6224 3972) 或微博（http://weibo.com/cnchristiantimes），微信（ChTimes）联络我们，得到授权方可转载或做其他使用。
-
+<!-- tcd_original_link http://www.chinachristiantimes.com/news/41559/%E5%BE%B7%E5%9B%BD%E5%8C%BB%E5%AD%A6%E5%A4%A7%E4%BC%9A%E5%91%BC%E5%90%81%E9%99%90%E5%88%B6%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%8E%A5%E5%8F%97%E8%B7%A8%E6%80%A7%E5%88%AB%E6%89%8B%E6%9C%AF%E5%92%8C%E9%9D%92%E6%98%A5%E6%9C%9F%E9%98%BB%E6%96%AD%E5%89%82 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

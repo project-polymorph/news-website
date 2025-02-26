@@ -72,7 +72,7 @@
 - [判刑](http://search.cntv.cn/netall/index.shtml?qtext=判刑)  
 
 ---
-
+<!-- tcd_original_link http://news.cntv.cn/society/20110624/101673.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -27,7 +27,7 @@
 联系方式：  
 电话：0471-6659743、6659744、6659725  
 电邮：news@nmgnews.com.cn
-
+<!-- tcd_original_link https://inews.nmgnews.com.cn/system/2011/11/15/010678597.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

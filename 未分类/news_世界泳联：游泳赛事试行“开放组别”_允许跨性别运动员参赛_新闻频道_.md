@@ -23,7 +23,7 @@
 
 -   [世界泳联](https://search.cctv.com/search.php?qtext=世界泳联)
 -   [世界游泳锦标赛](https://search.cctv.com/search.php?qtext=世界游泳锦标赛)
-
+<!-- tcd_original_link https://news.cctv.com/2023/07/26/ARTI6OpX69kcsSsw1UpnbO4O230726.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

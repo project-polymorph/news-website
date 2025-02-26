@@ -44,7 +44,7 @@
 - [媒体评昆明女城管"柔性执法"："变性"不如变制](http://www.chinanews.com.cn/sh/news/2008/08-27/1362464.shtml)
 - [巴西政府正式批准在全国范围免费提供变性手术](http://www.chinanews.com.cn/gj/lmfz/news/2008/08-20/1354425.shtml)
 - [泰国一中学近两成男生倾向变性 特设"中性"厕所](http://www.chinanews.com.cn/gj/yt/news/2008/07-31/1330438.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/jk/ysbb/news/2008/09-24/1392299.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

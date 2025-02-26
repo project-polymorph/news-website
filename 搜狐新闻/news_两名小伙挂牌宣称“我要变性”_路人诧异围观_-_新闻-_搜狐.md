@@ -56,7 +56,7 @@
 - 08-10-31 08:44·[研究发现:男人比女人更容易发觉配偶不忠行为](https://news.sohu.com/20081031/n260354726.shtml)
 
 相关话题：变性
-
+<!-- tcd_original_link http://news.sohu.com/20090518/n264027652.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

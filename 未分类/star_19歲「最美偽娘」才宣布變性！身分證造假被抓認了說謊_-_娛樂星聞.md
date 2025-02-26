@@ -30,7 +30,7 @@ Abbily透露已經做過面談，今年就會動手術，而未滿20歲爭議，
 - [**偽娘**](https://www.setn.com/tag/10719/)
 - [**跨性別**](https://www.setn.com/tag/21908/)
 - [**網紅**](https://www.setn.com/tag/104197/)
-
+<!-- tcd_original_link https://star.setn.com/news/920631 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

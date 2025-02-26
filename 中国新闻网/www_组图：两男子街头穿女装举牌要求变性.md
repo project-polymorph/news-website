@@ -28,7 +28,7 @@
 [发表评论](http://comment.chinanews.com.cn/comments/comments.php?newsid=1644504)  
 [进入社区](http://club.chinanews.com.cn/)  
 [查看评论](http://comment.chinanews.com.cn/comments/comments.php?newsid=1644504)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/tp/news/2009/04-14/1644504.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -136,7 +136,7 @@
 --- 
 
 太長
-
+<!-- tcd_original_link https://noselfidtw.cc/news/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

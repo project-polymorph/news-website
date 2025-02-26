@@ -38,7 +38,7 @@
 傳真：(04)2339-9072
 
 網站問題：(04)2339-1141
-
+<!-- tcd_original_link https://www.ntso.gov.tw/News_Content.aspx?n=2301&s=133391 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

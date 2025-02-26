@@ -88,7 +88,7 @@
 正因为电影是如此具有影响力的载体，它跨越语言、国度、性别、年龄的边界，让不同的人们体会到相似的心境，从这个意义上，“治愈”应当是美誉。
 
 校对：丁晓
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_1818278 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

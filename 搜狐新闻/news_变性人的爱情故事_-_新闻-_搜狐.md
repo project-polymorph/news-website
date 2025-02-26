@@ -47,7 +47,7 @@
 --- 
 
 ![sogou_logo](https://photocdn.sohu.com/logo/sogou_logo.gif)
-
+<!-- tcd_original_link http://news.sohu.com/20060603/n243545339.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

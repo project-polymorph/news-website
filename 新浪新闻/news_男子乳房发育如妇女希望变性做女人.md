@@ -80,7 +80,7 @@
 **安装**  
 
 ---
-
+<!-- tcd_original_link https://news.sina.cn/sa/2007-11-22/detail-ikftpnny3964019.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -44,7 +44,7 @@
 ![变化2](http://cimg.163.com/news/0410/20/dlb2.jpg)
 
 **[责任编辑：丁黎](http://bbs.news.163.com/-0026.html)**
-
+<!-- tcd_original_link http://news.163.com/special/r/renyao041020.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

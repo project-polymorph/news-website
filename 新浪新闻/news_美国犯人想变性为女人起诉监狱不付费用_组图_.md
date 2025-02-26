@@ -48,7 +48,7 @@
 新浪新闻官方  
 热点资讯 精彩视频抢先看 5.0分好评  
 免费 / 绿色应用 / 优质  
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-06-19/detail-ikftssap2644022.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

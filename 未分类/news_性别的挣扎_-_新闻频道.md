@@ -131,7 +131,7 @@
 
 ### 相关视频
 [CCTV-1](http://www.cctv.com/2006tv/CCTV_1/index.shtml)  [CCTV-2](http://www.cctv.com/2006tv/CCTV_2/index.shtml)  [CCTV-3](http://www.cctv.com/2006tv/CCTV_3/index.shtml)  [CCTV-4](http://www.cctv.com/2006tv/CCTV_4/index.shtml)  [CCTV-5](http://www.cctv.com/2006tv/CCTV_5/index.shtml)   [CCTV-6](http://www.cctv.com/2006tv/CCTV_6/index.shtml)   [CCTV-7](http://www.cctv.com/2006tv/CCTV_7/index.shtml)   [CCTV-8](http://www.cctv.com/2006tv/CCTV_8/index.shtml)   [CCTV-9](http://www.cctv.com/2006tv/CCTV_9/index.shtml)   [CCTV-10](http://www.cctv.com/2006tv/CCTV_10/index.shtml)   [CCTV-11](http://www.cctv.com/2006tv/CCTV_11/index.shtml)   [CCTV-12](http://www.cctv.com/2006tv/CCTV_12/index.shtml)   [CCTV-新闻](http://www.cctv.com/2006tv/CCTV_13/index.shtml)   [CCTV-少儿](http://www.cctv.com/2006tv/CCTV_14/index.shtml)   [CCTV-音乐](http://www.cctv.com/2006tv/CCTV_15/index.shtml)   [CCTV-E&F](http://www.cctv.com/2006tv/CCTV_ef/index.shtml)  
-
+<!-- tcd_original_link https://news.cctv.com/program/zoujinkexue/20060403/101219.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

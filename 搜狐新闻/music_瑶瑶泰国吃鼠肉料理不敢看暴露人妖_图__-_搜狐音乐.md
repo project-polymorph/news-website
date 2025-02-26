@@ -61,7 +61,7 @@
 - [日本料理](https://www.sogou.com/web?query=日本料理&p=31021106&fhintidx=7)
 - [韩国烤肉锅](https://www.sogou.com/web?query=韩国烤肉锅&p=31210100&fhintidx=8)
 - [泰国电视剧](https://www.sogou.com/web?query=泰国电视剧&p=31021106&fhintidx=9)
-
+<!-- tcd_original_link http://music.yule.sohu.com/20091018/n267459524.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

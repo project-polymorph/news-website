@@ -54,7 +54,7 @@
 **关于 MyToken:** [https://www.mytokencap.com/aboutus](https://www.mytokencap.com/aboutus)
 
 **链接到本文:** [https://www.mytokencap.com/news/389686.html](https://www.mytokencap.com/news/389686.html)
-
+<!-- tcd_original_link https://www.mytokencap.com/news/389686.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

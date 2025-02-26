@@ -80,7 +80,7 @@
 - [跨性別者改身分證性別遭拒　終院裁定政府敗訴　上訴人嘆慘勝：遲來公義](https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/89046/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E6%9B%B4%E6%94%B9%E8%BA%AB%E5%88%86%E8%AD%89%E6%80%A7%E5%88%A5%E8%A2%AB%E6%8B%92-%E7%B5%82%E9%99%A2%E8%A3%81%E5%AE%9A%E6%94%BF%E5%BA%9C%E6%95%97/)，[有線新聞](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E)，2023年2月8日。
 - [跨性別身份案終極勝訴：重溫香港「跨仔」謝浩霖爭取性別「正名」之路](https://www.bbc.com/zhongwen/trad/chinese-news-64327239)，[BBC](https://zh.wikipedia.org/wiki/BBC)，2023年2月8日。
 - [未完變性手術禁改性別 終院裁違憲 官指施加「不可接受嚴苛負擔」 入稟人：亞洲跨運分水嶺](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20230207/s00002/1675707046184/%E6%9C%AA%E5%AE%8C%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E7%A6%81%E6%94%B9%E6%80%A7%E5%88%A5-%E7%B5%82%E9%99%A2%E8%A3%81%E9%81%95%E6%86%B2-%E5%AE%98%E6%8C%87%E6%96%BD%E5%8A%A0%E3%80%8C%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97%E5%9A%B4%E8%8B%9B%E8%B2%A0%E6%93%94%E3%80%8D-%E5%85%A5%E7%A8%9F%E4%BA%BA-%E4%BA%9E%E6%B4%B2%E8%B7%A8%E9%81%8B%E5%88%86%E6%B0%B4%E5%B6%BA)，[明報](https://zh.wikipedia.org/wiki/%E6%98%8E%E5%A0%B1)，2023年2月8日。
-
+<!-- tcd_original_link https://zh.m.wikinews.org/zh-hk/%E6%9C%AA%E5%AE%8C%E6%88%90%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E8%A2%AB%E6%8B%92%E6%94%B9%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%80%A7%E5%88%A5_%E9%A6%99%E6%B8%AF%E7%B5%82%E5%AF%A9%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E6%94%BF%E5%BA%9C%E9%81%95%E6%B3%95 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

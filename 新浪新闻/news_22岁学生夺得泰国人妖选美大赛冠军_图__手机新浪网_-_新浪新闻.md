@@ -34,7 +34,7 @@
 - [雌雄莫辨之惑--人妖落幕后的悲惨生活(组图)](http://cul.sina.com.cn/bbs/f/2006/0106/18355924.html) 2006-01-06
 - [美容院揽客称消费100元送门票看人妖表演(图)](http://news.sina.com.cn/s/2005-12-27/05337825088s.shtml) 2005-12-27
 - [严淑明被指变性人妖 澄清传闻出示身份证明(图)](http://ent.sina.com.cn/s/h/2005-12-09/1614923253.html) 2005-12-09
-
+<!-- tcd_original_link https://news.sina.com.cn/s/2006-05-22/07038988079s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -53,7 +53,7 @@ Yolanda说，成为变装皇后是因为天性爱美、喜欢漂亮的东西也�
 **标签：** [同志](https://feminine.com.my/tag/%e5%90%8c%e5%bf%97/) [变装皇后](https://feminine.com.my/tag/%e5%8f%98%e8%a3%85%e7%9a%87%e5%90%8e/) [表演](https://feminine.com.my/tag/%e8%a1%a8%e6%bc%94/) [新文化](https://feminine.com.my/tag/%e6%96%b0%e6%96%87%e5%8c%96/)
 
 **版权：** Copyright © 2023 南洋报业控股有限公司 Nanyang Press Holdings Berhad No. 195801000105 (3245-K). All rights reserved.
-
+<!-- tcd_original_link https://feminine.com.my/news/%E6%AF%94%E5%A5%B3%E4%BA%BA%E8%BF%98%E7%BE%8E%E7%9A%84%E5%8F%98%E8%A3%85%E7%9A%87%E5%90%8E-%E6%98%AF%E5%A6%88%E5%A6%88%E7%9A%84%E9%AA%84%E5%82%B2/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

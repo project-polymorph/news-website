@@ -24,7 +24,7 @@
 [图片]
 
 标签: 跨性别, 变性手术, 河南
-
+<!-- tcd_original_link https://news.sina.cn/sa/2002-04-10/detail-ikknscsi0137782.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

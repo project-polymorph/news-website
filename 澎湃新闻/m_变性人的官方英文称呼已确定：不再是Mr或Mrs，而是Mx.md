@@ -40,7 +40,7 @@
 ![](http://image.thepaper.cn/www/image/4/358/746.jpg)
 
 Facebook扩展了用户设定中的性别选项。
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_1327712 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

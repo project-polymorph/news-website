@@ -122,7 +122,7 @@ DSM-5去除“性别认同障碍”诊断名称，也就是认为，性别认同
 ### 网友评论
 
 目前没有热门评论。
-
+<!-- tcd_original_link https://www.163.com/dy/article/IDQ504LJ0552C1AJ.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

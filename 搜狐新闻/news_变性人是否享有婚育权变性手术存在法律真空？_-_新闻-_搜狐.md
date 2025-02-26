@@ -97,7 +97,7 @@
 新报记者 刘卓 实习生 匡霁  
 
 转自搜狐
-
+<!-- tcd_original_link http://news.sohu.com/20050426/n225337196.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -159,7 +159,7 @@ Play video, "挑战性别刻板印象的香港跨性别武术家", 节目全长 
 
 ### [护照性别选项惹出的官司：“系统歧视基因”](/zhongwen/simp/world-50658107)  
 2019年12月5日
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-54553312 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

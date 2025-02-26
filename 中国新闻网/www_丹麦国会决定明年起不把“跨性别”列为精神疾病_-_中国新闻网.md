@@ -18,7 +18,7 @@
 国际特赦组织赞扬丹麦的这项决定，并表示此举使丹麦成为“跨性别人权的模范生”。
 
 丹麦的“男女同志、双性恋者以及跨性别者联盟”(LGBT Denmark)也对这项变革表示欢迎。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/m/gj/2016/06-01/7890443.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -57,7 +57,7 @@
 **摄影：韩杰**  
 **转自搜狐**  
 **版权：版权所有 © 2005 Sohu.com Inc. All rights reserved.**
-
+<!-- tcd_original_link http://news.sohu.com/2004/02/08/32/news218983255.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -31,7 +31,7 @@
 **版权**: Copyright © 1996 - 2005 SINA Inc. All Rights Reserved!  
 **标签**: #跨性别 #变性手术 #何清濂 #易性病 #医学治疗  
 **评论**: [评论链接](http://comment4.news.sina.com.cn/comment/comment4.html?channel=kj&newsid=2-1-725805)
-
+<!-- tcd_original_link http://tech.sina.com.cn/d/2005-09-21/1411725805.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -39,7 +39,7 @@
 版权 © 2018 Sohu.com Inc. All Rights Reserved. 
 [版权所有](https://corp.sohu.com/s2007/copyright/) 
 搜狐不良信息举报邮箱：[jubao@contact.sohu.com](mailto:jubao@contact.sohu.com)
-
+<!-- tcd_original_link https://sports.sohu.com/20090712/n265155218.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

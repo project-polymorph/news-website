@@ -19,7 +19,7 @@
 
 **版权：** Copyright © 2000 - 2024 XINHUANET.com All Rights Reserved.  
 **制作单位：** 新华网股份有限公司　　版权所有：新华网股份有限公司
-
+<!-- tcd_original_link http://news.xinhuanet.com/world/2017-07/27/c_129664908.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

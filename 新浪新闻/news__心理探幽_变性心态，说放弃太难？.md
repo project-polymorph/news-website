@@ -51,7 +51,7 @@
 88字
 
 立即转发
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-08-02/detail-ikknscsk0687369.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -45,7 +45,7 @@ Vilain的研究小组在小鼠中识别出54个基因，这些基因可以解释
 ![微信](https://alicdn.ebioweb.com/QR_ebiotrade.jpg) 生物通微信公众号  
 ![新浪微博](https://alicdn.ebioweb.com/QR_ebiotradeweibo.png) 生物通新浪微博  
 [我要投稿](mailto:journal@ebiotrade.com)
-
+<!-- tcd_original_link https://m.ebiotrade.com/newsf/2003-10/L20031021113638.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

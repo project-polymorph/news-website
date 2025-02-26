@@ -44,7 +44,7 @@
 标签：[男性](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%B7%E6%80%A7) [女性](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A5%B3%E6%80%A7) [巴基斯坦](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6)
 
 \[责任编辑：PN053\]
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150121/42985020_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

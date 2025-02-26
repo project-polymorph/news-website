@@ -66,7 +66,7 @@
 **標籤**: 跨性別, 性別意識形態, 變性手術  
 **作者**: 未提供  
 **編輯**: 未提供
-
+<!-- tcd_original_link https://chinese.christianpost.com/news/us-worst-country-for-pushing-extreme-gender-ideology-on-kids.html?langkey=zh-Hant -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

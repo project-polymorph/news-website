@@ -32,7 +32,7 @@
 
 **编辑：zkx**  
 **标签：变性手术、性别问题、法律诉讼**
-
+<!-- tcd_original_link https://news.ifeng.com/photo/200702/0214_24_77208.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

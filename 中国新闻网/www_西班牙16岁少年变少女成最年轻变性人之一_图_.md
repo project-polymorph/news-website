@@ -43,7 +43,7 @@
 
 ### 标签
 #变性 #跨性别 #西班牙 #新闻
-
+<!-- tcd_original_link http://www.chinanews.com.cn/gj/gj-dqsj/news/2010/01-13/2069792.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

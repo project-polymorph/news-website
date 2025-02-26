@@ -68,7 +68,7 @@
 来源|观察者网
 
 文章关键词： [加拿大](http://tags.finance.sina.com.cn/加拿大) [推特](http://tags.finance.sina.com.cn/推特) [约翰斯通](http://tags.finance.sina.com.cn/约翰斯通) [美国](http://tags.finance.sina.com.cn/美国)
-
+<!-- tcd_original_link https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fwm%2F2023-03-04%2Fdoc-imyisrka1340562.shtml&from=redirect -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

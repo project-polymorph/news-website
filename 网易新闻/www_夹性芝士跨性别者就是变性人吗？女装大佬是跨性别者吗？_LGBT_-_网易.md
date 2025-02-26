@@ -18,7 +18,7 @@
 [客户服务](https://help.163.com/) | [隐私政策](https://corp.163.com/gb/legal.html) |  
 [广告服务](http://emarketing.163.com/) | [不良信息举报 Complaint Center](http://jubao.aq.163.com/) |  
 [廉正举报](https://jubao.163.com/)
-
+<!-- tcd_original_link https://www.163.com/opencourse/detail/video-AIALJI0M3-UIALJI0ML -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

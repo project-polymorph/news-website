@@ -19,7 +19,7 @@
 
 版权信息:  
 共青团中央主办 中国青年报主管 中国青年网版权所有
-
+<!-- tcd_original_link http://news.youth.cn/jy/201603/t20160310_7726811.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -53,8 +53,7 @@
 ## 参考资料 { data-search-exclude }
 - 人权观察官方网站 (https://www.hrw.org)
 - [‘我被打过数不清多少次’](https://www.hrw.org/report/2020/07/20/375777) - 日本未成年运动员被虐待报告
-
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2019/03/19/327813 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

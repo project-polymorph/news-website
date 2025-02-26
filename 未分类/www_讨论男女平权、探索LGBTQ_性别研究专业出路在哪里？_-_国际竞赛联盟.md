@@ -248,7 +248,7 @@ Gender Studies, Social Science Research 项目是芬兰坦佩雷大学社会科�
 ![讨论男女平权、探索LGBTQ，性别研究专业出路在哪里？](https://www.jingsailian.com/wp-content/uploads/2024/06/2024060906340490.png)
 
 本文由 [Molly](https://www.jingsailian.com/author/61) 转载发布在 [国际竞赛联盟](https://www.jingsailian.com)平台，版权归原作者所有，如有侵权，请直接联系微信进行处理。
-
+<!-- tcd_original_link https://www.jingsailian.com/news/649676.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -32,7 +32,7 @@
 **来源：** 澎湃新闻  
 **时间：** 2023年11月4日  
 **标签：** 跨性别, 儿童, 医疗, 心理健康  
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_15222528 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

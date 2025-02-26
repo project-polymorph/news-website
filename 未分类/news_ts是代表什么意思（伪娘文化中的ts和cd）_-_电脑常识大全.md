@@ -44,7 +44,7 @@ Cd在英语中的完整拼写是Cross dresser。同理，ts也是英文单词的
 **本文地址：** [http://news.zhienkeji.com/4430.html](http://news.zhienkeji.com/4430.html "ts是代表什么意思（伪娘文化中的ts和cd）") 
 
 **版权声明：** 本文为原创文章，版权归 [在线之家](http://news.zhienkeji.com/4430.html) 所有，欢迎分享本文，转载请保留出处！
-
+<!-- tcd_original_link http://news.zhienkeji.com/4430.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

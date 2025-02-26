@@ -62,7 +62,7 @@
 - [迷糊餐厅](http://so.cntv.cn/search.php?qtext=迷糊餐厅&sid=0000&pid=0000)
 - [旋风管家](http://so.cntv.cn/search.php?qtext=旋风管家&sid=0000&pid=0000)
 - [超时空要塞f](http://so.cntv.cn/search.php?qtext=超时空要塞f&sid=0000&pid=0000)
-
+<!-- tcd_original_link http://news.cntv.cn/20120414/119940.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

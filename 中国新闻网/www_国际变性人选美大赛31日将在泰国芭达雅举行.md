@@ -20,7 +20,7 @@
 - [8岁女童成世界最小变性人 女生盲目减肥患骨质疏松](http://www.chinanews.com.cn/life/news/2009/10-19/1917120.shtml)
 - [英12岁男孩变身女孩引同学恐慌 或成最小变性人](http://www.chinanews.com.cn/gj/gj-ywdd2/news/2009/09-19/1875008.shtml)
 - [75岁男子成英最老变性人 异装癖致多次离婚(图)](http://www.chinanews.com.cn/life/news/2009/09-16/1868283.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/gj/gj-sswh/news/2009/10-29/1937924.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

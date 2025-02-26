@@ -43,7 +43,7 @@
 **版权声明：** 中国中央电视台 版权所有 [京ICP备05065290号](http://www.miibeian.gov.cn/)
 
 **相关视频：** 更多视频搜索。
-
+<!-- tcd_original_link http://news.cctv.com/education/20070310/103762.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

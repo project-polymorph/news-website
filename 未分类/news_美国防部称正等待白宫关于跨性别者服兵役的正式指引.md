@@ -23,7 +23,7 @@
 **标签：** 性别, 白宫, 特朗普, 服兵役, 服役  
 
 **责任编辑：** 赵冰
-
+<!-- tcd_original_link http://news.xinhuanet.com/world/2017-07/28/c_129665863.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -71,7 +71,7 @@
 **时间：2006-06-28**  
 
 **[立即加入讨论](javascript:void(0))**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-06-28/detail-ikftssap2652020.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

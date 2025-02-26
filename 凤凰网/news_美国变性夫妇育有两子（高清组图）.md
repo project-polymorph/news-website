@@ -18,7 +18,7 @@
 **标签**：[性器官](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%A7%E5%99%A8%E5%AE%98) [孩子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A9%E5%AD%90) [父亲](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%88%B6%E4%BA%B2) 
 
 **版权**：凤凰新媒体 版权所有  Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://news.ifeng.com/a/20140812/41537072_2.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

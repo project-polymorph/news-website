@@ -55,7 +55,7 @@
 **新浪网友0**  
 大钱使节武器不有  
 **时间：2006-03-28**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-01-10/detail-ikkntiam6330733.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

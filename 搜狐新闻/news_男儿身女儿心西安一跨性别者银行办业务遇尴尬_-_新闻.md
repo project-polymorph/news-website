@@ -71,7 +71,7 @@ L指女同性恋，G指男同性恋，B指双性恋，T指跨性别人士。跨�
 **版权**: Copyright © 2018 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp.sohu.com/s2007/copyright/)   
 
 **分享链接**: [手机看新闻](https://k.sohu.com)
-
+<!-- tcd_original_link https://news.sohu.com/20161103/n472153629.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

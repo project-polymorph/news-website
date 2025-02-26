@@ -19,7 +19,7 @@
 - [泰国最美人妖讲述变性细节(组图)](http://www.cnr.cn/ent/tpgd/20160530/t20160530_522272457.shtml)
 - [揭秘：泰国人妖的心酸生活有谁人知？](http://www.cnr.cn/ent/tpgd/20160527/t20160527_522254446.shtml)
 - [泰国人妖背后的秘密令男人脸红](http://www.cnr.cn/ent/tpgd/20160518/t20160518_522167685.shtml)
-
+<!-- tcd_original_link http://m.cnr.cn/news/yctt/20160614/t20160614_522398940_2.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

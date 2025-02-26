@@ -30,7 +30,7 @@
 ———
 
 版权声明：本内容为大众网-齐鲁晚报发布。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-01-22/detail-ikkntiam6408504.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

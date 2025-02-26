@@ -90,7 +90,7 @@ LGBTQ+，其实是一系列单词的首字母缩写，全部写出来应该是�
 转载请注明来源：[狮城新闻](https://www.shicheng.news/show/935568)
 
 特别声明：本文为转载/投稿，仅代表该原作者观点。NESTIA仅提供信息发布平台。
-
+<!-- tcd_original_link https://news.nestia.com/detail_share/5981320?media_type=1 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

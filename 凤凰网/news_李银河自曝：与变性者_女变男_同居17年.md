@@ -64,7 +64,7 @@
 ![凤凰资讯 Logo](http://img.ifeng.com/page/Logo.gif)  
 **责任编辑**：PN048  
 ![二维码](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20141218/42748249_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

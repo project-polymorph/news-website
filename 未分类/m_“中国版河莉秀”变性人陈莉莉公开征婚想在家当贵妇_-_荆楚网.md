@@ -32,7 +32,7 @@ _发布时间: 2012-06-02 09:12_ 来源: 荆楚网 [进入电子报](http://epap
 (本文来源：荆楚网 编辑：詹蔷)
 
 版权相关声明：湖北日报网 www.cnhubei.com 所有 未经同意不得复制或镜像
-
+<!-- tcd_original_link http://m.cnhubei.com/news/sydt/201206/t2089722.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

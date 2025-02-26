@@ -83,7 +83,7 @@
 ---
 
 搜狗 [www.sogou.com](https://www.sogou.com) 搜索：“[变性人 表演](https://www.sogou.com/web?query=%B1%E4%D0%D4%C8%CB+%B1%ED%D1%DD&sogouhome=&pid=sohunews)”,共找到**5,920** 个相关网页.
-
+<!-- tcd_original_link http://news.sohu.com/20050921/n227014152.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

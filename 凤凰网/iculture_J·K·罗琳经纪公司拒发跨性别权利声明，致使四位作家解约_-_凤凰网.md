@@ -35,7 +35,7 @@ Blair Partnership表示：“作为一家文学经纪公司，我们重视所有
 
 ![](http://stadig.ifeng.com/appsta.js?datatype=newsappsns&mos=Linux&userkey=&ua=&share=unknown&session=2024-11-09%2B09%3A49%3A30%23action%23type%3Dbacklaunch%24ref%3Dhttps%3A%2F%2Ficulture.ifeng.com%2F66572657%2Fnews.shtml%24kind%3Darticle%24od%3D)
 ![](http://p0.ifengimg.com/fe/iphone_ifeng/images/fx2_98804fab.png)
-
+<!-- tcd_original_link http://iculture.ifeng.com/66572657/news.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -31,7 +31,7 @@ Debbie Lau作风高调。
 - [应届港姐冠军参选世界小姐 备40条裙子应战(图)](http://www.chinanews.com.cn/ga/ga-ylmt/news/2009/11-06/1950201.shtml)
 
 ![Image3](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F980DT20100423111451.jpg)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/yl/news/2010/05-24/2299897.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

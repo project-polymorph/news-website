@@ -31,7 +31,7 @@ mic.com分析称，金钠的胜利代表了清晰的前进步伐，表明一旦�
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
 ![马杜•金钠](http://image.thepaper.cn/www/image/4/214/940.jpg)
-
+<!-- tcd_original_link https://m.thepaper.cn/wifiKey_detail.jsp?contid=1291737&from=wifiKey -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

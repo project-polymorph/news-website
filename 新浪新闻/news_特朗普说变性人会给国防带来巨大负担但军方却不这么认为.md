@@ -34,7 +34,7 @@
 ![有关跨性别者的照片2](https://k.sinaimg.cn/n/translate/20170707/wRFo-fyhwres7539921.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
 
 更多专业报道，请点击下载“界面新闻”APP
-
+<!-- tcd_original_link https://news.sina.cn/2017-07-29/detail-ifyinryq6925888.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -91,7 +91,7 @@
 這篇新聞報道的全部或部分內容，來自[集誌社](https://thecollectivehk.com/%e5%b7%b2%e5%ae%8c%e6%88%90%e6%89%8b%e8%a1%93%e8%b7%a8%e7%94%b7%e6%94%b9%e8%ba%ab%e4%bb%bd%e8%ad%89%e6%80%a7%e5%88%A5%e9%81%ad%e6%9a%ab%e7%b7%a9%e3%80%80%e5%85%a5%e5%a2%83%e8%99%95%ef%bc%9a%e7%9b%a1/)。[集誌社的所有文章、資訊圖片均按均在 Creative Commons 之條款下提供予維基新聞](https://thecollectivehk.com/%e7%89%88%e6%ac%8a%e8%81%b2%e6%98%8e/)。
 
 **本篇报道已经[存档](/wiki/Wikinews:%E5%AD%98%E6%AA%94%E5%B8%B8%E8%A6%8F "Wikinews:存檔常規")，不能再作修訂。**
-
+<!-- tcd_original_link https://zh.wikinews.org/wiki/%E9%A6%99%E6%B8%AF%E5%B7%B2%E5%AE%8C%E6%88%90%E6%89%8B%E8%A1%93%E8%B7%A8%E7%94%B7%E6%94%B9%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%80%A7%E5%88%A5%E9%81%AD%E6%9A%AB%E7%B7%A9_%E5%85%A5%E5%A2%83%E8%99%95%EF%BC%9A%E7%9B%A1%E5%BF%AB%E8%99%95%E7%90%86 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

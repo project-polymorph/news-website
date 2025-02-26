@@ -28,7 +28,7 @@
 **03.大家透过互动游戏交流分享**
 
 **来源：** [昆山科技大学](https://chs-www.ksu.edu.tw/focusNews/detail/9942)
-
+<!-- tcd_original_link https://chs-www.ksu.edu.tw/focusNews/detail/9942 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

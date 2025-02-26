@@ -29,7 +29,7 @@
 - [#PS4](/news/tag/PS4)
 - [#Switch](/news/tag/Switch)
 - [#偽娘](/news/tag/偽娘)
-
+<!-- tcd_original_link https://www.4gamers.com.tw/news/detail/42056/bokuhime-project-producer-apologize -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -29,7 +29,7 @@
 版权: © 2023 新华网客户端  
 评论: 无  
 标签: 跨性别, 美军信任度, 民调, 美国
-
+<!-- tcd_original_link https://app.xinhuanet.com/news/article.html?articleId=5671f70068eef6f55f01d5354e3676c9 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

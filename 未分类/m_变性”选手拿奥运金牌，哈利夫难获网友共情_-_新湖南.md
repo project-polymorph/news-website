@@ -93,7 +93,7 @@
 * 圭阳 2024-08-11 00:04:21  
   ![](https://news-vod.voc.com.cn/9/avatar/2023/07/24/ios_ce3b44a3e7dfc87e37b1c74f115f010a9bb63b76.png)  
   体育竞技精神在变味！
-
+<!-- tcd_original_link https://m.voc.com.cn/xhn/news/202408/20480852.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

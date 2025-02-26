@@ -47,7 +47,7 @@
 **链接**: [完整文章](https://yule.sohu.com/20150907/n420524228.shtml)  
 **标签**: 变装电影, 跨性别, 男扮女装  
 **责任编辑**: 孙倩  
-
+<!-- tcd_original_link https://yule.sohu.com/20150907/n420524228.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

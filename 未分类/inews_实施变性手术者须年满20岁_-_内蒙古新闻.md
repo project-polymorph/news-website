@@ -51,7 +51,7 @@
 联系方式：0471--4811341、4811342、4811343。  
 
 ---
-
+<!-- tcd_original_link https://inews.nmgnews.com.cn/system/2009/11/21/010327243.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

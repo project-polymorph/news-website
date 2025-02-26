@@ -49,7 +49,7 @@
 **标签**: [恐怖片](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%81%90%E6%80%96%E7%89%87) [影片](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%BD%B1%E7%89%87) [实验](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AE%9E%E9%AA%8C)
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20151116/46264901_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -31,7 +31,7 @@
 新出网证（京）字098号 中国互联网视听节目服务自律公约  
 
 [关于CCTV](http://cctvenchiridion.cctv.com/index.shtml) | [联系CCTV](http://www.cctv.com/program/20110130/column_header/index.shtml) | [关于CNTV](http://www.cntv.cn/special/guanyunew/PAGE13818868795101875/index.shtml) | [联系CNTV](http://www.cntv.cn/special/guanyunew/PAGE13818868795101876/index.shtml) | [人才招聘](http://career.cntv.cn/) | [网站声明](http://www.cntv.cn/special/guanyunew/PAGE13818868795101878/index.shtml) | [法律顾问](http://www.cntv.cn/special/guanyunew/PAGE13818868795101879/index.shtml) | [CCTV广告中心](http://1118.cctv.com/chinese/index.shtml) | [CCTV创意](http://chuangyi.cctv.com/) | [网友智囊团](http://info.passport.cntv.com/wyznt/info.action) | [客服中心](http://help.cntv.cn/)
-
+<!-- tcd_original_link http://news.cntv.cn/ent/20120516/112162.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

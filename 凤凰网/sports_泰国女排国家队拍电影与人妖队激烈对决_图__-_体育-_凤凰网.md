@@ -17,7 +17,7 @@
 标签：[泰国女排](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92) [人妖](http://search.ifeng.com/sofeng/search.action?c=1&q=%E4%BA%BA%E5%A6%96) [泰国女排国家队](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%9B%BD%E5%AE%B6%E9%98%9F)  
 
 版权 © 2013 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link http://sports.ifeng.com/a/20141217/42735789_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

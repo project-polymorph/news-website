@@ -20,7 +20,7 @@
 **宋 磊**
 
 ![Image](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F980DT20100423111451.jpg)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/cul/2010/07-08/2390561.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

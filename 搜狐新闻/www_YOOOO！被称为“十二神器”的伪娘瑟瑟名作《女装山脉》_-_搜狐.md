@@ -88,7 +88,7 @@
 姬只能说：Don't play a galgame called Josou Sanmyaku.You will like YOOOOOOOOOOOOOOOOO!IT WAS THREEEEEEEEEEEEEEEEEEEEE!!!!!!!!!
 
 **YOOOOOOOOOO**
-
+<!-- tcd_original_link https://www.sohu.com/a/684792355_398212 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

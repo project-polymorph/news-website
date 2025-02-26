@@ -29,7 +29,7 @@
 *標籤：跨性別、表演藝術、曼谷*
 
 © Copyright AkGo Tour 2022
-
+<!-- tcd_original_link https://akgotour.com/font/news_item.php?new_info_id=80 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

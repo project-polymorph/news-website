@@ -55,7 +55,7 @@
 -  2007-04-24 10:28·[《明明》26日全国上映 两个周迅争一个吴彦祖](https://yule.sohu.com/20070424/n249652183.shtml)
 
 ---
-
+<!-- tcd_original_link http://yule.sohu.com/20070429/n249793695.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

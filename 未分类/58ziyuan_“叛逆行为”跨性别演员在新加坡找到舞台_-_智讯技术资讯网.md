@@ -72,7 +72,7 @@
 **标签**：跨性别，LGBTQ，新加坡，表演，职业选择，刻板印象，精神健康，社交媒体
 
 ![](picture/qrcode_tourfresh.jpg)
-
+<!-- tcd_original_link http://58ziyuan.cn/news/116162/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -23,7 +23,7 @@
 该制作还包括由Aya Aziz担任音乐和音乐指导，melpoomene Katakalos担任布景设计，Andre Segar担任灯光设计，Travis Joseph Wright担任音效设计，Joseph Amodei担任媒体设计。凯拉·鲍伊是该剧的舞台经理。
 
 在[PipelinTheatre.org](http://pipelineTheatre.org)上可以买到票。
-
+<!-- tcd_original_link http://m.piojj.com/news/show/134981/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

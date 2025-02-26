@@ -34,7 +34,7 @@
 **标签:** 非二元性别, 加州法案, 第三性别  
 **版权:** 不详  
 **参考资料:** 不详  
-
+<!-- tcd_original_link https://www.guruin.com/news/538 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

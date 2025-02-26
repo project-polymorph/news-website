@@ -36,7 +36,7 @@
 - [美國大選](/search/tagging/2/美國大選)
 - [賀錦麗](/search/tagging/2/賀錦麗)
 - [跨性別](/search/tagging/2/跨性別)
-
+<!-- tcd_original_link https://udn.com/news/story/121777/8326384 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

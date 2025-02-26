@@ -185,7 +185,7 @@ LGBT+群体早已全部去精神病理化。扭转治疗 LGBT+也被证明是无
 发表评论  
 凤凰账号/新浪微博  
 [查看全部评论>>](https://gentie.ifeng.com/c/comment/86JniSEpZQg)
-
+<!-- tcd_original_link https://news.ifeng.com/c/86JniSEpZQg -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -36,7 +36,7 @@
 
 版权信息与评论：
 - [![2014年终策划——中国故事·我的2014](http://images.china.cn/attachement/jpg/site1000/20150106/d43d7e14ddd11615bb7813.jpg)](../../../node_7218454.htm)
-
+<!-- tcd_original_link http://photo.china.com.cn/news/2015-01/19/content_34599142.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

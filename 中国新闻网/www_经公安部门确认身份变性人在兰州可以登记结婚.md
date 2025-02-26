@@ -29,7 +29,7 @@
 ---
 
 本网站所刊载信息，不代表中新社观点。刊用本网站稿件，务经书面授权。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/n/2003-09-10/26/344928.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

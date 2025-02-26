@@ -29,7 +29,7 @@
 标签：[照片](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%85%A7%E7%89%87), [个展](http://search.ifeng.com/sofeng/search.action?c=1&q=%E4%B8%AA%E5%B1%95), [展出](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B1%95%E5%87%BA)
 
 凤凰新媒体 版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://news.ifeng.com/a/20160422/48552699_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -57,7 +57,7 @@
 
 **版权**：Copyright © 2005 Sohu.com Inc. All rights reserved.  
 [关于搜狐](https://www.sohu.com/about/) | [隐私权保护](https://www.sohu.com/about/privacy.html) | [友情连接](https://www.sohu.com/about/lianxi.htm)
-
+<!-- tcd_original_link http://news.sohu.com/20050608/n225866811.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

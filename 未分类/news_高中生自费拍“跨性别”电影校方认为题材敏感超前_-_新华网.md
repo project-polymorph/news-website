@@ -106,7 +106,7 @@
 **责任编辑:** 聂晨静  
 
 版权所有 © 2000 - 2024 XINHUANET.com All Rights Reserved.
-
+<!-- tcd_original_link http://news.xinhuanet.com/politics/2017-07/24/c_1121367227.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

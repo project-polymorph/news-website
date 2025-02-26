@@ -36,7 +36,7 @@
 
 ## 版权 { data-search-exclude }
 凤凰新媒体 版权所有 Copyright © 2016 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link http://phtv.ifeng.com/album/xiangce/detail_2012_05/11/14464037_9.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

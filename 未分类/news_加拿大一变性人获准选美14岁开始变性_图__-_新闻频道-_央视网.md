@@ -44,7 +44,7 @@
 - [获准](http://so.cntv.cn/search.php?qtext=获准&sid=0000&pid=0000)
 - [选美](http://so.cntv.cn/search.php?qtext=选美&sid=0000&pid=0000)
 - [变性](http://so.cntv.cn/search.php?qtext=变性&sid=0000&pid=0000)
-
+<!-- tcd_original_link http://news.cntv.cn/world/20120406/105424.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

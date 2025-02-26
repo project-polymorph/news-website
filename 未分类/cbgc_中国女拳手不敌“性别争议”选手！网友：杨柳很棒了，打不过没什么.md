@@ -62,8 +62,7 @@
 ![关注我们二维码](https://wapcdn.thecover.cn/cdn/cbgc/static/img/follow-mask-qrcode.jpg) 
 
 温馨提示: 打开川观新闻客户端听全文  
-
-
+<!-- tcd_original_link https://cbgc.scol.com.cn/news/5283833 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -37,7 +37,7 @@
 - [2024美國總統大選進入倒數 Yahoo民調網友看法曝](https://tw.news.yahoo.com/2024%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%A4%A7%E9%81%B8%E9%80%B2%E5%85%A5%E5%80%92%E6%95%B8-yahoo%E6%B0%91%E8%AA%BF%E7%B6%B2%E5%8F%8B%E7%9C%8B%E6%B3%95%E6%9B%9D-030339524.html)
 - [川普喊中國犯台會被「課徵200%關稅」 國台辦：台灣隨時成棄子](https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E5%96%8A%E4%B8%AD%E5%9C%8B%E7%8A%AF%E5%8F%B0%E6%9C%83%E8%A2%AB-%E8%AA%B2%E5%BE%B5200-%E9%97%9C%E7%A8%85-%E5%9C%8B%E5%8F%B0%E8%BE%A6-%E5%8F%B0%E7%81%A3%E9%9A%A8%E6%99%82%E6%88%90%E6%A3%84%E5%AD%90-045930353.html)
 - [波多黎各「垃圾島」風波延燒！ 拜登稱「唯一垃圾是川普支持者」挨批 賀錦麗急撇清](https://tw.news.yahoo.com/%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%88-%E5%9E%83%E5%9C%BE%E5%B3%B6-%E9%A2%A8%E6%B3%A2%E5%BB%B6%E7%87%92-%E6%8B%9C%E7%99%BB%E7%A8%B1-%E5%94%AF-053303132.html)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E5%8F%8D%E8%B7%A8%E6%80%A7%E5%88%A5%E5%BB%A3%E5%91%8A%E6%8B%89%E6%94%8F%E6%9C%AA%E8%A1%A8%E6%85%8B%E9%81%B8%E6%B0%91-%E5%B0%88%E5%AE%B6%E8%AD%A6%E5%91%8A%E6%81%90%E9%87%80%E5%8F%8D%E6%95%88%E6%9E%9C-072631554.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

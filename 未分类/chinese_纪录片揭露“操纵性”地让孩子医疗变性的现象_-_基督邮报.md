@@ -55,7 +55,7 @@
 她说：“还有许多脆弱的人，他们甚至不知道这种情况发生在儿童身上，或者他们不知道这种情况的程度和频率。但我相信这场战斗是完全可以赢得的，因为大多数人是非常理智的。当他们看了这部电影，听到这些故事时，希望他们会说，‘这不好，这不合适，我们不能这样做’。”
 
 《Trans Mission》现在可以在[Vimeo](https://vimeo.com/560079655)或[YouTube](https://www.youtube.com/watch?v=rUeqEoARKOA)上观看。
-
+<!-- tcd_original_link https://chinese.christianpost.com/news/trans-mission-documentary-exposes-unconscionable-rush-to-transition-kids.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

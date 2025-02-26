@@ -19,7 +19,7 @@
 - **标签**: LGBT权利, 马来西亚
 - **作者**: 人权观察
 - **编辑**: [Neela Ghoshal](https://www.hrw.org/bios/neela-ghoshal) 
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2015/06/29/278538 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

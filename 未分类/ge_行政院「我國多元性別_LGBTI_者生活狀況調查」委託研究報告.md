@@ -29,7 +29,7 @@
 --- 
 
 此报告的所有内容均遵循相应的版权和引用要求。
-
+<!-- tcd_original_link https://ge.tainan.gov.tw/News_Content.aspx?n=24644&s=8553930 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

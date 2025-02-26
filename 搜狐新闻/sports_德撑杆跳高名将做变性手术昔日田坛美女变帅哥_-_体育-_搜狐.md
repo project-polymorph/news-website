@@ -41,7 +41,7 @@
 ---
 
 **标签**：变性, 撑竿跳高
-
+<!-- tcd_original_link https://sports.sohu.com/20130410/n372198340.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

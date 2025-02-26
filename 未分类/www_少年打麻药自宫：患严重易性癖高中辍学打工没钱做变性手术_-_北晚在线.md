@@ -96,7 +96,7 @@
 二、凡来源非北晚新视觉网或北京晚报的新闻（作品）只代表本网传播该消息，并不代表赞同其观点。
 
 如因作品内容、版权和其它问题需要同本网联系的，请在见网后30日内进行，联系邮箱：takefoto@vip.sina.com。
-
+<!-- tcd_original_link http://www.takefoto.cn/viewnews-1117428.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

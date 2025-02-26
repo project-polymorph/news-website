@@ -52,7 +52,7 @@
 ![实拍泰国“人妖皇后”选美现场17](../../../images/attachement/jpg/site1/20130419/984be1eaaf8112db43410a.jpg)
 
 ![实拍泰国“人妖皇后”选美现场18](../../../images/attachement/jpg/site1/20130419/984be1eaaf8112db43420b.jpg)
-
+<!-- tcd_original_link https://news.qingdaonews.com/shehui/2013-04/19/content_9706379_all.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

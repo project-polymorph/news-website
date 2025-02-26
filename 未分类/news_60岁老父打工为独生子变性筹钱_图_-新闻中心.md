@@ -36,7 +36,7 @@
 **编辑：周倩倩**
 
 中国宁波网（宁波甬派传媒股份有限公司）版权所有(C)Copyright(C) 2001-2023 CNNB.com.cn All Rights Reserved
-
+<!-- tcd_original_link http://news.cnnb.com.cn/system/2008/07/29/005700224.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -34,7 +34,7 @@
 
 © 2016 Sohu.com Inc. All Rights Reserved. 搜狐公司 版权所有  
 Sohu不良信息举报邮箱：[jubao@contact.sohu.com](mailto:jubao@contact.sohu.com)
-
+<!-- tcd_original_link http://news.sohu.com/20080208/n255102202.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

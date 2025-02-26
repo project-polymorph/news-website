@@ -39,7 +39,7 @@
 - [长沙看守所收押首例变性嫌疑人 安排住单独监舍](http://news.ifeng.com/gundong/detail_2014_05/21/36432069_0.shtml#_from_ralated) 
 
 ![第二张图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20140724/41292709_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -14,7 +14,7 @@
 ![相关图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
 用微信扫描二维码分享至好友和朋友圈
-
+<!-- tcd_original_link https://news.ifeng.com/a/20140510/40235003_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

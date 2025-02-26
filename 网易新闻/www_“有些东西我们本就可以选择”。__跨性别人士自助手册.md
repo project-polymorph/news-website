@@ -404,7 +404,7 @@ Lev, A. I. (2004). Transgender emergence: therapeutic guidelines for working wit
 **参考网页 (Reference Websites)：**
 
 American Psychological Association（美国心理学会）
-
+<!-- tcd_original_link https://www.163.com/dy/article/GA8PMT3D0542A4MJ.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

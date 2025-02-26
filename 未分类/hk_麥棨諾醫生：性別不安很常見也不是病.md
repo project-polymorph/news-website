@@ -36,7 +36,7 @@ Yahoo新聞
 
 ## 註解 { data-search-exclude }
 本篇文章不涉及醫學診斷，僅為提供對性別不安的理解。
-
+<!-- tcd_original_link https://hk.news.yahoo.com/%E9%BA%A5%E6%A3%A8%E8%AB%BE%E9%86%AB%E7%94%9F-%E6%80%A7%E5%88%A5%E4%B8%8D%E5%AE%89-%E5%BE%88%E5%B8%B8%E8%A6%8B-%E4%B9%9F%E4%B8%8D%E6%98%AF%E7%97%85-044141869.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

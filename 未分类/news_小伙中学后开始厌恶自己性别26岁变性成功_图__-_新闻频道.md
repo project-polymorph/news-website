@@ -52,7 +52,7 @@
 - [变性手术](http://search.cntv.cn/netall/index.shtml?qtext=变性手术)
 - [易性癖](http://search.cntv.cn/netall/index.shtml?qtext=易性癖)
 - [性别](http://search.cntv.cn/netall/index.shtml?qtext=性别)
-
+<!-- tcd_original_link http://news.cntv.cn/society/20110505/102460.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

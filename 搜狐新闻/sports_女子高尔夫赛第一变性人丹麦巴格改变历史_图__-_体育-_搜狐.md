@@ -20,7 +20,7 @@
 标签: 跨性别体育, 高尔夫, 历史  
 作者: 不详  
 编辑: 不详  
-
+<!-- tcd_original_link https://sports.sohu.com/20041104/n222846667.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

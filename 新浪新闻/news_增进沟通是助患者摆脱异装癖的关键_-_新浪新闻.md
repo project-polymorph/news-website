@@ -48,7 +48,7 @@
 
 版权 © 1996-2007 SINA Corporation, All Rights Reserved  
 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link https://news.sina.com.cn/h/2007-08-16/102613676764.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

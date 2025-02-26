@@ -28,7 +28,7 @@
 **互联网新闻信息服务许可证**： 1512006001  
 **信息网络传播视听节目许可证**： 0507213  
 **蒙ICP证**： 09003619号  
-
+<!-- tcd_original_link https://inews.nmgnews.com.cn/system/2010/02/22/010385898_02.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

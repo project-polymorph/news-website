@@ -49,8 +49,7 @@
 - 09-03-04·[细数奥运史上五大变性人 百米女飞人曾入名人堂](https://sports.sohu.com/20090304/n262603252.shtml)
 
 ### 版权 © 2018 Sohu.com Inc. All Rights Reserved.
-
-
+<!-- tcd_original_link https://sports.sohu.com/20090709/n265095018.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

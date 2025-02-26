@@ -28,7 +28,7 @@ HHS的官员希望对1972年颁布的《教育法修正案第九条》(Title IX)
 来源：《纽约时报》  
 发布时间：当地时间21日  
 标签：跨性别、政策、特朗普、奥巴马
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_2551284?from=sohu -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

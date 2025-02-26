@@ -46,7 +46,7 @@
 - [意大利男演员变性 能唱男中音女高音](http://space.tv.cctv.com/video/VIDE1266884004166883) (2010-2-23)
 - [利菁被曝光变性真相 引来负面观感](http://space.tv.cctv.com/video/VIDE1265195577978164) (2010-2-3)
 - [特殊“基因开关”被发现 “变性”将无需手术](http://news.cctv.com/society/20091224/103083.shtml) (2009-12-24)
-
+<!-- tcd_original_link http://news.cctv.com/society/20100317/100709.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

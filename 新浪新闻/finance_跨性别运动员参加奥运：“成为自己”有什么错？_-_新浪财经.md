@@ -147,7 +147,7 @@ Pearce, R., Erikainen, S., & Vincent, B. (2020). TERF wars: An introduction. The
 WHO (2019). ICD-11: Classifying disease to map the way we live and die. https://www.who.int/news-room/spotlight/international-classification-of-diseases
 
 RNZ (2017, December 7). Laurel Hubbard: I have to block out the criticism. https://www.youtube.com/watch?v=7JYerPYsts
-
+<!-- tcd_original_link https://finance.sina.com.cn/wm/2021-08-04/doc-ikqciyzk9568178.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

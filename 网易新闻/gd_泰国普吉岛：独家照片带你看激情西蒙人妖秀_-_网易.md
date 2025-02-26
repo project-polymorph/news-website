@@ -139,7 +139,7 @@
 
 42. ![照片42](http://img4.cache.neteise.com/photo/0359/2015-08-05/B08CMI4NBTEC0359.jpg)  
     *注释: 华丽的衣着、热情的伴舞，仿佛就是一场热闹的巨星演唱会。*
-
+<!-- tcd_original_link http://gd.news.163.com/jm/photonew/BTEC0359/316.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

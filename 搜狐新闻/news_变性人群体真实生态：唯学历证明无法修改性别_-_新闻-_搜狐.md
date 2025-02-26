@@ -112,7 +112,7 @@
 (责任编辑：UN625)
 
 ---
-
+<!-- tcd_original_link https://news.sohu.com/20120620/n346142516.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

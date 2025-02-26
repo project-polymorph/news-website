@@ -51,7 +51,7 @@ Photo Credit: Shutterstock/ 達志影像
 - [口腔前庭入路](https://www.thenewslens.com/tag/198374)
 - [角狀軟骨](https://www.thenewslens.com/tag/198375)
 - [喉核](https://www.thenewslens.com/tag/198477)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/121305 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

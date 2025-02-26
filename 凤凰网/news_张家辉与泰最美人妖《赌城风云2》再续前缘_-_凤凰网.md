@@ -27,7 +27,7 @@ Poyd近日再于电影《赌城风云2》跟张家辉续前缘，不过日前Poy
 张家辉首次执导的《盂兰神功》在香港票房大好，他坦言感到鼓舞，本来只打算做一次导演就够，现在想再拍一部惊栗片。因《盂》进不了中国市场，为控制成本，张家辉不收导演费又减片酬，他希望下一部戏能让中国观众欣赏得到。
 
 标签: [片中](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%89%87%E4%B8%AD) [票房](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%A5%A8%E6%88%BF) [监制](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%9B%91%E5%88%B6)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20140730/41372580_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

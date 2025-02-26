@@ -86,7 +86,7 @@
 
 **评论**:  
 请各位遵纪守法并注意语言文明。
-
+<!-- tcd_original_link http://news.sohu.com/2004/06/11/60/news220486082.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

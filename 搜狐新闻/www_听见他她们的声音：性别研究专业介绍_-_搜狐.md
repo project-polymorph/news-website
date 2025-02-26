@@ -105,8 +105,7 @@
 
 **参考资料**: U.S. News、Global Scholarship、各大院校官网等  
 **图片源于网络，如侵删**  
-
-
+<!-- tcd_original_link https://www.sohu.com/a/657674988_107743 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

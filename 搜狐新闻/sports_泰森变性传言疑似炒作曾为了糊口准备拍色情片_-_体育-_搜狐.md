@@ -63,7 +63,7 @@
 - 12-12-08 · [美50岁男子变性征战女篮联赛 出场立刻引发轰动](https://sports.sohu.com/20121208/n359853323.shtml)
 
 版权 © 2018 Sohu.com Inc. All Rights Reserved. [搜狐公司 版权所有](https://corp.sohu.com/s2007/copyright/) [搜狐不良信息举报邮箱](mailto:jubao@contact.sohu.com)
-
+<!-- tcd_original_link https://sports.sohu.com/20121219/n360856132.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

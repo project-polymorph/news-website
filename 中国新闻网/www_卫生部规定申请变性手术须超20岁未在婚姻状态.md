@@ -71,7 +71,7 @@
 ## 相关新闻 { data-search-exclude }
 
 - [卫生部：医院开展变性手术等需要相关部门审批](http://www.chinanews.com.cn/jk/news/2009/06-12/1731035.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/jk/jk-zcdt/news/2009/11-21/1976834.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

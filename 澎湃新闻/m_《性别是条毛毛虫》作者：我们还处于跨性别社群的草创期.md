@@ -98,7 +98,7 @@
 我将会甘愿成为一个社群的成员，但前提是这个社群以这种永恒的变化作为自己的原则；成为一员意味着要遵守更多规矩，但是围绕性别而订立的任何规矩都让我心有不甘。
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/wifiKey_detail.jsp?contid=1287154&from=wifiKey -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

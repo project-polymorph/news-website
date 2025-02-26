@@ -34,7 +34,7 @@ Lakshmikanth T, Consiglio C, Sardh F, et al. Immune system adaptation during gen
 ![图2](https://inews.gtimg.com/news_bt/OyHv7m4jWR56BZ56mjqXZYLMsbhE5wxiTrYWsNMqCggd8AA/641)  
 
 免责声明：本内容来自腾讯平台创作者，不代表腾讯新闻或腾讯网的观点和立场。
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20240908A04EP500 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

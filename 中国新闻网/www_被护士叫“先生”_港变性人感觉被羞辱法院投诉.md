@@ -24,7 +24,7 @@
 
 标签：港澳新闻，社会百态，性别认同  
 **图片版权：** © 2013 中国新闻网 
-
+<!-- tcd_original_link https://www.chinanews.com.cn/ga/2013/04-19/4745230.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

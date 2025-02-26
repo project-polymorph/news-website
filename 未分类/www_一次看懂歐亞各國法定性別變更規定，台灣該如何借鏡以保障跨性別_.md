@@ -131,7 +131,7 @@
 - [self determination](https://www.thenewslens.com/tag/273000)
 - [LGR](https://www.thenewslens.com/tag/273001)
 - [法定性別承認](https://www.thenewslens.com/tag/273002)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/170110 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -37,7 +37,7 @@
 ![阉人的故事](http://dingyue.ws.126.net/2024/0826/808c1afdg00sitttg005nd000hs005sm.gif)
 
 随着时间的推移，这些阉人逐渐融入了泰国的社会和文化之中。他们开始在泰国的宫廷、寺庙和娱乐场所中出现，以其女性化的外表和独特的才艺，吸引了人们的目光。随着时间的推移，这一传统逐渐演变成了今天我们所看到的泰国人妖现象。
-
+<!-- tcd_original_link https://www.163.com/dy/article/JAI16UHU05566Y5P.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

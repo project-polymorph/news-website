@@ -87,7 +87,7 @@
 她说，在三亚所做的那次失败的隆胸术对她的人身和财产损失都很大，宏宏说将依法讨回公道。
 
 ![comment](https://images/postcomment.svg)
-
+<!-- tcd_original_link https://www.wenxuecity.com/news/2006/04/07/socialnews-11894.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

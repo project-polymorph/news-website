@@ -58,7 +58,7 @@
 版权 © 2016 Sohu.com Inc. All Rights Reserved.  
 搜狐公司 [版权所有](https://corp.sohu.com/s2007/copyright/)  
 搜狐不良信息举报邮箱：[jubao@contact.sohu.com](mailto:jubao@contact.sohu.com)
-
+<!-- tcd_original_link https://sports.sohu.com/20071112/n253188153.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

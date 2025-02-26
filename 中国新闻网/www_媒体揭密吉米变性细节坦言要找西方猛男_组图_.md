@@ -47,7 +47,7 @@
 - [造型师吉米解密女星化妆术：韩红是最难包装的](http://www.chinanews.com.cn/yl/mxzz/news/2006/09-18/791704.shtml) 
 
 本网站所刊载信息，不代表中新社观点。 
-
+<!-- tcd_original_link http://www.chinanews.com.cn/yl/zyxw/news/2007/03-29/903165.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

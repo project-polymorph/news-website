@@ -56,7 +56,7 @@ MJ Rodriguez 得知获奖消息后在个人 Instagram 帐户上写道：“这�
 **标签**: 跨性别, 金球奖, Michaela Jaé Rodriguez, Pose, LGBTQAI
 
 **版权说明**: 本文转载自咕噜美国通，所有版权归原作者所有。
-
+<!-- tcd_original_link https://www.guruin.com/news/46962 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

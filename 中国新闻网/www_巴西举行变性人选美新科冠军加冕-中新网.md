@@ -25,7 +25,7 @@
 - 巴西
 
 **版权**：内容来源于中新网。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2013/10-22/257166.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -69,7 +69,7 @@ J.K·罗琳又一次遭到了跨性别权利活动人士的抨击，这次是因
 在她近3700字的文章中，罗琳解释了她自己的经历如何影响了她的观点，透露她是一个家庭暴力和性侵犯的幸存者。
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/kuaibao_detail.jsp?contid=9199799&from=kuaibao -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

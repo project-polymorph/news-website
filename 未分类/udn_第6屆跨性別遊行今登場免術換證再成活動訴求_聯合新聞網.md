@@ -23,7 +23,7 @@
 現場活動主辦方也指出，過去幾屆跨性別遊行的集合地點皆設於西門町紅樓廣場，但隨著參與人數逐年大幅增加，2023年跨性別遊行已達5000人。為了讓更多參與者能夠順利參與活動，今年跨性別遊行將於二二八和平公園集合，初估本次遊行人數超過千人。
 
 **標籤**: [同志](https://udn.com/search/tagging/2/同志) [手術](https://udn.com/search/tagging/2/手術) [跨性別](https://udn.com/search/tagging/2/跨性別) [門檻](https://udn.com/search/tagging/2/門檻)
-
+<!-- tcd_original_link https://udn.com/news/story/7266/8316755 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

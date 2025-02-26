@@ -69,7 +69,7 @@
 
 ## 版权 { data-search-exclude }
 © 2018 Human Rights Watch. 版权所有。如欲转载以上内容，须遵守相关版权规定。
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2018/10/10/323286 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

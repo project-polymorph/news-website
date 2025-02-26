@@ -48,7 +48,7 @@
 ![](http://www.hinews.cn/news/images/d_xux.jpg)
 
 责任编辑：甘晨卉
-
+<!-- tcd_original_link http://www.hinews.cn/news/system/2006/12/12/010057128.shtml?WSKY=22abc?jump -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

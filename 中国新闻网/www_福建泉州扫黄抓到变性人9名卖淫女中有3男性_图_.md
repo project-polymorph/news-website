@@ -57,7 +57,7 @@
 
 【版权声明】  
 内容仅代表作者个人观点，不代表本网站立场。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/fz/2012/01-12/3599378.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

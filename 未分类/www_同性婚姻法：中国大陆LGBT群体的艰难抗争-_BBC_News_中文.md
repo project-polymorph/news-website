@@ -185,7 +185,7 @@ Play video, "台湾同志伴侣领证首日 “家人送上心酸祝福”", 节
 8. [中国推出10万亿天量化债计划 寄望拯救地方政府及拉动需求](https://www.bbc.com/zhongwen/articles/c937dx331r2o/simp)
 9. [特朗普强势回归： 为什么有香港支持者“脱粉”或转为“低调”关注？](https://www.bbc.com/zhongwen/articles/clyvllv6y61o/simp)
 10. [美国爱泼斯坦性侵案：解密文件披露百多名政商名人](/zhongwen/simp/world-67890505)
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-48392311 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

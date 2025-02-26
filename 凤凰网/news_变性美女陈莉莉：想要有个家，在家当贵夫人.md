@@ -35,7 +35,7 @@
 据陈莉莉说，中国有好几千名变性人，他们有专门的QQ群联络交流。
 
 实习生 付陈陈 摄影报道（发自中山）
-
+<!-- tcd_original_link https://news.ifeng.com/c/7fcJ447ZOGi -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

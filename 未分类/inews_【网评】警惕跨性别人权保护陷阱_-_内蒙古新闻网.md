@@ -42,7 +42,7 @@
 3. 如因作品内容、版权和其它问题需要同本网联系的，请在30日内进行。
 
 联系方式：0471-6659743、6659744。
-
+<!-- tcd_original_link https://inews.nmgnews.com.cn/system/2016/05/17/011987468.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -90,7 +90,7 @@
 **新浪网友**  
 说实话这个阴茎大了些。避孕套也才33mm的直径啊。  
 2005-09-12
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-07-20/detail-ikkntiam4142891.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -49,7 +49,7 @@ sxwxlingling：#提问人妖皇后#听说变性后，好多人的寿命不长，
 ![二维码](https://s1.rr.itc.cn/qrcode/m/n/379807058.png)
 
 (责任编辑：UN628)
-
+<!-- tcd_original_link https://news.sohu.com/20130625/n379807058.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

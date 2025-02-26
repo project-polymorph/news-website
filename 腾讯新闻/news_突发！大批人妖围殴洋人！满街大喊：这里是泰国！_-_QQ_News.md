@@ -106,7 +106,7 @@
 ---
 
 请遵守[《新闻评论服务协议》](https://new.qq.com/static/coralinfo.htm)
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20240506A01C2W00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

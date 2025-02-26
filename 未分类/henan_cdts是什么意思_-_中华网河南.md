@@ -16,7 +16,7 @@ ts：tra‌​‌‌​‌‌‌​​​‌‌​​‌​‌ns sexual，即通
 现世界上大多都是男性变成女性，就像伪娘、人妖都属于cdts。
 
 责任编辑：郭志萍
-
+<!-- tcd_original_link https://henan.china.com/m/news/yaowen/2022/1216/2530331102.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

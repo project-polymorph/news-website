@@ -28,7 +28,7 @@
 ![广告](http://www.chinanews.com.cn/fileftp/2004-06-04/_1086312404_a.gif) 
 
 本网站所刊载信息，不代表中新社观点。 刊用本网站稿件，务经书面授权。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/news/2004year/2004-06-29/26/453734.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

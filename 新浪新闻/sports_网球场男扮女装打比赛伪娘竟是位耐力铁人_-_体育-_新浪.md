@@ -35,7 +35,7 @@
 
 **注：**  
 该文本包括所有重要信息与评论，保留了原文中的所有引用与链接。
-
+<!-- tcd_original_link https://sports.sina.cn/sa/2011-01-09/detail-ikftpnny8024462.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

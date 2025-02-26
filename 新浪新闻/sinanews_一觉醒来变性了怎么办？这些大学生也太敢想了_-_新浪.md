@@ -18,7 +18,7 @@
 **热点资讯 精彩视频抢先看 5.0分好评**  
 **免费 / 绿色应用 / 优质**  
 **安装**
-
+<!-- tcd_original_link http://sinanews.sina.cn/wb-audit/video/2017-10-30/detail-ifynfrfn0490007.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -28,7 +28,7 @@
 标签：[变性美女](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%98%E6%80%A7%E7%BE%8E%E5%A5%B3) [变性手术](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF) [1980年](http://search.ifeng.com/sofeng/search.action?c=1&q=1980%E5%B9%B4)
 
 ![二维码分享](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link http://sd.ifeng.com/zbc/detail_2014_07/23/2638170_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

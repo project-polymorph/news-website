@@ -22,7 +22,7 @@ Erika Ishii作為LGBT群體的代表人物，公開承認自己是泛性戀者�
 ---
 
 版权 © GameApps.HK 香港手機遊戲網 2013-2024
-
+<!-- tcd_original_link https://www.gameapps.hk/news/62296/Ghost-of-Yotei -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -86,7 +86,7 @@ Ani變身闊太勁興奮。
 ![短暫夫妻最後攤牌，Ani終於夢醒。](https://image.hkhl.hk/f/1024p0/0x0/lr/sthl/94e0c9400845beedcef1b1ad81fc4ec9/2024-11/4224_d001_16907r.jpg)
 
 短暫夫妻最後攤牌，Ani終於夢醒。
-
+<!-- tcd_original_link https://www.singtao.ca/6919838/2024-10-31/news-%E3%80%8A%E9%98%BF%E8%AB%BE%E6%8B%89%E3%80%8B%E6%88%90%E7%8F%AD%E9%83%BD%E7%99%B2%E3%97%8E%E4%B8%A8%E9%A0%AD%E6%A2%9D%E6%88%B2%E5%A0%B4/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

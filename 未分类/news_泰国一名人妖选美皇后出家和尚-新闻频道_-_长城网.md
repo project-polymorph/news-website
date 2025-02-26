@@ -23,7 +23,7 @@
 ---
 
 版权所有  [长城网](https://www.hebei.com.cn/)  互联网新闻信息服务许可证编号  13120170001号  [冀ICP备10001396号-1](https://beian.miit.gov.cn/)
-
+<!-- tcd_original_link http://news.hebei.com.cn/system/2013/05/14/012768892.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

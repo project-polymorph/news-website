@@ -24,7 +24,7 @@
 ![习近平活动报道集](https://img.rednet.cn/2019/02-19/1550543265037-ebtqts08gnnjp.jpg)
 
 ![2024全国两会](https://img.rednet.cn/2024/03-23/1711181397107-1ij6w6sxsqb56.png)
-
+<!-- tcd_original_link https://news.rednet.cn/c/2013/08/08/3106129.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

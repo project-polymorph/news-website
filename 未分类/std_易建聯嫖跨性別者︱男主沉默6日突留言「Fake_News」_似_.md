@@ -34,7 +34,7 @@
 
 ### 版权信息
 Copyright 2024 Sing Tao Ltd. All rights reserved.
-
+<!-- tcd_original_link https://std.stheadline.com/realtime/article/2030790/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E6%98%93%E5%BB%BA%E8%81%AF%E5%AB%96%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85-%EF%B8%B1%E7%94%B7%E4%B8%BB%E6%B2%89%E9%BB%986%E6%97%A5%E7%AA%81%E7%95%99%E8%A8%80-Fake-News-%E4%BC%BC%E5%8F%8D%E6%93%8A%E9%86%9C%E8%81%9E -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

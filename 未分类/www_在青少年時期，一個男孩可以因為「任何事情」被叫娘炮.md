@@ -103,7 +103,7 @@
 - [田野研究](https://www.thenewslens.com/tag/148253)
 - [你這個娘炮](https://www.thenewslens.com/tag/218140)
 - [C. J. Pascoe](https://www.thenewslens.com/tag/218141)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/136534 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

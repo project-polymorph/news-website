@@ -39,7 +39,7 @@
 - 本站所有信息均来自网友上传，如有侵权请联系处理。
 
 Copyright © 2018-2023 探妙医点网 All Rights Reserved. [京ICP备2024071854号-1](http://beian.miit.gov.cn/)
-
+<!-- tcd_original_link http://news.zgjsyw.com/zhishi/87405.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

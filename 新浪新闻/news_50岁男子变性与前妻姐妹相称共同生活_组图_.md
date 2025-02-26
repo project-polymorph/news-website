@@ -197,7 +197,7 @@
 **新浪网友0** 3  
 **最好不要宣传，“自然”乃上帝造物，现在变性人越来越多，社会的悲哀！！！**  
 **2007-06-27**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2007-06-27/detail-ikftssap2904546.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

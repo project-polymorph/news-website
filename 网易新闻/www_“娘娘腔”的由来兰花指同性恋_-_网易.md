@@ -43,7 +43,7 @@
 
 **作者**: 铁剑帮帮主  
 **标签**: 娘娘腔, 娘炮, 同性恋, 兰花指, 谈恋爱
-
+<!-- tcd_original_link https://www.163.com/dy/article/HLBCOOM405439PVE.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

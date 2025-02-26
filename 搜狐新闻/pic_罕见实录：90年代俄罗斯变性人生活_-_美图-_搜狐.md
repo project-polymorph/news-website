@@ -34,7 +34,7 @@
 --- 
 
 Copyright © 2014 Sohu.com Inc. All Rights Reserved. [版权所有](http://corp.sohu.com/s2007/copyright/) 
-
+<!-- tcd_original_link http://pic.travel.sohu.com/group-404346.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

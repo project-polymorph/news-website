@@ -131,7 +131,7 @@ Play video, "“我把专业做到顶尖 就是在替这个群体发声了”", 
     ### [英媒：金星的故事反映中国社会变化](/zhongwen/simp/press-review-38932824)
     
     2017年2月10日
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-42149172 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

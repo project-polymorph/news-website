@@ -37,7 +37,7 @@
 **标签**：[苏比克湾](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%8B%8F%E6%AF%94%E5%85%8B%E6%B9%BE) [美军](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%BE%8E%E5%86%9B) [演习](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%BC%94%E4%B9%A0) 
 
 ![相关图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20141103/42367058_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

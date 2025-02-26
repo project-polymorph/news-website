@@ -46,7 +46,7 @@
 评论 0文明上网理性发言，请遵守[《新闻评论服务协议》](https://new.qq.com/static/coralinfo.htm)
 
 ![另一个重要图片](http://inews.gtimg.com/newsapp_ls/0/12597139796/0)
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20230808A028BV00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

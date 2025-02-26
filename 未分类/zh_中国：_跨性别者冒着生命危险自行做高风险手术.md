@@ -73,7 +73,7 @@
 ## 《我需要家长同意才能做我自己——中国跨性别者寻求性别确认医疗程序时遇到的障碍》 { data-search-exclude }
 
 [下载报告](https://www.amnesty.org/download/Documents/ASA1702692019CHINESE.PDF)
-
+<!-- tcd_original_link https://zh.amnesty.org/content-type/more-resources/news/china-transgender-research-report/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

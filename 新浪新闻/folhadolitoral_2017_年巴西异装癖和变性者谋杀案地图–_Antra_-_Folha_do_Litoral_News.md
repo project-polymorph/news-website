@@ -38,7 +38,7 @@ Antra的数据显示，2017年全国共发生179起谋杀案
 - [Instagram](https://www.instagram.com/folhadolitoralnews)
 - [YouTube](https://www.youtube.com/@FolhadoLitoralNews)
 - [LinkedIn](https://www.linkedin.com/company/folha-do-litoral-news/)
-
+<!-- tcd_original_link https://folhadolitoral.com.br/zh-CN/coluna-do-guru/mapa-dos-assassinatos-de-travestis-e-transexuais-brasileiras-em-2017-antra -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

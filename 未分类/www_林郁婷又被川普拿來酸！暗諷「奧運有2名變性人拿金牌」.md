@@ -24,7 +24,7 @@
 ---
 
 版权 © 2024 NOWnews 今日新聞。
-
+<!-- tcd_original_link https://www.nownews.com/news/6560435?srsltid=AfmBOorBp1MfmmRMlABY8mYsc_2pk0dndHMlDu3h99I3K4nR95HNOGiY -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -37,7 +37,7 @@
 - [利菁动手术切除脑瘤 带80个护身符进手术室(图)](http://www.chinanews.com.cn/yl/zyxw/news/2008/02-01/1153666.shtml)
 - [变性艺人利菁切除脑瘤手术顺利 老公全程陪同](http://www.chinanews.com.cn/yl/zyxw/news/2008/02-01/1153299.shtml)
 - [台湾变性主持人利菁后天除脑瘤 住院当补眠(图)](http://www.chinanews.com.cn/yl/zyxw/news/2008/01-30/1150653.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/yl/zyxw/news/2008/06-06/1274289.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

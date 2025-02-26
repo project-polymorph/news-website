@@ -10,7 +10,7 @@
 ![图片](https://media.bjnews.com.cn/column/2023/08/01/5350567207040526842.jpg)
 
 新京报报料邮箱：67106710@bjnews.com.cn
-
+<!-- tcd_original_link https://m.bjnews.com.cn/detail/155868211414374.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

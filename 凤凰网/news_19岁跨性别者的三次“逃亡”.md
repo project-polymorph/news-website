@@ -41,7 +41,7 @@
 内容的版权归凤凰网所有。
 
 如需进一步了解，您可以访问 [凤凰网视频](http://v.ifeng.com/#_v_mininav_logo_pc)。
-
+<!-- tcd_original_link https://news.ifeng.com/c/7xjTkFyStMG -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

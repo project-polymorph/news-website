@@ -40,7 +40,7 @@
 [立即转发](https://cmnt.sina.cn/index?product=comos&index=kknscsi6059896&tj_ch=news&is_clear=0)
 
 [评论图标]
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-03-11/detail-ikknscsi6059896.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

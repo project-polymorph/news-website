@@ -234,7 +234,7 @@ MECT是指在使用静脉麻醉药和肌松剂使患者意识消失后，以一�
 **责任编辑**：彭玮  
 **图片编辑**：蒋立冬  
 **校对**：刘威  
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_28830401 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

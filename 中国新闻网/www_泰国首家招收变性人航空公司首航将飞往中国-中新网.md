@@ -25,7 +25,7 @@
 **来源：** 中新网  
 **标签：** 跨性别, 航空  
 **评论链接：** [我要评论](http://comment.chinanews.com/comments/comments.php?newsid=3685962) | [查看评论(0)](http://comment.chinanews.com/comments/comments.php?newsid=3685962)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2012/02-21/88689.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

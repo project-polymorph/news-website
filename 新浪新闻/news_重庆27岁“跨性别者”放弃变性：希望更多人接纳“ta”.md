@@ -14,7 +14,7 @@
 近日，重庆。27岁“跨性别者”罗姐以女性身份生活9年。罗姐认为一个人的性别不是从外在器官去评判，故放弃变性手术，称希望更多人接纳她的个性。
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sh/2020-10-14/detail-iiznctkc5489833.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -36,7 +36,7 @@ GID学会理事长、冈山大学妇产科教授中冢干也表示：“对于�
 ![image](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
 
 **版权声明**：凤凰新媒体版权所有 Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link http://sd.ifeng.com/zbc/detail_2014_04/02/2074162_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -30,7 +30,7 @@
 - 播放量：16万次
 - 评论数：130条
 - 标签：#跨性别 #泰国选美 #新闻 #社会话题
-
+<!-- tcd_original_link https://www.facebook.com/sinausnews/videos/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%94%9F%E5%A8%B6%E6%B3%B0%E5%9B%BD%E5%8F%98%E6%80%A7%E4%BA%BA%E5%A6%96%E6%9B%BE%E8%8E%B7%E5%BE%97%E6%B3%B0%E5%9B%BD%E9%80%89%E7%BE%8E%E5%86%A0%E5%86%9B/405717926665953/?locale=zh_CN -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

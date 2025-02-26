@@ -67,7 +67,7 @@
 ---
 
 **编辑：** 张尚初
-
+<!-- tcd_original_link https://www.chinanews.com/fz/2011/06-14/3109803.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

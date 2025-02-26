@@ -100,7 +100,7 @@
 ![生活中的河莉秀](https://img.mp.itc.cn/upload/20170612/f992f5f0554e4a0c870491555b07812e_th.jpg)
 
 喜欢深度解读时尚、美国生活的，请关注微信公众号 "仟与仟寻” ID：millionchoi（长按复制），微博：蔡百万
-
+<!-- tcd_original_link https://fashion.sohu.com/20170612/n496689748.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

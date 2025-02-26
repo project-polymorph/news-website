@@ -68,7 +68,7 @@
 欢迎发表评论: [点击这里](http://comment4.news.sina.com.cn/comment/comment4.html?channel=shc&newsid=1081-2-22671&face=simple)  
 
 **版权:** Copyright © 1996-2011 SINA Corporation, All Rights Reserved 新浪公司版权所有
-
+<!-- tcd_original_link http://collection.sina.com.cn/cqty/20110409/100422671.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

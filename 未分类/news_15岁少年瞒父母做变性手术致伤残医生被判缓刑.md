@@ -46,7 +46,7 @@
 中国青年网版权所有
 
 ---
-
+<!-- tcd_original_link http://news.youth.cn/sh/201602/t20160204_7607849.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

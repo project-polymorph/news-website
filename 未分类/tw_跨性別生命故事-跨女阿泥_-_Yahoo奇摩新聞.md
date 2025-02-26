@@ -47,7 +47,7 @@
 - [跨性别者免术换证行不行 正反双方激辩](https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%85%8D%E8%A1%93%E6%8F%9B%E8%AD%89%E8%A1%8C%E4%B8%8D%E8%A1%8C-%E6%AD%A3%E5%8F%8D%E9%9B%99%E6%96%B9%E6%BF%80%E8%BE%AF-110202913.html)
 - [跨性别者「免术换证」申请者：竟因跨性别身份无法在银行开户](https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5-%E5%85%8D%E8%A1%93%E6%8F%9B%E8%AD%89-%E5%AE%87%E8%90%B1-%E8%BA%AB%E5%88%86%E8%AD%89-111553902.html)
 - [农历过年亲戚灵魂拷问 跨性别者怎么办？](https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5-%E5%85%8D%E8%A1%93%E6%8F%9B%E8%AD%89-%E9%81%8E%E5%B9%B4-112112300.html)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5%E7%94%9F%E5%91%BD%E6%95%85%E4%BA%8B-%E8%B7%A8%E5%A5%B3%E9%98%BF%E6%B3%A5-061618199.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

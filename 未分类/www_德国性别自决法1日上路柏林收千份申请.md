@@ -23,7 +23,7 @@
 **来源**：星洲网  
 **标签**：国际, 即时国际, 性别自决法, 跨性别  
 **图片版权**：Copyright © 2024 Sin Chew Media Corporation Berhad (198301003518). All rights reserved.
-
+<!-- tcd_original_link https://www.sinchew.com.my/news/20241029/international/6033053 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

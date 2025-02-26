@@ -52,7 +52,7 @@
 来源：联合国新闻
 
 [返回](https://news.un.org/zh/story/2021/06/1086792)
-
+<!-- tcd_original_link https://news.un.org/zh/story/2021/06/1086792 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

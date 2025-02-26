@@ -66,7 +66,7 @@ McClain说，语言是临床医生可以为性别膨胀的患者提供安全空�
 ![下载 (52 kB)](../_media/img-quote-molly-mcclain.jpg)
 
 视觉学分：UNM Health
-
+<!-- tcd_original_link https://zh-cn.hsc.unm.edu/news/2023/06/clinician-discusses-gender-affirming-health-care.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -20,8 +20,7 @@
 - [王陽明娘砲說惹議　性平協會發聲譴責](https://entertainment/2590391?from=life_extend) (2024-08-19 22:15:39)
 - [王陽明歧視言論被罵　怒懟酸民反擊](https://entertainment/2589752?from=life_extend) (2024-08-19 14:04:41)
 - [王陽明娘砲說挨轟　《角頭》製片鞠躬發聲](https://entertainment/2590533?from=life_extend) (2024-08-20 08:12:21)
-
-
+<!-- tcd_original_link https://news.tvbs.com.tw/life/2590936 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

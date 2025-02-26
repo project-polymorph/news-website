@@ -38,7 +38,7 @@
 --- 
 
 **版权信息**：本文版权归搜狐新闻所有。
-
+<!-- tcd_original_link http://news.sohu.com/20051020/n227261481.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

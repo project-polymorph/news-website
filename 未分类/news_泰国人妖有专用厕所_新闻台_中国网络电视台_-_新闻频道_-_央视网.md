@@ -36,7 +36,7 @@
 - [2009年](http://so.cntv.cn/search.php?qtext=2009年&sid=0000&pid=0000)
 - [坐便器](http://so.cntv.cn/search.php?qtext=坐便器&sid=0000&pid=0000)
 - [图像](http://so.cntv.cn/search.php?qtext=图像&sid=0000&pid=0000)
-
+<!-- tcd_original_link http://news.cntv.cn/20120413/102567.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

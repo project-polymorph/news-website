@@ -127,7 +127,7 @@
 ## 相关内容 { data-search-exclude }
 
 -   [Malaysia Mahkamah akan memutuskan Hak Golongan Transgender.pdf](/sites/default/files/related_material/Malaysia%20Mahkamah%20akan%20memutuskan%20Hak%20Golongan%20Transgender.pdf "Download Malaysia Mahkamah akan memutuskan Hak Golongan Transgender.pdf")
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2014/05/13/253826 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

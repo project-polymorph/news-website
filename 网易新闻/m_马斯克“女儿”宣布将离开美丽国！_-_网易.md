@@ -36,7 +36,7 @@
 川普你别看他表面没个正经，但教育理念和对 LGBT 的态度，和马斯克是一致的。
 
 万幸，大选落幕，川普赢了。马斯克笑了，最疼爱的小儿子走哪驼哪，至于大儿子么？已经不存在了。
-
+<!-- tcd_original_link https://m.163.com/dy/article_cambrian/JGR28QAM0556AHMA.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

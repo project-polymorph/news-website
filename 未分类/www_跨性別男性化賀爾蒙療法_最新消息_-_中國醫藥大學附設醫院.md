@@ -90,7 +90,7 @@ WPATH (World Professional Association for Transgender Health)建議接受賀爾�
 
 ![提乳手術停看聽](https://www.cmuh.cmu.edu.tw/FileUploads/News/18.jpg?w=250&h=180&mode=crop&scale=both)  
 [提乳手術停看聽](https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=7625)
-
+<!-- tcd_original_link https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6906 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

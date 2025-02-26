@@ -30,7 +30,7 @@
 **编辑：** 李淑国   
 **注：** 本网站所刊载信息，不代表中新社观点。  
 **版权：** 刊用本网站稿件，务经书面授权。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/news/2004year/2004-05-14/26/436551.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

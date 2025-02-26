@@ -36,7 +36,7 @@
 标签：[爸爸](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%88%B8%E7%88%B8) [佩里](http://search.ifeng.com/sofeng/search.action?c=1&q=%E4%BD%A9%E9%87%8C) [海伦](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B5%B7%E4%BC%A6)
 
 ![二维码分享](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20140724/41296302_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

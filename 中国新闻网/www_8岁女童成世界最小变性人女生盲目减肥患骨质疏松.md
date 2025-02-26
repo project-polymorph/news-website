@@ -24,7 +24,7 @@
 ![图片2](http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F972DT20090114134657.jpg)  
 
 ![广告](http://chinanews.wrating.com/a.gif?a=&c=860010-2180020100)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/life/news/2009/10-19/1917120.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

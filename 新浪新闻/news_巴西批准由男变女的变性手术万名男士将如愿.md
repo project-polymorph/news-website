@@ -30,7 +30,7 @@
 说说你的看法
 
 转发至微博
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-12-29/detail-ikknscsi2146402.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

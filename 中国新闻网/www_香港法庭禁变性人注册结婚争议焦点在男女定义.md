@@ -32,7 +32,7 @@
 - [香港变性人司法复核争婚权 称心底渴望当妈妈](http://www.chinanews.com.cn/ga/2010/08-10/2457683.shtml)
 
 ![图片](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F979DT20100423112440.jpg)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/ga/2010/10-05/2569625.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

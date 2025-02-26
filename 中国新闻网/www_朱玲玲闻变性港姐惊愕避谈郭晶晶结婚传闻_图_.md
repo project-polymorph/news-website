@@ -24,7 +24,7 @@
 - [霍启刚瘦身迎娶郭晶晶？朱玲玲不催婚添压力(图)](http://www.chinanews.com.cn/yl/yl-ypkb/news/2009/05-26/1707653.shtml)
 
 ![](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F979DT20100423112440.jpg)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/yl/yl-mxzz/news/2010/05-24/2300052.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

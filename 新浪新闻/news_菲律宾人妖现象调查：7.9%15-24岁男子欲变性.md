@@ -63,7 +63,7 @@ Violette Yolande理发厅位于离首都商业中心不远的街上，29岁的�
 (摘自《法律与生活》半月刊9月上半月期)
 
 ![评论](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2010-09-13/detail-ikftssap3361244.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

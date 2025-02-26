@@ -148,7 +148,7 @@ Thep Vechavisit医生
 “变性从来不是件轻松的事，即便在泰国它依然属于第三性别，更别说其他地区所面临的社会压力，我们在包容的同时还虚慎重看待。”
 
 Nathee Teerarojanapong这样解释。
-
+<!-- tcd_original_link http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

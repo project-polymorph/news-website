@@ -33,7 +33,7 @@
 - [DC漫画一个著名角色将变成同性恋了！](/news/yule/20519.html) 2012-05-23
 
 Copyright@ www.1314xt.com 2008-2022 心同网 All Rights Reserved
-
+<!-- tcd_original_link https://www.1314xt.com/news/yule/20220216/27711.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

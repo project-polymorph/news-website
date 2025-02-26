@@ -88,7 +88,7 @@ LGBT权益组织GLAAD表示，特朗普禁止变性人参军，是对所有属�
 
 #### 评论：
 [新浪新闻官方](https://cmnt.sina.cn/index?product=comos&index=fyinwmp0153868&tj_ch=news&is_clear=0)
-
+<!-- tcd_original_link https://news.sina.cn/2017-07-27/detail-ifyinwmp0153868.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

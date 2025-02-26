@@ -87,7 +87,7 @@
 **真为他男人难过！**
 
 **2014-09-10 新浪网友**
-
+<!-- tcd_original_link https://news.sina.cn/gj/2014-09-10/detail-ianfzhnh2918074.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

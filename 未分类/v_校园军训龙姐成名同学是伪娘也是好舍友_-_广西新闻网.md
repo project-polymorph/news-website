@@ -24,7 +24,7 @@
 ## 相关阅读 { data-search-exclude }
 
 -   [校园军训"龙姐"成名 同学:是"伪娘"也是"好舍友"](https://v.gxnews.com.cn/a/8511694 "校园军训\"龙姐\"成名 同学:是\"伪娘\"也是\"好舍友\"")
-
+<!-- tcd_original_link https://v.gxnews.com.cn/a/8511698?pageno=2 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -75,7 +75,7 @@
 **本版摄影：南都记者马强**  
 
 (责任编辑：UN624)
-
+<!-- tcd_original_link https://news.sohu.com/20120613/n345475592.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -66,7 +66,7 @@
 这段判决词也获得了一些网友的认可：我们也许不提倡变性，但我们包容并尊重变性。
 
 [图片]
-
+<!-- tcd_original_link https://news.sina.cn/sh/2020-07-05/detail-iircuyvk2129669.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

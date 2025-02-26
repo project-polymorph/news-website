@@ -41,7 +41,7 @@
 ![搜狐新闻](https://images.sohu.com/uiue/sohu_logo/2005/news_logo2.gif)
 
 ---
-
+<!-- tcd_original_link http://news.sohu.com/2004/04/29/68/news219996818.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

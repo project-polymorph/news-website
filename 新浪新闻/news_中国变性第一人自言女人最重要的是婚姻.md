@@ -35,7 +35,7 @@
 
 **作者**: 本报记者王路  
 **编辑**: 实习生田艳
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-06-05/detail-ikkntiak7411121.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

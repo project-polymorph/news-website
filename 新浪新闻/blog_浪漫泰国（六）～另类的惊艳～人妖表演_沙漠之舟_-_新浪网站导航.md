@@ -102,7 +102,7 @@
 ![浪漫泰国（六）～另类的惊艳～人妖表演](http://s7.sinaimg.cn/orignal/53b9c230h9e856509b7e6)
 
 ![浪漫泰国（六）～另类的惊艳～人妖表演](http://s11.sinaimg.cn/orignal/53b9c230h9e8566967b0a)
-
+<!-- tcd_original_link https://blog.sina.com.cn/s/blog_53b9c2300100qnwn.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

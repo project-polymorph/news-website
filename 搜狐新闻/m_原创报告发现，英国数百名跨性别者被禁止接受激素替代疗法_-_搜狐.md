@@ -44,7 +44,7 @@ TransActual在欢迎这一澄清的同时，要求“RCGP对其指导造成的�
 - 医疗
 - 英国
 - 激素替代疗法
-
+<!-- tcd_original_link https://m.sohu.com/a/819075498_527250 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

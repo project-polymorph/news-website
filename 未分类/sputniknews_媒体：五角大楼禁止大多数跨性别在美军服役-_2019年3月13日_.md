@@ -26,7 +26,7 @@
 **标签**：军事, 美国, 特朗普
 
 © 2024 Sputnik (卫星社) 所有权利均受保护
-
+<!-- tcd_original_link https://sputniknews.cn/20190313/1027907862.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

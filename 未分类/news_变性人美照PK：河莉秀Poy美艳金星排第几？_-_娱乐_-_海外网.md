@@ -28,7 +28,7 @@
 ---
 
 **标签**: 跨性别, 娱乐, 变性人美女
-
+<!-- tcd_original_link http://news.haiwainet.cn/n/2016/0606/c3541091-29984153-13.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

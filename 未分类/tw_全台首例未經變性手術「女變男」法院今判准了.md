@@ -32,7 +32,7 @@
 - [投資還能做善事當幌子 三芝退休獨居婦誤信詐團遭騙黃金10公斤](https://www.setn.com/News.aspx?NewsID=1476726&from=y)  
 - [修車工慘了！低頭撿保溫瓶 釀客戶賓士失控擦撞路邊車慘變「烏龜翻」](https://www.setn.com/News.aspx?NewsID=1476469&from=y)  
 - [約債主家中喬1萬元債 債主未到新北男竟離奇從4樓摔落](https://www.setn.com/News.aspx?NewsID=1476428&from=y)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E9%A6%96%E4%BE%8B-%E6%9C%AA%E7%B6%93%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93-%E5%A5%B3%E8%AE%8A%E7%94%B7-%E6%B3%95%E9%99%A2%E4%BB%8A%E5%88%A4%E5%87%86%E4%BA%86-073507600.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

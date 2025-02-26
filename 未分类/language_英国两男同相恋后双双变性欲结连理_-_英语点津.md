@@ -91,7 +91,7 @@ Parma added: "My fiance has always wanted a special occasion and we are really h
 ---
 
 中国日报网英语点津版权说明：凡注明来源为“中国日报网英语点津：XXX（署名）”的原创作品，除与中国日报网签署英语点津内容授权协议的网站外，其他任何网站或单位未经允许不得非法盗链、转载和使用，违者必究。如需使用，请与010-84883631联系；凡本网注明“来源：XXX（非英语点津）”的作品均转载自其它媒体，目的在于传播更多信息，其他媒体如需转载，请与稿件来源方联系，如产生任何问题与本网无关；本网所发布的歌曲、电影片段，版权归原作者所有，仅供学习与研究，如果侵权，请提供版权证明，以便尽快删除。
-
+<!-- tcd_original_link https://language.chinadaily.com.cn/news/2015-01/12/content_19293903.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

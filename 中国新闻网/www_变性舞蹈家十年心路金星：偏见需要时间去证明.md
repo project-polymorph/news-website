@@ -83,7 +83,7 @@
 **参考资料**：  
 - [舞蹈里的性别倒错：金星将自己大而化之](http://www.chinanews.com.cn/cul/news/2009/12-28/2042822.shtml)  
 - [舞蹈演员金星借贷纠纷二审开庭 双方暂接受调解](http://www.chinanews.com.cn/yl/news/2009/10-14/1910982.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/cul/news/2010/01-14/2070895.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

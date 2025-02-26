@@ -31,7 +31,7 @@
 
 ## 版權 { data-search-exclude }
 © 2023 Human Rights Watch. All rights reserved.
-
+<!-- tcd_original_link https://www.hrw.org/zh-hant/news/2023/02/13/hong-kong-court-rejects-compulsory-surgery-trans-men -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

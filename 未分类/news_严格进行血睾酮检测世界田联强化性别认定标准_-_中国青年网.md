@@ -31,7 +31,7 @@
 ![捡到4年前漂流瓶](https://t.m.youth.cn/magicimg/news.youth.cn/bx/tsgzn/202308/W020230830565776936704.png?resize=w_140,h_88)  
 ![辞职带娃周游世界](https://t.m.youth.cn/magicimg/news.youth.cn/bx/tsgzn/202308/W020230823542141176732.png?resize=w_140,h_88)  
 ![四居室租给40人](https://t.m.youth.cn/magicimg/news.youth.cn/bx/tsgzn/202308/W020230823541698756844.jpg?resize=w_140,h_88)  
-
+<!-- tcd_original_link https://news.youth.cn/zc/202308/t20230818_14726802.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

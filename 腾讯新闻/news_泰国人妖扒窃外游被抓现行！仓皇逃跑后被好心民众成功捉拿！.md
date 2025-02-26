@@ -39,7 +39,7 @@
 ---
 
 **版权**: 本文仅用于信息分享，版权归原作者所有。
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20241031A077O400 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

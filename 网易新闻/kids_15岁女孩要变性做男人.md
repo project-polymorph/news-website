@@ -25,7 +25,7 @@
 ![心理小屋](http://img5.cache.netease.com/edu/2014/11/11/201411111519057ee23.png)
 
 （正文内容未提供）
-
+<!-- tcd_original_link http://kids.163.com/special/xlxw_090/?_pc=1 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

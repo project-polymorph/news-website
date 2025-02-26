@@ -51,7 +51,7 @@
 ![《酷兒日誌》劇照（大會攝影師 Mac 提供）](https://s.yimg.com/ny/api/res/1.2/3Ng5R99GBif82RYObyN87A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2024-05/5c2c1b70-1929-11ef-bb3e-87c2af96c449)
 
 ![《酷兒日誌》劇照（大會攝影師 Mac 提供）](https://s.yimg.com/ny/api/res/1.2/z7H4LwJawQZA8FKHAnEwOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2024-05/50c4aa10-1929-11ef-bf4b-d88c11b2f593)
-
+<!-- tcd_original_link https://hk.news.yahoo.com/%E8%88%9E%E5%8F%B0%E5%8A%87%E3%80%8A%E9%85%B7%E5%85%92%E6%97%A5%E8%AA%8C%E3%80%8B%E4%B8%80%E9%80%A3%E4%B8%89%E6%97%A5%E4%B8%8A%E6%BC%94-%E6%8E%A2%E8%A8%8E%E8%B7%A8%E6%80%A7%E5%88%A5%E3%80%81%E7%84%A1%E6%80%A7%E6%88%80%E3%80%81%E5%90%8C%E6%80%A7%E5%BF%98%E5%B9%B4%E6%88%80%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B%EF%BD%9Cyahoo-173642992.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

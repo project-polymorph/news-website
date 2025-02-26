@@ -32,7 +32,7 @@
 - [泰国小胖墩变性成辣妹 网友惊呆了](https://news.sdnews.com.cn/gj/201409/t20140904_1720107.html) 2014-09-04
 
 **版权声明：** Copyright © 1997-2019 SDNews.com.cn All Rights Reserved.
-
+<!-- tcd_original_link http://news.sdnews.com.cn/gj/201211/t20121110_1001199.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -168,7 +168,7 @@
 ---
 
 文章为每日人物原创，尊重原创，侵权必究。
-
+<!-- tcd_original_link http://inews.ifeng.com/51543546/news.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

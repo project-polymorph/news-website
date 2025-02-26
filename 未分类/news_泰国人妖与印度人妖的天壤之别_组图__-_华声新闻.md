@@ -16,7 +16,7 @@
 ---
 
 **版权声明**: 版权所有：华声在线股份有限公司 未经授权禁止复制或建立镜像
-
+<!-- tcd_original_link http://news.voc.com.cn/article/201512/201512230922568976.html?mobile -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

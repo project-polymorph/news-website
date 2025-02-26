@@ -108,7 +108,7 @@ Thep Vechavisit医生和他的手术室合影
 **原标题**: 世界上有那么多人妖，为什么你只看到泰国有？
 
 获取更多有趣又有料的内容，欢迎下载凤凰新闻客户端，订阅“青年”；欢迎扫描二维码关注官方微信公众平台：“青年制氧机”（ID：qingnianzhiyangji)
-
+<!-- tcd_original_link http://itech.ifeng.com/44509536/news.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

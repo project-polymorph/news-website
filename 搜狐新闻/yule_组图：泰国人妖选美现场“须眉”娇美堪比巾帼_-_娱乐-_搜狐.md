@@ -35,7 +35,7 @@
 ---
 
 **版权声明**：Copyright © 2016 Sohu.com Inc. All Rights Reserved. [搜狐公司版权所有](https://corp.sohu.com/s2007/copyright/)
-
+<!-- tcd_original_link https://yule.sohu.com/20070914/n252146238_12.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

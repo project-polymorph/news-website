@@ -62,7 +62,7 @@
 下载到桌面，观看更方便！
 
 [![](https://www.cctv.com/nettv/newCMS/endPage/end_files/ghs.png)京公网安备 11000002000018号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000018)
-
+<!-- tcd_original_link http://news.cctv.com/2016/05/02/ARTINmz5ZYihLNM9WjYmT9iF160502.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

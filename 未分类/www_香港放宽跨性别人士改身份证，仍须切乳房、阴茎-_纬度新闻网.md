@@ -32,7 +32,7 @@
 ## [绍伊古与王毅举行中俄战略安全磋商](https://www.weidunews.com/article/2024-11-12/18501.html) { data-search-exclude }
 
 周二（11月12日），中共中央政治局委员、中央外办主任王毅在北京同俄罗斯联邦安全会议秘书绍伊古共同主持中俄第十九轮战略安全磋商，就共同关心的重大战略安全问题全面深入交换意见。
-
+<!-- tcd_original_link https://www.weidunews.com/article/2024-04-03/3692.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

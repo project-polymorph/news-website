@@ -29,7 +29,7 @@
 ---
 
 【 编辑：郑柳芩 】
-
+<!-- tcd_original_link http://news.gxnews.com.cn/staticpages/20091230/newgx4b3a88a3-2545476-1.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

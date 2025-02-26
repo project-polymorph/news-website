@@ -117,7 +117,7 @@
 - [生活休閒](https://www.peopo.org/list/post/8/35141/all)  
 - [社會關懷](https://www.peopo.org/list/post/2/35141/all)  
 - [媒體觀察](https://www.peopo.org/list/post/9/35141/all)  
-
+<!-- tcd_original_link https://www.peopo.org/news/703135 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

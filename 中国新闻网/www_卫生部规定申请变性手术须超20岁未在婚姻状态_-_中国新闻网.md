@@ -97,7 +97,7 @@
 
 - [12岁小胖子脖子发黑洗不净 医生：当心糖尿病](http://finance.chinanews.com/jk/2019/03-11/8777059.shtml)  
 - [白天忙上班晚上熬夜玩 男子连打几晚麻将心梗了](http://finance.chinanews.com/jk/2019/03-11/8777056.shtml)  
-
+<!-- tcd_original_link https://www.chinanews.com/jk/jk-zcdt/news/2009/11-21/1976834.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -38,7 +38,7 @@
 ### 編輯部推薦
 
 **提供新聞訊息、人物邀訪、異業合作以及意見反映煩請email至國際中心公用信箱： [intnews@upmedia.mg](mailto:intnews@upmedia.mg)，我們會儘速處理。**
-
+<!-- tcd_original_link https://www.upmedia.mg/news_info.php?Type=3&SerialNo=140620 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

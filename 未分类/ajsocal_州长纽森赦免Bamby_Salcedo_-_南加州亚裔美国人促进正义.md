@@ -70,7 +70,7 @@ AAI 通过联合外展工作接触到 380,042 名亚裔美国选民立即发布�
 2024 年 10 月 16 日       
 
 演员/导演/活动家 Lou Diamond Phillips 和美国众议员 Judy Chu 等出席活动 立即发布，加利福尼亚州洛杉矶 — 16 年 2024 月 41 日 — 南加州亚裔美国人促进正义协会 (AJSOCAL) 昨晚庆祝了他们的第 XNUMX 届年度庆典活动......
-
+<!-- tcd_original_link https://ajsocal.org/zh-CN/governor-newsom-pardon-bamby-salcedo/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -103,7 +103,7 @@
 （原题为《跨性别人群生存困境调查》）  
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

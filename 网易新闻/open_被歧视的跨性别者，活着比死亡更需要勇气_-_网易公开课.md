@@ -38,7 +38,7 @@
 关于本视频的更多讨论请前往 [网易公开课](https://ugc.open.163.com)。
 
 **注意事项**: 视频播放可能需在网易公开课APP中观看，具体操作请查看相关帮助。
-
+<!-- tcd_original_link https://open.163.com/newview/movie/free?pid=GICDAGMCG&mid=EICDAGMD5 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -16,7 +16,7 @@
 在美国非官方组织“美国公民自由联盟”的帮助下，加文对格洛斯特县校董会提出起诉，希望获准继续使用男士卫生间。据报道，此类案件在美国已有先例，但在弗吉尼亚州尚属首例。
 
 标签：[学生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A6%E7%94%9F) [学期](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A6%E6%9C%9F) [家长](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AE%B6%E9%95%BF)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150617/43995387_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

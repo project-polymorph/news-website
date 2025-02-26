@@ -20,7 +20,7 @@
 Do Not Sell or Share My Personal Information
 
 ![Opt out of the sale or sharing of personal information](https://lh3.googleusercontent.com/zmGCoLARXxy6rZ1DNEZtMrTB-7iIrG5YHAEch_5BCmipfBh_2VNtN9N9SDDpBycoqkOqAZWC3wEU1FdjHyQxqmy_zXbcMYm5YjL2Jzi00MYtlYYDjOE5fg=h60)
-
+<!-- tcd_original_link https://news.pchome.com.tw/internation/cna/20241103/index-17306088264521818011.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

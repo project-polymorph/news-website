@@ -34,7 +34,7 @@
 ## 獲取更多資訊 { data-search-exclude }
 - [所有跨性別事件](https://noselfidtw.cc/news)
 - [全部文章](https://noselfidtw.cc/post)
-
+<!-- tcd_original_link https://noselfidtw.cc/news/transgender-swimmer-lia-thomas-exposed-for-autogynephilia-and-fetishistic-lifestyle/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

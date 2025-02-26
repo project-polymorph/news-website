@@ -33,7 +33,7 @@
 ![RulingDigital](/assets/rulingcom-logo.png) Powered by RulingDigital
 
 造访人次 : 313600
-
+<!-- tcd_original_link https://sa.tnu.edu.tw/zh_cn/page1/news/-Happy-Pride-%EF%BC%86Happy-Mental-Health-%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E4%BF%83%E9%80%B2%E4%BA%A4%E6%B5%81%E6%9C%83%E8%AD%B0-16882934 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

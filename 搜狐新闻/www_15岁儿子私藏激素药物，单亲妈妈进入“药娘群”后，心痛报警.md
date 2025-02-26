@@ -72,7 +72,7 @@
 ![图片6](https://p7.itc.cn/images01/20210416/eccf02ada393436b931ed8fd3610a799.jpeg)
 
 这就需要父母更多的理解和包容了，化解亲子双方的矛盾，这对孩子来说就是很大的支持了。
-
+<!-- tcd_original_link https://www.sohu.com/a/461212290_100203620 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

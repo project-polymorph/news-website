@@ -17,7 +17,7 @@
 平机会（ (全名：平等机会委员会，英语名：Equal Opportunities Commission，EOC））主席陈章明早前指，经磋商后，康文署答应会改装残疾人士专用厕所成“中性厕所”，方便跨性别人士使用。
 
 责任编辑：邹畅
-
+<!-- tcd_original_link http://news.youth.cn/sh/201609/t20160903_8621588.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

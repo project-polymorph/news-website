@@ -36,7 +36,7 @@
 - [返回首页](http://www.chinanews.com/)
 - [返回新闻中心](http://www.chinanews.com.cn/)
 - [返回娱乐新闻](http://www.chinanews.com.cn/entertainment.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/yl/zyxw/news/2009/04-08/1636216.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

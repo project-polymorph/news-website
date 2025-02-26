@@ -35,7 +35,7 @@
 ![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ![新浪新闻官方](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-08-25/detail-ikknscsi4028379.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

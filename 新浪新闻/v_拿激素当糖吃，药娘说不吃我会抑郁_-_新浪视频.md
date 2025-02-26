@@ -27,7 +27,7 @@
 热点资讯 精彩视频抢先看 5.0分好评
 
 免费 / 绿色应用 / 优质
-
+<!-- tcd_original_link http://v.sina.cn/weibo_ugc/2018-08-16/detail-ihhvciiv6359558.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

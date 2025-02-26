@@ -27,7 +27,7 @@
 **新聞報到**：Mission Dolores Park 的資訊亭  
 **活動詳情請見 [Facebook](https://www.facebook.com/events/305120400440707/)**  
 **網址**：[https://www.transmarch.org/](https://www.transmarch.org/)
-
+<!-- tcd_original_link https://www-temp.staging.dev.sf.gov/zh-hant/news--san-francisco-kicks-pride-trans-march-and-historic-announcement -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

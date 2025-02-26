@@ -20,7 +20,7 @@
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 **新浪新闻官方**，热点资讯精彩视频抢先看。
-
+<!-- tcd_original_link https://v.sina.cn/weibo_ugc/2018-06-18/detail-iheauxvz1318611.d.html?cre=videopagew&mod=f&loc=4&r=9&doct=0&rfunc=23&tj=none -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

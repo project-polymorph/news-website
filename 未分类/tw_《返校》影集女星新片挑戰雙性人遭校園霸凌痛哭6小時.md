@@ -38,7 +38,7 @@
 [李玲葦《生而為人》扮雙性人 挑戰空氣「打手x」手超痠](https://news.tvbs.com.tw/entertainment/1610641?utm_source=Yahoo&utm_medium=Yahoo_news&utm_campaign=newsid_1647613)  
 [好萊塢洋片「355:諜影特攻」台灣取景 預告閃過萬華街景](https://news.tvbs.com.tw/entertainment/1644972?utm_source=Yahoo&utm_medium=Yahoo_news&utm_campaign=newsid_1647613)  
 [咖啡香飄進螢幕！台首部咖啡微電影 曾少宗、大久保麻梨子CP](https://news.tvbs.com.tw/entertainment/1630162?utm_source=Yahoo&utm_medium=Yahoo_news&utm_campaign=newsid_1647613)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E8%BF%94%E6%A0%A1-%E5%BD%B1%E9%9B%86%E5%A5%B3%E6%98%9F%E6%96%B0%E7%89%87%E6%8C%91%E6%88%B0%E9%9B%99%E6%80%A7%E4%BA%BA-%E9%81%AD%E6%A0%A1%E5%9C%92%E9%9C%B8%E5%87%8C%E7%97%9B%E5%93%AD6%E5%B0%8F%E6%99%82-051711433.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

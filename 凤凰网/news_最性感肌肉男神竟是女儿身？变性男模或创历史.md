@@ -14,7 +14,7 @@
 ![](http://y1.ifengimg.com/cmpp/2015/05/15/09/1bc9371c-8f9e-4acd-91f9-9ec7d4bb22d8_size49_w570_h570.jpg)
 
 每年一度的“最性感男性”评选是美国老牌男性杂志《时尚健康》的保留项目，但是今年却有可能创造一项纪录：杂志将迎来首位变性人摘下此殊荣，并成为封面人物！
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150515/43764450_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

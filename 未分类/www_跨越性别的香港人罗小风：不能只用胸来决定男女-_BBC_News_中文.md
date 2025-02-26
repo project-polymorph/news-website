@@ -198,7 +198,7 @@ _据说有一种生物比亚当夏娃还要早存在__／__他们有两个头_�
     ### [港男迷恋美少女战士　数千珍藏图破世界纪录](/zhongwen/simp/chinese-news-46678864)
     
     2019年1月3日
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-46450690 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

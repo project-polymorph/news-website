@@ -110,7 +110,7 @@
 各位通心粉在看完这两位人妖的故事后，有什么感谢呢？欢迎“**写留言**”分享给我们～
 
 ![](http://5b0988e595225.cdn.sohucs.com/images/20181008/80698b0a6a9c4485a09417c91c87972d.jpg)
-
+<!-- tcd_original_link https://www.sohu.com/a/258229583_176912 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

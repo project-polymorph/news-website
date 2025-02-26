@@ -29,7 +29,7 @@
 - [英女王丈夫完成“探索性”腹部手术后出院](https://news.sohu.com/20130617/n379050689.shtml)
 - [美海豹突击队成员退役后做变性手术 着女装露面](https://news.sohu.com/20130605/n378073382.shtml)
 - [香港老翁60岁才知自己是女人 手术后继续做男人](https://news.sohu.com/20130604/n377926807.shtml)
-
+<!-- tcd_original_link http://news.sohu.com/20130711/n381261899.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

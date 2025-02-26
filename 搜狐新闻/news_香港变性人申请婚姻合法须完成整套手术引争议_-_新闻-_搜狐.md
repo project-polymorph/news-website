@@ -22,7 +22,7 @@
 标签：变性人、婚姻
 
 [阅读全文](https://news.sohu.com/20140521/n399840079.shtml)
-
+<!-- tcd_original_link https://news.sohu.com/20140521/n399840079.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

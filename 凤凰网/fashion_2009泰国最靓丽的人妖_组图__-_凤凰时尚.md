@@ -41,7 +41,7 @@
 #### 版权
 
 所有图片和内容均来自于凤凰网。
-
+<!-- tcd_original_link https://fashion.ifeng.com/photo/mm/detail_2009_11/16/162513_13.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -32,7 +32,7 @@
 **來源**：自由時報電子報  
 **編輯**：陳成良  
 **日期**：2022年1月9日
-
+<!-- tcd_original_link https://news.ltn.com.tw/news/novelty/breakingnews/3795461 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

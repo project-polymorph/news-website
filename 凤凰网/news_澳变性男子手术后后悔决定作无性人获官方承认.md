@@ -20,7 +20,7 @@
 **评论**: 共有评论0条  
 
 **编辑**: 汪敏
-
+<!-- tcd_original_link https://news.ifeng.com/world/201003/0316_16_1577161.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

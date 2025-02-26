@@ -54,7 +54,7 @@ This news is brought to you by Quik News. You can explore the full features in o
 or, scan to download:
 
 ![qr logo](/_next/static/media/quiknewsQr.40e48864.png)
-
+<!-- tcd_original_link https://listen2.ai/news/zh/sports/f45f8902-7f16-4c26-b663-eb8cda859bf1 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

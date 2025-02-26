@@ -42,7 +42,7 @@
 ### 版权声明
 
 文章内容基于网络信息整理，版权归原作者所有。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-05-14/detail-ikkntiak9904374.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

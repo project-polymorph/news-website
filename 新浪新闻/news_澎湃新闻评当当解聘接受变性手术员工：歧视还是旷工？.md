@@ -48,7 +48,7 @@
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 输入评论内容
-
+<!-- tcd_original_link https://news.sina.cn/2020-07-06/detail-iircuyvk2265520.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

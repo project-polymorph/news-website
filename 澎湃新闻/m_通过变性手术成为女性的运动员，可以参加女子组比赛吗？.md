@@ -94,7 +94,7 @@ Beate Dunst, Mathias Benedek, Karl Koschutnig, Emanuel Jauk, and Aljoscha C. Neu
 ![Image9](https://imagepphcloud.thepaper.cn/pph/image/110/850/387.gif)  
 
 **原标题**：《通过变性手术成为女性的运动员，可以参加女子组比赛吗？**  
-
+<!-- tcd_original_link https://m.thepaper.cn/baijiahao_10960206 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

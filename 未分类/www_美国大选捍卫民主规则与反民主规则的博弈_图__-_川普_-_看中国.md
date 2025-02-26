@@ -72,7 +72,7 @@
 **标签**: [美国](https://search.secretchina.com/news/gb/tag/%E7%BE%8E%E5%9B%BD), [大选](https://search.secretchina.com/news/gb/tag/%E5%A4%A7%E9%80%89), [川普](https://search.secretchina.com/news/gb/tag/%E5%B7%9D%E6%99%AE), [民主](https://search.secretchina.com/news/gb/tag/%E6%B0%91%E4%B8%BB), [政府](https://search.secretchina.com/news/gb/tag/%E6%94%BF%E5%BA%9C), [舞弊](https://search.secretchina.com/news/gb/tag/%E8%88%9E%E5%BC%8A)
 
 ![善举如烛《看中国》与您相约(图)](https://img5.secretchina.com/pic/2024/7-7/p3512061a940287834.jpg)
-
+<!-- tcd_original_link https://www.secretchina.com/news/gb/2024/10/29/1071982.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -15,7 +15,7 @@
 报道称，据变性士兵的权益组织估计，在美国130万名士兵中约有1.5万人是变性者。另外，美国的亲密盟友如英国与以色列允许变性士兵公开服役。
 
 ![相关图片](http://i3.chinanews.com/2014/wap/images/top.png)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/m/gj/2015/06-05/7325068.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

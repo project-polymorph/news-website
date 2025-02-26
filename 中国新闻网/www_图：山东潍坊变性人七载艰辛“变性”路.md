@@ -44,7 +44,7 @@
 京ICP备05004340号  
 
 建议最佳浏览效果为1024*768分辨率。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/tp/shfq/news/2008/03-02/1179241.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -49,7 +49,7 @@
 网络文化经营许可证文网文\[2010\]024号  
 网上传播视听节目许可证号 0102004  
 [中国互联网视听节目服务自律公约](http://news.cctv.com/special/C20456/01/index.shtml)
-
+<!-- tcd_original_link http://news.cctv.com/world/20091112/103781.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -52,7 +52,7 @@
 免费 / 绿色应用 / 优质  
 
 [立即加入讨论](javascript:void(0))
-
+<!-- tcd_original_link https://news.sina.cn/sa/2011-09-08/detail-ikftssap4072834.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

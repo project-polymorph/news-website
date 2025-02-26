@@ -66,8 +66,7 @@
 **来源**: 网易公开课   
 **标签**: 跨性别，性别流动性，TED演讲  
 **图片版权**: 图片版权归原作者所有。  
-
-
+<!-- tcd_original_link https://open.163.com/newview/movie/free?pid=MFB8RIB2A&mid=MFB8S2T0S -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

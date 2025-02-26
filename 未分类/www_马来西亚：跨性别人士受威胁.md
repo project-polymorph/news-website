@@ -50,7 +50,7 @@
 - 标签: [跨性别](https://www.hrw.org/topic/lgbt-rights), [人权](https://www.hrw.org/topic/human-rights)
 
 ![人权观察](https://www.hrw.org/sites/default/files/styles/square/public/media_2023/07/202307asia_japan_lgbt_equalityact_protest.jpg?h=c6980913&itok=p33c77Zv)
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2014/09/24/263746 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

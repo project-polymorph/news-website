@@ -27,7 +27,7 @@
 **标签**: 跨性别, 变性人, 婚姻, 重婚罪
 
 **版权**: Copyright © 1996 - 2004 SINA Inc. All Rights Reserved
-
+<!-- tcd_original_link https://news.sina.com.cn/s/2004-09-25/08523765162s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

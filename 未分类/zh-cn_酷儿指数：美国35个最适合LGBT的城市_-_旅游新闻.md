@@ -75,7 +75,7 @@ Vocativ的深层网络分析师用来对每个城市进行排名的16条标准�
 主编 eTurboNews 位于 eTN 总部。
 
 [查看所有文章](https://zh-cn.eturbonews.com/%E4%BD%9C%E8%80%85/%E6%9E%97%E8%BE%BE%E9%9C%8C%E6%81%A9%E9%9C%8C%E5%B0%94%E8%8C%A8/)
-
+<!-- tcd_original_link https://zh-cn.eturbonews.com/%E9%85%B7%E5%84%BF%E6%8C%87%E6%95%B035%E6%9C%80lgbt%E5%8F%8B%E5%A5%BD%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%9F%8E%E5%B8%82/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -33,7 +33,7 @@
 - [调查](https://www.zaobao.com/keywords/diao-cha)
 - [同性恋](https://www.zaobao.com/keywords/tong-xing-lian)
 - [性别歧视](https://www.zaobao.com/keywords/xing-bie-qi-shi)
-
+<!-- tcd_original_link https://www.zaobao.com.sg/news/singapore/story20240610-3889773 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

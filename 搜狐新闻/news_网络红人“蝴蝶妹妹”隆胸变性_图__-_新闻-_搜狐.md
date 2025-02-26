@@ -52,7 +52,7 @@
 -   [辩论区](https://comment2.news.sohu.com/viewdebates.action?id=248208476) 
 
 版权 © 2016 Sohu.com Inc. All Rights Reserved. 搜狐公司 版权所有。
-
+<!-- tcd_original_link http://news.sohu.com/20070213/n248208476.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

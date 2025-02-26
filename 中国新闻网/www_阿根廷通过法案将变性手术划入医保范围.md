@@ -21,7 +21,7 @@
 以下留言仅代表网友个人观点
 
 [参与互动(0)](http://comment.chinanews.com/ci/index.php/comment/news/more/3879739)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/2012/05-10/3879739.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

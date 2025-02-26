@@ -84,7 +84,7 @@
 **文字：张涵博 杨天宇 许雯**  
 **编辑：涂艺秋**  
 **原标题：《跨性别女性：我的身体里住着一个女人 | 特稿**
-
+<!-- tcd_original_link https://m.thepaper.cn/baijiahao_5435150?sdkver=e06426d6&clientprefetch=1 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

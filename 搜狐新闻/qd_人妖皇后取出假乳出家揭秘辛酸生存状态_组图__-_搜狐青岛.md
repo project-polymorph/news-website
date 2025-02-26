@@ -96,7 +96,7 @@
 
 (来源：中新网)  
 (责任编辑：李毅)
-
+<!-- tcd_original_link http://qd.sohu.com/20130517/n376264080.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

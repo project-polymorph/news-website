@@ -43,7 +43,7 @@ _小编推荐阅读_
 - ![《赛尔计划》顾问体验PV：实机首曝，基础玩法展示！](https://img.haote.com//upload/news/20230411/1681198916280488.png) _04:30_ [《赛尔计划》顾问体验PV：实机首曝，基础玩法展示！](https://www.haote.com/video/67211/)
 - ![《代号：梦》试玩](https://img.haote.com//upload/news/20230411/1681198778826786.png) _04:30_ [《代号：梦》试玩](https://www.haote.com/video/67210/)
 - ![云梦伏妖录兑换码内部号职业角色排行选择推荐攻略](https://img.haote.com//upload/news/20230411/1681198676468438.png) _04:30_ [云梦伏妖录兑换码内部号职业角色排行选择推荐攻略](https://www.haote.com/video/67209/)
-
+<!-- tcd_original_link https://www.haote.com/news/194549.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

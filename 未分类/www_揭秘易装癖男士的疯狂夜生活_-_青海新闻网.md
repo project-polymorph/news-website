@@ -28,7 +28,7 @@
 
 青海新闻网版权所有  
 未经青海新闻网书面特别授权，请勿转载或建立镜像，违者依法必究。
-
+<!-- tcd_original_link http://www.qhnews.com/index/system/2013/04/24/011071422.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

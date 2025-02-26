@@ -57,7 +57,7 @@
 - 本文及图片均为网易新闻版权所有，谢绝转载。
 
 - 网友评论仅供其表达个人看法，并不表明网易立场。
-
+<!-- tcd_original_link http://news.163.com/photoview/00AO0001/118451.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

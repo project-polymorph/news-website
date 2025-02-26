@@ -45,7 +45,7 @@ Egales出版社這麼介紹紀大偉這部作品：在台灣出版了將近30年
 ---
 
 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。
-
+<!-- tcd_original_link https://www.cna.com.tw/news/acul/202406120403.aspx -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

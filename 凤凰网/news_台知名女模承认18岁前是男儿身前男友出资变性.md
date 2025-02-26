@@ -21,7 +21,7 @@
 所有评论仅代表网友意见，凤凰网保持中立。
 
 **编辑：** 马翠
-
+<!-- tcd_original_link https://news.ifeng.com/taiwan/2/201001/0123_352_1522960_1.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

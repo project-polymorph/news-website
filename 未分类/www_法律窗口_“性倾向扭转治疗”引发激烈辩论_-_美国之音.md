@@ -75,8 +75,7 @@
 **标签**: 跨性别, LGBT, 法律  
 **评论**: 无  
 **版权**: © 2023 美国之音 
-
-
+<!-- tcd_original_link https://www.voachinese.com/a/voanews-20180525-controversy-sexual-conversion-therapy/4409697.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

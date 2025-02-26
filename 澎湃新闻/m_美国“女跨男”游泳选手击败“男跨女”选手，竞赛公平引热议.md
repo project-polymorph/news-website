@@ -92,7 +92,7 @@
 
 **原标题**: 《"男跨女"游泳输给了"女跨男"，美国网民蒙圈了》  
 [阅读原文](http://mp.weixin.qq.com/s/Iyu5hGcXFX7PARMTg-O9Vw)  
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_16221545 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

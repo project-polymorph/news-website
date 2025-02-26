@@ -121,7 +121,7 @@ LGBT团体一直致力于对一系列问题进行倡议活动，包括同性婚�
 - [性](/zhongwen/simp/topics/cr1nyxkyy1yt)
 - [中國](/zhongwen/simp/topics/cv85rd690y1t)
 - [LGBT](/zhongwen/simp/topics/czp1qexpdlzt)
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-66040480 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

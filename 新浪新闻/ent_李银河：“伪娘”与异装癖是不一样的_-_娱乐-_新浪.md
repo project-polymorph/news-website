@@ -49,7 +49,7 @@
 [欢迎发表评论](http://comment4.news.sina.com.cn/comment/comment4.html?channel=yl&newsid=28-3-2950467)
 
 版权 © 1996-2010 SINA Corporation, All Rights Reserved
-
+<!-- tcd_original_link http://ent.sina.com.cn/y/m/2010-05-07/07222950467.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

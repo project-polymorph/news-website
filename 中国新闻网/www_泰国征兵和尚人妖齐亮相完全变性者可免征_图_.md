@@ -36,7 +36,7 @@
 
 **编辑**: 孔庆玲  
 **评论**: 网友评论以下留言仅代表网友个人观点
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/2013/04-10/4716750.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

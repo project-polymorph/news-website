@@ -18,7 +18,7 @@
 标签：[菲律宾](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%8F%B2%E5%BE%8B%E5%AE%BE) [海军](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%B5%B7%E5%86%9B) [苏比克湾](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%8B%8F%E6%AF%94%E5%85%8B%E6%B9%BE)
 
 版权 © 2013 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://news.ifeng.com/a/20141022/42269985_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

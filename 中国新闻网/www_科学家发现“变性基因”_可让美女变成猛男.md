@@ -24,7 +24,7 @@
 ![图片3](http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F972DT20090114134657.jpg)
 
 [更多精彩内容请进入健康频道](http://www.chinanews.com.cn/health.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/jk/jk-xpxz/news/2009/12-17/2023775.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

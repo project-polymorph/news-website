@@ -62,7 +62,7 @@
 佛罗里达州医学和骨科医学[委员会](https://www.christianpost.com/news/florida-medical-boards-ban-gender-transition-surgeries-on-minors.html)已经禁止了对未成年人进行性别转换手术，而德克萨斯州[家庭和保护服务部](https://www.christianpost.com/news/texas-declares-trans-surgeries-for-minors-child-abuse.html)和德克萨斯州总检察长肯·帕克斯顿([Ken Paxton](https://www.christianpost.com/news/texas-ag-says-puberty-blockers-for-trans-kids-child-abuse.html))已经发表意见，将其列为一种虐待儿童的形式。反观，马萨诸塞州已经将“性别确认护理”宣布为一项宪法权利。
 
 ![](https://chinese.christianpost.com/pixelp27282r3449a6.gif?rd=63469748)
-
+<!-- tcd_original_link https://chinese.christianpost.com/news/us-worst-country-for-pushing-extreme-gender-ideology-on-kids.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

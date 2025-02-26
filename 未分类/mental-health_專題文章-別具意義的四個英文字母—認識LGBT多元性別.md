@@ -69,7 +69,7 @@
 
 [![通過A等級無障礙網頁檢測](/aplus.png)](https://accessibility.moda.gov.tw/Applications/Detail?category=20231020153331 "[另開新視窗]通過A等級無障礙網頁檢測")
 [手機掃描QR Code，可取得此頁連結。]
-
+<!-- tcd_original_link https://mental-health.gov.taipei/News_Content.aspx?n=160B9C4672BF2849&sms=D9970CDAAAA49C91&s=B39EB865F3BD5127 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

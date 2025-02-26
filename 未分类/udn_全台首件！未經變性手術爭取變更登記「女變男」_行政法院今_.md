@@ -18,7 +18,7 @@
 律師認為，尼莫提出的證據已足證明具有穩定的男性性別認同，且過去內政部函釋要求手術證明、2張精神科醫師診斷證明要件，違反法律保留原則、比例原則及平等原則。
 
 [手術](/search/tagging/2/手術) [跨性別](/search/tagging/2/跨性別)
-
+<!-- tcd_original_link https://udn.com/news/story/7321/7998166 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

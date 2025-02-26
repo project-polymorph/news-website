@@ -97,7 +97,7 @@ NHS已经接受了卡斯的建议。今年3月，在《卡斯评估》正式公�
 **免责声明：** 本内容来自腾讯平台创作者，不代表腾讯新闻或腾讯网的观点和立场。  
 
 评论 0文明上网理性发言，请遵守[《新闻评论服务协议》](https://new.qq.com/static/coralinfo.htm)
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20240628A0336G00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -38,7 +38,7 @@
 
 4. ![](https://photocdn.sohu.com/20100112/bc516be1-a633-4542-a379-718fc6c70ea7S.jpg)  
 [北爱第一部长因妻子婚外情和腐败丑闻停职](https://tv.sohu.com/20100112/n269532120.shtml)
-
+<!-- tcd_original_link http://yule.sohu.com/20100313/n270806806.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

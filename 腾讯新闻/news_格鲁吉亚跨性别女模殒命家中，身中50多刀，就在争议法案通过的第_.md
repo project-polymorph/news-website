@@ -70,7 +70,7 @@
 ---
 
 **评论结构**: 查看全部45条评论
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20240920A00GSL00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

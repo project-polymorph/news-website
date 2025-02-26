@@ -61,7 +61,7 @@
 **翻译：** 郑蓉  
 **来源：** 巴黎评论  
 **原标题：** A Lost Piece of Trans History  
-
+<!-- tcd_original_link https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2019-01-21%2Fdoc-ihrfqziz9582232.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

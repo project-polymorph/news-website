@@ -65,7 +65,7 @@ LGBTQ 成员才惊觉，伴侣盟倡议的免术换证，适用的「跨性别�
 **[看更多相关报导请点这](https://www.ctwant.com/article/162275)**
 
 [原始链接](https://www.ctwant.com/article/162266?utm_source=yahoo&utm_medium=rss&utm_campaign=162266)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A4%B1%E9%80%9F%E5%88%97%E8%BB%8A1-%E5%85%8D%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E7%94%B7%E8%AE%8A%E5%A5%B3-lbgtq%E6%97%8F%E7%BE%A4%E4%B9%9F%E5%87%BA%E8%81%B2%E5%8F%8D%E5%B0%8D-220000308.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

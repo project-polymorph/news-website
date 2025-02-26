@@ -51,7 +51,7 @@
 **作者**：李敬欣 王芷荭 实习生 宋延娜
 
 **评论**：[我来说两句](https://news.sohu.com/80/76/newsdiscuss200587680.shtml)
-
+<!-- tcd_original_link http://news.sohu.com/80/76/news200587680.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

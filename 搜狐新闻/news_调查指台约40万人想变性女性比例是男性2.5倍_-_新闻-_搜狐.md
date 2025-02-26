@@ -45,7 +45,7 @@
 **版权声明:**  
 Copyright © 2009 Sohu.com Inc. All Rights Reserved.  
 搜狐公司 [版权所有](https://corp.sohu.com/s2007/copyright/) 搜狐不良信息举报电话：010－62728061 举报邮箱：[jubao@contact.sohu.com](mailto:jubao@contact.sohu.com)
-
+<!-- tcd_original_link http://news.sohu.com/20090222/n262386667.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

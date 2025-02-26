@@ -25,7 +25,7 @@
 - [澳大利亚护照性别栏 设变性人及性别未定选项](http://www.chinanews.com/gj/2011/09-16/3332873.shtml)
 - [美放宽护照性别栏修改门槛 不必先完成变性手术](http://www.chinanews.com/gj/gj-bm/news/2010/06-10/2335226.shtml)
 - [28岁做变性手术 无性人不男不女护照性别写"不定"](http://www.chinanews.com/gj/gj-dqsj/news/2010/03-17/2173275.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/2011/09-20/3339531.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

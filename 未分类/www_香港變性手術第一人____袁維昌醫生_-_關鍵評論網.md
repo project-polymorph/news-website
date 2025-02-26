@@ -118,7 +118,7 @@ photo credit：大學線
 - [律敦治醫院](https://www.thenewslens.com/tag/159570)
 - [皮瓣外科](https://www.thenewslens.com/tag/159571)
 - [自創模具](https://www.thenewslens.com/tag/159572)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/89474 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -38,7 +38,7 @@
 ### [2017年11月15日 Report: “你考虑过父母的幸福吗？”](https://www.hrw.org/report/2017/11/15/311127)  
 中国对LGBT人士的扭转治疗  
 ![Main Image for China Report](https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2017/201711asia_china_main.jpeg?itok=scLCe6Z2)
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2019/10/21/334817 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

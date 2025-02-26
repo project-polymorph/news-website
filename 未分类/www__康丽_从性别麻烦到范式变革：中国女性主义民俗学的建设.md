@@ -116,7 +116,7 @@
 
 ![“中国传统制茶技艺及其相关习俗”列入人类非物质文化遗产代表作名录](../upload/news/DA-20221202162735.jpg)  
 [“中国传统制茶技艺及其相关习俗”列入人类非物质文化遗产代表作名录](https://www.chinesefolklore.org.cn/web/index.php?NewsID=21156)
-
+<!-- tcd_original_link https://www.chinesefolklore.org.cn/web/index.php?Page=2&NewsID=20851 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

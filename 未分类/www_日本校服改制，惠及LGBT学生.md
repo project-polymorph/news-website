@@ -43,7 +43,7 @@
 
 ### 版权
 内容版权归：Human Rights Watch
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2018/06/20/319372 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

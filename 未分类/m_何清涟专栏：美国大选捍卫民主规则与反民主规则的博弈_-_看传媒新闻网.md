@@ -72,7 +72,7 @@
 本文由看新闻网转载发布，仅代表原作者或原平台观点，不代表本网站立场。 看新闻网仅提供信息发布平台，文章或有适当删改。
 
 **标签:** [哈里斯](https://m.vct.news/keyword/ha-li-si) [川普](https://m.vct.news/keyword/chuan-pu) [投票规则](https://m.vct.news/keyword/tou-piao-gui-ze) [民调](https://m.vct.news/keyword/min-diao) [美国总统大选](https://m.vct.news/keyword/mei-guo-zong-tong-da-xuan)
-
+<!-- tcd_original_link https://m.vct.news/news/823704e1-6865-4117-84fc-119d5e81d608 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

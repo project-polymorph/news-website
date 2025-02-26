@@ -51,7 +51,7 @@
 ![说两句](http://www.cnr.cn/images2015/images/slj.gif)
 
 ---
-
+<!-- tcd_original_link http://news.cnr.cn/native/gd/20150701/t20150701_519020768.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

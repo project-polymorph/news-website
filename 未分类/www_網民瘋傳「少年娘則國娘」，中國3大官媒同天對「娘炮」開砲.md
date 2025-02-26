@@ -91,7 +91,7 @@ Photo credit: 微博
 -   [反娘](https://www.thenewslens.com/tag/176531)
 -   [男性化妝](https://www.thenewslens.com/tag/176532)
 -   [娘化現象](https://www.thenewslens.com/tag/176533)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/103686 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

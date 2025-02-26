@@ -25,7 +25,7 @@
 ---
 
 **标签**: 跨性别, 政治, 泰国
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2012/05-30/105231.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

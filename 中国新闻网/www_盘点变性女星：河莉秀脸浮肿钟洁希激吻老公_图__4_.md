@@ -27,7 +27,7 @@
 以下留言仅代表网友个人观点  
 
 【标签：】 娱乐、跨性别、变性人、新闻
-
+<!-- tcd_original_link https://www.chinanews.com.cn/yl/2012/12-28/4445018_4.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -38,7 +38,7 @@
 ### 版权信息
 
 Copyright XINHUANET.com All Rights Reserved. 制作单位：新华网 [版权所有](http://www.xinhuanet.com/copyright.htm) 新华网
-
+<!-- tcd_original_link http://news.xinhuanet.com/world/2016-01/25/c_128667424_3.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

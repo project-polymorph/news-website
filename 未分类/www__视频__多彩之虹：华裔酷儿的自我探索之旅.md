@@ -38,7 +38,7 @@ RNZ Chinese is a dedicated initiative producing content for and about the divers
 RNZ中文 (RNZ Chinese) 是新西兰国家广播电台 (Radio New Zealand, RNZ) 推出的专项版块， 致力于关注新西兰多元华人社区，提供相关的新闻报道和内容服务。RNZ是一家独立的公共服务机构，依据RNZ章程，通过多媒体平台提供值得信赖的新闻和时事报道。欢迎联系中文团队，电子邮箱: [chinese@rnz.co.nz](mailto:chinese@rnz.co.nz)
 
 [![shielded](https://shielded.co.nz/img/custom-logo.png)](#)
-
+<!-- tcd_original_link https://www.rnz.co.nz/news/chinese/517064/article -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

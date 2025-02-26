@@ -91,7 +91,7 @@
 **纠错**：[171964650@qq.com](mailto:171964650@qq.com)
 
 ![](http://www.cnnb.com.cn/pic/0/04/21/41/4214177_806742.jpg)
-
+<!-- tcd_original_link http://news.cnnb.com.cn/system/2005/09/13/005018082.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

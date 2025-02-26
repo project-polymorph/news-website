@@ -68,7 +68,7 @@
 **版权**: Copyright © 2003 Sohu.com Inc. All rights reserved. 
 
 [我来说两句](https://discuss.chinaren.com/10/14/discuss148181410.shtml)
-
+<!-- tcd_original_link https://news.sohu.com/10/14/news148181410.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -40,7 +40,7 @@
 (无具体链接内容)
 
 **注释**: 本项目已经申请知识版权和实用设计专利，请尊重知识版权。
-
+<!-- tcd_original_link http://www.sxttxl.org.cn/news/Detail/00020017164.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

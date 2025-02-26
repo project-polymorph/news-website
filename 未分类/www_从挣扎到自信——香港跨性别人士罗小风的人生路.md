@@ -28,7 +28,7 @@
 - [性别](/zhongwen/simp/topics/cdlxq9knn0rt)
 - [体育](/zhongwen/simp/topics/cmnq9dklyx1t)
 - [LGBT](/zhongwen/simp/topics/czp1qexpdlzt)
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-47289948 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

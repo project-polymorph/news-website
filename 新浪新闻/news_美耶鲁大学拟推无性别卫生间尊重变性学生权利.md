@@ -49,7 +49,7 @@ _![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 新浪新闻官方  
 热点资讯 精彩视频抢先看 5.0分好评  
 免费 / 绿色应用 / 优质
-
+<!-- tcd_original_link https://news.sina.cn/gj/2016-05-23/detail-ifxsktkr5890562.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

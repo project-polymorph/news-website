@@ -8,7 +8,7 @@
 本内容为作者翻译自英文材料或转自网络，不代表本站立场，未经允许不得转载如对本稿件有异议或投诉，请联系本站
 
 想要了解世界的人，都在 [时光网](http://www.tigfd.com/)
-
+<!-- tcd_original_link http://www.tigfd.com/news/show-401003.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

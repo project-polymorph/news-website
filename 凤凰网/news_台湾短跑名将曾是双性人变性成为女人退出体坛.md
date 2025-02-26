@@ -28,7 +28,7 @@
 
 *编辑：解文娟*  
 *共有评论0条*  
-
+<!-- tcd_original_link https://news.ifeng.com/taiwan/2/200908/0821_352_1313313.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

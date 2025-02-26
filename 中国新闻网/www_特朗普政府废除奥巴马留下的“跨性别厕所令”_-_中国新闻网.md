@@ -23,7 +23,7 @@
 --- 
 
 版权声明：本文为中国新闻网原创内容，转载请注明出处。
-
+<!-- tcd_original_link https://www.chinanews.com/gj/2017/02-23/8158019.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

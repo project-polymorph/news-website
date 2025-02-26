@@ -254,8 +254,7 @@ CD是英文 Cross-dress 的缩写，意思是变装。TS是英文 TransSexual �
 **标签**: 伪娘, ACG, 文化元素  
 **作者**: 央广网官方账号  
 **发布时间**: 2010.05.18  
-
-
+<!-- tcd_original_link https://finance.sina.cn/sa/2010-05-18/detail-ikkntiam5361169.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

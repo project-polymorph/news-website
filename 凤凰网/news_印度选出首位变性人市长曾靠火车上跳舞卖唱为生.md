@@ -41,7 +41,7 @@
 **标签**: [印度](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8D%B0%E5%BA%A6) [印度人民党](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%B0%91%E5%85%9A) [孟买](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%9F%E4%B9%B0)
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150107/42876240_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

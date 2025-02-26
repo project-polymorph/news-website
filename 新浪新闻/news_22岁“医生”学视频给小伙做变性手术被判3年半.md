@@ -42,7 +42,7 @@
 > 好的评论会让人崇拜
 
 [了解更多](https://cmnt.sina.cn/index?product=comos&index=fxeuwwr6372949&tj_ch=news&is_clear=0)
-
+<!-- tcd_original_link https://news.sina.cn/2018-09-20/detail-ifxeuwwr6372949.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

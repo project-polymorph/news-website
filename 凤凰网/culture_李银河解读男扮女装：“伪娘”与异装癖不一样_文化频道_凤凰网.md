@@ -43,8 +43,7 @@
 ![特别策划](http://img.ifeng.com/tres/pub_res/final_image/websj01.gif) 
 
 **评论**: 共有评论0条 
-
-
+<!-- tcd_original_link http://culture.ifeng.com/whrd/detail_2010_05/09/1498278_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

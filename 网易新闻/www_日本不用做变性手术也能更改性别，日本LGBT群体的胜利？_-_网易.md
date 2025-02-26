@@ -67,7 +67,7 @@
 ### 注意事项
 - 网友评论仅供其表达个人看法，并不表明网易立场。
 - 以上平台均可以找到日本物语。
-
+<!-- tcd_original_link https://www.163.com/dy/article/II09QQNT052597OI.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

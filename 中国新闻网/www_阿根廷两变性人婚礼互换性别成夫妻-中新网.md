@@ -20,7 +20,7 @@
 **来源：** 中新网  
 **标签：** 跨性别婚姻、阿根廷、变性人  
 **评论：** [查看评论(0)](http://comment.chinanews.com/comments/comments.php?newsid=hd_31134)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2013/11-30/271222.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

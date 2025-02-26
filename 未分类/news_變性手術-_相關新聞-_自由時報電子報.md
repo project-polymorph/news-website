@@ -89,7 +89,7 @@
 ---
 
 2024年11月12日 甲辰年十月十二日
-
+<!-- tcd_original_link https://news.ltn.com.tw/topic/%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

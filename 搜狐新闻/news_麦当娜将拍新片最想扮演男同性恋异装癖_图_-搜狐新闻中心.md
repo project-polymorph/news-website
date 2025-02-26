@@ -19,7 +19,7 @@
 转自搜狐  
 
 © 2005 Sohu.com Inc. All rights reserved.  [版权所有](https://www.sohu.com/about/copyright.html)  
-
+<!-- tcd_original_link http://news.sohu.com/20050219/n224347848.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

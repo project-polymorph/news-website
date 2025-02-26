@@ -28,7 +28,7 @@
 ---
 
 **注意**：内容已清理，去除了无关的信息，仅保留了与跨性别相关的内容。
-
+<!-- tcd_original_link https://video.sina.cn/news/2019-12-19/detail-iihnzahi8594065.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

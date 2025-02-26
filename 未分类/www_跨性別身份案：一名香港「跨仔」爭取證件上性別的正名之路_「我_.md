@@ -36,7 +36,7 @@
 
 **Facebook來源：** [BBC News 中文（繁體）](https://www.facebook.com/bbcnewstrad?__tn__=-UC)  
 **共享對象：** 公众
-
+<!-- tcd_original_link https://www.facebook.com/bbcnewstrad/videos/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%BA%AB%E4%BB%BD%E6%A1%88%E4%B8%80%E5%90%8D%E9%A6%99%E6%B8%AF%E8%B7%A8%E4%BB%94%E7%88%AD%E5%8F%96%E8%AD%89%E4%BB%B6%E4%B8%8A%E6%80%A7%E5%88%A5%E7%9A%84%E6%AD%A3%E5%90%8D%E4%B9%8B%E8%B7%AF/563747935770181/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

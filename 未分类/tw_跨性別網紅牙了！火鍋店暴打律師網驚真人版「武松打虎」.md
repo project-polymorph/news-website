@@ -40,7 +40,7 @@
 --- 
 
 **太长**
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5%E7%B6%B2%E7%B4%85%E7%89%99%E4%BA%86-%E7%81%AB%E9%8D%8B%E5%BA%97%E6%9A%B4%E6%89%93%E5%BE%8B%E5%B8%AB-%E7%B6%B2%E9%A9%9A%E7%9C%9F%E4%BA%BA%E7%89%88-%E6%AD%A6%E6%9D%BE%E6%89%93%E8%99%8E-024832403.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

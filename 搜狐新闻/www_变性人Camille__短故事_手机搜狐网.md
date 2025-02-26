@@ -197,7 +197,7 @@ Camille决定离开这座城市。出发的那天，她在手机上看到一条�
 ![短故事学院](http://5b0988e595225.cdn.sohucs.com/images/20180915/461a978f443b47ad9f8a891284780736.jpeg)  
 
 ![短故事学院](http://5b0988e595225.cdn.sohucs.com/images/20180915/9f0263c3aba642d684ccde0aa5b5c1a7.jpeg)
-
+<!-- tcd_original_link https://www.sohu.com/a/254019557_99895237 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

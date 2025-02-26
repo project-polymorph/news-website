@@ -88,7 +88,7 @@ _免责声明：本内容来自腾讯平台创作者，不代表腾讯新闻或�
 王慧敏  
 形象工程  
 内蒙古网友10月1日
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20241001A077DX00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

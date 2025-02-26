@@ -34,7 +34,7 @@
 **版权**：中国新闻网  
 
 ![补充图片](http://www.chinanews.com/fileftp/2020/03/2020-03-11/U194P4T47D46410F977DT20200311083723.jpg)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/2014/10-21/6702546.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

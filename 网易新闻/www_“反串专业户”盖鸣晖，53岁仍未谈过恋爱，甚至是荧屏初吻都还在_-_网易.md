@@ -42,7 +42,7 @@
 
 ![古道风光](http://mobilepics.ws.126.net/a50c85be6ed40e0be3c3ffd53f697bc30075.jpeg)  
 [古道风光](https://www.163.com/dy/media/T1541395746733.html)
-
+<!-- tcd_original_link https://www.163.com/dy/article/G0D2CGJO054452U1.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

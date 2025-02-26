@@ -47,7 +47,7 @@
 通过二维码可以将此视频分享至微信。
 
 ![二维码](https://open-image.ws.126.net/open-h5uploadfile/userDefault.png)
-
+<!-- tcd_original_link https://m.open.163.com/mobile/free/gb/video?plid=AGFFVIN0E&mid=UGFFVIN11 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

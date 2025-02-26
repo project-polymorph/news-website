@@ -35,7 +35,7 @@
 ![](U262P4T8D2280187F107DT20100513114458.jpg)
 
 [更多精彩内容请进入健康频道](http://www.chinanews.com.cn/health.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/jk/jk-xljk/news/2010/05-13/2280187.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -33,7 +33,7 @@
 - [涉离奇抢劫案 港一知名“人妖”被警方拘捕(图)](http://www.chinanews.com.cn//news/2006/2006-02-01/8/685182.shtml)
 - [美容厅周年店庆 号称用“人妖”助兴来招徕顾客](http://www.chinanews.com.cn//news/2006/2006-01-17/8/679444.shtml)
 - [客串《西游记》饰食人妖 木村拓哉助兄弟抢收视](http://www.chinanews.com.cn//news/2006/2006-01-10/8/676166.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/jk/ysbb/news/2006/11-07/817085.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

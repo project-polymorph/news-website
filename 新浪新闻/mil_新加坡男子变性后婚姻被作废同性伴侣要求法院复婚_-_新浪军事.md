@@ -32,7 +32,7 @@
 **标签**: 跨性别, 婚姻, 新加坡, 法律
 
 **版权**: 本文版权归原作者所有，未经授权，不得转载。
-
+<!-- tcd_original_link https://mil.sina.cn/2018-04-03/detail-ifyteqtq3088747.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -24,7 +24,7 @@
 标签：[婚礼](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A9%9A%E7%A4%BC) [未婚妻](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%9C%AA%E5%A9%9A%E5%A6%BB) [手术](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%89%8B%E6%9C%AF)
 
 \[责任编辑：PN030\]
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150215/43183032_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

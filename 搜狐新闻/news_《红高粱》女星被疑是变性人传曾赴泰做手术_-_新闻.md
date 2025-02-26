@@ -26,7 +26,7 @@
 --- 
 
 如需其他信息，请查看 [相关新闻](https://news.sohu.com) 和相关报道。
-
+<!-- tcd_original_link https://news.sohu.com/20141106/n405834489.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -24,7 +24,7 @@
 **标签：** 跨性别, 游行, 同性恋权利, 圣保罗  
 
 © 2018 Sohu.com Inc. All Rights Reserved.  [版权所有](https://corp.sohu.com/s2007/copyright/)
-
+<!-- tcd_original_link http://news.sohu.com/20060619/n243805884.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

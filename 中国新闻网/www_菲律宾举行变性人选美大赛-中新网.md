@@ -16,8 +16,7 @@ _菲律宾举行变性人选美大赛_
 ![参赛选手2](http://www.chinanews.com/tp/hd2011/2011/10-21/part/U334P4T425D2510F16507DT20111021093259.jpg) 
 
 [查看评论(0)](http://comment.chinanews.com/comments/comments.php?newsid=3404496)   
-
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2011/10-21/70561.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

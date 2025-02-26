@@ -65,7 +65,7 @@
 - E-mail:wuximhc@126.com  
 - 地址：无锡钱荣路156号  
 - 备案号：[苏ICP备12050155](http://beian.miit.gov.cn/)
-
+<!-- tcd_original_link http://www.wuximhc.com/news.asp?act=show&fid=2&cid=5&tid=1366 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -31,7 +31,7 @@
 长江互动传媒网 版权所有 未经授权禁止复制和建立镜像 鄂ICP证:020001  
 
 [信息网络传播视听节目许可证: 1704064](http://img.cjn.cn/2012cjn/st.html) [增值电信业务经营许可证 鄂 B2-20120083](http://img.cjn.cn/2012cjn/zz.html)
-
+<!-- tcd_original_link http://news.cjn.cn/nv/201112/t1578921_8.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

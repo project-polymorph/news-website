@@ -49,7 +49,7 @@
 热点资讯 精彩视频抢先看 5.0分好评  
 
 版权声明：本文为手机新浪网版权所有，未经允许不得转载。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-11-27/detail-ikkntiak8699836.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -27,7 +27,7 @@
 ![视频播放](https://mjs.sinaimg.cn/wap/module/newPlayer/201604111824/images/play.png)
 
 [评论链接](https://cmnt.sina.cn/index?product=comos&index=ircuyvi6232664&tj_ch=news&is_clear=0)
-
+<!-- tcd_original_link https://news.sina.cn/sh/2020-06-02/detail-iircuyvi6232664.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

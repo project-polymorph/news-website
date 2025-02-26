@@ -36,7 +36,7 @@ ALDEN WILLIAMS/STUFF
 除了以上两种手术以及生殖器重建，高成本治疗池不涵盖其他性别确认手术，如乳房切除术或隆胸术。 
 
 版权信息：© Sky Media Ltd. 2017. All rights reserved.
-
+<!-- tcd_original_link https://news.skykiwi.com/na/zh/2019-02-03/407535.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

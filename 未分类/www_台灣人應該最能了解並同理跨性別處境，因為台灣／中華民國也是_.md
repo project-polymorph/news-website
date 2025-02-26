@@ -157,7 +157,7 @@ Photo Credit: 中央社
 - [中華民國台灣](https://www.thenewslens.com/tag/116083)
 - [性別不安](https://www.thenewslens.com/tag/149526)
 - [雙重認同](https://www.thenewslens.com/tag/160233)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/186576 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

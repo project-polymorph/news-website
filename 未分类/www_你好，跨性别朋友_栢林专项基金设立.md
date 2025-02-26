@@ -60,7 +60,7 @@
 
 **来源：** 福建省正荣公益基金会  
 **版权所有：** [福建省正荣公益基金会](http://www.zrgy.org) © ZHENGRONG GROUP [闽ICP备13012939号](https://beian.miit.gov.cn/)
-
+<!-- tcd_original_link http://www.zhenrogy.org/news_view.asp?aid=3173 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

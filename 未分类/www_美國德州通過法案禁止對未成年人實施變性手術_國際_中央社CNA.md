@@ -35,7 +35,7 @@
 - [#美國](https://www.cna.com.tw/tag/27283/) 
 
 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。
-
+<!-- tcd_original_link https://www.cna.com.tw/news/aopl/202305180384.aspx -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

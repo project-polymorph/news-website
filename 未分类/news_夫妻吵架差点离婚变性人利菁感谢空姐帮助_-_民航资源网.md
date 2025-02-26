@@ -34,8 +34,7 @@
 民航资源网制作组制作并拥有样式及内容版权。欢迎在被允许后拷贝我们的资源。  
 **All produced by CARNOC® design team, copyright in 1999-2024.**  
 增值电信业务经营许可证：[皖B2-20080030-1](https://beian.miit.gov.cn/)、皖公网安备：[34010402700199](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34010402700199)。  
-
-
+<!-- tcd_original_link https://news.carnoc.com/list/106/106553.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

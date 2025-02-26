@@ -67,7 +67,7 @@
 ---
 
 **版权信息**：文本及图片版权归原作者所有，未经允许不得转载。
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20240605V03N6J00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -204,7 +204,7 @@
 **编辑**: 京华时报记者迟名发自重庆万州  
 **原文链接**: [搜狐新闻](https://news.sohu.com/20151109/n425672376.shtml)  
 **版权**: © 2018 Sohu.com Inc. 版权所有
-
+<!-- tcd_original_link https://news.sohu.com/20151109/n425672376.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

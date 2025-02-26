@@ -18,7 +18,7 @@
 新浪新闻官方  
 热点资讯 精彩视频抢先看 5.0分好评  
 免费 / 绿色应用 / 优质
-
+<!-- tcd_original_link http://v.sina.cn/weibo_ugc/2017-11-20/detail-ifynwxum6286641.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

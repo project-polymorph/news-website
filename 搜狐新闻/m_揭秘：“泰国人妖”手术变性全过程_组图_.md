@@ -16,7 +16,7 @@
 版权：CNR
 
 标签：变性手术 泰国 人妖 变性医学
-
+<!-- tcd_original_link https://m.sohu.com/n/311904335/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

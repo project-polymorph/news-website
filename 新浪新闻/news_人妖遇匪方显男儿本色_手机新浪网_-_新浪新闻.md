@@ -25,7 +25,7 @@
 **标签**: 跨性别, 泰国, 抢劫
 
 如果您有任何看法，请在评论区留言。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2008-01-28/detail-ikknscsk3308122.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

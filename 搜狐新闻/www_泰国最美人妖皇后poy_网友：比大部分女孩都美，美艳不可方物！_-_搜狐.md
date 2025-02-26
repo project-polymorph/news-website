@@ -48,7 +48,7 @@ Poy，中文名：宝儿，1985年10月5日出生于泰国普吉岛，从艺期�
 0人参与， 0条评论  
 
 [搜狐“我来说两句” 用户公约](http://zt.pinglun.sohu.com/s2014/sljyhgy/index.shtml)
-
+<!-- tcd_original_link https://www.sohu.com/a/778755793_121687421 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

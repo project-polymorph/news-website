@@ -88,7 +88,7 @@ ABC新闻曾报道，斯通是（Brock Stone）一名会说三种语言的密码
 
 **原标题**：《史上首次！变性人被任命为美国海军四星上将，军队希望化解性别焦虑》  
 [阅读原文](http://mp.weixin.qq.com/s/yUiAjZBuAxect8YgLChXSw)
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_15037693 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

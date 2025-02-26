@@ -33,7 +33,7 @@
 **(责任编辑：杨诚)**  
 
 [原文链接](https://sports.sohu.com/20140825/n403747230.shtml)
-
+<!-- tcd_original_link https://sports.sohu.com/20140825/n403747230.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

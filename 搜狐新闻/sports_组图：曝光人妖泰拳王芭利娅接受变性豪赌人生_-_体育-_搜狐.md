@@ -31,7 +31,7 @@
 **评论**: [我来说两句](https://club.comment3.news.sohu.com/m336945383.html)(0)
 
 **版权信息**: Copyright © 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有](https://corp.sohu.com/s2007/copyright/)
-
+<!-- tcd_original_link https://sports.sohu.com/20120307/n336945383.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

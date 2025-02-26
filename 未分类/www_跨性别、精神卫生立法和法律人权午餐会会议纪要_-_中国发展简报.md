@@ -55,7 +55,7 @@
 **版权** © 2024 北京益行公益信息交流服务中心  
 
 [京ICP备2021028761号-3](https://beian.miit.gov.cn/#/Integrated/recordQuery)  
-
+<!-- tcd_original_link https://www.chinadevelopmentbrief.org.cn/news/detail/12773.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

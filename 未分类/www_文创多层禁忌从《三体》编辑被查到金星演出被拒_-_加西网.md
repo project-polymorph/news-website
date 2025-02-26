@@ -30,7 +30,7 @@
 前卫艺术触碰禁忌 
 
 美籍[中国](News/tags/tag=%D6%D0%B9%FA/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)流亡作家贝岭表示，科幻小说在[中国](News/tags/tag=%D6%D0%B9%FA/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)作为高利润产业，在全球化时代通过附加产品和运用科技的想象力获得了巨大收益，像《三体》这样的作品甚至创造了[中国](News/tags/tag=%D6%D0%B9%FA/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)文化领域的奇迹。
-
+<!-- tcd_original_link https://www.westca.com/News/article/sid=1045326/lang=schinese.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

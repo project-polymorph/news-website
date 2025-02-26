@@ -37,7 +37,7 @@
 --- 
 
 如需查看更详细信息，请访问 [央视网](http://www.cctv.com/)。
-
+<!-- tcd_original_link http://news.cctv.com/2018/04/20/VIDEMR02fe9JcvRXicZwuXMC180420.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

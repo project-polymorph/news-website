@@ -39,7 +39,7 @@ The Gender Spectrum Collection
 - [跨性别问题](/zh/tags/kuaxingbiewenti)
 - [人权](/zh/tags/renquan)
 - [艾滋病规划署](/zh/tags/aizibingguihuashu)
-
+<!-- tcd_original_link https://news.un.org/zh/story/2020/05/1056912 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

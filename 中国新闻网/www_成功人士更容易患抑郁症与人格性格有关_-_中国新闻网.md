@@ -75,7 +75,7 @@
 - [小伙失恋后患上抑郁症 听到女友名字就瘫倒](http://www.chinanews.com.cn/life/news/2009/02-12/1559738.shtml)
 - [“我很郁闷”成为口头禅 四成办公族有抑郁症状](http://www.chinanews.com.cn/jk/kong/news/2009/01-22/1538441.shtml)
 - [李孝利自曝曾患抑郁症：受抄袭和偷拍事件折磨](http://www.chinanews.com.cn/yl/ytcf/news/2009/01-20/1535614.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/jk/xljk/news/2009/03-12/1599128.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

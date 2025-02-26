@@ -25,7 +25,7 @@
 **版权**: 海外网传媒有限公司版权所有，未经书面授权禁止使用  
 
 ![海外网](http://statics.haiwainet.cn/images/logoS.jpg)
-
+<!-- tcd_original_link http://news.haiwainet.cn/n/2016/1108/c3541083-30483990-4.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

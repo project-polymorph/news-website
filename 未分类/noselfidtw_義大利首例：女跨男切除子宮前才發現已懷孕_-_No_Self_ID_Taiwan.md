@@ -31,7 +31,7 @@
 ## 文章來源 { data-search-exclude }
 - [所有跨性別事件](https://noselfidtw.cc/news)
 - [全部文章](https://noselfidtw.cc/post)
-
+<!-- tcd_original_link https://noselfidtw.cc/news/italian-trans-man-found-to-be-pregnant-before-hysterectomy/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

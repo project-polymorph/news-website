@@ -43,7 +43,7 @@
 
 ### 评论
 [我来说两句](https://comment2.news.sohu.com/viewcomments.action?id=263064732)
-
+<!-- tcd_original_link https://news.sohu.com/20090328/n263064732.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

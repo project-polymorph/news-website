@@ -31,7 +31,7 @@
 
 原标题:美军变性人宣誓就任四星上将 成美国最高跨性别官员  
 责任编辑：hz
-
+<!-- tcd_original_link http://news.youth.cn/js/202110/t20211021_13271941.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

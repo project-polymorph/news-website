@@ -44,7 +44,7 @@
 - [打麻药](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E6%89%93%E9%BA%BB%E8%8D%AF)
 - [变性手术](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF)
 - [医生](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E5%8C%BB%E7%94%9F)
-
+<!-- tcd_original_link http://cnews.chinadaily.com.cn/2017-04/07/content_28831406_3.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

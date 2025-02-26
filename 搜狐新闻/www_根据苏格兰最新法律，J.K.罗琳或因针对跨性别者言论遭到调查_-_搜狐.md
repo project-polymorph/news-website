@@ -35,7 +35,7 @@
 3. [Scotland’s new hate crime law: what does it cover and why is it controversial?](https://www.theguardian.com/society/2024/mar/31/scotlands-new-hate-act-what-does-it-cover-and-why-is-it-controversial)
 
 **版权声明**: 本文为编译内容。编译：刘亚光；编辑：走走；校对：卢茜。欢迎转发至朋友圈。文末含《新京报·书评周刊》2023合订本广告。
-
+<!-- tcd_original_link https://www.sohu.com/a/769039751_120844404 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

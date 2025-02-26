@@ -21,7 +21,7 @@
 （原标题：美国5岁女孩做变性手术 3岁时称“我是男孩”）
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link http://news.sina.cn/gj/2015-04-24/detail-icczmvup0282241.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -26,7 +26,7 @@
 
 **标签**：变性手术，女人  
 **评论**：2位网友发表评论  
-
+<!-- tcd_original_link https://news.ifeng.com/society/4/200907/0701_346_1228071.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

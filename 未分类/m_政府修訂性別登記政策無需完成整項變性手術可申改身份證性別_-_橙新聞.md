@@ -52,7 +52,7 @@ v：將會繼續接受持續的異性荷爾蒙治療，並會按處長就其荷�
 ![圖片2](https://cdn.orangenews.hk/u/cms/www2024/05/20/6e9f642870374680a538112acb22283d.png)
 ![圖片3](https://cdn.orangenews.hk/u/cms/www2024/05/22/5ecfadb6206644309af8afe3adcc2a14.png)
 ![圖片4](https://cdn.orangenews.hk/u/cms/www2024/05/20/3628fce6d41a4ffca434b0da0d91e3ac.png)
-
+<!-- tcd_original_link https://m.orangenews.hk/details?recommendId=1214921 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -33,7 +33,7 @@ _(责任编辑: UN661)_
 ---
 
 ![搜狐评论-搜狐网站](http://news.sohu.com/upload/pagerevision20090916/star_logo3.gif)
-
+<!-- tcd_original_link http://star.news.sohu.com/20141220/n407123938.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

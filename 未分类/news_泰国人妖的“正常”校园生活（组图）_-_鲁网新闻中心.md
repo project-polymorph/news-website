@@ -47,7 +47,7 @@
 - [泰国特色征兵：众美艳“人妖”现身报到服役（图）](https://news.sdnews.com.cn/gj/201404/t20140409_1575815.html) 2014-04-09
 - [泰国航空破天荒招三名“第三性”空姐](https://news.sdnews.com.cn/gj/201101/t20110128_40692.html) 2011-01-28
 - [组图：实拍泰国人妖大学生之学习生活](https://news.sdnews.com.cn/gj/201107/t20110719_41373.html) 2011-07-19
-
+<!-- tcd_original_link http://news.sdnews.com.cn/gj/201009/t20100927_28861.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -21,7 +21,7 @@
 
 [回上一頁](/zh-tw/NewsMgt/news/Index/5 "回上一頁")  
 [回頂端](#top "回頂端")
-
+<!-- tcd_original_link https://www.taiwanwomencenter.org.tw/zh-tw/NewsMgt/news/Content/5/news1130407_1 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

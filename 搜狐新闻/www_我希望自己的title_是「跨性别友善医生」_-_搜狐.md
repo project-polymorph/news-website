@@ -304,7 +304,7 @@ ICD-11 定于今年 1 月 1 日开始实行，上个月发布的性别重置技�
 **或与疾病、衰老、死亡有关经历**  
 **欢迎投稿给我们**  
 **邮箱：features@dxy.cn**  
-
+<!-- tcd_original_link https://www.sohu.com/a/548085830_296504 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

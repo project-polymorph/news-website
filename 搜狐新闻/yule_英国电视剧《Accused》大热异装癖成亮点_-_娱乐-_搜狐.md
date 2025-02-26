@@ -43,7 +43,7 @@
 版权：Copyright © 2018 Sohu.com Inc. All Rights Reserved. [版权所有](https://corp.sohu.com/s2007/copyright/)  
   
 **分享**
-
+<!-- tcd_original_link http://yule.sohu.com/20120915/n353225223.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

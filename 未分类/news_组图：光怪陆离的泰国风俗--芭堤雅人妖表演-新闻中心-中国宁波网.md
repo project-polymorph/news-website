@@ -38,7 +38,7 @@
 版权 © 2001-2024 cnnb.com.cn All Rights Reserved  
 宁报集团职业道德监督投诉电话：87654321  
 **宁网广告联系：** 13819807679  
-
+<!-- tcd_original_link http://news.cnnb.com.cn/system/2003/01/10/000445020.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

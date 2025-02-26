@@ -22,8 +22,7 @@
 **标签:** 人妖选美大赛  
 **链接:** [点击此处查看全部新闻图片](http://news.sina.com.cn/photo/)  
 **版权:** Copyright © 1996 - 2005 SINA Inc. All Rights Reserved  
-
-
+<!-- tcd_original_link http://news.sina.com.cn/s/2005-05-13/16026634780.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

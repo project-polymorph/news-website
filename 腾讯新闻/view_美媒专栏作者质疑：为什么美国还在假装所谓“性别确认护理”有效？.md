@@ -89,7 +89,7 @@ hug/大海hug/
 - 江西网友：这就是所谓的西方文明，简直就是混乱不堪，这些所谓的西方文明其实就是毒药
 
 查看全部22条评论
-
+<!-- tcd_original_link https://view.inews.qq.com/k/20240728A056JF00?web_channel=wap&openApp=false -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

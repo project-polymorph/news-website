@@ -34,7 +34,7 @@
 
 * **版权**: Copyright@2014-2020 dailyqd.com All rights reserved.  
 * **版权所有**: 青岛日报/青报网  
-
+<!-- tcd_original_link https://www.dailyqd.com/news/2015-05/31/content_250803.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

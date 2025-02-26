@@ -29,7 +29,7 @@
 - [杭州一娱乐场所为揽客竟用泰国“人妖”做噱头(图)](http://news.sina.com.cn/s/2002-03-20/0906515329.html) (2002/03/20 09:06)  
 
 版权 © 1996 - 2002 SINA Inc. All Rights Reserved [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link http://news.sina.com.cn/s/2002-12-30/1629857569.shtml?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

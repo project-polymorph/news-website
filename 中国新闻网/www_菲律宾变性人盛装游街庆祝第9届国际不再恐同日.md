@@ -20,7 +20,7 @@
 来源：[中新网](http://www.chinanews.com/)  
 
 备注：该事件庆祝国际不再恐同日，旨在提升对性少数群体的尊重和理解。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2014/05-19/349786.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -85,7 +85,7 @@ WPATH (World Professional Association for Transgender Health)建議接受賀爾�
 1. WPATH (World Professional Association for Transgender Health), 7 th Version
 2. Asa Radix, et al. Hormone Therapy for Transgender Adults. Urol Clin N Am 46 (2019) 467–473
 3. Cécile A. Unger. Hormone therapy for transgender patients. Transl Androl Urol 2016;5(6):877-884
-
+<!-- tcd_original_link https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6907 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -41,7 +41,7 @@ TEL：400 920 1122(中国大陆地区专用)；（82）2 34969742
 - [id 电视节目](https://cn.idhospital.com/media/idtv/)
 - [id 媒体新闻](https://cn.idhospital.com/media/idnews/)
 - [id 明星专题](https://cn.idhospital.com/media/idstar/)
-
+<!-- tcd_original_link https://cn.idhospital.com/media/idnews/?uid=7864&mod=document -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

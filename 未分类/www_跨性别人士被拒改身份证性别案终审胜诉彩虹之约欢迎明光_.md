@@ -18,7 +18,7 @@
 蔡志森认为，性别身份是社会中人与人相处的重要标记，不能纯粹考虑当事人的感受，也要考虑其他与他接触的人的感受，例如「明明是男人（却）说自己是女人，如果走入女厕或女更衣室，会引起很多其他女性的不安。」他强调，不能把性别看作私人问题，必须放在公共空间考虑。
 
 ****守护自由空间，请支持基督教《时代论坛》****
-
+<!-- tcd_original_link https://www.christiantimes.org.hk/Common/Reader/News/ShowNews.jsp?Nid=170860&Pid=102&Version=0&Cid=2141&Charset=gb2312 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

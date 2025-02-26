@@ -76,7 +76,7 @@ Athlete Ally批评了国际泳联的决定，称国际泳联对跨性别运动�
 **评论:** 点击查看用户评论  
 
 **参考资料:** 所有附带图片均需标注来源。
-
+<!-- tcd_original_link https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fchanjing%2Fcyxw%2F2022-06-20%2Fdoc-imizirau9556067.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

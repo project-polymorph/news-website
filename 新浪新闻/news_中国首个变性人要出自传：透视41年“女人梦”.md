@@ -26,7 +26,7 @@
 据张克沙介绍，目前有好几家电视台都想买断《女人梦》的电视改编权，但现在还没有做最后决定。“我肯定不会在里面出演，因为妈妈跟我说过，你谁都能演就是不能演自己。”  
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-06-08/detail-ikknscsi0576927.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

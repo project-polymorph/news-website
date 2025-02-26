@@ -24,7 +24,7 @@
 --- 
 
 如有版权问题，请联系原作者。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2011-07-09/detail-ikmxzfmk0609096.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

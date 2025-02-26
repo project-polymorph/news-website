@@ -64,7 +64,7 @@
 - 话题讨论: #前男友居然去做了变性手术#
 
 **标签：** #变性手术 #跨性别 #社会话题
-
+<!-- tcd_original_link https://sinanews.sina.cn/native_page/quanzi_814604800018784257.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

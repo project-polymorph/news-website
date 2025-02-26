@@ -78,7 +78,7 @@ Pronouns 通常包括下列幾種：
 **※本文由換日線網站授權刊載，原標題為《[美國校園社交現場：自我介紹 Pronouns 是必須？原來「性別認同代詞」如此重要](https://crossing.cw.com.tw/article/18137?utm_source=media_yahoo&utm_medium=affiliate&utm_campaign=media_yahoo-affiliate-yahoo_news)》，未經同意禁止轉載** 
 
 **作者簡介：** 廖彥甄，Alicia Liau，嘰嘰喳喳美少女。喜歡說話，喜歡聽，最喜歡諧音梗。
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E3%80%90%E6%8F%9B%E6%97%A5%E7%B7%9A%E4%BA%BA%E9%9A%9B%E3%80%91%E5%9C%A8%E7%BE%8E%E5%9C%8B%E7%A4%BE%E4%BA%A4%EF%BC%8C%E5%8E%9F%E4%BE%86%E3%80%8C%E9%80%99%E5%80%8B%E3%80%8D%E5%A6%82%E6%AD%A4%E9%87%8D%E8%A6%81%EF%BC%81-065014192.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -313,7 +313,7 @@ MTF群体（Male-to-Female），指的是其出生时被指派的生理性别为
 ![图片6](http://inews.gtimg.com/newsapp_bt/0/15103892442/641)
 
 ![图片7](http://inews.gtimg.com/newsapp_bt/0/15103892444/641)
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20220719A098IH00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

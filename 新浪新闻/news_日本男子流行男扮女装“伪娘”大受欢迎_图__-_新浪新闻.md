@@ -34,7 +34,7 @@
 
 © 1996-2010 SINA Corporation, All Rights Reserved  
 [新浪简介](http://corp.sina.com.cn/chn/) | [About Sina](http://corp.sina.com.cn/eng/) | [联系我们](http://www.sina.com.cn/contactus.html) | [网站律师](http://www.sina.com.cn/intro/lawfirm.shtml) | [会员注册](http://members.sina.com.cn/apply/) | [产品答疑](http://help.sina.com.cn/)
-
+<!-- tcd_original_link https://news.sina.com.cn/o/2010-01-01/105716866103s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

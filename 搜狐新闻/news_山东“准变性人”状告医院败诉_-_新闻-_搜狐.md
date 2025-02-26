@@ -34,7 +34,7 @@
 **评论**  
 用户：匿名发出  
 请各位遵纪守法并注意语言文明。
-
+<!-- tcd_original_link http://news.sohu.com/20040922/n222182284.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

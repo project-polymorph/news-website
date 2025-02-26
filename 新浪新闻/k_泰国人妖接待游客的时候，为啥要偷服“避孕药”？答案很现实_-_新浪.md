@@ -39,7 +39,7 @@
 **标签:** 人妖, 泰国, 文化, 性别认同  
 **评分:** 5.0分  
 **版权:** 免费 / 绿色应用 / 优质
-
+<!-- tcd_original_link https://k.sina.cn/article_6743639342_p191f3c52e00100quve.html?from=travel -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

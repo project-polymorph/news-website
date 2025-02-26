@@ -41,7 +41,7 @@ A new Thai airline is hiring transsexual **ladyboys** as flight attendants, aimi
 **Ladyboy**，泰语音译叫**katoey**，主要指从小服用雌性激素而发育出女性特征的男性，汉语中多称“人妖”。他们当中有一部分人做了变性手术，是**transgender/transsexual**（变性人）；还有相当一部分只是**transvestite**（异装癖），身体特征还是男性。这些人在社会上被归为**the third gender**（第三性别）。
 
 **Flight attendant**就是飞机上的“空中服务员”，男女都可以担任，不过人们多见到的还是**airline hostess**（空姐），而包括机长在内的“全体机组人员”则可以用**cabin crew**来表示。
-
+<!-- tcd_original_link https://m.sohu.com/n/481058691/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

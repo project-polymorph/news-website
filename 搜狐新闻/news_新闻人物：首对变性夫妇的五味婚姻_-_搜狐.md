@@ -136,7 +136,7 @@
 ![封面](https://index.news.sohu.com/zhuanti/zhuanti_last.php?psortname=%D0%C2%CE%C5&psortid=1&sortid=155)
 
 **总第143期**　2005年10月23日 编辑：杨林
-
+<!-- tcd_original_link http://news.sohu.com/s2005/05bianxinren.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

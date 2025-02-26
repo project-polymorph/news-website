@@ -33,7 +33,7 @@
 与此同时，从基督信仰的观点来看，跨性别人士无法参与社会，是极其不公的事。阿米达修女继续表示：「他们是有这种倾向的人，有这种荷尔蒙失调或染色体失调。几个世纪以来，他们因此发展受到局限。我们还能再这样忽视他们多少年？现在我们应当接受这些人原本的样貌，运用我们的资源来帮助他们，让他们能在这个社会中过上体面的生活。」
 
 链接网址：[www.vaticannews.cn](http://www.vaticannews.cn/)
-
+<!-- tcd_original_link http://www.vaticannews.cn/zh/church/news/2023-07/sisters-project-india-amitha-polimetla-marginalization-42.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

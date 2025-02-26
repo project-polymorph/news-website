@@ -30,7 +30,7 @@
 - [台湾一对男子先后变性 婚姻关系遭撤销(图)](../../../xwzx/bwkx/201307/t20130711_4439003.htm) 2014.04.15
 
 版权申明 | 违法和不良信息举报电话：86-10-53610172 iwilljubao@126.com
-
+<!-- tcd_original_link http://www.taiwan.cn/taiwan/tw_SocialNews/201405/t20140512_6144267.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

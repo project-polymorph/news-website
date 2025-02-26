@@ -15,7 +15,7 @@
 本网部分展示作品享有版权，详见产品[付费下载](http://photostock.china.com.cn/Web_CHN/default.aspx)。购买请拨打 010-88828049 中国网图片库咨询详情。  
 
 [下载组图](http://photostock.china.com.cn/Web_CHN/default.aspx) / [查看原图](http://images.china.cn/attachement/jpg/site1000/20150119/7427ea2109fe162710a900.jpg)
-
+<!-- tcd_original_link http://www.china.com.cn/newphoto/news/2015-01/19/content_34599142_2.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

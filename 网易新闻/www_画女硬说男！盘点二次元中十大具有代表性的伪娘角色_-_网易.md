@@ -47,7 +47,7 @@
 ![ACG次元饭](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/UZfny41duofKvHMGM9uMpJFo1HBfZLdCvruXQPxZ436NM1574220229235.jpeg&thumbnail=160y160&quality=80&type=jpg)  
 **来源：** [ACG次元饭](https://www.163.com/dy/media/T1497432145199.html)  
 **标签：** 跨性别角色, 伪娘角色, 二次元文化  
-
+<!-- tcd_original_link https://www.163.com/dy/article/DA2EJ3U60515HBI3.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

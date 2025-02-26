@@ -33,7 +33,7 @@
 用户： 匿名发表：
 
 请您在这里发表您的个人看法，发言时请各位遵纪守法并注意语言文明！
-
+<!-- tcd_original_link http://news.sohu.com/20060825/n244984510.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

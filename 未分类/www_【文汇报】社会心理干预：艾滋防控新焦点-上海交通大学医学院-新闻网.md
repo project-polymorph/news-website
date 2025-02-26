@@ -27,7 +27,7 @@
 ---
 
 版权所有© 2013 上海交通大学医学院
-
+<!-- tcd_original_link https://www.shsmu.edu.cn/news/info/1007/4500.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

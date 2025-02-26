@@ -35,7 +35,7 @@
 - [众港姐集聚慈善晚会 悉心打扮艳光四射(组图)](http://www.chinanews.com.cn/yl/news/2010/05-23/2298879.shtml)
 - [港姐选举翻版萧亚轩抢镜(图) 李兆基家族购地建豪宅](http://www.chinanews.com.cn/ga/news/2010/05-19/2290878.shtml)
 - [二轮面试港姐质素不俗 翻版萧亚轩性感抢镜(图)](http://www.chinanews.com.cn/ga/ga-ylmt/news/2010/05-19/2290480.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/ga/ga-ylmt/news/2010/05-24/2299859.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

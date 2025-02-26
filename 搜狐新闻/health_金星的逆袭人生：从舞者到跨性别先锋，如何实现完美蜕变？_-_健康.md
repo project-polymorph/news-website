@@ -26,7 +26,7 @@
 ![](https://q1.itc.cn/q_70/images03/20241016/151cbd34f6a04d929292a0e4dccfbfc4.gif)
 
 作者声明：本文包含人工智能生成内容
-
+<!-- tcd_original_link https://health.sohu.com/a/817080069_121956423 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

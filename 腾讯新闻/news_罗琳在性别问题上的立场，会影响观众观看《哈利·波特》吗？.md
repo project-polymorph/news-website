@@ -67,7 +67,7 @@
   - “有异议的请滚，罗琳的立场，在中国是绝对正确的！” 
 
 请注意：所有链接和附带评论均保持原样。
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20230412A0A46C00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -43,7 +43,7 @@
 
 ### 相关链接
 - [美国图书管理员穷苦一生，死后捐400万美元给在职的母校](https://www.163.com/dy/article/DE23UAQO0516E5BG.html)
-
+<!-- tcd_original_link https://www.163.com/dy/article/DE2445D90516E5BG.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

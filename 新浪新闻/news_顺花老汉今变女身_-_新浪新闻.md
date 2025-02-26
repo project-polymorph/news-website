@@ -44,7 +44,7 @@
 ---
 
 **版权声明**: 以上内容来自《新晚报》，所有权归原作者所有。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2009-04-03/detail-ikkntian1485137.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

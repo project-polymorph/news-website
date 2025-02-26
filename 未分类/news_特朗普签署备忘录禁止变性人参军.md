@@ -38,7 +38,7 @@
 
 评论:  
 本篇报道由新华社编辑，版权所有，转发请注明来源。
-
+<!-- tcd_original_link http://news.xinhuanet.com/world/2017-08/26/c_1121546995.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -38,7 +38,7 @@
 
 **版權：** 本文版權所有，非經授權，不得轉載。  
 **來源：** [ETtoday新聞雲](https://www.ettoday.net)  
-
+<!-- tcd_original_link https://www.ettoday.net/news/20240530/2749071.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

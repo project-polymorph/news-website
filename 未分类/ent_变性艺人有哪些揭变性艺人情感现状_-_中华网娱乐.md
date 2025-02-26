@@ -19,7 +19,7 @@
 ---
 
 版权声明：本文版权所有，未经允许不得转载。
-
+<!-- tcd_original_link http://ent.china.com/star/news/11052670/20161108/23862625.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

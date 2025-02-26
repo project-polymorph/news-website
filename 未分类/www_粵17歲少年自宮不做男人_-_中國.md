@@ -42,7 +42,7 @@
 **版權聲明**
 
 明報網站 · 版權所有 · 不得轉載 Copyright © 2016 mingpaocanada.com/van All rights reserved. **Ming Pao Daily News** A wholly owned subsidary of Ming Pao Enterprise Corporation Ltd. Vancouver Chinese Newspaper
-
+<!-- tcd_original_link http://www.mingpaocanada.com/VAN/htm/News/20170407/tcbk1.htm?m=0 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

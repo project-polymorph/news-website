@@ -32,7 +32,7 @@
 
 © 1997-2024 网易公司版权所有  
 [关于网易](https://corp.163.com/) | [公司简介](https://corp.163.com/gb/about/overview.html) | [隐私政策](https://corp.163.com/gb/legal.html) | [投诉举报](https://corp.163.com/special/008397U0/reporting_infringements.html)
-
+<!-- tcd_original_link http://news.163.com/photoview/00AP0001/71455.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

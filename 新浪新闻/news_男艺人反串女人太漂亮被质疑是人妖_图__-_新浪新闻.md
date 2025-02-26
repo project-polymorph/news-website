@@ -92,7 +92,7 @@
 (今报记者 赵媛/文)
 
 ![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2007-05-17/detail-ikftssap2875899.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

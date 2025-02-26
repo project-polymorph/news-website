@@ -55,7 +55,7 @@
 - [关注：世界首例变性女选美受挫折](http://news.sina.com.cn/c/2006-04-05/11189537612.shtml) 2006-04-05 11:18:29
 
 版权 © 1996-2006 SINA Corporation, All Rights Reserved
-
+<!-- tcd_original_link http://news.sina.com.cn/s/2006-04-19/05079656702.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

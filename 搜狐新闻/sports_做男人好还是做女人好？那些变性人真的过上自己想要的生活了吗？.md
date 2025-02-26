@@ -38,7 +38,7 @@
 #### 标签：变性人，性别认同，生活经历
 
 #### 版权：Copyright © 2018 Sohu.com Inc. All Rights Reserved.
-
+<!-- tcd_original_link https://sports.sohu.com/20180506/n536844276.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

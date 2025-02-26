@@ -64,7 +64,7 @@
 ·凡注明为其它来源的信息，均转载自其它媒体，转载目的在于传递更多信息，并不代表本网赞同其观点和对其真实性负责。
 
 [泰国最美人妖爆红网络：娇艳欲滴令人难以把持](http://life.gmw.cn/node_9178.htm)
-
+<!-- tcd_original_link http://www.hinews.cn/news/system/2016/02/13/030131711.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

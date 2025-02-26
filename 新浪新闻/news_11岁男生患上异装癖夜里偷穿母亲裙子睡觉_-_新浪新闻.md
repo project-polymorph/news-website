@@ -43,7 +43,7 @@
 - 异装癖
 - 心理健康
 - 家庭关系
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-10-06/detail-ikknscsi4427398.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

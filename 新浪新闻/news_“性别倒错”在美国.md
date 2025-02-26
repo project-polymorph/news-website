@@ -77,7 +77,7 @@ J·T·海斯在美国密西西比州的科林斯长大，父亲是著名的赛�
 
 ## 版权： { data-search-exclude }
 本文内容版权归原作者所有。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2007-08-28/detail-ikknscsk2616442.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

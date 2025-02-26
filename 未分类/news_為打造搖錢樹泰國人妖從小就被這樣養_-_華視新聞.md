@@ -76,7 +76,7 @@
 ![【華視起床號】禁含雌激素 保養品洗髮精年底實施](https://static.cts.com.tw/news/photo/cts/201505/201505241617392_m.jpg)
 
 【華視起床號】禁含雌激素 保養品洗髮精年底實施
-
+<!-- tcd_original_link https://news.cts.com.tw/cts/entertain/201607/201607111773056.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

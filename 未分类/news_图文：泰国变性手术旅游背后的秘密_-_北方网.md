@@ -19,7 +19,7 @@
 
 版权 © 2000-2021 Enorth.com.cn, Tianjin ENORTH NETNEWS Co., LDT. All rights reserved.  
 本网站由天津北方网版权所有
-
+<!-- tcd_original_link http://news.enorth.com.cn/system/2012/01/19/008523653_07.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

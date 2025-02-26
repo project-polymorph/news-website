@@ -25,7 +25,7 @@
 
 说说你的看法  
 [转发至微博](https://cmnt.sina.cn/index?product=comos&index=kknscsi2168767&tj_ch=news&is_clear=0)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-12-30/detail-ikknscsi2168767.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

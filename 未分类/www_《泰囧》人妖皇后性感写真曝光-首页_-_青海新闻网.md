@@ -15,7 +15,7 @@
 --- 
 
 著作权归青海新闻网所有，未经书面特别授权，请勿转载或建立镜像。 E-mail：webmaster@qhnews.com 互联网新闻信息许可证：63120170001  青ICP备19000163号  青公网安备 63010302000199号
-
+<!-- tcd_original_link http://www.qhnews.com/index/system/2013/06/25/011118372.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

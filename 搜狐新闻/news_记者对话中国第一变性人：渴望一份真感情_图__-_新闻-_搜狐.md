@@ -80,7 +80,7 @@
 ---
 
 **版权说明**: 本文采集自搜狐，旨在记录跨性别者的真实经历与心声。
-
+<!-- tcd_original_link http://news.sohu.com/46/33/news208473346.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

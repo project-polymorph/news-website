@@ -34,7 +34,7 @@
 ![图片](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png) 
 
 版权信息：凤凰新媒体版权所有 Copyright © 2013 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://news.ifeng.com/a/20141028/42313974_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

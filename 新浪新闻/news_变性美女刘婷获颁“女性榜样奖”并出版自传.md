@@ -34,7 +34,7 @@
 刘婷透露，目前已有多名电影投资人及知名导演主动联系，希望将自己的故事搬上荧幕，此外还收到多份电影出演邀约。(完)
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/gn/2016-01-21/detail-ifxnuvxe8317398.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

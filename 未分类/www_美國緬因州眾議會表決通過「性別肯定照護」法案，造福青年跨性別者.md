@@ -71,7 +71,7 @@
 - [性別肯定照護](https://www.thenewslens.com/tag/302723)
 - [性別置換](https://www.thenewslens.com/tag/302724)
 - [緬因州眾議院](https://www.thenewslens.com/tag/302725)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/187795 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

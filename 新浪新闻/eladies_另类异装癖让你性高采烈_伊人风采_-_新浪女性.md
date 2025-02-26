@@ -43,7 +43,7 @@ Vivian前次恋情的失败让她开始压抑自己的感情，只能通过着�
 ![图](http://image2.sina.com.cn/living/images/zw4.gif)  
 
 **版权**: Copyright © 1996 - 2005 SINA Inc. All Rights Reserved [版权所有](http://home.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link http://eladies.sina.com.cn/lx/2005-02-21/140599.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

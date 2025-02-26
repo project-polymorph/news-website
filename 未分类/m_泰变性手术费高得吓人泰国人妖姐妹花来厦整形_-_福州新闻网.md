@@ -21,7 +21,7 @@
 
 ## 版权信息 { data-search-exclude }
 Copyright © fznews.com.cn All Rights Reserved
-
+<!-- tcd_original_link https://m.fznews.com.cn/fujian/2007-4-19/2007419xrcEqexLnn92937.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

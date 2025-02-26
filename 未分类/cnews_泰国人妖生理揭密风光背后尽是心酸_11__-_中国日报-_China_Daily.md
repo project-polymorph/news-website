@@ -27,7 +27,7 @@
 - [人妖歌舞](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E4%BA%BA%E5%A6%96%E6%AD%8C%E8%88%9E)  
 - [泰国清迈](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E6%B3%B0%E5%9B%BD%E6%B8%85%E8%BF%88)  
 - [生理特征](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E7%94%9F%E7%90%86%E7%89%B9%E5%BE%81)  
-
+<!-- tcd_original_link http://cnews.chinadaily.com.cn/2016-03/18/content_23937069_11.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -160,8 +160,7 @@ photo credit: 陳娉婷
 - [跨性別資源中心](https://www.thenewslens.com/tag/159168)  
 - [心理輔導員](https://www.thenewslens.com/tag/159169)  
 - [輔導技巧](https://www.thenewslens.com/tag/159170)  
-
-
+<!-- tcd_original_link https://www.thenewslens.com/feature/lgbtq-portraits/89386 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

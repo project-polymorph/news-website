@@ -177,7 +177,7 @@ DSM-5认为，个体不认同自己的性别，这不是疾病；只有个体因
 **标签**：病理性、创伤  
 
 **作者**：晴日精准心理何日辉
-
+<!-- tcd_original_link https://www.163.com/dy/article/H4UVLS4U0521951V.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

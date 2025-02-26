@@ -61,7 +61,7 @@
 ## 参考资料 { data-search-exclude }
 - 原文地址: [搜狐体育](https://sports.sohu.com/) 
 - 原文链接: [图表：十大性丑闻](https://sports.sohu.com/s2009/guojizuqiutubiao/)
-
+<!-- tcd_original_link https://sports.sohu.com/20100204/n270061545.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -23,7 +23,7 @@
 共青团中央主办  
 中国青年报主管  
 中国青年网版权所有  
-
+<!-- tcd_original_link http://news.youth.cn/sh/201605/t20160504_7952098.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -24,7 +24,7 @@
 - 转发至微博
 
 **版权声明：** 本文内容及图片来源于深圳晚报，所有权归原作者所有。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-12-13/detail-ikkntiam8336297.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

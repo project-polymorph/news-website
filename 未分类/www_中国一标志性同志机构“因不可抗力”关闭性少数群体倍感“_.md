@@ -157,7 +157,7 @@ LGBT是女同性恋者、男同性恋者、双性恋者与跨性别者的英文�
     ### [中国芒果TV直播奥斯卡抹去同性恋字眼惹争议](/zhongwen/simp/chinese-news-47383229)
     
     2019年2月28日
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-65656315 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

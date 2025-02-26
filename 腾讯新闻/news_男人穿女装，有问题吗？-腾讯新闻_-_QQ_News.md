@@ -88,7 +88,7 @@
 2. ![](https://inews.gtimg.com/newsapp_ls/0/12597139796/0)  
    男性的穿衣自由便有了更多想象空间。  
    江苏网友 (2022年9月26日)  
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20220925A03Y5C00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

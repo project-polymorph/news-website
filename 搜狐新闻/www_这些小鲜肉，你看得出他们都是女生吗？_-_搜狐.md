@@ -136,7 +136,7 @@ Krow Kian希望通过这部纪录片来改变社会对跨性别者的态度，�
 撰文：皮皮虾
 
 图源：微博，豆瓣，ins，Pinterest
-
+<!-- tcd_original_link https://www.sohu.com/a/342141760_102771 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

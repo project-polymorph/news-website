@@ -29,7 +29,7 @@
 **版权**: Copyright © 2018 Sohu.com Inc. All Rights Reserved.  
 
 *(内容已按照要求清理，保留了正文及相关信息)*
-
+<!-- tcd_original_link http://news.sohu.com/20151116/n426570650.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

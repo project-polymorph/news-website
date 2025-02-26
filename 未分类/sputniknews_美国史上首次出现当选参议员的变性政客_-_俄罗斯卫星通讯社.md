@@ -32,7 +32,7 @@
 © 2024 Sputnik (卫星社) 所有权利均受保护  
 [京ICP备2020045094号](https://beian.miit.gov.cn/)  
 [京公网安备11010502053235号](https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502053235)
-
+<!-- tcd_original_link https://sputniknews.cn/20201104/1032453127.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

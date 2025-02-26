@@ -82,7 +82,7 @@
 --- 
 
 本网站所刊载信息，不代表中新社观点。刊用本网站稿件，务经书面授权。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/n/2003-10-01/26/353045.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

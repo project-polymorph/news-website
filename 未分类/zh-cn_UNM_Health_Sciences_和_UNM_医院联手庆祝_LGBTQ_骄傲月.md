@@ -72,7 +72,7 @@ UNMH LGBTQ Collaborative 成立于 2011 年，是 LGBTQ 员工的员工资源小
 ![卡梅伦克兰德尔，医学博士](https://hsc.unm.edu/news/2022/_media/cameron-crandall-md.jpg) [下载 (316 kB)](../_media/cameron-crandall-md.jpg)
 
 ![法比安·阿米霍](https://hsc.unm.edu/news/2022/_media/fabian-armijo.jpg) [下载 (158 kB)](../_media/fabian-armijo.jpg)
-
+<!-- tcd_original_link https://zh-cn.hsc.unm.edu/news/2022/06/celebrating-pride-month.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

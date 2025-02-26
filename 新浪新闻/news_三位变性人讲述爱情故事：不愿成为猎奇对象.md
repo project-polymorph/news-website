@@ -88,7 +88,7 @@
 (东亚经贸新闻供稿）
 
 ![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-06-01/detail-ikftssap2625271.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

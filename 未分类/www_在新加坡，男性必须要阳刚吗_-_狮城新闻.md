@@ -117,8 +117,7 @@
 6. 万宗纶：她－他风暴：新加坡教育部威胁“跨性别诊疗”干预事件
 7. 新加坡红蚂蚁：新加坡会出现同性恋国会议员吗？李光耀曾说不介意有同性恋议员
 8. 维基百科：新加坡LGBT权益
-
-
+<!-- tcd_original_link https://www.shicheng.news/v/YKYQK?page=1 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

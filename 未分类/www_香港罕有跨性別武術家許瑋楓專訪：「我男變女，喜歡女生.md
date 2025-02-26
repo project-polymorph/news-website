@@ -154,7 +154,7 @@
 ### [護照性別選項惹出的官司：「系統歧視基因」](https://zhongwen/trad/world-50658107)
 ![UK passports](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/B4BF/production/_110017264_passport.jpg.webp)
 2019年12月5日
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/trad/chinese-news-54553312 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -58,7 +58,7 @@
 --- 
 
 **标签:** 整形手术, 性别认同, 社会性别
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-01-13/detail-ikknscsi2326133.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -53,7 +53,7 @@ McGarrity夫妇对孩子的变性显得很开明，十分支持，称自己仍�
 ![兄妹俩均有性别认同障碍 分别变性成为姐弟(图)](../../../images/attachement/png/site1/20151208/ec55f9c0c40f17d071ff3c_small.png)
 
 难得的是，这对孩子的父母还是挺开明的，他们的妈妈表示，她其实早就意识到自己的孩子跟别人有些不一样，他们坦白变性的行为其实减轻了所有人的心理包袱，而她也并没有什么损失。毕竟再怎么变，她还是拥有一个儿子，和一个女儿。
-
+<!-- tcd_original_link https://news.qingdaonews.com/wap/2015-12/08/content_11391196_all.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

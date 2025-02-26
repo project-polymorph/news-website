@@ -27,7 +27,7 @@
 - [旅游线路](http://fashion.ifeng.com/travel/4107/1/)
 - [出境游](http://fashion.ifeng.com/travel/4105/1/)
 - [人文](http://fashion.ifeng.com/travel/4103/1/)
-
+<!-- tcd_original_link https://travel.ifeng.com/photo/hd_2012_03/07/13018187_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

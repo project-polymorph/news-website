@@ -19,7 +19,7 @@
 - [变性人高婷婷涉嫌妨碍公务 走出法庭即被捕(图)](http://www.chinanews.com.cn/sh/news/2007/04-17/917208.shtml)  
 - [变性人高婷婷状告出版社侵权败诉 法院门口被抓](http://www.chinanews.com.cn/sh/news/2007/04-16/916642.shtml)  
 - [变性人为维护隐私权告状 曾梦想当中国第一美女](http://www.chinanews.com.cn/sh/news/2007/03-27/901452.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/tp/news/2007/05-13/933869.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

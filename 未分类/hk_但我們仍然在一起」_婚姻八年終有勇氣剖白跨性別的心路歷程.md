@@ -112,7 +112,7 @@ Barbara 發現我那個放滿女裝的袋子時，我更多是感到解脫。多
 _Jane Hamlin 是英國最大型的跨性別人士支援組織_ [_Beaumont Society_](https://www.beaumontsociety.org.uk/) _的主席。如果您的伴侶是跨性別人士，而您希望獲得幫助，歡迎瀏覽_ [_Beaumontsociety.org.uk/partners_](https://www.beaumontsociety.org.uk/partners-and-families.html)_。_
 
 原文來源：[【Yahoo專題】了解多元跨性別 締造和諧社會](https://hk.news.yahoo.com/topic/LGBTQ?uuid=5rqfiU5QN4EpplWY1151)
-
+<!-- tcd_original_link https://hk.news.yahoo.com/%E6%88%91%E7%9A%84%E4%B8%88%E5%A4%AB%E8%AE%8A%E6%80%A7%E7%82%BA%E5%A5%B3%E4%BA%BA-%E4%BD%86%E6%88%91%E5%80%91%E4%BB%8D%E7%84%B6%E5%9C%A8%E4%B8%80%E8%B5%B7-%E8%8B%B1%E5%9C%8B-%E8%B7%A8%E6%80%A7%E5%88%A5-%E5%A9%9A%E5%A7%BB-%E6%98%93%E6%9C%8D-%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93-lgbtq-lgbt-071055523.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

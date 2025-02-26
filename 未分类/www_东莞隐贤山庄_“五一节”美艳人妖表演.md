@@ -36,7 +36,7 @@
 [上一篇：东莞隐贤山庄举行旱木龙巡游](http://www.yinxianshanzhuang.com/mobile/news/318.html "东莞隐贤山庄举行旱木龙巡游")
 
 [下一篇：清凉一夏“五一节”相约隐贤山庄](http://www.yinxianshanzhuang.com/mobile/news/320.html "清凉一夏“五一节”相约隐贤山庄")
-
+<!-- tcd_original_link http://www.yinxianshanzhuang.com/mobile/news/319.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

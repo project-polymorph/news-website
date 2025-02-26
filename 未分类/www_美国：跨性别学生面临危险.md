@@ -54,7 +54,7 @@
 **捐款支持**: [Human Rights Watch](https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EP2022EVpgdonate&promo_id=1000)  
 Your tax deductible gift can help stop human rights violations and save lives around the world.  
 $50 | $100 | $250 | $500 | $1000 | Other $
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2016/09/14/united-states-transgender-students-risk -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

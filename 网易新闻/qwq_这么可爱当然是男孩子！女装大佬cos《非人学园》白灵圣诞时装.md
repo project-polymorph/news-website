@@ -54,7 +54,7 @@
 [![](https://nie.res.netease.com/comm/NIE_copyRight/images/netease.2.png)](http://www.163.com) [![](https://nie.res.netease.com/comm/NIE_copyRight/images/nie.2.png)](http://game.163.com) _[公司简介](http://gb.corp.163.com/gb/about/overview.html) - [客户服务](http://help.163.com/) - [网易游戏隐私政策及儿童个人信息保护规则](https://protocol.unisdk.netease.com/api/template/v90/latest.html?data=eyJnYW1laWQiOiJoNTIiLCJhcHBfY2hhbm5lbCI6Im5ldGVhc2UiLCJwbGF0Zm9ybSI6IncifQ) - [网易游戏](http://game.163.com/about/) - [商务合作](http://game.163.com/contact/business.html) - [加入我们](http://hr.game.163.com/index.html) -_ _网易公司版权所有 ©1997-2024 [点击查看家长关爱平台 >](https://jiazhang.gm.163.com/)_     [网络游戏行业防沉迷自律公约](https://game.163.com/fcm/)
 
 客服电话:95163517转806
-
+<!-- tcd_original_link https://qwq.163.com/2018/12/25/26841_792489.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

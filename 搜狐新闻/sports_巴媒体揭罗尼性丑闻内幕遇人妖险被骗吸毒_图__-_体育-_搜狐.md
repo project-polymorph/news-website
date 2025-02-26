@@ -55,7 +55,7 @@ Copyright © 2017 Sohu.com Inc. All Rights Reserved.
 [版权所有](https://corp.sohu.com/s2007/copyright/)  
 [全部新闻](https://roll.sohu.com)  
 [全部博文](https://blog.sohu.com/roll)
-
+<!-- tcd_original_link https://sports.sohu.com/20080430/n256594832_9.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -106,7 +106,7 @@
 （来源：京华时报记者张淑玲）
 
 标签：[赛区](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%B5%9B%E5%8C%BA) [总决赛](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%80%BB%E5%86%B3%E8%B5%9B) [佳丽](http://search.ifeng.com/sofeng/search.action?c=1&q=%E4%BD%B3%E4%B8%BD)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150923/44713102_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

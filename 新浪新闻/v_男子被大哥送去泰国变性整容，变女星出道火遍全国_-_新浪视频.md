@@ -18,7 +18,7 @@
 **标签**: 跨性别, 变性整容, 泰国
 
 **相关内容链接**: [打开新浪新闻 发现更多精彩](https://news.sina.cn)
-
+<!-- tcd_original_link https://v.sina.cn/weibo_ugc/2019-11-22/detail-iihnzhfz1067950.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

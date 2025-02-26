@@ -50,7 +50,7 @@
 - [小伙渴望变性 向媒体记者寻求帮忙](http://zjnews.zjol.com.cn/05zjnews/system/2004/10/13/003454313.shtml) 2004-10-13
 - [他变成她后还想有个孩子　记首例登记结婚变性人](http://zjnews.zjol.com.cn/05zjnews/system/2005/04/12/006090031.shtml) 2005-04-12
 - [临安变性人：“我们是中国最幸福的一对”](http://zjnews.zjol.com.cn/05zjnews/system/2005/04/08/006088495.shtml) 2005-04-08
-
+<!-- tcd_original_link https://zjnews.zjol.com.cn/05zjnews/system/2005/09/13/006302123.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -96,7 +96,7 @@
 *(责任编辑：guoqiang)*
 
 ---
-
+<!-- tcd_original_link http://news.sohu.com/20081215/n261208917.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

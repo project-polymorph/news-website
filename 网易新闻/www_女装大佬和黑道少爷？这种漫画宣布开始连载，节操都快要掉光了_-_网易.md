@@ -30,7 +30,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 作者: 一个热爱火影的90后  
 文章数: 2412  
 关注度: 991
-
+<!-- tcd_original_link https://www.163.com/dy/article/FCSA4PRK0535733Z.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

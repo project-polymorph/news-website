@@ -68,7 +68,7 @@
 **标签**: 跨性别, 艺人, 社会
 
 **版权**: 凤凰新媒体 版权所有 不得转载
-
+<!-- tcd_original_link https://news.ifeng.com/society/3/200704/0426_345_109635_2.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -80,7 +80,7 @@
 ![免责声明](https://inews.gtimg.com/newsapp_bt/0/1012205723968_6694/0)
 
 评论 0文明上网理性发言，请遵守《新闻评论服务协议》。
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20240908A05UYK00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

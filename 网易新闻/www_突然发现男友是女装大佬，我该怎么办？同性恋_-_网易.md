@@ -116,7 +116,7 @@ d酱在接受采访时说：「从短头发到长头发，从男装到日常女�
 \[4\] icj. Chapter seven: Gender Expression and Cross-dressing\[EB/OL\]. \[2022-08-05\]. [https://www.icj.org/sogi-casebook-introduction/chapter-seven-gender-expression-and-cross-dressing/](https://www.icj.org/sogi-casebook-introduction/chapter-seven-gender-expression-and-cross-dressing/).
 
 **特别声明**: 以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。
-
+<!-- tcd_original_link https://www.163.com/dy/article/I8Q1U9I30534CTXR.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

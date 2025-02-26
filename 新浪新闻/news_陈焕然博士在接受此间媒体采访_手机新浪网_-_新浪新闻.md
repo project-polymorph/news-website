@@ -43,7 +43,7 @@
 标签: 跨性别, 变性手术, 性别认知  
 作者: 中国新闻网  
 编辑: 未知
-
+<!-- tcd_original_link https://news.sina.cn/sa/2001-10-26/detail-ikknscsi0035026.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

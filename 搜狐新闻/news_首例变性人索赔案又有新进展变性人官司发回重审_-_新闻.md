@@ -30,7 +30,7 @@
 ---
 
 版权 © 2003 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有
-
+<!-- tcd_original_link http://news.sohu.com/87/42/news208774287.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

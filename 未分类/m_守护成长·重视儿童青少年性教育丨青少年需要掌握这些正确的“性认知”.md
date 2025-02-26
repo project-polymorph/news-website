@@ -66,7 +66,7 @@
 ![图片3](https://img2.voc.com.cn/2023/12/08/d7ed56ee765ba1627949113a7a8f8d5dc38dd7ea1702035785.jpg)
 
 ![图片4](https://img2.voc.com.cn/2022/08/05/52042acc04436d171b68454658033837fa325e901659689895.jpg)
-
+<!-- tcd_original_link https://m.voc.com.cn/xhn/news/202307/18387045.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -45,7 +45,7 @@
 - [张保庆：贫困子女失学和新文盲产生是教育失职](https://example.com/news/comnews/2005/11/content_22418.shtml)  
 
 ---
-
+<!-- tcd_original_link http://www.chinaedunet.com/news/comnews/2005/11/content_22410.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

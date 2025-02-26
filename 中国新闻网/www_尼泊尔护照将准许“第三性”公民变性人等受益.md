@@ -22,7 +22,7 @@
 **标签：**变性 尼泊尔 加德满都 高等 符永康 
 
 网友评论　以下留言仅代表网友个人观点
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/2013/06-12/4920739.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -56,7 +56,7 @@ Copyright © 2016 Kankanews.com Inc. All Rights Reserved.
 看东方（上海）传媒有限公司 版权所有  
 ![看看新闻APP](https://skin.kankanews.com/kknews/img/img_app_code.png)  
 [沪公网安备 31010602001114号](https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010602001114)
-
+<!-- tcd_original_link https://www.kankanews.com/detail/dVwrDzX5Ay0 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

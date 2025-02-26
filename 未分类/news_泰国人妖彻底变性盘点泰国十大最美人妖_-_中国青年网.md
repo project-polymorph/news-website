@@ -17,7 +17,7 @@
 ---
 
 版权信息：共青团中央主办 中国青年报主管 中国青年网版权所有
-
+<!-- tcd_original_link http://news.youth.cn/gj/201601/t20160125_7566093.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

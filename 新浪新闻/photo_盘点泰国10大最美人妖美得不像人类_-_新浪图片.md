@@ -52,7 +52,7 @@ Tiptantree Rujiranon 是2005年人妖选美冠军,目前活跃于泰国和东南
 说说你的看法  
 **标签**: 人妖, 泰国  
 **作者**: 新浪新闻官方  
-
+<!-- tcd_original_link https://photo.sina.cn/album_37_70445_336908.htm?ch=37 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

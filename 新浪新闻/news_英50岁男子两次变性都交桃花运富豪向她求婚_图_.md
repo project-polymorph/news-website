@@ -42,7 +42,7 @@
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 
 即刻评论内容可以在网页中进行。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2010-11-09/detail-ikmyaawa3190375.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

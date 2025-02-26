@@ -35,7 +35,7 @@ ALCAZAR每晚的演出是晚6：30、8：00和9：30，蒂芬妮的演出是晚 
 - [泰国美食——摇曳在唇边的诱惑(组图)](http://hunan.sina.com.cn/travel/message/2012-10-16/20902.html)
 
 版权所有 © 1996 - 2016 SINA Corporation, All Rights Reserved
-
+<!-- tcd_original_link http://hunan.sina.com.cn/travel/message/2012-10-16/20921.html?from=hunan_xgbd -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

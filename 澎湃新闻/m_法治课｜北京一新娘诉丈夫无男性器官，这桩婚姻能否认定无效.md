@@ -98,7 +98,7 @@
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 
 ![查看图片](http://image.thepaper.cn/www/image/5/778/608.jpg)
-
+<!-- tcd_original_link https://m.thepaper.cn/wifiKey_detail.jsp?contid=1694661&from=wifiKey -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

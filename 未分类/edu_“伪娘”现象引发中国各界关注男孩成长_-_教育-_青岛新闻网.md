@@ -25,7 +25,7 @@
 丁太升认为“伪娘”更不会影响其他孩子的成长，“即便他们不模仿‘伪娘’，可能也会追逐别的流行文化，我们不要低估孩子们对自己选择的判断，我们总以为他们不懂，其实他们什么都懂。”
 
 ![图片](http://t.qingdaonews.com/images/mblog_logo.gif)
-
+<!-- tcd_original_link https://edu.qingdaonews.com/content/2010-05/31/content_8391717_2.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

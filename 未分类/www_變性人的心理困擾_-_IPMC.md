@@ -39,7 +39,7 @@
 ---
 
 **版權:** 本文由心理學今日 (Psychology Today) 發表。
-
+<!-- tcd_original_link http://www.ipmc.uk/tw/newsdetailed?id=261 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

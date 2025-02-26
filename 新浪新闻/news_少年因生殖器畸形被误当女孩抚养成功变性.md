@@ -100,7 +100,7 @@
 **新浪新闻官方**  
 **热点资讯 精彩视频抢先看 5.0分好评**  
 **安装**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2010-08-26/detail-ikftssap3351098.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -72,8 +72,7 @@
 
 **用户5572063653**：真心的不懂变性人的人生观，价值观，世界观  
 **时间**：2015-05-31  
-
-
+<!-- tcd_original_link https://news.sina.cn/gj/2015-05-31/detail-icczmvup2620915.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

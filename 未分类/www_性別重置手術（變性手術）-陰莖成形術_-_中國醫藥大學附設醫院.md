@@ -61,7 +61,7 @@
 - Geolani W. Dy. Reconstructive Management Pearls for the Transgender Patient. Current Urology Reports (2018) 19: 36
 - Audry Kang et al. Techniques and considerations of prosthetic surgery after phalloplasty in the transgender male. Transl Androl Urol 2019;8(3):273-282
 - S. KIM et al. The Anatomy of Forearm Free Flap Phalloplasty for Transgender Surgery. Clinical Anatomy 31:145–151 (2018)
-
+<!-- tcd_original_link https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=7676 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

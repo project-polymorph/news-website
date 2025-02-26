@@ -55,7 +55,7 @@
 **转发至微博** 
 
 **版权声明**: © 新浪新闻 保护版权
-
+<!-- tcd_original_link https://news.sina.cn/sa/2007-04-17/detail-ikkntiam8946324.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

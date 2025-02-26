@@ -132,7 +132,7 @@
 
 **版权声明**
 本组报道为原创报道，转载请注明出处。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-01-11/detail-ikknscsi5479858.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

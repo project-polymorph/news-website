@@ -70,7 +70,7 @@
 **时间**: 2019年5月18日
 
 **来源**: BBC News 中文
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-69444101 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

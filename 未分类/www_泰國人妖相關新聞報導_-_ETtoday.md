@@ -89,7 +89,7 @@
 
 ### 版權聲明
 東森新媒體控股股份有限公司ETtoday新聞雲 版權所有 非經授權，不許轉載本網站內容 © ETtoday.net All Rights Reserved.
-
+<!-- tcd_original_link https://www.ettoday.net/news/tag/%E6%B3%B0%E5%9C%8B%E4%BA%BA%E5%A6%96/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

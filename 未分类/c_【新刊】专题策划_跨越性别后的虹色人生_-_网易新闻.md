@@ -145,7 +145,7 @@
 **独立 | 新锐 | 朴素 | 真实**  
 **做最好的学生杂志**  
 **让我们离理想更近**  
-
+<!-- tcd_original_link https://c.m.163.com/news/a/DE1A6TRM0525A150.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -31,7 +31,7 @@
 标签：[警方](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%AD%A6%E6%96%B9) [尸体](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%B0%B8%E4%BD%93) [身份证](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%BA%AB%E4%BB%BD%E8%AF%81)
 
 版权 © 2016 Phoenix New Media Limited All Rights Reserved.
-
+<!-- tcd_original_link https://news.ifeng.com/a/20151016/45202636_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -73,7 +73,7 @@
 **评论**：  
 [66人参与](https://gentie.ifeng.com/c/comment/8KhEQULmHLZ) | [7评论](https://gentie.ifeng.com/c/comment/8KhEQULmHLZ)   
 文明上网，不传谣言，登录评论！
-
+<!-- tcd_original_link https://news.ifeng.com/c/8KhEQULmHLZ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

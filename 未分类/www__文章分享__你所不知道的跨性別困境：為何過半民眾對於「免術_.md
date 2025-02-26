@@ -41,7 +41,7 @@
 * **作者:** 不明  
 * **编辑:** 不明  
 * **标签:** 跨性别, 性别认同, 法规, 社会, 医疗, 台湾
-
+<!-- tcd_original_link https://www.taiwanwomencenter.org.tw/zh-tw/NewsMgt/news/Content/72/news1110924a -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -37,7 +37,7 @@
 电话: +74956456601  
 **版权**: © 2024 Sputnik (卫星社) 所有权利均受保护  
 **备案号**: 京ICP备2020045094号-1  
-
+<!-- tcd_original_link https://sputniknews.cn/20200807/1031923892.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

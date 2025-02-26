@@ -45,7 +45,7 @@
 **标签**: [变性士兵](https://news.sina.cn/news_zt/keyword.d.html?vt=4&k=%E5%8F%98%E6%80%A7%E5%A3%AB%E5%85%B5)  
 **作者**: 参考消息  
 **编辑**: 参考消息
-
+<!-- tcd_original_link https://news.sina.cn/sa/2017-12-14/detail-ikmxzfmk4893175.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

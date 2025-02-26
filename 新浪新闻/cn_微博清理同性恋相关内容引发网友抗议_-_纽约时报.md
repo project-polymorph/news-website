@@ -66,7 +66,7 @@
 - [教材污名化同性恋，学生诉教育部](https://www.nytimes.com/20150821/c21sino-texts/)  
   **时间**: 2015年8月21日  
   ![教材污名化同性恋，学生诉教育部](https://static01.nyt.com/images/2015/08/19/world/18sino-textbook01/18sino-textbook01-thumbLarge-v2.jpg)
-
+<!-- tcd_original_link https://cn.nytimes.com/china/20180416/china-gay-ban-sina-weibo-/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

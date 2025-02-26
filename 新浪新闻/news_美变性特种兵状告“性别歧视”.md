@@ -40,7 +40,7 @@
 《江南时报》(2005年10月23日第十六版)
 
 ![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-10-23/detail-ikknscsi8073176.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -26,7 +26,7 @@
 呜呼，世固有癖好若此者，情岂独在内哉？
 
 **转载请注明转载网址：** [http://www.6mj.com/news/gudai/106181499868GCG8F86HD83GE13JG.htm](http://www.6mj.com/news/gudai/106181499868GCG8F86HD83GE13JG.htm)
-
+<!-- tcd_original_link https://www.6mj.com/news/gudai/106181499868GCG8F86HD83GE13JG.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

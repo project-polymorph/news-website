@@ -78,7 +78,7 @@
 ---
 
 来源: [慧咨环球](http://www.wisetechglobal.com/)
-
+<!-- tcd_original_link https://www.wisetechglobal.com/zh-cn/news/they-them-theirs-helen-brand-on-finding-the-strength-to-live-authentically/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

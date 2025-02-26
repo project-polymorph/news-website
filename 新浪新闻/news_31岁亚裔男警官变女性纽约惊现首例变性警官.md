@@ -32,7 +32,7 @@
 让琼·罗备感欣慰的是，上司现在已经不仅完全接受了她的新性别，而且还特意安排了一间单独的更衣室供她专用。（新闻午报）
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-06-24/detail-ikknscsi7062981.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -26,7 +26,7 @@
 - [羊儿响叮当](https://gentie.ifeng.com/myComments?guid=68609252) \[福建省福州市网友\]  
   请问，怎么XXoo啊？求科普  
   _2017-06-13 23:37_  
-
+<!-- tcd_original_link https://news.ifeng.com/a/20170613/51237054_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -41,7 +41,7 @@
 ---
 
 版权 © 1996 - 2002 SINA.com, Stone Rich Sight. All Rights Reserved!
-
+<!-- tcd_original_link http://eladies.sina.com.cn/2001-09-27/44033.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

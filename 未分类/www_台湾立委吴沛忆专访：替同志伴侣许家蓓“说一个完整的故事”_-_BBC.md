@@ -187,7 +187,7 @@ Play video, "台湾同志游行逾18万人参与 海内外民众共襄盛举", �
 -   ![ELLEN LOO](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/17344/production/_102844059_cna.jpg.webp)  
     ### [“香港之光”卢凯彤离世：32岁歌手的跌宕人生](https://www.bbc.com/zhongwen/simp/chinese-news-45082897)  
     2018年8月6日
-
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/chinese-news-69441788 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

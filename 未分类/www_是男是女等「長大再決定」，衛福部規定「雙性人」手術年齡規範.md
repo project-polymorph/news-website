@@ -77,7 +77,7 @@
 - [性發展障礙症候群](https://www.thenewslens.com/tag/180330)
 
 你認同本文的觀點嗎？我們想聽聽你的看法。
-
+<!-- tcd_original_link https://www.thenewslens.com/article/107534 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -81,7 +81,7 @@
 - [艾略特・佩吉](https://www.thenewslens.com/tag/230957)
 - [國際跨性別現身日](https://www.thenewslens.com/tag/239601)
 - [LGBTQ+](https://www.thenewslens.com/tag/239602)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/148780 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

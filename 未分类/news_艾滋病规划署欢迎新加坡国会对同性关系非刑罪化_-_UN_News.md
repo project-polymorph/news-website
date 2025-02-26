@@ -33,7 +33,7 @@
 - [新加坡](/zh/tags/xinjiapo)
 
 ![](https://mc.yandex.ru/watch/98581370)
-
+<!-- tcd_original_link https://news.un.org/zh/story/2022/12/1112932 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

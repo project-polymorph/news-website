@@ -177,7 +177,7 @@
 版权所有：[尚泰康民（北京）国际健康管理有限公司](#)  
 ![](/uploads/单页图文/曼谷医院/20180412170129287.jpg)  
 **吉ICP备17005968号-1**
-
+<!-- tcd_original_link http://www.shangtaikangmin.com/News-1080.html?l=408 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

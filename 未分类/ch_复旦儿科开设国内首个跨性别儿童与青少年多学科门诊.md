@@ -51,7 +51,7 @@
 **COPYRIGHT 2006 ch.shmu.edu.cn ALLRIGHTS BY RESERVED 复旦大学附属儿科医院版权所有**
 
 ![](/static/index/images/front/erweima.png)
-
+<!-- tcd_original_link https://ch.shmu.edu.cn/news/content/pid/13742.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

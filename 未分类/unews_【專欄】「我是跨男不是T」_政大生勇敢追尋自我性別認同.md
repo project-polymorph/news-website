@@ -32,7 +32,7 @@
 ---
 
 **标签**：[跨性別](/uSearch/跨性別) , [專欄](/uSearch/專欄) , [LGBTQ+](/uSearch/LGBTQ+) , [女跨男](/uSearch/女跨男)
-
+<!-- tcd_original_link https://unews.nccu.edu.tw/unews/%EF%BC%88f%EF%BC%89%E3%80%90%E5%B0%88%E6%AC%84%E3%80%91%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

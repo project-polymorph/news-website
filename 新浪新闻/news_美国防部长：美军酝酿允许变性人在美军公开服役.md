@@ -22,7 +22,7 @@
 （原标题：美国防部长：美军酝酿允许变性人在美军公开服役）
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/2015-07-14/detail-ifxewnia9276030.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

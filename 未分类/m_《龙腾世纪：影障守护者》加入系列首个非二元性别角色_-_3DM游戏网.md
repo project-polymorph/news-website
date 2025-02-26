@@ -50,7 +50,7 @@
 版权信息: 
 - CopyRight©2003-2018 违法和不良信息举报（021-54473036） All Right Reserved
 - 京ICP备14006952号-1  京B2-20201630   京网文（2019）3652-335号  [沪公网安备 31011202006753号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011202006753)
-
+<!-- tcd_original_link https://m.3dmgame.com/news/202411/3907694.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

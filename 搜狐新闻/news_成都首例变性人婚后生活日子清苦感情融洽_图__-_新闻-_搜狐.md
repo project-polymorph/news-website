@@ -67,7 +67,7 @@
 ---
 
 转自搜狐
-
+<!-- tcd_original_link http://news.sohu.com/20040906/n221896421.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

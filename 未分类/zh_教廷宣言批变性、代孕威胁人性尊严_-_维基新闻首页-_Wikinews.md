@@ -74,7 +74,7 @@
 维基新闻上的文章带有时效性，反映新闻被撰写及发表的当下时间，不包含发表后才发生或为人所知的事件或知识。
 
 如果确实需要修正错误，请在[讨论页](/w/index.php?title=Talk:%E6%95%99%E5%BB%B7%E5%AE%A3%E8%A8%80%E6%89%B9%E8%AE%8A%E6%80%A7%E3%80%81%E4%BB%A3%E5%AD%95%E5%A8%81%E8%84%85%E4%BA%BA%E6%80%A7%E5%B0%8A%E5%9A%B4&action=edit&redlink=1 "Talk:教廷宣言批变性、代孕威胁人性尊严（页面不存在）")提出你的修改建议，并且[通知管理员注意](/wiki/Wikinews:%E7%AE%A1%E7%90%86%E5%91%98%E9%80%9A%E5%91%8A%E6%9D%BF/%E6%96%B0%E8%81%9E%E9%A0%81%E9%9D%A2#修改已保護頁面 "Wikinews:管理员通告板/新闻页面")。
-
+<!-- tcd_original_link https://zh.wikinews.org/zh-cn/%E6%95%99%E5%BB%B7%E5%AE%A3%E8%A8%80%E6%89%B9%E8%AE%8A%E6%80%A7%E3%80%81%E4%BB%A3%E5%AD%95%E5%A8%81%E8%84%85%E4%BA%BA%E6%80%A7%E5%B0%8A%E5%9A%B4 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

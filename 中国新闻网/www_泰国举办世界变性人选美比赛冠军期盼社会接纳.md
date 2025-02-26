@@ -57,7 +57,7 @@
 - [世界变性人选美比赛在泰举行 泰国选手夺冠(图)](http://www.chinanews.com.cn/yl/zyxw/news/2007/11-11/1074216.shtml)
 - [泰国水底婚礼明年首度对同性恋与变性人开放](http://www.chinanews.com.cn/gj/dqsj/news/2007/08-24/1010059.shtml)
 - [变性人大跳钢管舞 异想天开"要当谋女郎"（图）](http://www.chinanews.com.cn/yl/zyxw/news/2007/07-24/986399.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/sh/news/2007/11-13/1075415.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

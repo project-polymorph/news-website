@@ -29,7 +29,7 @@
 --- 
 
 共青团中央主办 中国青年报主管 中国青年网版权所有
-
+<!-- tcd_original_link http://news.youth.cn/gj/201604/t20160427_7917023.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

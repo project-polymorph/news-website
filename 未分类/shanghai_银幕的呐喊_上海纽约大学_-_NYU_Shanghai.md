@@ -30,7 +30,7 @@ Hamer和Wilson提到在中国放映“KUMU HINA”遭遇的挫折，希望LGBTQ�
 ![活动图片](https://cdn.shanghai.nyu.edu/sites/default/files/media/untitled-940.jpg)
 
 ![Facebook Tracking](https://www.facebook.com/tr?id=1103277616794895&ev=PageView&noscript=1)
-
+<!-- tcd_original_link https://shanghai.nyu.edu/cn/news/yin-mu-de-ne-han -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

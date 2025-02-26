@@ -36,7 +36,7 @@
 ## 热门评论点击查看更多 { data-search-exclude }
 
 ## 快来新闻客户端参与评论获金币兑礼品吧！ { data-search-exclude }
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-06-09/detail-ikknscsi0579172.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

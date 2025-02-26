@@ -59,7 +59,7 @@
 - 11-08-24·[泥瓦匠买B超机鉴定胎儿性别 致孕妇堕胎被批捕](https://news.sohu.com/20110824/n317162629.shtml)  
 - 09-12-16·[学生基本情况、新学期努力的目标范例](https://wenda.sohu.com/question/70070321.html?p=w57)  
 - 10-10-09·[谁能帮我写一份班级组织委员新学期工作计划书?谢](https://wenda.sohu.com/question/136421368.html?p=w57)
-
+<!-- tcd_original_link http://news.sohu.com/20110918/n319714914.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

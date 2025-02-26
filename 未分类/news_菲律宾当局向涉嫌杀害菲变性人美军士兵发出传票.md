@@ -24,7 +24,7 @@
 据透露，受害者劳德的姐姐和奥隆阿波市警方日前已向当地检察官办公室控告涉案的美军士兵佩伯顿犯有谋杀罪。菲总统府官员17日则声称，菲当局会坚决为受害者伸张正义。(完)
 
 ![图片](http://img.ifeng.com/page/Logo.gif)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20141017/42232703_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -152,7 +152,7 @@
   思想坦克Voicettank • 2024年10月20日 早上 07:00  
   ### [「免術換證」爭議背後──小心認知作戰！](https://tw.news.yahoo.com/%E3%80%8C%E5%85%8D%E8%A1%93%E6%8F%9B%E8%AD%89%E3%80%8D%E7%88%AD%E8%AD%B0%E8%83%8C%E5%BE%8C%E2%94%80%E2%94%80%E5%B0%8F%E5%BF%83%E8%AA%8D%E7%9F%A5%E4%BD%9C%E6%88%B0%EF%BC%81-230004975.html)  
   ...Getty Images Anastassiya Bezhekeneva via Getty Images ⊙娜娜扣 近期「免術換證」再次浮上檯面，這也促使越來越多民眾關注這項議題。 免術換證議題主軸在於探討跨性別者是否可以不需要先經過變性手術即可換發身分證件。今年8月，一名生理性別為男性、心理認同為女性的跨性別民眾成功打贏「免術換證」訴訟，並取得符合其認同的女性身分證。這個事件引起民眾討論，也有網友藉此在社群平台上發文，想了解各界、網友對此次見的看法...
-
+<!-- tcd_original_link https://tw.news.yahoo.com/tag/%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

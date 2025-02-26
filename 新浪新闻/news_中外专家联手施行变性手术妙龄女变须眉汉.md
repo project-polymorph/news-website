@@ -42,7 +42,7 @@
 ---
 
 ![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-04-13/detail-ikkntiak9802119.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

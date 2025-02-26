@@ -86,7 +86,7 @@ Ethan对于这样的改变感到高兴，这显示出对跨性别人士，以及
 请选择1项
 
 开心 认同 生气 伤心 不关心 喜欢
-
+<!-- tcd_original_link https://www.chineseherald.co.nz/news/new-zealand/nonbinary-finery-the-kiwis-whose-gender-doesnt-fit-in-a-neat-little-box/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

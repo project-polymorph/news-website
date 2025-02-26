@@ -76,7 +76,7 @@
 题图来自 Wikimedia Commons
 
 © 2017 THE NEW YORK TIMES
-
+<!-- tcd_original_link http://itech.ifeng.com/44580885/news.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -88,7 +88,7 @@
 李银河认为，刘霆的选择很勇敢，变性手术让刘霆找到真正的自我。与此同时，李银河也提出，像刘霆这样的跨性别人群，身体的改变可以通过一个手术达到，但是在整个社会对这群人的接纳方面，还需要更多的宽容。李银河希望人们可以体会和体谅他们的心，体谅他们的愿望。
 
 **标签**：[刘霆](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%88%98%E9%9C%86) [模范](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%A8%A1%E8%8C%83) [还性](http://search.ifeng.com/sofeng/search.action?c=1&q=%E8%BF%98%E6%80%A7) 
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150409/43511939_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

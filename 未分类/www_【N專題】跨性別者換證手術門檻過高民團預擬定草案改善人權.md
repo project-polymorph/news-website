@@ -107,7 +107,7 @@
 
 #### About 新聞人
 [View all posts by 新聞人 →](https://www.newspeople.com.tw/author/np/)
-
+<!-- tcd_original_link https://www.newspeople.com.tw/npro-220829-01/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

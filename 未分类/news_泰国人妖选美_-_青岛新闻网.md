@@ -68,7 +68,7 @@
 ![泰国人妖选美](../../../images/attachement/jpg/site1/20140329/984be1eaaf8114a0414f2c.jpg)
 
 ![泰国人妖选美](../../../images/attachement/jpg/site1/20140329/984be1eaaf8114a0414f2d.jpg)
-
+<!-- tcd_original_link https://news.qingdaonews.com/shehui/2014-03/29/content_10354988_all.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -41,7 +41,7 @@
 **版权声明:** 中国中央电视台 版权所有 [京ICP备05065290号](http://www.miibeian.gov.cn/)  
 **联系方式:** [联系我们](http://www.cctv.com/service/contact/index.shtml)  
 **预警链接:** [网上传播视听节目许可证号 0102004](http://www.miibeian.gov.cn/)
-
+<!-- tcd_original_link http://news.cctv.com/society/20070403/102433.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

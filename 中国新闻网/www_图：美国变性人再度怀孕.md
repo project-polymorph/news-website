@@ -39,7 +39,7 @@
 - [图：变性人在菲律宾首都展身姿](http://www.chinanews.com.cn/gj/kong/news/2008/10-18/1416829.shtml)
 - [图：菲律宾举行“变性人”选美大赛](http://www.chinanews.com.cn/tp/news/2008/10-08/1404425.shtml)
 - [有人工阴茎才行 台新行政命令让变性人恐慌(图)](http://www.chinanews.com.cn/tw/mswx/news/2008/09-24/1391942.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/gjxw/news/2008/11-14/1449656.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

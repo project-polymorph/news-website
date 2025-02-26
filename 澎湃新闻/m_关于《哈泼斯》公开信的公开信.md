@@ -255,7 +255,7 @@ J.K.罗琳，签名者之一，在推特上喋喋不休地谈论跨性别恐惧�
 - Kerry Jo Green, Academia, Brandeis University
 
 责任编辑：韩少华
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_8313061 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

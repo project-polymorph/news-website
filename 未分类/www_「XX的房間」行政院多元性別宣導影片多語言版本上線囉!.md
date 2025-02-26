@@ -32,7 +32,7 @@
 
 - ![我的E政府](https://www.gov.tw/ "[另開新視窗]我的E政府 [另開新視窗]")  
 - ![通過AA等級無障礙網頁檢測](https://accessibility.moda.gov.tw/Applications/Detail?category=20231016102631 "[另開新視窗]通過AA等級無障礙網頁檢測")
-
+<!-- tcd_original_link https://www.ttcsec.gov.tw/News_Content.aspx?n=2439&s=82023 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

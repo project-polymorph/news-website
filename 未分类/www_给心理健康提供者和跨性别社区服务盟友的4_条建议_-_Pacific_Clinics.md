@@ -38,7 +38,7 @@
 ![教育计划](https://www.pacificclinics.org/wp-content/uploads/2023/08/BH-menu-image.jpg)
 
 ![支持服务](https://www.pacificclinics.org/wp-content/uploads/2023/08/Social-services.jpg)
-
+<!-- tcd_original_link https://www.pacificclinics.org/zh-CN/news/4-tips-for-mental-health-providers-and-allies-serving-the-transgender-community/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

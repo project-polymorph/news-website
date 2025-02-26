@@ -195,7 +195,7 @@ _—Kurt Cobain_
 ![Image](http://5b0988e595225.cdn.sohucs.com/images/20170908/19a70ce8f2b24e449747707c029a5d85.jpeg)
 
 **自我介绍**：我们喜欢探求生活中的方方面面，我们很理性，我们偶尔疯癫，我们爱时尚，我们讨厌一成不变......我们致力于成为不一样的时尚生活信息来源，带给你每天更多的灵感和想象！
-
+<!-- tcd_original_link https://www.sohu.com/a/190724435_305986 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

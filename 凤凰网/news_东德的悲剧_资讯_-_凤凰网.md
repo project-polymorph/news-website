@@ -43,7 +43,7 @@
 --- 
 
 *标签：1986年，东德，门格勒*
-
+<!-- tcd_original_link https://news.ifeng.com/special/eastgermany/200808/0806_4193_700625_1.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

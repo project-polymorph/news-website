@@ -10,7 +10,7 @@
 ![](http://i2.chinanews.com/shipin/2018/image/bnt2.jpg) 
 
 ![](http://i2.chinanews.com/shipin/2018/image/bnt1.jpg)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/gj/shipin/2019/03-14/news807422.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

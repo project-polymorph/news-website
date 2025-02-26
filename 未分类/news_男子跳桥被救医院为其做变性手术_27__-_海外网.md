@@ -35,7 +35,7 @@
 
 - [俄罗斯泥火山壮观景象](http://news.haiwainet.cn/n/2015/0819/c3541092-29076544.html)  
   ![俄罗斯泥火山壮观景象](http://images.haiwainet.cn/2015/0819/20150819041928172.jpg)
-
+<!-- tcd_original_link http://news.haiwainet.cn/n/2015/0820/c3541092-29078406-2.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

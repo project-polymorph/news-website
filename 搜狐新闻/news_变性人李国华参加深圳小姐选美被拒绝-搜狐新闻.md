@@ -135,7 +135,7 @@
 总第274期　2006年08月25日 编辑：刘鑫炎
 
 Copyright © 2017 Sohu.com Inc. All Rights Reserved. [搜狐公司版权所有](http://corp.sohu.com/s2007/copyright/)
-
+<!-- tcd_original_link http://news.sohu.com/s2006/06szxiaojie/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

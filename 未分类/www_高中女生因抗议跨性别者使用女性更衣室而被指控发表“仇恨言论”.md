@@ -24,7 +24,7 @@ YMCA 表示：“作为一个开放包容的机构，我们欢迎所有人的加
 - 共有 0 条评论
 
 **标签:**  #跨性别 #更衣室 #高中 #YMCA
-
+<!-- tcd_original_link https://www.guruin.com/news/65408 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

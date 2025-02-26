@@ -33,7 +33,7 @@
 
 **版权**：中国中央电视台 版权所有  
 **声明**：文章内容未经编辑，保留原文完整性。
-
+<!-- tcd_original_link http://news.cctv.com/science/20070803/113502.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

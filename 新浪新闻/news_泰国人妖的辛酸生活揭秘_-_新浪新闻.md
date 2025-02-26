@@ -33,8 +33,7 @@
 **来源**: (大江网-江南都市报)  
 **版权**: © 1996 - 2004 SINA Inc. All Rights Reserved  
 **标签**: 跨性别，性别认同，社会现象  
-
-
+<!-- tcd_original_link http://news.sina.com.cn/c/2004-01-08/07221535499s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

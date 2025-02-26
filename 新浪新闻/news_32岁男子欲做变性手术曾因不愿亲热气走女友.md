@@ -63,7 +63,7 @@
 **2005-04-25**  
 新浪网友  
 ****回复TA**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-04-25/detail-ikknscsi6493449.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

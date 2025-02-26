@@ -43,7 +43,7 @@
 版权所有 2000-2009 北京周报社  
 京ICP备08005356号  
 本网站所刊登的北京周报及北京周报网各种新闻﹑信息和各种专题专栏资料，均为北京周报社版权所有。
-
+<!-- tcd_original_link http://www.beijingreview.com.cn/2009news/renwu/2007-02/08/content_201205.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

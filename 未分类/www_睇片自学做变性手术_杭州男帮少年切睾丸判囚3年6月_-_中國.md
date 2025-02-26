@@ -40,7 +40,7 @@
 
 **版权**: 明报网站 · 版权所有 · 不得转载  
 Copyright © 2018 mingpaocanada.com All rights reserved. **Ming Pao Daily News** A wholly owned subsidiary of Ming Pao Enterprise Corporation Ltd. Toronto Chinese Newspaper
-
+<!-- tcd_original_link https://www.mingpaocanada.com/tor/htm/News/20180922/tcbk1.htm?m=0 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -129,7 +129,7 @@
 -   [羊皮下的狼？：跨性別者使用廁所的權力](https://www.thenewslens.com/article/42129)
 -   [跨性別專題》不知該如何與跨性別者相處？你可以這麼做](https://www.thenewslens.com/feature/2016transgender/35720)
 -   [跨性別女性將被完全禁止參加女子田徑賽事，世界田徑總會：女性運動員的公平性是第一考量](https://www.thenewslens.com/article/183029)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/186676 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

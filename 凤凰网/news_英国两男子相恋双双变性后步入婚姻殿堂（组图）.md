@@ -14,7 +14,7 @@
 ![Stephanie（图右）向公众寻求捐款来实现她们梦想的婚礼。](http://y1.ifengimg.com/cmpp/2015/01/09/14/dd6ae64c-304d-48b3-afb4-3a49ceb7005a.jpg)
 
 Stephanie（图右）向公众寻求捐款来实现她们梦想的婚礼。
-
+<!-- tcd_original_link https://news.ifeng.com/a/20150109/42897806_2.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

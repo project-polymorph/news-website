@@ -43,7 +43,7 @@
 
 ![相关图片](http://img.ifeng.com/tres/news/d091229001.jpg)  
 [欢迎订阅凤凰网资讯电子期刊](http://news.ifeng.com/edm/)
-
+<!-- tcd_original_link https://news.ifeng.com/photo/news/201001/0105_1397_1499102.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

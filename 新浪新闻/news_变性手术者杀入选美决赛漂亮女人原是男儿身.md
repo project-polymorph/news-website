@@ -78,7 +78,7 @@
 **新浪网友0**  
 **无聊**  
 **时间**：2003-09-15
-
+<!-- tcd_original_link https://news.sina.cn/sa/2003-04-01/detail-ikkntiak7272953.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -33,7 +33,7 @@
 - [不断积累经验 实现规范目标](../../../../xxh/fei/xin_xi_zi_xun/200603/t20060323_133327.shtml)
 
 ![教育信息化资讯微信二维码](/c_images/xxh/erweima.jpg)
-
+<!-- tcd_original_link https://www.edu.cn/edu/xue_qian/xue_qian_news/200603/t20060323_18075.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

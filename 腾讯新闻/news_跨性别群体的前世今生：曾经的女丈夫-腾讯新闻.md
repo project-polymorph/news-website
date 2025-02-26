@@ -91,7 +91,7 @@
 2. 风大  
    “好文章！”  
    山东网友（6月29日）
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20240626A093HI00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

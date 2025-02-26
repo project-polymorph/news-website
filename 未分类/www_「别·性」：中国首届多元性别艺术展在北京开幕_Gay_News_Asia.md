@@ -35,7 +35,7 @@
 ### Fridae 刊登之相关文章
 
 - [全球华人同志电影大丰收──第四届北京酷儿影展开幕](/sc/gay-news/2009/06/20/8483.quanqiuhuarentongzhidianyingdafengshoudisijiebeijingkueryingzhankaimu)
-
+<!-- tcd_original_link https://www.fridae.asia/sc/gay-news/2009/06/18/8488.biexingzhongguoshoujieduoyuanxingbieyishuzhanzaibeijingkaimu -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

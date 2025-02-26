@@ -112,7 +112,7 @@
 更正下，应该是“剪”。  
 **2022-06-19**  
 **上海**  
-
+<!-- tcd_original_link https://news.sina.cn/2022-06-19/detail-imizirau9379133.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

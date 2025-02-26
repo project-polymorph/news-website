@@ -38,7 +38,7 @@
 
 ##### 版权
 © 2010 中国新闻网。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/yl/yl-zyxw/news/2010/02-26/2140762.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

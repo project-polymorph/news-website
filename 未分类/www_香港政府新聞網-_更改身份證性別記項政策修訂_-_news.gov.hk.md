@@ -28,7 +28,7 @@
 **日期：** 2024年1月18日
 
 [登記事項證明書可網上申請](https://www.iamsmart.gov.hk/tc/)
-
+<!-- tcd_original_link https://www.news.gov.hk/chi/2024/04/20240403/20240403_114508_470.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

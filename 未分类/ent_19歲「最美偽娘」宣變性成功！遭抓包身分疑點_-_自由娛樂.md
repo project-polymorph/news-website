@@ -59,7 +59,7 @@ Abbily14歲就在網上爆紅。（翻攝自我叫Abbily微博）
   
 - ![17歲正妹養蚊子 白皙長腿餵血影片引網暴動](assets/images/400S.jpg)  
   [17歲正妹養蚊子 白皙長腿餵血影片引網暴動](https://news.ltn.com.tw/news/novelty/breakingnews/3420414?utm_source=ENT&utm_medium=relatedNews&utm_campaign=ltn_customize)
-
+<!-- tcd_original_link https://ent.ltn.com.tw/news/breakingnews/3489062 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

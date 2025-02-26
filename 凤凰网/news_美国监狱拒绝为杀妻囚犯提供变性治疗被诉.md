@@ -32,7 +32,7 @@
 - **self-defense**：正当防卫
 - **gender identity disorder**：性身份障碍，性别紊乱症
 - **endocrinologist**：内分泌学家
-
+<!-- tcd_original_link https://news.ifeng.com/world/oddnews/200802/0228_2593_416881.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

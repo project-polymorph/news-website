@@ -54,7 +54,7 @@
 这个问题啊，嗯，其实对于新加坡来说，确实是个棘手的难题。变性囚犯嘛，这个嘛，我觉得可以从法律和人权的角度来考虑。
 
 2023-11-08
-
+<!-- tcd_original_link https://m.163.com/dy/article/IIVNH1040514BR2R.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

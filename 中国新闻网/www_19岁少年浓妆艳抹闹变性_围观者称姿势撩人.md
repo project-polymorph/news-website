@@ -45,7 +45,7 @@
 
 **评论**: [进入社区](http://club.chinanews.com.cn/) | [查看评论](http://comment.chinanews.com.cn/comments/comments.php?newsid=1645091)  
 **版权**: 转载请注明出处。
-
+<!-- tcd_original_link https://www.chinanews.com.cn/sh/news/2009/04-14/1645091.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -24,7 +24,7 @@
 ## 附加檔案 { data-search-exclude }
 
 ![PDF icon](/modules/file/icons/application-pdf.png) [行政院「我國多元性別(LGBTI)者生活狀況調查」委託研究報告.pdf](https://equallove.tw/sites/default/files/att-file/%E8%A1%8C%E6%94%BF%E9%99%A2%E3%80%8C%E6%88%91%E5%9C%8B%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5%28LGBTI%29%E8%80%85%E7%94%9F%E6%B4%BB%E7%8B%80%E6%B3%81%E8%AA%BF%E6%9F%A5%E3%80%8D%E5%A7%94%E8%A8%97%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A.pdf)
-
+<!-- tcd_original_link https://equallove.tw/news/1859 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

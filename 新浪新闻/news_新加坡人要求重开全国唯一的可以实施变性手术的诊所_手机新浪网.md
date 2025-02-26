@@ -21,7 +21,7 @@
 1971年新加坡实施了有史以来的第一例变性手术，此后在1980年至2000年间，接受变性手术者达到409人。
 
 ![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
-
+<!-- tcd_original_link https://news.sina.cn/sa/2001-06-22/detail-ikkntiak6806904.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

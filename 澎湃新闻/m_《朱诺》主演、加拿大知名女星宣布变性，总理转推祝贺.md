@@ -72,7 +72,7 @@ Elliot在杰森·瑞特曼（Jason Reitman）的电影《朱诺（Juno）》（2
 ---
 
 **原标题**: 《《朱诺》主演、加拿大知名女星宣布变性，总理转推祝贺**
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_10246535 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

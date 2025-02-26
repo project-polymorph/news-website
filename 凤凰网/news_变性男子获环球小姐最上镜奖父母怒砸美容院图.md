@@ -93,7 +93,7 @@
 
 **版权**: 凤凰新媒体 版权所有，不得转载。  
 **评论**: [点击这里发表评论](http://cmt.ifeng.com/viewcmts.do?chId=20&docId=30805&docName=%e5%8f%98%e6%80%a7%e7%94%b7%e5%ad%90%e8%8e%b7%e7%8e%af%e7%90%83%e5%b0%8f%e5%a7%90%e6%9c%80%e4%b8%8a%e9%95%9c%e5%a5%96+%e7%88%b6%e6%af%8d%e6%80%92%e7%a0%b8%e7%be%8e%e5%ae%b9%e9%99%a2%2f%e5%9b%be&docUrl=http%3a%2f%2fnews.ifeng.com%2fsociety%2f200611%2f1110_20_30805.shtml)
-
+<!-- tcd_original_link https://news.ifeng.com/society/200611/1110_20_30805.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

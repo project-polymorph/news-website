@@ -35,7 +35,7 @@
 ![家庭](https://www.pacificclinics.org/wp-content/uploads/2023/08/Family.jpg)
 ![教育计划](https://www.pacificclinics.org/wp-content/uploads/2023/08/BH-menu-image.jpg)
 ![支持服务](https://www.pacificclinics.org/wp-content/uploads/2023/08/Social-services.jpg)
-
+<!-- tcd_original_link https://www.pacificclinics.org/zh-CN/news/helpful-tips-on-collecting-client-sexual-orientation-gender-identity-and-expression-information-sogie/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

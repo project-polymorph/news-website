@@ -45,7 +45,7 @@
 [关于我们](http://www.ertcw.com/about/about.html) | [联系方式](http://www.ertcw.com/about/contact.html) | [使用协议](http://www.ertcw.com/about/agreement.html) | [隐私政策](http://www.ertcw.com/about/copyright.html)  
 
 (c)2008-2018 ERTCW.COM All Rights Reserved 备案号：粤ICP备14075974号-44
-
+<!-- tcd_original_link http://m.ertcw.com/news/show/139937/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

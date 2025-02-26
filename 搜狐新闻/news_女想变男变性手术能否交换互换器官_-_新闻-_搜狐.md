@@ -27,7 +27,7 @@
 ---
 
 **版权：** © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 [版权所有](https://www.sohu.com/about/copyright.html)
-
+<!-- tcd_original_link http://news.sohu.com/2003/11/23/97/news215939773.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -30,7 +30,7 @@ MIA „Rossiya Segodnya“
 © 2024 Sputnik (卫星社) 所有权利均受保护  
 [Feedback](# "反馈")  
 [隐私政策](https://docs/privacy_policy.html)  
-
+<!-- tcd_original_link https://sputniknews.cn/20210903/1034403823.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -28,7 +28,7 @@
 - [组图](http://so.cntv.cn/search.php?qtext=组图&sid=0000&pid=0000)
 
 责任编辑：孙人民
-
+<!-- tcd_original_link http://news.cntv.cn/20120215/117680.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

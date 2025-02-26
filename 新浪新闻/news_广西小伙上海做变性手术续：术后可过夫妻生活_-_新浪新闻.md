@@ -25,7 +25,7 @@
 【[发表评论](http://comment4.news.sina.com.cn/comment/comment4.html?channel=sh&newsid=1-1-10152533&style=0)】  
 【[相关链接](http://news.sina.com.cn/s/2006-06-13/150010144335.shtml)】  
 **版权**: 本文版权归[新浪网](http://www.sina.com.cn)所有，转载请注明来源。
-
+<!-- tcd_original_link https://news.sina.com.cn/s/2006-06-14/104810152533.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -17,7 +17,7 @@
 新加坡定向越野總會今年首次辦理東南亞定向越野巡迴世界排名賽，賽事將分別在新加坡Clementi Community Centre與Senja Cashew Community Club進行2天短距離賽。
 
 除地主新加坡選手與[**中華隊**](https://udn.com/search/tagging/2/中華隊)之外，還有來自巴西、挪威、香港、澳洲、印尼、馬來西亞等國家好手報名參加這項新加坡國際定向越野賽事，競爭相當激烈。
-
+<!-- tcd_original_link https://udn.com/news/story/7005/8331460 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

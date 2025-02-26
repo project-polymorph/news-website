@@ -45,7 +45,7 @@
 **编辑：** 高程程  
 
 ---
-
+<!-- tcd_original_link https://sd.sina.com.cn/fashion/dress/2014-05-14/101663632.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

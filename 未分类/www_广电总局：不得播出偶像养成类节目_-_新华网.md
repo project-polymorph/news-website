@@ -36,7 +36,7 @@
 
 版权 © 2000 - 2024 XINHUANET.com　All Rights Reserved.  
 制作单位：新华网股份有限公司　　版权所有：新华网股份有限公司
-
+<!-- tcd_original_link http://www.news.cn/politics/2021-09/02/c_1127820539.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -112,7 +112,7 @@
 
 - Jessica N. Schardein.et al. Management of Vaginoplasty and Phalloplasty Complications. Urol Clin N Am 46 (2019) 605–618
 - Wouter B. van der. Et al. Laparoscopic Intestinal Vaginoplasty in Transgender Women An Update on Surgical Indications, Operative Technique, Perioperative Care, and Short- and Long-Term Postoperative Issues. Urol Clin N Am 46 (2019) 527–539
-
+<!-- tcd_original_link https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=7612 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

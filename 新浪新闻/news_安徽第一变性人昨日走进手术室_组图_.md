@@ -68,7 +68,7 @@
 **新浪网友**  
 **草，我想看的是小银狐的新闻**  
 **2005-01-04**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-01-01/detail-ikkntiam2209889.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -18,7 +18,7 @@
 - [wto姊妹會](https://www.nownews.com/tag?q=wto%E5%A7%8A%E5%A6%B9%E6%9C%83)
 
 來源: [NOWnews今日新聞](https://www.nownews.com/)
-
+<!-- tcd_original_link https://www.nownews.com/news/2610667?srsltid=AfmBOopUZkU9x2mQF6ZilraaS9-KlRgsRyOxXZCLZZ8LNv9eH9mk9YLt -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

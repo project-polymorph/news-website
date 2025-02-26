@@ -56,7 +56,7 @@ NBC报道称，考克斯在一份声明中说：“多年来，与芭比合作�
 ![](https://n.sinaimg.cn/sinakd20220527s/300/w884h216/20220527/67c4-66d49d6688ecd6a6461744c89d00c2c6.png)
 
 本文系观察者网独家稿件，未经授权，不得转载。
-
+<!-- tcd_original_link https://finance.sina.com.cn/stock/usstock/c/2022-05-27/doc-imizirau5126060.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

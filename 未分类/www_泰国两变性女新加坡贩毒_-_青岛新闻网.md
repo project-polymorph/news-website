@@ -48,7 +48,7 @@
 ![图片2](../../../images/2006-01/22/xin_500103220921859211448.jpg)
 ![图片3](../../../images/2006-01/20/xin_51010320084557855452.jpg)
 ![图片4](../../../images/2006-01/22/xin_590103221439169142926.jpg)
-
+<!-- tcd_original_link https://www.qingdaonews.com/content/2006-01/22/content_5934387.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

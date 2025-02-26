@@ -34,7 +34,7 @@
 标签：LGBTQ, 人口普查, 性别认同  
 作者：多元故事荟  
 编辑：多元故事荟  
-
+<!-- tcd_original_link https://www.163.com/dy/article/J810DSGV052880KM.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

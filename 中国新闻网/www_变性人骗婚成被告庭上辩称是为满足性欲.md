@@ -36,7 +36,7 @@
 
 相关新闻:  
 ·[变性人网上征婚惹争议 绣球抛出后百人应征(图)](http://www.chinanews.com.cn/sh/2010/10-08/2572774.shtml)
-
+<!-- tcd_original_link https://www.chinanews.com.cn/fz/2010/12-08/2708513.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

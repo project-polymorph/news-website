@@ -69,7 +69,7 @@ Yoshi，1997年2月5日出生，泰国新人演员。随着泰剧《为爱所困
 ![PANVILAS MONGKOL](http://img.mp.itc.cn/upload/20161207/b237d711c5f44b7da7ba95f4818684a4_th.jpg)
 
 不一样的美丽，你喜欢哪一款？火凰娱乐，每天精彩准时送达！敬请关注。
-
+<!-- tcd_original_link https://www.sohu.com/a/120881633_569069 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

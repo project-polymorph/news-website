@@ -19,7 +19,7 @@
 ![](http://vip.qingdaonews.com/news/wap/2017/cpewm/ewm.jpg)
 
 识别二维码关注青岛新闻网微信qdxww0532
-
+<!-- tcd_original_link https://news.qingdaonews.com/wap/2018-03/26/content_20112294.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -26,7 +26,7 @@
 **来源**: [Human Rights Watch](https://www.hrw.org/zh-hans/news/2023/02/13/hong-kong-court-rejects-compulsory-surgery-trans-men)  
 **标签**: LGBT权利  
 **区域／国家**: 亚洲 | 中国和西藏  
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2023/02/13/hong-kong-court-rejects-compulsory-surgery-trans-men -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

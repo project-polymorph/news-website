@@ -332,7 +332,7 @@ Vera Anderson/WireImage
 （本文来自于澎湃新闻）
 
 文章关键词： [性别](http://tags.finance.sina.com.cn/性别) [跨性别者](http://tags.finance.sina.com.cn/跨性别者) [核桃](http://tags.finance.sina.com.cn/核桃)
-
+<!-- tcd_original_link http://finance.sina.com.cn/roll/2018-12-16/doc-ihmutuec9625477.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

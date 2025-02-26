@@ -35,7 +35,7 @@
 **版权：** © Sina.com
 
 **备注：** 本文讨论了马斯克关于其儿子的跨性别事件所发表的看法，以及他对美国社会现状的批评。
-
+<!-- tcd_original_link https://video.sina.cn/finance/2024-07-23/detail-incfcpey8086817.d.html?vt=4&pos=108&his=0 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -44,8 +44,7 @@
 
 **评论：**  
 _0人参与，_0条评论
-
-
+<!-- tcd_original_link https://www.gamersky.com/news/201507/628846.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -44,7 +44,7 @@ _![](https://n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg)_
 热点资讯 精彩视频抢先看 5.0分好评
 
 免费 / 绿色应用 / 优质
-
+<!-- tcd_original_link https://news.sina.cn/2017-04-07/detail-ifyecfnu7557628.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -54,7 +54,7 @@
 4. 以上声明的「懒人包」已上传到Instagram：[https://www.instagram.com/p/CoW\_4VXhrER/](https://www.instagram.com/p/CoW_4VXhrER/)
 
 注：虽然社会形容此案件时有时用上「跨性别」字眼，但我们在声明用的字眼是「变性人」，英文是Transexual，简称TS，是跨性别Transgender（TG）类别下的细分类。有时也会统称为「跨性别」Transgender（TG），因此两个词语有时是互用。但变性人(TS)特别指寻求医疗援助进行性别重置疗法，例如性别肯定激素治疗和性别重置手术的人士（像今次案件的人士）。而「跨性别」（TG）指一些认同自己的性别为非生理性别的人士，而他们不一定寻求医疗援助。基于以上分别，我们用上「变性人」一词。
-
+<!-- tcd_original_link https://christiantimes.org.hk/Common/Reader/News/ShowNews.jsp?Nid=170895&Pid=104&Version=0&Cid=2052&Charset=gb2312 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

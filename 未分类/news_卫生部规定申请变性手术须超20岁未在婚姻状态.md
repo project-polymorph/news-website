@@ -120,7 +120,7 @@
 中国中央电视台 版权所有 [京ICP证060535号](http://www.miibeian.gov.cn/)  
 网络文化经营许可证文网文[2010]024号网上传播视听节目许可证号 0102004  
 [中国互联网视听节目服务自律公约](http://news.cctv.com/special/C20456/01/index.shtml)
-
+<!-- tcd_original_link http://news.cctv.com/china/20091121/100333.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

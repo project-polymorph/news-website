@@ -25,7 +25,7 @@
 [转发]
 
 **标签**: #变性后与妻子成姐妹#
-
+<!-- tcd_original_link https://news.sina.cn/2016-02-02/detail-ifxnzanh0604105.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

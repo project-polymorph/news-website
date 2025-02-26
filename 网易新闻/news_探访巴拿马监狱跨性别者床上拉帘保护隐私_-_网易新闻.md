@@ -64,7 +64,7 @@
   这监狱住宿环境怎么比我们大学宿舍都好
 
 > **注意**: 网友评论仅供其表达个人看法，并不表明网易立场。
-
+<!-- tcd_original_link https://news.163.com/photoview/00AO0001/2191595.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

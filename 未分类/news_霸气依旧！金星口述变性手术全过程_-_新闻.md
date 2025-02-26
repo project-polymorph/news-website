@@ -136,7 +136,7 @@
 本文转自：[温州网](https://www.66wz.com "温州网")  
 **编辑：温网编辑 | 责任编辑：黄作敏**  
 **版权：** 国新办发函2006.78号 Copyright © 2014 [66wz.com](https://www.66wz.com). All rights reserved.
-
+<!-- tcd_original_link https://news.66wz.com/system/2015/06/23/104490041.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -28,7 +28,7 @@
 10. 无任何外科手术禁忌症，同意术后随访。
 
 ![图片](https://photocdn.sohu.com/logo/sogou_logo.gif)
-
+<!-- tcd_original_link http://news.sohu.com/20060825/n244984510.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -34,7 +34,7 @@ DC首席创意官兼发行人吉姆·李(Jim Lee)也对即将发行的漫画和�
 近十年前，DC漫画公司首次开始致力于将LGBT角色纳入以事先确定的超级英雄为主角的故事情节中，当时该漫画出版商因将绿灯侠(Green Lantern)描绘成一名同性恋者而[面临相当大的反弹](https://www.christianpost.com/news/green-lantern-is-gay-dc-comics-prompts-backlash-by-outing-superhero.html)。2013年，随着该出版公司在过去十年中开始接受LGBT活动，一位反对同性婚姻的客座作者的作品被从一个系列选集中[编辑出来](https://www.christianpost.com/news/superman-comic-writer-edited-out-of-series-for-support-of-traditional-marriage.html)。
 
 与此同时，《蝙蝠女侠》漫画的两位作者[离开了DC漫画公司](https://www.christianpost.com/news/batwoman-co-authors-quit-after-dc-comics-prohibited-lesbian-marriage.html)，以抗议该公司要求他们搁置将标题人物的同性婚礼作为该系列的一部分的计划。
-
+<!-- tcd_original_link https://chinese.christianpost.com/news/dc-comics-makes-new-superman-bisexual-on-coming-out-day.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

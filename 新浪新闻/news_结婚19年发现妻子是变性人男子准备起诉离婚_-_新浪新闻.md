@@ -29,7 +29,7 @@
 
 版权 © 1996-2012 SINA Corporation, All Rights Reserved  
 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link http://news.sina.com.cn/o/2012-11-28/090425680104.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

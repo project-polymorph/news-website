@@ -51,7 +51,7 @@ _资料图：美国总统特朗普。 中新社记者 廖攀 摄_
   **时间**: 2016-06-26  
 
 ![底部logo](/img/logo-btm.465da0f6.png)
-
+<!-- tcd_original_link https://m.chinanews.com.cn/wap/detail/chs/zw/8364383.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

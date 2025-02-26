@@ -56,7 +56,7 @@
 - [其他相关资料](http://www.jyzxw.net/)  
 
 注意：所有图片、时间、链接和信息均已按照要求保留。
-
+<!-- tcd_original_link http://www.yuhuan.com/news/show.asp?url=TechNews/d/2005-12-29/1616806534.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

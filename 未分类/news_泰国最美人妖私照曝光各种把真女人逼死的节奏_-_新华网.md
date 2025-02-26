@@ -23,7 +23,7 @@ Poy，17岁变性，在泰国享有极高的人气
 
 Copyright © 2000 - 2024 XINHUANET.com All Rights Reserved.  
 制作单位：新华网股份有限公司  版权所有：新华网股份有限公司
-
+<!-- tcd_original_link http://news.xinhuanet.com/world/2015-08/09/c_128108633_6.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

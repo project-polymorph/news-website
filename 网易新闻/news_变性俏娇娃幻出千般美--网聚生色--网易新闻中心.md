@@ -89,7 +89,7 @@
 ![](http://cimg.163.com/news/0402/24/meng1.jpg) [![链接](http://news.163.com/special/m/menglu040218.html)](http://news.163.com/special/m/menglu040218.html)
 
 编辑：芝士蛋糕
-
+<!-- tcd_original_link http://news.163.com/special/c/change040309.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

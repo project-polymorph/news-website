@@ -57,7 +57,7 @@
 **作者：** 成都商报记者 王蓟
 
 [欢迎发表评论](http://comment4.news.sina.com.cn/comment/comment4.html?channel=sh&newsid=1-1-22579890&style=0)
-
+<!-- tcd_original_link http://news.sina.com.cn/s/2011-06-03/050122579890.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

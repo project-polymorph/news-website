@@ -25,7 +25,7 @@
 -   [美国职业摔角女将原是男儿身 专家:变性无优势](https://sports.sohu.com/20130311/n368408638.shtml) (2013-03-11)
 -   [足协制证闹出乌龙 男记者被“变性”成郜林女友](https://sports.sohu.com/20130311/n368341387.shtml) (2013-03-11)
 -   [首位女性试训NFL闪电受伤 曾有美女为参赛变性](https://sports.sohu.com/20130305/n367793070.shtml) (2013-03-05)
-
+<!-- tcd_original_link https://sports.sohu.com/20130313/n368675054.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -24,7 +24,7 @@
 ![图片](http://image.finance.china.cn/picupload/2022/0921/1_254543927_20220922140114.jpg)
 
 免责声明：中国网财经转载此文目的在于传递更多信息，不代表本网的观点和立场。文章内容仅供参考，不构成投资建议。投资者据此操作，风险自担。
-
+<!-- tcd_original_link http://finance.china.com.cn/news/20180915/4761033.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -51,7 +51,7 @@
 - [健力宝声明原董事长张海颠倒黑白转移公众视线](https://news.sohu.com/20070322/n248892860.shtml) (03/22 09:18)
 - [张海申请冻结健力宝百亿资产 看守所写举报信](https://news.sohu.com/20070321/n248863890.shtml) (03/21 08:48)
 - [女歌手将提申请与健力宝原董事长张海狱中结婚...](https://news.sohu.com/20070314/n248714831.shtml) (03/14 09:51)
-
+<!-- tcd_original_link https://news.sohu.com/20070327/n248992666.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

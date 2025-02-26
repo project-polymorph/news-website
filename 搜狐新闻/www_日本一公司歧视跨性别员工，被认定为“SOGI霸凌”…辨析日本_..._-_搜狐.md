@@ -80,7 +80,7 @@ SOGI，是**Sexual Orientation（性取向） and Gender Identity（性认同）
 ![合并骚扰示例](https://p8.itc.cn/q_70/images03/20221116/3f53334bc1e04d96a7ba2ddeedf0b64a.jpeg)
 
 而作为旁观者的漠不关心高高挂起，比如觉得“sogiハラ”与自己无关，很多时候可能会变相助长其他类型的霸凌和歧视。
-
+<!-- tcd_original_link https://www.sohu.com/a/606724547_121124309 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

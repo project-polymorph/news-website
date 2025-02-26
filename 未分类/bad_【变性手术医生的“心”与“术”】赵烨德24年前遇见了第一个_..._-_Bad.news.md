@@ -79,7 +79,7 @@
 
 版权 © 2012-2023 Bad.news All rights reserved.  
 本网站受到 reCAPTCHA 保护，相关条款请参见 [隐私政策](https://policies.google.com/privacy) 和 [服务条款](https://policies.google.com/terms)。
-
+<!-- tcd_original_link https://bad.news/ai/406478/t-all/page-1 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -52,7 +52,7 @@
 ![《请以你的名字呼唤我》剧照](http://image.thepaper.cn/www/image/9/60/236.jpg)
 
 《请以你的名字呼唤我》剧照。
-
+<!-- tcd_original_link https://m.thepaper.cn/kuaibao_detail.jsp?contid=2284387&from=kuaibao -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

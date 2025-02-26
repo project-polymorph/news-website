@@ -73,7 +73,7 @@
 ![Proud flag](/sites/default/files/styles/teaser_block/public/2022-08/_mg_5313_2.jpg?itok=VrDRrU9n)
 
 我们的研究发现，LGBTQ+ 旅行者更有可能向支持这一群体的企业预订。
-
+<!-- tcd_original_link https://partner.booking.com/zh-cn/click-magazine/bookingcom-news/how-lgbtq%2B-people-feel-about-travel-today -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

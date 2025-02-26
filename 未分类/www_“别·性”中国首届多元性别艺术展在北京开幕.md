@@ -34,7 +34,7 @@
 **编辑:**  
 
 ---
-
+<!-- tcd_original_link https://www.yatang.com/news/2009/06/1620.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

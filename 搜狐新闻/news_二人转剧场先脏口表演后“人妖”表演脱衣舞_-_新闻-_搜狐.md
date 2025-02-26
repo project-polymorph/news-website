@@ -31,7 +31,7 @@
 请各位遵纪守法并注意语言文明。
 
 **版权**：Copyright © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 [版权所有](https://www.sohu.com/about/copyright.html)
-
+<!-- tcd_original_link http://news.sohu.com/2004/03/31/94/news219679461.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

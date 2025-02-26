@@ -60,7 +60,7 @@
 ![新浪新闻](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 新浪新闻官方
-
+<!-- tcd_original_link https://news.sina.cn/sa/2009-11-25/detail-ikmxzfmi9468884.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

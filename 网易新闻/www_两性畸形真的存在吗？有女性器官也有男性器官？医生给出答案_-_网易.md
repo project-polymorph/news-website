@@ -106,7 +106,7 @@ DSD作为一种特殊的病症，其对患者的伤害很难估量，除了内�
 ## 特别声明： { data-search-exclude }
 
 以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。
-
+<!-- tcd_original_link https://www.163.com/dy/article/I375HIQU0553ETNW.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -42,7 +42,7 @@ LGBT是同性恋、双性恋和跨性别者等性少数群体的英文缩写。
 人权专家是人权理事会[特别程序](https://www.ohchr.org/zh/special-procedures-human-rights-council)的一部分。特别程序是联合国人权系统中最大的独立专家机构，是人权理事会独立的实况调查和监督机制的总称，负责处理世界各地的具体国别状况或专题问题。特别程序的专家在自愿的基础上工作，他们不是联合国工作人员，独立于任何政府或组织。他们以个人身份行使职责，不因其工作收到酬劳。
 
 **来源：** [人权专家谴责俄罗斯最高法院宣布“LGBT运动”为非法](https://news.un.org/feed/view/zh/story/2023/12/1124732)
-
+<!-- tcd_original_link https://www.ungeneva.org/zh/news-media/news/2023/12/88309/renquanzhuanjiaqianzeeluosizuigaofayuanxuanbulgbtyundongweifeifa -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -23,7 +23,7 @@
 - [女装](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E5%A5%B3%E8%A3%85)
 
 ![重要图片](https://cn.chinadaily.com.cn/image/2016/download.jpg)
-
+<!-- tcd_original_link http://cnews.chinadaily.com.cn/2016-04/07/content_24351481.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

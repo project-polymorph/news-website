@@ -32,7 +32,7 @@
 **联系电话**：86-10-88828000  
 **京ICP证** 040089号  
 **网络传播视听节目许可证号**：0105123  
-
+<!-- tcd_original_link http://news.china.com.cn/world/2017-02/24/content_40350406.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

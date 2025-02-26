@@ -47,7 +47,7 @@
 
 【编辑:王海波】  
 【版权声明】本文仅代表作者个人观点。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/hr/2012/11-07/4309725.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

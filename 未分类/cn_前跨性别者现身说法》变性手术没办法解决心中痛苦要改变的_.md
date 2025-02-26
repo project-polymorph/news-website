@@ -38,7 +38,7 @@
 - **关键字**: 跨性别，变性手术，性别认同，心理健康，基督教
 
 ---
-
+<!-- tcd_original_link https://cn.cdn-news.org/news/00000011235 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

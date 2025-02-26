@@ -44,7 +44,7 @@ BBC收到的投诉再次证明，一部电视剧或电影要在选角和角色�
 鲸娱网  
   
 (c)2008-2018 ERTCW.COM All Rights Reserved 备案号：粤ICP备14075974号-44  
-
+<!-- tcd_original_link http://m.ertcw.com/news/show/109238/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

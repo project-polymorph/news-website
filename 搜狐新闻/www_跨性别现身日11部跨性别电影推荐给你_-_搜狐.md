@@ -238,7 +238,7 @@
 机构发展：admin@trans-life.org
 
 官方网站：www.trans-life.org
-
+<!-- tcd_original_link https://www.sohu.com/a/306015852_821497 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

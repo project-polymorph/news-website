@@ -50,7 +50,7 @@
 **标签：** [人妖](https://www.sdnews.com.cn/tag/%E4%BA%BA%E5%A6%96) [印尼](https://www.sdnews.com.cn/tag/%E5%8D%B0%E5%B0%BC) [求职](https://www.sdnews.com.cn/tag/%E6%B1%82%E8%81%8C) [表演](https://www.sdnews.com.cn/tag/%E8%A1%A8%E6%BC%94) [艰难](https://www.sdnews.com.cn/tag/%E8%89%B0%E9%9A%BE)  
 
 版权声明：Copyright © 1997-2019 SDNews.com.cn All Rights Reserved.  
-
+<!-- tcd_original_link http://news.sdnews.com.cn/gj/201309/t20130913_1354385.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

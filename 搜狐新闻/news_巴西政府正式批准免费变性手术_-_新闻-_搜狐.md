@@ -42,7 +42,7 @@
 ---
 
 **备注**：请在技术上遵守保护隐私权的相关规定。
-
+<!-- tcd_original_link http://news.sohu.com/20080820/n259045532.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -18,7 +18,7 @@
 标签：[女子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A5%B3%E5%AD%90) [变性人](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%98%E6%80%A7%E4%BA%BA) [男子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%B7%E5%AD%90)
 
 \[责任编辑：PN061\]
-
+<!-- tcd_original_link https://news.ifeng.com/a/20151113/46233123_0.shtml?_cpb_shehui -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

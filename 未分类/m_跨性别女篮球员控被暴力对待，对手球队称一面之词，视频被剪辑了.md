@@ -39,7 +39,7 @@ CBC则表示，「我们相信跨性别选手参加女子大学的议题，是�
 
 ### 版权声明
 本文版权归原作者所有，如需转载请标明出处。
-
+<!-- tcd_original_link https://m.163.com/news/article/JG02B5NE0549VVJM.html?clickfrom=subscribe -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

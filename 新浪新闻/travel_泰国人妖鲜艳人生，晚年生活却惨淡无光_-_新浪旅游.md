@@ -26,8 +26,7 @@
 新闻来源：新浪新闻  
 评论：请输入评论内容  
 标签：跨性别  
-
-
+<!-- tcd_original_link https://travel.sina.cn/video/baidang/2019-02-23/detail-ihrfqzka8508904.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

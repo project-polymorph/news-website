@@ -18,7 +18,7 @@
 **来源**：中新网  
 **标签**：变性人、选美大赛  
 **评论**：0  [查看评论](http://comment.chinanews.com/comments/comments.php?newsid=hd_44278)  
-
+<!-- tcd_original_link https://www.chinanews.com.cn/tp/hd2011/2014/06-25/366409.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

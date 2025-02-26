@@ -34,7 +34,7 @@
 好的评论会让人崇拜
 
 （共1条评论）
-
+<!-- tcd_original_link https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

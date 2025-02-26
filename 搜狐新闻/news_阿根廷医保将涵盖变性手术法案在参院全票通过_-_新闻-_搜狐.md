@@ -37,7 +37,7 @@
 Copyright © 2018 Sohu.com Inc. All Rights Reserved. 版权所有 Sohu 
 
 **联系方式：** [客服电话](mailto:kf@vip.sohu.com)
-
+<!-- tcd_original_link http://news.sohu.com/20120510/n342889795.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

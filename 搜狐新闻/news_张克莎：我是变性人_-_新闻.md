@@ -204,7 +204,7 @@
 两年前在印尼旅游时留影。 （图片由张克莎本人提供）
 
 ![张克莎](https://photo.sohu.com/11/93/Img210139311.jpg)
-
+<!-- tcd_original_link http://news.sohu.com/51/93/news210139351.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

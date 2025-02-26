@@ -30,7 +30,7 @@
 - 人妖跳艳舞/图  
 - 夜总会有“人妖”艳舞  
 - 少年与13岁网友发生关系  
-
+<!-- tcd_original_link http://news.sohu.com/20060603/n243546810.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

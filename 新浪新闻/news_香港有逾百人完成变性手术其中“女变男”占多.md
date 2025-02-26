@@ -25,7 +25,7 @@
 ---
 
 *版权声明: 本文来源于中国新闻网，内容仅供参考。*
-
+<!-- tcd_original_link https://news.sina.cn/sa/2004-09-24/detail-ikkntiam1176790.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

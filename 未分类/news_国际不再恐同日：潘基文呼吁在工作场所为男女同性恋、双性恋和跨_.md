@@ -32,7 +32,7 @@
 下载适用于您的[**iOS**](https://itunes.apple.com/us/app/un-news-reader/id496893005?mt=8)或[**Android**](https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en)设备的联合国新闻应用程序
 
 ![](https://mc.yandex.ru/watch/98581370)
-
+<!-- tcd_original_link https://news.un.org/zh/story/2014/05/214882 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

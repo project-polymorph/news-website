@@ -42,7 +42,7 @@
 ![分享到中新空间](http://www.chinanews.com/fileftp/2010/10/2010-10-20/U76P4T47D15735F981DT20101021094436.jpg)
 
 **编辑**: 程涛
-
+<!-- tcd_original_link https://www.chinanews.com.cn/hb/2011/01-10/2777470.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -31,7 +31,7 @@ LGBTQ（同性戀、雙性戀、跨性別及酷兒）活動人士古提瑞茲（
 ---
 
 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。
-
+<!-- tcd_original_link https://www.cna.com.tw/news/aopl/202411030069.aspx -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

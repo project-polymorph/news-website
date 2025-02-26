@@ -41,7 +41,7 @@
 ---
 
 Copyright © 2024 Sin Chew Media Corporation Berhad (198301003518). All rights reserved.
-
+<!-- tcd_original_link https://www.sinchew.com.my/news/20241103/international/6044333 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

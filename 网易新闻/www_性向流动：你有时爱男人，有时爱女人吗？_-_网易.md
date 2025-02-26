@@ -50,7 +50,7 @@
 [北京心之爱心理咨询](https://www.163.com/dy/media/T1481614600591.html)  
 
 [心之爱，一直在。13年专注于个案咨询！](https://www.163.com/dy/media/T1481614600591.html)
-
+<!-- tcd_original_link https://www.163.com/dy/article/E6OVOGSA0514CG54.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

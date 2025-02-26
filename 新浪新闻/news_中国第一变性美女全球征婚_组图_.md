@@ -130,7 +130,7 @@
 88字
 
 立即转发
-
+<!-- tcd_original_link https://news.sina.cn/sa/2007-05-15/detail-ikknscsk2231845.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

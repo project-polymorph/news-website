@@ -35,7 +35,7 @@
 **标签**：跨性别，异装癖，社会新闻  
 **作者**：[未知作者]  
 **编辑**：[未知编辑]
-
+<!-- tcd_original_link https://v.sina.cn/weibo_ugc/2018-11-03/detail-ihmutuea6705936.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

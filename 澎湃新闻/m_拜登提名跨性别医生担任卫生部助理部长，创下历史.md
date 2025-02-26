@@ -20,7 +20,7 @@
 目前，拜登已经提名了卫生部长等多个卫生领域的职位人选，食品药品监督管理局和（FDA）与医疗保险和医疗补助服务中心（CMS）的负责人人选仍有待确定。
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/wifiKey_detail.jsp?contid=10866867&from=wifiKey -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

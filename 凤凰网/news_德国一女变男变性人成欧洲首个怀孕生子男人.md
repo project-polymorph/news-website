@@ -26,7 +26,7 @@
 标签：[精子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%B2%BE%E5%AD%90) [孩子](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%AD%A9%E5%AD%90) [男孩](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%94%B7%E5%AD%A9)
 
 ![二维码分享](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20141112/42451491_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

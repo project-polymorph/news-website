@@ -58,7 +58,7 @@
 热点资讯 精彩视频抢先看 5.0分好评
 
 **评论总数**: 108条
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-05-09/detail-ikkntiam3424826.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -46,7 +46,7 @@
 ---
 
 本文系观察者网独家稿件，未经授权，不得转载。
-
+<!-- tcd_original_link https://news.sina.cn/2023-01-15/detail-imyaftrk2097270.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

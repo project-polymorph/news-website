@@ -41,7 +41,7 @@
 **标签**: [金星](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%87%91%E6%98%9F) [网友](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%BD%91%E5%8F%8B) [微博](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%BE%AE%E5%8D%9A)
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20160501/48650083_0.shtml?_cpb_shehui -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

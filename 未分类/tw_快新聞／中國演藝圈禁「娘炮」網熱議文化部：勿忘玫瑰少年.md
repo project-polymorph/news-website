@@ -31,7 +31,7 @@
 - [快新聞／中國拿氣候合作要脅 美國勸恐危害整體國際社會](https://www.ftvnews.com.tw/news/detail/2021903W0006?utm_source=yahoo&utm_medium=InArticl)
 - [役男注意！9/6起入營前三天都先快篩免付費](https://www.ftvnews.com.tw/news/detail/2021902L10M1?utm_source=yahoo&utm_medium=InArticl)
 - [施工趕不上開學！ 黎明國小「班班沒冷氣吹」](https://www.ftvnews.com.tw/news/detail/2021902N06M1?utm_source=yahoo&utm_medium=InArticl)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E5%BF%AB%E6%96%B0%E8%81%9E-%E4%B8%AD%E5%9C%8B%E6%BC%94%E8%97%9D%E5%9C%88%E7%A6%81-%E5%A8%98%E7%82%AE-%E7%B6%B2%E7%86%B1%E8%AD%B0-%E6%96%87%E5%8C%96%E9%83%A8-010711945.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

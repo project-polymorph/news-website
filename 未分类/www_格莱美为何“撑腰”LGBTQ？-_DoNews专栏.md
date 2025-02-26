@@ -92,7 +92,7 @@ LGBTQ音乐人或支持LGBTQ群体的音乐人逐渐拔高的声量，在乐坛�
 **特别声明：本文为合作媒体授权DoNews专栏转载，文章版权归原作者及原出处所有。文章系作者个人观点，不代表DoNews专栏的立场，转载请联系原作者及原出处获取授权。(有任何疑问都请联系idonews@donews.com)**
 
 标签: [LGBTQ](https://www.donews.com/tag/25177.html) [格莱美](https://www.donews.com/tag/25178.html) [欧美音乐](https://www.donews.com/tag/25179.html)
-
+<!-- tcd_original_link https://www.donews.com/article/detail/5628/51711.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

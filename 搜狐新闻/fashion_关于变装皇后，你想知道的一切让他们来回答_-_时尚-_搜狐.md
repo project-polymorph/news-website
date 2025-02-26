@@ -236,7 +236,7 @@ Divine和“垃圾教皇” John Waters合作的电影《粉红色火烈鸟》�
 ![YOHO!GIRL](https://img.mp.itc.cn/upload/20170320/927971dd16b64306a482b3ddb9189ef0_th.jpeg)
 
 [来源链接](https://fashion.sohu.com/20170320/n483966449.shtml)
-
+<!-- tcd_original_link https://fashion.sohu.com/20170320/n483966449.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -60,7 +60,7 @@
 - [世界银行与社会可持续性与包容性 (en)](https://www.worldbank.org/en/topic/socialdevelopment)
 - [《环境与社会框架》](https://projects.shihang.org/zh/projects-operations/environmental-and-social-framework)
 - [世界银行与社会包容性 (en)](https://www.worldbank.org/en/topic/social-inclusion)
-
+<!-- tcd_original_link https://www.shihang.org/zh/news/feature/2020/09/02/five-things-about-social-sustainability-and-inclusion -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

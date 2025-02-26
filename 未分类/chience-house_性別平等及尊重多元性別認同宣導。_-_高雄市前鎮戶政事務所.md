@@ -24,7 +24,7 @@
 - 若暫停延長服務時間，將提前在本所網站首頁公告。  
 
 更新日期：113-11-06
-
+<!-- tcd_original_link https://chience-house.kcg.gov.tw/News_Content.aspx?n=D53F728C61980524&sms=3B1DD69451A3DEE3&s=69F07AC84A4EFA29 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

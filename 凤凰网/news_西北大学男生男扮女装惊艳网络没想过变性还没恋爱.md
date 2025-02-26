@@ -18,7 +18,7 @@
 标签：[暑假](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%9A%91%E5%81%87) [大学生](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A4%A7%E5%AD%A6%E7%94%9F) [复习](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%A4%8D%E4%B9%A0)
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
-
+<!-- tcd_original_link https://news.ifeng.com/a/20140728/41340155_2.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

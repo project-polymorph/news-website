@@ -74,7 +74,7 @@
 - 06-05-22 15:31·[泰国人妖大赛22岁学生夺冠 希望获父母认...](https://news.sohu.com/20060522/n243351624.shtml)
 - 08-12-18 16:39·[图文:泰国重振旅游业 训虎表演吸引众游客](https://news.sohu.com/20081218/n261293931.shtml)
 - 06-11-06 08:29·[泰国基金会想让钢管舞变为正规艺术表演(组图)](https://news.sohu.com/20061106/n246213876.shtml)
-
+<!-- tcd_original_link http://news.sohu.com/20081221/n261335506.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

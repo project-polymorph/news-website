@@ -43,7 +43,7 @@
 
 [所有跨性別事件](https://noselfidtw.cc/news)  
 [全部文章](https://noselfidtw.cc/post)
-
+<!-- tcd_original_link https://noselfidtw.cc/news/usa-boxing-introduce-new-transgender-policy-which-allows-male-boxers/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

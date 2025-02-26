@@ -20,7 +20,7 @@
 但《性別自決法》還是遭到極右派保守派抨擊，他們表示，這項法案從頭到尾都沒有經過深思熟慮，除了會給家庭帶來許多動盪，還可能被有心人士利用，成為犯罪的工具，因為更改姓名和性別再也不用向警方登記。
 
 **標籤**: [德國](https://www.udn.com/search/tagging/2/德國) [跨性別](https://www.udn.com/search/tagging/2/跨性別) [醫師](https://www.udn.com/search/tagging/2/醫師)
-
+<!-- tcd_original_link https://udn.com/news/story/6812/8323335?from=udn-catelistnews_ch2 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

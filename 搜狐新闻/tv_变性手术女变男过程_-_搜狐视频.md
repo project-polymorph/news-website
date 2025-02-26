@@ -44,7 +44,7 @@
 **视频状态查询**: 复制调试信息 | 查看log信息
 
 慢慢看，内容保持不动。
-
+<!-- tcd_original_link https://tv.sohu.com/v/dXMvNjMyODY2MDAvNTQ0NzA5OTUuc2h0bWw=.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

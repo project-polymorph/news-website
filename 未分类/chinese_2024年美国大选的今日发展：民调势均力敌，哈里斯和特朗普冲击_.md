@@ -173,7 +173,7 @@
 
 **来源 :** 半岛电视台  
 **标签：** 2024年美国大选，卡玛拉·哈里斯，唐纳德·特朗普，米歇尔·奥巴马
-
+<!-- tcd_original_link https://chinese.aljazeera.net/news/liveblog/2024/10/27/2024%E5%B9%B4%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E7%9A%84%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B1%95%E6%B0%91%E8%B0%83%E5%8A%BF%E5%9D%87%E5%8A%9B%E6%95%8C%E5%93%88%E9%87%8C%E6%96%AF%E5%92%8C%E7%89%B9 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

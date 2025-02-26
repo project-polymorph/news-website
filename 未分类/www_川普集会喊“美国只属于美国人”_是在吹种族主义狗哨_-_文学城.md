@@ -153,7 +153,7 @@ trump 说给美国人听的，他就是侮辱china，又怎么样？喜欢china�
 你说的这些在美国红脖子MAGA里没有半点作用，他们揍你之前不会去查你的护照。不像独轮运那样事事称CCP，“中共不等于中国”，人家直接就说是CHINA，那具体到族群就是 CHINESE。 
 
 请注意，以上内容均为原始评论，可能包含多种观点。
-
+<!-- tcd_original_link https://www.wenxuecity.com/news/2024/10/31/125847488.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

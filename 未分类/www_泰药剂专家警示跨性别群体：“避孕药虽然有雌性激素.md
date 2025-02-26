@@ -22,7 +22,7 @@
 **标签：** [博彩新闻](/news/) [避孕药雌激素](/tag/避孕药雌激素)
 
 转载请注明：[环球博讯](https://www.wgi888.com) » [泰药剂专家警示跨性别群体：“避孕药虽然有雌性激素，但千万不能多吃呀！”](/news/149970.html)
-
+<!-- tcd_original_link https://www.wgi888.com/news/149970.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -20,7 +20,7 @@
 ![](http://www.hkcd.com/images/apperwei.jpg)
 
 ![](http://www.hkcd.com/images/wangyeerweima.jpg)
-
+<!-- tcd_original_link https://hkcd.com/newsTopic_content.php?id=8630669 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

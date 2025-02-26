@@ -153,7 +153,7 @@ Andreja Pejic，原名Andrej Pejic。实际上她就是这篇文章的主要灵�
 ——采访记录
 
 说真的，最初看到关于他的消息的时候，才感受到“god makes mistake”到是怎样的一种感觉。
-
+<!-- tcd_original_link https://www.sohu.com/a/192543274_492890 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

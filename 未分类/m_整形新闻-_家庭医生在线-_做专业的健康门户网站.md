@@ -90,8 +90,7 @@
 
 源自：家庭医生在线
 标签：整形，变性人，身体变更，性别认同 
-
-
+<!-- tcd_original_link https://m.familydoctor.com.cn/zhengxing/news/80/?special=mobilehead&appid=&urlcategory=3&areacode=469027&portaltype=&columnid=15574&accesstype=&screenwidth=&islogin=0&version=2&usessionid=&terminal=&ua=&resourceid=&ext= -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

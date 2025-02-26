@@ -110,7 +110,7 @@
 **不能说** 16  
 **这本来就是一种心理病态，还想别人正常地看待你？**  
 **时间：2012-03-22**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

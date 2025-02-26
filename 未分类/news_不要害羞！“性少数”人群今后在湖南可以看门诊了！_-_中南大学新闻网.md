@@ -45,7 +45,7 @@ Copyright © 2014-2019 中南大学党委宣传部（新闻中心）版权所有
 QQ:1594252309  
 EMAIL:xwwz@mail.csu.edu.cn  
 地址：湖南省长沙市岳麓区
-
+<!-- tcd_original_link https://news.csu.edu.cn/info/1062/159161.htm -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -24,7 +24,7 @@
 
 **上一篇：**[泰国The Icon集团诈骗案仍在发酵中……](/news/188015.html)  
 **下一篇：**[泰国9名警察陷3亿敲诈案！犯罪同伙涉中国人！](/news/188017.html)
-
+<!-- tcd_original_link https://www.wgi888.com/news/188016.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

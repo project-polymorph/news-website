@@ -16,7 +16,7 @@
 ---
 
 (责任编辑：李毅)
-
+<!-- tcd_original_link http://qd.sohu.com/20121217/n360635155.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

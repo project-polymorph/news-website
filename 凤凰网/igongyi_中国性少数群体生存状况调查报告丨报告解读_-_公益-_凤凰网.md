@@ -72,7 +72,7 @@
 **更多关于性少数社会文化、政策、法律方面的内容**
 
 责任编辑人：马明月 PP002
-
+<!-- tcd_original_link http://igongyi.ifeng.com/44831483/news.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

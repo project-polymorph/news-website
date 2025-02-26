@@ -97,7 +97,7 @@ Other $
     中国对LGBT人士的扭转治疗
     
     ![Main Image for China Report](/sites/default/files/styles/square/public/multimedia_images_2017/201711asia_china_main.jpeg?itok=scLCe6Z2)
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2022/08/10/malaysia-state-backed-discrimination-harms-lgbt-people -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

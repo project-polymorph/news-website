@@ -47,7 +47,7 @@
 
 ## 专栏文章 { data-search-exclude }
 - [全部文章](https://noselfidtw.cc/post)
-
+<!-- tcd_original_link https://noselfidtw.cc/news/switzerland-minors-including-under-14s-have-undergone-sex-change-operations/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

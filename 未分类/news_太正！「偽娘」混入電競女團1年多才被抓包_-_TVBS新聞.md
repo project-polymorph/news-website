@@ -24,7 +24,7 @@
 - [#要塞英雄](https://news.tvbs.com.tw/news/searchresult/要塞英雄/news)
 - [#戰地風雲](https://news.tvbs.com.tw/news/searchresult/戰地風雲/news)
 - [#蘿莉塔](https://news.tvbs.com.tw/news/searchresult/蘿莉塔/news)
-
+<!-- tcd_original_link https://news.tvbs.com.tw/fun/939574 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

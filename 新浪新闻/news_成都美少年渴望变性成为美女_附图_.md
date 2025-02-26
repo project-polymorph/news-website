@@ -46,7 +46,7 @@
 评625条评论
 
 即刻参与评论，获取金币和奖励！
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-12-04/detail-ikknscsi8411271.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

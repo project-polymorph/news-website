@@ -78,7 +78,7 @@
 #### 责任编辑：曲径幽
 
 **标签**：[李银河](http://search.ifeng.com/sofeng/search.action?c=1&q=%E6%9D%8E%E9%93%B6%E6%B2%B3) [出柜](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%87%BA%E6%9F%9C) [王小波](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%8E%8B%E5%B0%8F%E6%B3%A2)
-
+<!-- tcd_original_link http://sd.ifeng.com/zbc/detail_2014_12/20/3315238_0.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

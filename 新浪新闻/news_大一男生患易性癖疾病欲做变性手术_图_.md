@@ -135,7 +135,7 @@
 **新浪网友0** 4  
 **你很勇敢，支持你!人生苦短,努力**  
 **时间**: 2010-11-01
-
+<!-- tcd_original_link https://news.sina.cn/sa/2010-10-29/detail-ikftssap3386716.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

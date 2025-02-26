@@ -102,7 +102,7 @@
 
 **这样的“少年”才是未来的主流**  
 -END-  
-
+<!-- tcd_original_link https://sports.sohu.com/20180826/n547552440.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

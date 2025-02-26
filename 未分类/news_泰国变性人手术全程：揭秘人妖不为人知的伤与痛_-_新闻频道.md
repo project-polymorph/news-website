@@ -26,7 +26,7 @@
 - [化名](http://so.cntv.cn/search.php?qtext=化名&sid=0000&pid=0000)
 
 **责任编辑：魏新民**
-
+<!-- tcd_original_link http://news.cntv.cn/20120202/114889_8.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

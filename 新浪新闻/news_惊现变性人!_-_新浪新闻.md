@@ -101,7 +101,7 @@
 
 版权 © 1996-2010 SINA Corporation, All Rights Reserved  
 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link https://news.sina.com.cn/o/2010-05-30/024217581662s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

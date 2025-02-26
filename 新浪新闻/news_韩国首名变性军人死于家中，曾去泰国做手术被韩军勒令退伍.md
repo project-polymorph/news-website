@@ -44,7 +44,7 @@
 **尙方** 0  
 **最幸福的事，并不是活的像别人，而是有能力活成你自己。**  
 **2021-03-04 辽宁大连**  
-
+<!-- tcd_original_link https://news.sina.cn/2021-03-04/detail-ikftssaq0920324.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

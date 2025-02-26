@@ -22,7 +22,7 @@
 ![](images/c.gif)  
 
 **注释**: 以上信息均来自于新华网，版权归原作者所有。
-
+<!-- tcd_original_link http://news.sohu.com/01/15/news210671501.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -10,7 +10,7 @@
 ![](http://p1.ifengimg.com/a/2017_14/be047c4c124c382_size129_w690_h690.jpg)
 
 泰国到当兵年龄的男子，每年4月便要向军方报到，其中包括变性人。
-
+<!-- tcd_original_link https://finance.ifeng.com/c/7Zy0CAmFi3E -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

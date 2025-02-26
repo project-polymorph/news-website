@@ -30,7 +30,7 @@ Hong Kong announced a plan on Thursday to establish a medical center to provide 
 **标签：**医管局 变性 香港 手术 律敦治
 
 【编辑:丁文蕾】
-
+<!-- tcd_original_link https://www.chinanews.com.cn/ga/2013/09-27/5329628.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

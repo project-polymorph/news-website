@@ -49,7 +49,7 @@
 **脚注：**
 
 \[1\] 蕾哈娜为虚构人物，但其经历根据新冠疫情期间成千上万年轻女性的真实经历描绘。参见世界银行政策建议报告《新冠疫情的性别维度》（2020年4月）：[http://documents1.worldbank.org/curated/en/618731587147227244/pdf/Gender-Dimensions-of-the-COVID-19-Pandemic.pdf](https://documents1.worldbank.org/curated/en/618731587147227244/pdf/Gender-Dimensions-of-the-COVID-19-Pandemic.pdf)；联合国，2020 年4月，《远离聚光灯：女性就业者是孟加拉国遭受新冠疫情冲击最大的群体之一》：[https://www.unwomen.org/en/news/stories/2020/4/feature-women-workers-hardest-hit-by-covid-19-in-bangladesh](https://www.unwomen.org/en/news/stories/2020/4/feature-women-workers-hardest-hit-by-covid-19-in-bangladesh)。
-
+<!-- tcd_original_link https://www.shihang.org/zh/news/immersive-story/2020/10/22/the-human-face-of-covid-19-six-things-to-consider-for-an-inclusive-recovery -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

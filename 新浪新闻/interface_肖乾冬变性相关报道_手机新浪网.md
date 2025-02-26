@@ -65,7 +65,7 @@
 
 ### 参考资料
 - 张君恬 文/图
-
+<!-- tcd_original_link https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fnews.sina.com.cn%2Fsociety%2F2000-4-21%2F83543.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

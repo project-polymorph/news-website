@@ -21,7 +21,7 @@
 
 ### 版权声明  
 中国中央电视台 版权所有 [京ICP备05065290号](http://www.miibeian.gov.cn/)  [网上传播视听节目许可证号 0102004](http://www.miibeian.gov.cn/)
-
+<!-- tcd_original_link http://news.cctv.com/performance/20070316/101180.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

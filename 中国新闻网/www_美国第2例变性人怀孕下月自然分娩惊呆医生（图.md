@@ -30,7 +30,7 @@
 
 **标签**：跨性别, 孕父, 变性人  
 **评论链接**：[发表评论](http://comment.chinanews.com.cn/comments/comments.php?newsid=2095713)    
-
+<!-- tcd_original_link https://www.chinanews.com.cn/life/news/2010/01-28/2095713.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -74,7 +74,7 @@ Photo Credit: 中央社
 - [免術換證](https://www.thenewslens.com/tag/84386)
 - [跨性別運動](https://www.thenewslens.com/tag/259376)
 - [純女性空間](https://www.thenewslens.com/tag/259377)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/161348 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

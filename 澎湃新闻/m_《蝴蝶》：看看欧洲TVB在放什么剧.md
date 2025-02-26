@@ -42,7 +42,7 @@ Tony Marchant在采访里提到，现在在英国，凡是有性别认知障碍�
 最后，我想摘录一句twitter上的跨性别人群对这部剧的观后感，有人说，“《蝴蝶》就是属于我们的世界杯总决赛，它摧毁了电视里的柏林墙，跨性别人群像普通人一样出现在了电视上！这是具有里程碑意义的！”这个观后感应该就是对主创最好的回应。
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
-
+<!-- tcd_original_link https://m.thepaper.cn/yidian_promDetail.jsp?contid=2543439&from=yidian -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

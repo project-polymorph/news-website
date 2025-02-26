@@ -29,7 +29,7 @@
 **版权声明：** 凤凰新媒体 版权所有 不得转载  
 
 ![凤凰 logo](http://img.ifeng.com/tres/pub_res/logo/www_logo.gif)
-
+<!-- tcd_original_link https://news.ifeng.com/photo/200703/0329_24_94866.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

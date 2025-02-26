@@ -106,7 +106,7 @@
 - [The Sims 4](https://www.thenewslens.com/tag/360806)
 - [非二元角色](https://www.thenewslens.com/tag/360807)
 - [生活模擬遊戲](https://www.thenewslens.com/tag/360809)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/243979 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

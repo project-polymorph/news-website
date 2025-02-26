@@ -21,7 +21,7 @@
 **來源：** 台灣精神醫學會
 
 ![Logo](../images/logo.png)
-
+<!-- tcd_original_link https://www.sop.org.tw/news/l_info.asp?/11.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

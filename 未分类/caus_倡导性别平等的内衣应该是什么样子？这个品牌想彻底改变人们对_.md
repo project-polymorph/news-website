@@ -98,7 +98,7 @@ Play Out的三位管理人员 via www.playoutapparel.com
 # © 2024 CAUS.COM 版权所有
 
 ![botton](https://caus.com/wp-content/uploads/elementor/thumbs/botton.110a5e9-qmdevbrl29mo2oaxzy2vjhzj4ac51dy42is8lcsu3e.png)
-
+<!-- tcd_original_link https://caus.com/all-articles/news/57467/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

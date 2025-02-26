@@ -56,7 +56,7 @@
 ---
 
 版权声明：本文版权归 [新浪新闻](https://mobile.sina.com.cn/news/) 所有。
-
+<!-- tcd_original_link https://news.sina.cn/sa/2005-09-01/detail-ikkntiam4472248.d.html?from=wap -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

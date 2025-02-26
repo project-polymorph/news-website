@@ -73,7 +73,7 @@ TAG：在此 | 模糊 | 性别
 评论暂时关闭！
 
 风之动漫所有动漫资源均收集于互联网，只提供web页面服务；如有发现侵犯您的权益，请告诉我们，我们会在核实无误后删除相关内容。Copyright © 2017 Fzdm.Net All rights reserved [风之动漫-最大最全的动漫网站](http://www.fzdm.net/)
-
+<!-- tcd_original_link https://fzdm.net/dmNews/Html/2016-11/30115.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

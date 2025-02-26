@@ -53,7 +53,7 @@
 ![卫生部规定](http://www.chinanews.com.cn/fileftp/2010/04/2010-04-23/U76P4T47D13180F980DT20100423111451.jpg)
 
 **编辑**: 赵婕
-
+<!-- tcd_original_link http://www.chinanews.com.cn/life/news/2010/05-24/2299241.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

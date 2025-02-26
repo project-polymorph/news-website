@@ -31,7 +31,7 @@
 
 **标签：** 密州，跨性别确认，健康照护，自我救助，药物购买
 **作者/编辑：** 未知
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E5%AF%86%E5%B7%9E%E5%8F%8D%E6%80%A7%E5%88%A5%E7%A2%BA%E8%AA%8D%E5%81%A5%E5%BA%B7%E7%85%A7%E9%A1%A7-%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%BE%9E%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B3%BC%E8%97%A5%E8%87%AA%E6%95%91-061149096.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -50,7 +50,7 @@
     ### [Transgender Woman Murdered in Malaysia](/news/2017/02/24/transgender-woman-murdered-malaysia)
     
     ![Photo of Sameera Krishnan.](/sites/default/files/styles/square/public/multimedia_images_2017/2016-02-malaysia-asia-lgbt-sameera.jpg?itok=SBHa63s3)
-
+<!-- tcd_original_link https://www.hrw.org/zh-hans/news/2017/06/07/304696 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

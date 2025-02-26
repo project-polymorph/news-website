@@ -36,7 +36,7 @@
 [凤凰网](http://www.ifeng.com)  
 [华人佛教](http://fo.ifeng.com)  
 [众生](http://fo.ifeng.com/zhongsheng/list_0/0.shtml)
-
+<!-- tcd_original_link https://fo.ifeng.com/zhongsheng/detail_2008_08/12/243907_1.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

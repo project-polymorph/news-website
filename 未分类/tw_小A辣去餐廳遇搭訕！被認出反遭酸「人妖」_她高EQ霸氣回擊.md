@@ -27,7 +27,7 @@
 --- 
 
 标签: #跨性别 #小A辣 #性别重置手术 #性别认同 #社会问题
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E5%B0%8Fa%E8%BE%A3%E5%8E%BB%E9%A4%90%E5%BB%B3%E9%81%87%E6%90%AD%E8%A8%95-%E8%A2%AB%E8%AA%8D%E5%87%BA%E5%8F%8D%E9%81%AD%E9%85%B8-%E4%BA%BA%E5%A6%96-%E5%A5%B9%E9%AB%98eq%E9%9C%B8%E6%B0%A3%E5%9B%9E%E6%93%8A-023636647.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

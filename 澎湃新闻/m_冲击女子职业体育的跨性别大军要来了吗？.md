@@ -110,7 +110,7 @@
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。  
 [阅读原文](http://mp.weixin.qq.com/s/YSiuojuhEIwOhNaOR2nLVQ)  
 **原文链接**：冲击女子职业体育的变性大军要来了吗？
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_14527332?from= -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

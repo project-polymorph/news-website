@@ -39,7 +39,7 @@
 ---
 
 ※ **版权声明**：本文版權所有，非經授權，不得轉載。\[[ETtoday著作權聲明](https://www.ettoday.net/member/clause_copyright.php)\]
-
+<!-- tcd_original_link https://star.ettoday.net/news/302828 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

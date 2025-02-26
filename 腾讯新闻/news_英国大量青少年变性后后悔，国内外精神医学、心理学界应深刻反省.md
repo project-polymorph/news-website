@@ -185,7 +185,7 @@ DSM-5认为，个体不认同自己的性别，这不是疾病；只有个体因
   **网友**，2022年8月9日  
 
 ---
-
+<!-- tcd_original_link https://news.qq.com/rain/a/20220809A02PNZ00 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

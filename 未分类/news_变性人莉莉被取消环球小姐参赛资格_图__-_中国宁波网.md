@@ -97,7 +97,7 @@
 **参考资料**：[中国宁波网](http://www.cnnb.com.cn/)  
 
 ![](http://www.cnnb.com.cn/pic/0/04/21/41/4214177_806742.jpg)
-
+<!-- tcd_original_link http://news.cnnb.com.cn/system/2004/02/27/000760706.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

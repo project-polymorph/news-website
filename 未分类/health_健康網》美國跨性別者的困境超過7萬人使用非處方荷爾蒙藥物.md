@@ -40,7 +40,7 @@
 斯特羅姆薩說呼籲，這個問題需要被解決，而醫師可以是彌補這些差距的起點，將跨性別者納入制訂議程的過程，另外在規劃保險產品時可以考慮到他們的需求。如此一來才能為跨性別者消除障礙。
 
 ☆ 健康新聞不漏接，按讚追蹤[粉絲頁](https://www.facebook.com/healthLTN/ "粉絲頁")。 ☆ 更多重要醫藥新聞訊息，請上[自由健康網](https://health.ltn.com.tw/ "自由健康網")。
-
+<!-- tcd_original_link https://health.ltn.com.tw/article/breakingnews/3355700 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

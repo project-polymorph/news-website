@@ -51,7 +51,7 @@ IWAKAN發起人中里虎鐵：「過去不曾意識這個話題的人，積極�
 - [「女性話多沒效率」 日奧運會長森喜朗公然仇女](https://news.tvbs.com.tw/focus/1460202?utm_source=Yahoo&utm_medium=Yahoo_news&utm_campaign=newsid_1461332)
 
 **標籤：** LGBT, 性別平權, 日本
-
+<!-- tcd_original_link https://tw.news.yahoo.com/lgbt%E7%84%A1%E8%81%B2%E5%90%B6%E5%96%8A-%E6%97%A5%E6%9C%AC%E6%8E%A8%E5%8B%95%E6%80%A7%E5%88%A5%E5%B9%B3%E6%AC%8A%E6%BC%AB%E7%95%AB-112859842.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

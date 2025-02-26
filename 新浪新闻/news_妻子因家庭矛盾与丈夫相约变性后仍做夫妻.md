@@ -82,7 +82,7 @@
 **手机用户** 2  
 “他们的目的达不到的，一人变性手术几十万，术后用药很长时间，何况是两人，还是农民。”  
 2012-08-15
-
+<!-- tcd_original_link https://news.sina.cn/sa/2012-08-13/detail-ikmyaawa4119280.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

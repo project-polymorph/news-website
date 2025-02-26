@@ -25,7 +25,7 @@
 还有玩家调侃语气地评论”算了算了《最终幻想14》牛逼就行了。“足以可见这部游戏的口碑之高。
 
 ![](http://5b0988e595225.cdn.sohucs.com/images/20200217/a54f79c042544e5ba8596a3c009cf636.png)
-
+<!-- tcd_original_link https://www.sohu.com/a/373648105_234653 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

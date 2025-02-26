@@ -80,7 +80,7 @@
 
 **星島網WhatsApp爆料熱線 [(437)4289394](https://wa.me/14374289394)，爆料一經錄用，薄酬致意。**  
 **立即瀏覽 [移民百答](https://www.singtao.ca/category/2379013-%E5%A4%9A%E5%80%AB%E5%A4%9A%E7%A7%BB%E6%B0%91%E7%99%BE%E7%AD%94-st-topic/) 欄目：新移民抵埗攻略，老華僑也未必知道的事，移民、工作、居住、食玩買、交通、報稅、銀行、福利、生育、教育。**
-
+<!-- tcd_original_link https://www.singtao.ca/6922303/2024-11-02/news-%E5%A5%87%E6%A1%88%E8%A7%A3%E5%AF%86%EF%B8%B1%E9%87%8D%E6%85%B6%E7%94%B7%E5%AD%A9%E7%A9%BF%E5%A5%B3%E6%B3%B3%E8%A1%A3%E7%B4%85%E8%A3%99%E7%B6%81%E9%9B%99%E6%89%8B%E5%90%8A%E6%AD%BB%E5%9C%A8%E5%B1%8B%E6%A8%91++%E6%AD%BB%E6%96%BC%E8%8C%85%E5%B1%B1%E9%82%AA%E8%A1%93%EF%BC%9F/?variant=zh-hk -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

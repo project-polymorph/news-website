@@ -49,7 +49,7 @@
 免费 / 绿色应用 / 优质
 
 安装
-
+<!-- tcd_original_link http://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Fvideo.sina.com.cn%2Fp%2Fnews%2F2024-05-09%2Fdetail-inauqwnr6480007.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -35,7 +35,7 @@ Yahoo Style HK • 2024年9月16日 下午 12:30
 [私隱政策](https://guce.yahoo.com/privacy-policy?locale=zh-Hant-HK)  
 [你的私隱選擇](https://guce.yahoo.com/state-controls?locale=zh-Hant-HK&state=CA)  
 [CA 私隱通知](https://guce.yahoo.com/ca-notice?locale=zh-Hant-HK)
-
+<!-- tcd_original_link https://hk.news.yahoo.com/tag/%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -24,7 +24,7 @@
 “掌”握科技鲜闻 （微信搜索techsina或扫描左侧二维码关注）
 
 版权 © 1996-2024 SINA Corporation All Rights Reserved 新浪公司 [版权所有](http://www.sina.com.cn/intro/copyright.shtml)
-
+<!-- tcd_original_link https://finance.sina.com.cn/tech/roll/2024-11-03/doc-incuupqy0938947.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -69,7 +69,7 @@ Gill在最保守的年代也公開出櫃，並和愛人在夏威夷結婚。他�
 - [色情產業](https://www.thenewslens.com/tag/138472)
 - [吉爾](https://www.thenewslens.com/tag/172938)
 - [Dante Tex Gill](https://www.thenewslens.com/tag/172939)
-
+<!-- tcd_original_link https://www.thenewslens.com/article/100265 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

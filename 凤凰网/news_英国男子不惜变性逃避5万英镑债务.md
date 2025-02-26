@@ -22,7 +22,7 @@
 **标签：** 变性手术, 男人, 男子  
 
 **评论：** 共有评论0条  
-
+<!-- tcd_original_link https://news.ifeng.com/world/201003/0321_16_1582050.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

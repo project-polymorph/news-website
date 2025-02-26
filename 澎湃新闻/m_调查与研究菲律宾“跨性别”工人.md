@@ -80,7 +80,7 @@ Dalisay：是的。当然不是穿着比基尼。（笑）只是穿正式的衣�
 尽管如此，Emmanuel David教授还是认为，菲律宾全球呼叫中心紫领的这种酷儿价值，实质上是职场不平等的一种新形式，值得更多关注和研究。
 
 （文章首发于微信公众号：sociology前沿论文大推送。原题为：“紫领劳动：菲律宾全球呼叫中心的跨性别工人和酷儿价值”）
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_1403001 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

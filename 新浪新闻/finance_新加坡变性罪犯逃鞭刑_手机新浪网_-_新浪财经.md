@@ -33,7 +33,7 @@
 
 版权: Copyright © 1996-2012 SINA Corporation, All Rights Reserved  
 [新浪简介](http://corp.sina.com.cn/chn/)┊[网站律师](http://www.sina.com.cn/intro/lawfirm.shtml)
-
+<!-- tcd_original_link http://finance.sina.com.cn/roll/20120307/074611531346.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

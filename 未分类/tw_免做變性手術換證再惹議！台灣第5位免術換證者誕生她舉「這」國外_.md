@@ -35,7 +35,7 @@
 - [《黑白大廚》冠軍餐廳夯爆！黃牛代訂用繁體中文「疑台灣人」 網友：超丟臉](https://www.ftnn.com.tw/news/317630?utm_source=yahoo&utm_medium=referral&utm_campaign=rss&utm_content=317630)
 - [台人超愛這樣說！「這用詞」被中國網友直呼超奇怪 網狠曝真相：中文廣度太狹隘](https://www.ftnn.com.tw/news/317413?utm_source=yahoo&utm_medium=referral&utm_campaign=rss&utm_content=317413)
 - [兩岸同婚成了！夫夫愛侶「等5年」高雄完成登記 成全國首例](https://www.ftnn.com.tw/news/315582?utm_source=yahoo&utm_medium=referral&utm_campaign=rss&utm_content=315582)
-
+<!-- tcd_original_link https://tw.news.yahoo.com/%E5%85%8D%E5%81%9A%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E6%8F%9B%E8%AD%89%E5%86%8D%E6%83%B9%E8%AD%B0-%E5%8F%B0%E7%81%A3%E7%AC%AC5%E4%BD%8D%E5%85%8D%E8%A1%93%E6%8F%9B%E8%AD%89%E8%80%85%E8%AA%95%E7%94%9F-%E5%A5%B9%E8%88%89-%E9%80%99-%E5%9C%8B%E5%A4%96%E6%A1%88%E4%BE%8B-121000889.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

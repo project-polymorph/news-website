@@ -50,7 +50,7 @@ Riley Roberts有两个母亲，但是在他18岁的时候，他所生活的内�
 **或扫描二维码加关注。**
 
 ![二维码](http://image.thepaper.cn/www/image/5/244/752.jpg)
-
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_1552978 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

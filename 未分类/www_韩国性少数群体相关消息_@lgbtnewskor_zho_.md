@@ -92,7 +92,7 @@ G-Voice20周年定期演出海报：海报背景采用柔和的粉彩色调，�
 ## 在过去的7月1日，#首尔酷儿文化节|当天，在首尔还有一场“No Pride派对”悄然召开。在这里，为了深入探讨 #性少数群体| #多样化|的生活和权利，一个超越“Pride”政治局限性的政治讨论平台应运而生。  { data-search-exclude }
 
 在No Pride派对官方网站上，多张No Pride派对的相关照片像一卷连续的胶片重叠在一起。其中包括了参与No Pride派对的人们的样子、活动海报、以及一些人们双手交叉成X形的模样等。 (来源: No Pride派对) [https://www.lgbtnewskorea.com/zh/post/nopride-5](https://www.lgbtnewskorea.com/zh/post/nopride-5)
-
+<!-- tcd_original_link https://www.instagram.com/lgbtnewskor_zho/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

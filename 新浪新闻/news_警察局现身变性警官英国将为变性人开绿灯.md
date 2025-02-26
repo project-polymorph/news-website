@@ -25,7 +25,7 @@
 **新浪网友0**  
 **kkk**  
 **2002-12-17**
-
+<!-- tcd_original_link https://news.sina.cn/sa/2002-12-17/detail-ikknscsi0313640.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

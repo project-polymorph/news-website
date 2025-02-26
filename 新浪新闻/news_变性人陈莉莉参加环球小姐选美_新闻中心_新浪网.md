@@ -48,7 +48,7 @@
 ---
 
 版权信息：Copyright © 1996-2008 SINA Corporation, All Rights Reserved
-
+<!-- tcd_original_link http://news.sina.com.cn/z/schelilixuanmei/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

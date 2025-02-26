@@ -113,7 +113,7 @@
 **作者：** 本报记者 刘昕  
 **摄影：** 廉钢  
 **报道地点：** 江苏南京
-
+<!-- tcd_original_link https://news.sina.com.cn/o/2006-06-12/04049178054s.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -64,8 +64,7 @@
 -   [阿森纳，利物浦，曼城？韦恩·鲁尼预测英超冠军](http://www.jihuc.com/news/260846/)  
     **日期**：2024-11-12  
     [![阿森纳，利物浦，曼城？韦恩·鲁尼预测英超冠军](http://www.jihuc.com/file/upload/202411/07/005036551.png)](http://www.jihuc.com/news/260846/)  
-
-
+<!-- tcd_original_link http://www.jihuc.com/news/252000/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

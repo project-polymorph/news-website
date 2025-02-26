@@ -42,7 +42,7 @@
 
 ###### 版權
 © 2023 Hearst Communications, Inc. All rights reserved.
-
+<!-- tcd_original_link https://www.harpersbazaar.com/tw/celebrity/celebritynews/g34028544/jk-rowling-troubled-blood-anti-trans/ -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

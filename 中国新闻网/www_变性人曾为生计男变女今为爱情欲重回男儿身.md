@@ -63,7 +63,7 @@
 - [变性艺人河莉秀婚纱照亮相 7月正式领养小孩(图)](http://www.chinanews.com.cn/yl/mxzz/news/2007/04-28/926596.shtml)
 - [湖南两性人变性之路崎岖坎坷 医院希望其变女人](http://www.chinanews.com.cn/sh/news/2007/04-26/924874.shtml)
 - [“准变性人”高婷婷提交上诉状 希望减免上诉费](http://www.chinanews.com.cn/sh/news/2007/04-26/924874.shtml)
-
+<!-- tcd_original_link http://www.chinanews.com.cn/sh/news/2007/05-18/938275.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

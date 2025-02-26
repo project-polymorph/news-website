@@ -92,8 +92,7 @@ Reddit 群组r/mypartneristrans该组织自称是“为跨性别者和性别多�
 - 婚姻
 - 性别认同
 - LGBTQ2S+
-
-
+<!-- tcd_original_link https://h.ehouse411.com/news/18245.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

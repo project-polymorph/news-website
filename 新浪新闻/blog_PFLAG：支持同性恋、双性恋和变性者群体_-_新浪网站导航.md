@@ -45,7 +45,7 @@ PFLAG was formerly known as Parents, Friends and Family of Lesbians and Gays.
 ---
 
 阅读(623) ┊ 收藏(0) ┊ 喜欢(0)
-
+<!-- tcd_original_link https://blog.sina.com.cn/s/blog_67f297b00102ejl4.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

@@ -44,7 +44,7 @@
 - [董洁否认是谋女郎中最差:我肯定不是最后那个](http://www.chinanews.com.cn/yl/mxzz/news/2007/01-11/852778.shtml)
 
 本网站所刊载信息，不代表中新社观点。 刊用本网站稿件，务经书面授权。 未经授权禁止转载、摘编、复制及建立镜像，违者依法必究。
-
+<!-- tcd_original_link http://www.chinanews.com.cn/yl/zyxw/news/2007/07-24/986399.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

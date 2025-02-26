@@ -32,7 +32,7 @@
 *（照片：ISTOCK / CARLOS ALBERTO KUNICHEKRadio-Canada, Laurence Taschereau, adaptation en chinois par Donna Chan。）*
 
 ![相关图片](/images/672X402-DT.jpg)
-
+<!-- tcd_original_link https://ccnews.ca/index.php/education/educationnews/item/13935-2024-02-01-19-27-35/13935-2024-02-01-19-27-35 -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

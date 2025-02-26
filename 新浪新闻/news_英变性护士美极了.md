@@ -30,7 +30,7 @@
 说说你的看法
 
 88字
-
+<!-- tcd_original_link https://news.sina.cn/sa/2006-11-28/detail-ikkntiam8202144.d.html -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->

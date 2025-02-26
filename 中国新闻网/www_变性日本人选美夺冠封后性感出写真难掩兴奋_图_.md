@@ -27,7 +27,7 @@
 **版权信息**: © 2009 中国新闻网  
 **评论**: [发表评论](http://comment.chinanews.com.cn/comments/comments.php?newsid=1949705)  
 **标签**: #跨性别 #选美 #春菜爱 #日本
-
+<!-- tcd_original_link http://www.chinanews.com.cn/yl/yl-zyxw/news/2009/11-05/1949705.shtml -->
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
