@@ -1,0 +1,13 @@
+independence: []
+ignore:
+  - '.*\.github.*'
+  - '.*\.git.*'
+  - '.*CODE_OF_CONDUCT\.md.*'
+  - '.*LICENSE.*'
+  - 'digital\.yml'
+  - 'page\.yml'
+  - 'search_index\.yml'
+  - 'combined_index\.yml'
+  - 'wqy-microhei\.ttc'
+  - 'abstracts_wordcloud\.png'
+  - 'independence_repo\.json'

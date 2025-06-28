@@ -1,0 +1,925 @@
+{
+  "query": "跨性别",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 1,
+  "endpoint": "/news",
+  "date": "2025-02-26T18:09:44.546347",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "news",
+        "num": 100,
+        "page": 1,
+        "tbs": "qdr:m",
+        "engine": "google"
+      },
+      "news": [
+        {
+          "title": "美国陆军宣布将不再允许跨性别者参军",
+          "link": "https://news.cctv.com/2025/02/15/ARTIppnwCP7AdbqsjxnvkeXx250215.shtml",
+          "snippet": "当地时间2月14日，央视记者获悉，美国陆军当日在社交媒体上宣布，美国陆军将不再允许跨性别者参军，并将停止为军人执行或协助与性别转换相关的程序。",
+          "date": "1 周前",
+          "source": "央视网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrGEUMSA6UnyEUxvoRncJAe8u2QtsGhYvl1uP5VAwG3fD3kweuovEB_Q&usqp=CAI&s",
+          "position": 1
+        },
+        {
+          "title": "特朗普最新签署： 禁止跨性别运动员参加女子体育赛事！",
+          "link": "https://www.shangbaoindonesia.com/read/2025/02/06/berita-luar-negeri-1738857883",
+          "snippet": "【每日经济新闻】 据央视新闻客户端消息，当地时间2月5日，美国总统特朗普签署一项行政命令，禁止跨性别运动员参加女子体育赛事。 据报道，当天下午在签令仪式上，特朗普...",
+          "date": "3 周前",
+          "source": "Shangbao Indonesia",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3Y9AJnqleYm8C9pxdn-hniAPXVQQUZA0ULb6ipF6SVwzoK7jD0mkIQI&usqp=CAI&s",
+          "position": 2
+        },
+        {
+          "title": "特朗普禁止跨性别运动员参加女子赛事",
+          "link": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%81%E6%AD%A2%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%AD%90%E8%B5%9B%E4%BA%8B/a-71530345",
+          "snippet": "美国总统特朗普2月5日签署行政命令，禁止跨性别运动员在美国参加女子体育赛事。他说，这项立即生效的行政命令意味着“针对女子体育的战争已经结束”。",
+          "date": "3 周前",
+          "source": "DW",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCf014egNa5M9leT3Zp096Gspl0-31quskMJO1OOs&usqp=CAI&s",
+          "position": 3
+        },
+        {
+          "title": "特朗普签署行政命令 旨在禁止跨性别女性参加女子体育比赛",
+          "link": "https://www.voachinese.com/a/trump-order-seeks-to-ban-transgender-women-and-girls-from-female-sports-20250206/7964852.html",
+          "snippet": "美国总统唐纳德·特朗普(Donald Trump)星期三(2月5日)签署了一项行政命令，旨在将跨性别女孩和妇女排除在女子体育活动和比赛之外。支持者称该命令将恢复体育公平性，...",
+          "date": "3 周前",
+          "source": "美国之音",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS35CNTxPEJPIHt4vy2o4Hp3NeT-956Lw8Zh9zsmZhmIgv1_MjZVnswbAc&usqp=CAI&s",
+          "position": 4
+        },
+        {
+          "title": "特朗普签署行政令：禁止跨性别运动员参加女子体育赛事",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30090675",
+          "snippet": "当地时间2月5日，美国总统特朗普签署行政令，禁止跨性别运动员参加女子体育赛事。该行政令是特朗普及其政府推进限制跨性别权利的最新举措。 责任编辑：杨一.",
+          "date": "3 周前",
+          "source": "澎湃新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwuNSYRsRzGh3b6o8UYPLle5pcpmdr9wxtzneXnVKk6j8BU5hSep4g-wI&usqp=CAI&s",
+          "position": 5
+        },
+        {
+          "title": "特朗普签署行政令 禁止跨性别运动员参加女子体育赛事",
+          "link": "https://www.chinanews.com.cn/gj/2025/02-06/10363849.shtml",
+          "snippet": "当地时间2月5日，美国总统特朗普签署一项行政命令，禁止跨性别运动员参加女子体育赛事。 该行政命令是特朗普及其政府推进限制跨性别权利的最新举措。特朗普在竞选时曾多...",
+          "date": "3 周前",
+          "source": "中国新闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSpyD1sAdkE6B-btyNZoMkxW71e49p5CjubxgUHdD9eeUnkm7i4RDaBdg&usqp=CAI&s",
+          "position": 6
+        },
+        {
+          "title": "一周天下｜特朗普签署“禁止跨性别者参加女子体育比赛”行政令、尹锡悦出席弹劾案第六场公开辩论",
+          "link": "https://photos.caixin.com/2025-02-08/102286433.html",
+          "snippet": "当地时间2025年2月5日，美国华盛顿，美国总统特朗普签署“禁止跨性别者参加女子体育比赛”行政命令，要求所有美国体育机构禁止跨性别运动员参加女子体育赛事。特朗普表示将...",
+          "date": "2 周前",
+          "source": "财新",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-3ItR7r4vvh_y-U1kA8_PAWhztfPpAxU0uqdMWtl3WQKbVRWuGCz1DY&usqp=CAI&s",
+          "position": 7
+        },
+        {
+          "title": "B站、推特与跨性别医疗：中國青少年药娘的生存之旅",
+          "link": "https://theinitium.com/zh-hans/article/20250203-mainland-virtual-communities-underage-transgender",
+          "snippet": "B站、推特与跨性别医疗：中國青少年药娘的生存之旅 · 伪音: 指伪装声音，多指反串性别的模拟音，也可能指模仿同性角色的声音。 · MTF（Male to Female）: 指出生时被指派性别为...",
+          "date": "3 周前",
+          "source": "端傳媒Initium Media",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAGTBSjFlX6zbkfixAWsxX_5GBQdt1scuDTn4Klf1mUYh-xMbOGle28g&usqp=CAI&s",
+          "position": 8
+        },
+        {
+          "title": "特朗普签署政令阻止男性或跨性别运动员参加女子体育竞赛",
+          "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250206-%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%94%BF%E4%BB%A4%E9%98%BB%E6%AD%A2%E7%94%B7%E6%80%A7%E6%88%96%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%AD%90%E4%BD%93%E8%82%B2%E7%AB%9E%E8%B5%9B",
+          "snippet": "特朗普2月5日签署了一项阻止男性或跨性别运动员参加女子体育竞赛的政令。将削减相关学校的联邦补贴，拒绝向试图冒充女运动员进入美国的男人发放签证.",
+          "date": "3 周前",
+          "source": "RFI",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk3qHzpeC4Mx0C55SfHkZuA_WXjI_it5U2KMwemwR5RQNijLY_WSgTcNg&usqp=CAI&s",
+          "position": 9
+        },
+        {
+          "title": "禁止跨性别军人服役 特朗普签署3项有关军队政策行政令",
+          "link": "https://news.cnr.cn/sq/20250128/t20250128_527056238.shtml",
+          "snippet": "当地时间1月27日，美国总统特朗普签署3项有关军队政策行政令，要求禁止跨性别军人在美国武装部队服役、取消军队的“多元化、公平与包容”计划、恢复因拒绝接种新冠疫苗而被...",
+          "date": "1 个月前",
+          "source": "央广网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa194T5mh_K3nWqGyQJ61tkUamWrZBCAHumdfAhZzU1Tc4062sYGx7TJw&usqp=CAI&s",
+          "position": 10
+        },
+        {
+          "title": "美国陆军：不再允许跨性别者参军",
+          "link": "https://cbgc.scol.com.cn/news/5971007",
+          "snippet": "央视新闻消息，当地时间2月14日，美国陆军在社交媒体上宣布，美国陆军将不再允许跨性别者参军，并将停止为军人执行或协助与性别转换相关的程序。 美国陆军（资料图）.",
+          "date": "1 周前",
+          "source": "川观新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JYfMG4qcW1H-E6BQnWOseLYevP9QGHXRg2dx8-U&usqp=CAI&s",
+          "position": 11
+        },
+        {
+          "title": "美国陆军宣布将不再允许跨性别者参军",
+          "link": "https://news.sina.cn/gj/2025-02-15/detail-inekphks0534483.d.html?oid=%E5%A6%82%E4%B8%9C%E5%8E%BF%E5%A4%96%E5%9B%B4%E7%BB%8F%E7%BA%AA%E4%BA%BA%7B%E8%96%87%E4%BF%A1%E2%96%B71398994%7D%E5%A6%82%E4%B8%9C%E5%8E%BF%E9%AB%98%E7%AB%AF%E5%A4%96%E5%9B%B4%E8%B5%84%E6%BA%90_%E5%A6%82%E4%B8%9C%E5%8E%BF%E6%80%8E%E4%B9%88%E6%89%BE%E5%A4%96%E5%9B%B4%E5%A5%B3_%E5%A6%82%E4%B8%9C%E5%8E%BF%E5%A4%96%E5%9B%B4%E4%BC%B4%E6%B8%B8.wcs&vt=4&cid=56262&node_id=56262",
+          "snippet": "美国陆军（资料图）当地时间2月14日，央视记者获悉，美国陆军当日在社交媒体上宣布，美国陆军将不再允许跨性别者参军，并将停止为军人执行或协助与性别转换相关的程序.",
+          "date": "1 周前",
+          "source": "新浪新闻_手机新浪网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKP6W0Y9-DhLI4MaVadllSAkntQduV3pSN8mEYIAYsDTptte-3Mv3LNaU&usqp=CAI&s",
+          "position": 12
+        },
+        {
+          "title": "特朗普通过行政命令禁止跨性别女性参加女子体育比赛",
+          "link": "https://www.voachinese.com/a/7965033.html",
+          "snippet": "从现在开始，女子运动将只属于女性”，美国总统特朗普5日签署了一项行政命令，将跨性别女性排除在女子体育活动和比赛之外。支持者称该命令将恢复体育公平性，批评者则认为它...",
+          "date": "3 周前",
+          "source": "美国之音",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4Ksy1_FVz8TLyTOwQS36fkr-TB3EceNqWLGDgNXScPDr4D8B0g-X2nY&usqp=CAI&s",
+          "position": 13
+        },
+        {
+          "title": "特朗普签令：禁止跨性别运动员参加女子体育赛事",
+          "link": "https://www.chinanews.com.cn/gj/2025/02-06/10363854.shtml",
+          "snippet": "视频：特朗普签署行政令禁止跨性别运动员参加女子体育赛事来源：中国新闻网. 中新网2月6日电据美国有线电视新闻网(CNN)报道，当地时间5日，美国总统特朗普签署一项行政...",
+          "date": "3 周前",
+          "source": "中国新闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSxEZILwCQz41fbPif8KUVZJpm74YV58JLIj6YjlKaCQ6g7eWX-r4L-k&usqp=CAI&s",
+          "position": 14
+        },
+        {
+          "title": "日报｜美禁跨性别者参与女性體赛；千人抗议关美国际开发署；阿根廷退世卫组织",
+          "link": "https://theinitium.com/zh-hans/article/20250206-daily-brief",
+          "snippet": "谷歌放弃多元化招聘目标；中国就特朗普加关税向WTO提申诉；沙特反对特朗普接管加沙计划.",
+          "date": "3 周前",
+          "source": "端傳媒Initium Media",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUpZm2zM0G4aHu34POupkOHgbfNxOJr0fCKJFcDCw3A34EpKqgpSCoKg&usqp=CAI&s",
+          "position": 15
+        },
+        {
+          "title": "允许跨性别拳击运动员参加2024年巴黎奥运会，国际拳击协会将起诉国际奥委会",
+          "link": "https://m.huanqiu.com/article/4LRtz6xC4e9",
+          "snippet": "国际拳击协会（IBA）10日称，将在美国、法国和瑞士对国际奥委会（IOC）提起法律诉讼。总部位于瑞士的IOC允许跨性别拳击运动员、阿尔及利亚选手哈利夫参加2024年巴黎奥运会，...",
+          "date": "2 周前",
+          "source": "环球网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrAtHAUXCfHgx8Zz5lUF9W8LiNOGHn5ac0kbcJXgORMj6ch-by6Ll06o&usqp=CAI&s",
+          "position": 16
+        },
+        {
+          "title": "特朗普签署行政命令禁止跨性别女性参与女子体育赛事",
+          "link": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1790465-20250206.htm",
+          "snippet": "美国总统特朗普签署行政命令，禁止跨性别女性参与女子体育赛事。 近一百名女性出席签署仪式，特朗普说，针对女子体育的战争已经结束，他的政府不会袖手旁观，看着男性殴打...",
+          "date": "3 周前",
+          "source": "香港電台",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-VFLmgLPJxTWCqIFYue2-hSxWW2YNWTBRAD5qzIP9N9VJNSMtDKe5jY&usqp=CAI&s",
+          "position": 17
+        },
+        {
+          "title": "特朗普下令：禁止跨性别者参加女子体育赛事",
+          "link": "https://news.ifeng.com/c/8gkPO8HmqmG",
+          "snippet": "美国总统特朗普5日签署一项行政命令，禁止跨性别运动员参加女子体育赛事。签署仪式在白宫东厅进行，当天恰逢美国全国女孩和妇女运动日，特朗普在一群小运动员的簇拥下，...",
+          "date": "3 周前",
+          "source": "凤凰网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJgTh_WHB1m5hPN5CiGINfTIPafukXd7RQn1mhCLw4W9Vm7pJn-a8f68&usqp=CAI&s",
+          "position": 18
+        },
+        {
+          "title": "白宫：特朗普政府计划限制跨性别女性 参与学校体育",
+          "link": "https://www.zaobao.com.sg/realtime/world/story20250205-5836296",
+          "snippet": "白宫官员说，白宫将审查跨性别申请者的签证申请，以核查是否存在“欺诈行为”，同时要求教育部调查《第九条法案》的执行情况。 （法新社）. share icon.",
+          "date": "3 周前",
+          "source": "联合早报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhePLQ5NN7AW2L6-o1xEedWJSzYEh4R5KAnYzC3LAPLFmdblWG333B9w&usqp=CAI&s",
+          "position": 19
+        },
+        {
+          "title": "特朗普签署行政令 禁止跨性别运动员参加女子体育赛事",
+          "link": "https://news.qq.com/rain/a/20250206A01DSZ00",
+          "snippet": "当地时间2月5日，美国总统特朗普签署一项行政命令，禁止跨性别运动员参加女子体育赛事。该行政命令是特朗普及其政府推进限制跨性别权利的最新举措。",
+          "date": "3 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVBbcF5RIvvOHi0sLGOB4NOY3ja8J__pbH7pj8SkaFpP1oPFihPAyGCD4&usqp=CAI&s",
+          "position": 20
+        },
+        {
+          "title": "特朗普签署行政命令禁止跨性别者参加美国女性体育赛事",
+          "link": "https://chinese.joins.com/news/articleView.html?idxno=118515",
+          "snippet": "美国总统特朗普于当地时间5日签署行政命令，禁止跨性别者参加女性体育赛事。这一举措是继他上任初签署仅承认男性和女性两项生物学性别的行政命令后的又一相关政策。",
+          "date": "3 周前",
+          "source": "中央日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXYpXVULXomLFh26csqcsG74_H3TLr2DMSGJsJXvv04xGfqp-oX8cOsY&usqp=CAI&s",
+          "position": 21
+        },
+        {
+          "title": "数百人在纽约示威 抗议川普跨性别政策",
+          "link": "https://www.swissinfo.ch/chi/%E6%95%B0%E7%99%BE%E4%BA%BA%E5%9C%A8%E7%BA%BD%E7%BA%A6%E7%A4%BA%E5%A8%81-%E6%8A%97%E8%AE%AE%E5%B7%9D%E6%99%AE%E8%B7%A8%E6%80%A7%E5%88%AB%E6%94%BF%E7%AD%96/88823290",
+          "snippet": "法新社纽约3日电） 有数百人今天在纽约走上街头，抗议美国总统川普以行政命令限制儿少的变性医疗程序，以及有报导称一个在地的医院体系取消两名年轻变性者的门诊预约。",
+          "date": "2 周前",
+          "source": "SWI swissinfo.ch",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7p3GHeEG55FyQi7-cNLS2L3vTJ-ALdt3Rr4awxNQCi2MCWlySGRj_cQc&usqp=CAI&s",
+          "position": 22
+        },
+        {
+          "title": "特朗普签行政令 禁止跨性别运动员参加女子运动",
+          "link": "https://www.zaobao.com.sg/realtime/world/story20250206-5837501",
+          "snippet": "美国总统特朗普签署行政命令，禁止跨性别运动员参加女子运动，这是他重返白宫以来针对跨性别者的最新举措。",
+          "date": "3 周前",
+          "source": "联合早报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GnZCwHqRWDa-NLSXSOBv8LIEmMr6haQUDmYVEssEkzCyW5y70DZu8eI&usqp=CAI&s",
+          "position": 23
+        },
+        {
+          "title": "好莱坞当红跨性别演员，身份证件，被强制恢复出生性别！",
+          "link": "https://news.qq.com/rain/a/20250222A07S1600",
+          "snippet": "比起以往校园偶像剧，所上演的富家千金靓少，流于表面，狗血淋头的怀春之恋，2019年开播的HBO现象级大尺度校园剧《亢奋Euphoria》可谓是凭借着涉猎青少年D瘾、原生家庭...",
+          "date": "4 天前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo2KwZAi41MyEx7EYTrA4EOwH9rMxer036aqWy3QmuV_T7d90gHFLBEF4&usqp=CAI&s",
+          "position": 24
+        },
+        {
+          "title": "川普签行政命令 禁跨性别运动员参加女子赛事",
+          "link": "https://www.swissinfo.ch/chi/%E5%B7%9D%E6%99%AE%E7%AD%BE%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4-%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%AD%90%E8%B5%9B%E4%BA%8B/88834187",
+          "snippet": "法新社华盛顿5日电） 美国总统川普今天签署一项行政命令，寻求禁止跨性别运动员参与女子体育赛事，这是他重返白宫以来针对跨性别者的最新举动。",
+          "date": "3 周前",
+          "source": "SWI swissinfo.ch",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifDg-lrA856wuFcDLyprDr7bguPt1jjJocjFHhr3b0AyHtNtYTUZ8TQ0&usqp=CAI&s",
+          "position": 25
+        },
+        {
+          "title": "美军停招跨性别者 中止军人性别转换治疗",
+          "link": "https://www.swissinfo.ch/chi/%E7%BE%8E%E5%86%9B%E5%81%9C%E6%8B%9B%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85-%E4%B8%AD%E6%AD%A2%E5%86%9B%E4%BA%BA%E6%80%A7%E5%88%AB%E8%BD%AC%E6%8D%A2%E6%B2%BB%E7%96%97/88857079",
+          "snippet": "法新社华盛顿10日电） 美国国防部长赫格塞斯（Pete Hegseth）发布备忘录，阻止跨性别者加入美国军队，并中止现役军人的性别转换治疗程序。 这份本月7日发布的备忘录今天作为...",
+          "date": "2 周前",
+          "source": "SWI swissinfo.ch",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrO9yKwTiraRgaJoSIXzxpqv4Q9cpBGjXF9e79KfL46t_wCK2QNE3Znc&usqp=CAI&s",
+          "position": 26
+        },
+        {
+          "title": "跨性別運動法案提交喬治亞州參議院審議",
+          "link": "https://www.epochtimes.com/gb/25/2/6/n14430900.htm",
+          "snippet": "乔州参议院小组于1月30日听取并通过了《参议院1号法案》(SB 1)，该法案禁止学生参加与出生证明上性别不符的体育团队。 在州政府于2022 年授权乔州高中协会执行这类限制...",
+          "date": "3 周前",
+          "source": "大紀元",
+          "imageUrl": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.epochtimes.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "position": 27
+        },
+        {
+          "title": "网友吵翻了！特朗普要求美军中的1.5万跨性别者退役，真能实现吗-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20250129A00LA800",
+          "snippet": "近日，特朗普再次以强硬姿态闯入公众视野。据美联社1 月28 日报道，本周一，在从佛罗里达州返回华盛顿的空军一号上，特朗普签署了一系列行政命令，其中禁止跨性别军人在美国...",
+          "date": "1 个月前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8sspUKYBjf8RvZP9o215NIO1dALUt3LCnx2-wTyA-6TViFo2E_brjK5o&usqp=CAI&s",
+          "position": 28
+        },
+        {
+          "title": "川普頒令 禁跨性別運動員參與女子賽事",
+          "link": "https://www.epochtimes.com/gb/25/2/6/n14431172.htm",
+          "snippet": "美国总统川普（特朗普）于周三（2月5日）签署了一项行政命令，禁止生理男性（含跨性别运动员）参加女子运动。",
+          "date": "3 周前",
+          "source": "大紀元",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtB7xYJMmm5YS6BMjOkCXr6-rIdshiXPtFshXwkf1h_RNrzfHW0Wb20Q&usqp=CAI&s",
+          "position": 29
+        },
+        {
+          "title": "美教育部呼籲取消跨性別運動員的頭銜及獎項",
+          "link": "https://www.epochtimes.com/gb/25/2/13/n14436591.htm",
+          "snippet": "美国教育部（Department of Education）呼吁管理高中与大学体育运动的组织取消跨性别运动员所获得的纪录、头衔与奖项。这是川普（特朗普）总统为了永久禁止跨性别运动员...",
+          "date": "2 周前",
+          "source": "大紀元",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnXNVc8sT2q6XlzMfBua8VagIicvDzF_tiWBhcIIMMw6BvqDuCyem36x8&usqp=CAI&s",
+          "position": 30
+        },
+        {
+          "title": "跨性别运动员禁止参加洛杉矶奥运会！特朗普：中国的奥运金牌被偷走-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20250206A0332E00",
+          "snippet": "北京时间2月6日，美国总统特朗普签署一项行政命令，禁止跨性别运动员参加女子体育赛事，包括洛杉矶奥运会。 特朗普此前曾多次炮轰跨性别运动员，批评她们参加女子项目，...",
+          "date": "3 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT81Muu8m-Fm5YcuKgtVNH6BT8IgVrzIYGNXpPv27j-NiAX6b-baMHu_RqC&usqp=CAI&s",
+          "position": 31
+        },
+        {
+          "title": "特朗普签署行政命令，限制19岁以下的儿童及青少年改变性别",
+          "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250129-%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4%EF%BC%8C%E9%99%90%E5%88%B619%E5%B2%81%E4%BB%A5%E4%B8%8B%E7%9A%84%E5%84%BF%E7%AB%A5%E5%8F%8A%E9%9D%92%E5%B0%91%E5%B9%B4%E6%94%B9%E5%8F%98%E6%80%A7%E5%88%AB",
+          "snippet": "美国总统特朗普周三签署行政命令，限制19岁以下的儿童及青少年取得性别转换的（gender transition）医疗程序。这是特朗普重新执政以来，针对跨性别者所采取的最新行动。",
+          "date": "4 周前",
+          "source": "RFI",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkeldSpvHekJQSHavT-PFQVDDMKWePNueIKSgZIoTAgzdYxtypMntnLc&usqp=CAI&s",
+          "position": 32
+        },
+        {
+          "title": "美国陆军宣布将不再允许跨性别者参军-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20250215A010DD00",
+          "snippet": "美国陆军（资料图）当地时间2月14日，央视记者获悉，美国陆军当日在社交媒体上宣布，美国陆军将不再允许跨性别者参军，并将停止为军人执行或协助与性别转换相关的程序。",
+          "date": "1 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36nUVMRbWaafilNmS9md4l_nxpohYE9JZ6MLH0v5cdyulsh1S3SgyWRE&usqp=CAI&s",
+          "position": 33
+        },
+        {
+          "title": "特朗普将签署命令禁止跨性别女性参与女性运动比赛美股US Stocks Quote - 外围新闻内容Golbal News Content",
+          "link": "http://aastocks.com/sc/usq/news/comment.aspx?source=AAFN&id=NOW.1415093&catg=1",
+          "snippet": "据白宫官员称，美国总统特朗普将签署一项行政命令，禁止跨性别女性参加女性运动项目的比赛。 该命令将提供指导、法规和法律解释，并将邀请教育部对被认为不合规的高中进行...",
+          "date": "3 周前",
+          "source": "AASTOCKS.com",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZWWlVE_gQRDJAd_2QP4MNYgX3v9lP6zaJOd1WDq9IiaOJkX7uRmoLOU&usqp=CAI&s",
+          "position": 34
+        },
+        {
+          "title": "特朗普签署行政令限制跨性别女性参与体育运动 提供者 Investing.com",
+          "link": "https://cn.investing.com/news/politics-news/article-93CH-2659499",
+          "snippet": "Investing.com -- 周三，Donald Trump总统采取行政行动，实施其2024年竞选的一项关键政策，该政策禁止跨性别女性参与女子体育运动。这项名为\"确保男性远离女子体育\"的行政...",
+          "date": "3 周前",
+          "source": "Investing.com",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRecw7K-EYWU5hcPsYORpYutvaxs7-8TRDwdOQUIhUVq-aAMGjG7UGOr9s&usqp=CAI&s",
+          "position": 35
+        },
+        {
+          "title": "美國司法部放棄對田納西未成年人跨性別醫療禁令的挑戰",
+          "link": "https://www.epochtimes.com/gb/25/2/14/n14436884.htm",
+          "snippet": "2024年2月7日，美国司法部（DOJ）向最高法院就田纳西州针对未成年人跨性别医疗程序的禁令提出诉讼，认为该州法律违宪。但现在，司法部已放弃其先前立场，并认为该州法律合宪...",
+          "date": "2 周前",
+          "source": "大紀元",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjVMTskSw19P9cK0GEs0-6zZDeSN8Y9HRJw4LBZW_xeX6DtlUx6Z2_30&usqp=CAI&s",
+          "position": 36
+        },
+        {
+          "title": "早安!世界丨美国禁止跨性别运动员参加女子赛事；6名中国人在菲被绑架致4死案嫌犯落网",
+          "link": "https://news.qq.com/rain/a/20250206A02M0100",
+          "snippet": "特朗普签令禁止跨性别运动员参加女子赛事当地时间2月5日，美国总统特朗普签署一项行政命令，禁止跨性别运动员参加女子体育赛事。同日，特朗普表示，美国将拒绝跨性别运动员...",
+          "date": "3 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8mObPxoz49tPn2MSgRP5kZ9GZu49_7JYvjJFXlBmqAVZXeC4phKTyD5M&usqp=CAI&s",
+          "position": 37
+        },
+        {
+          "title": "美国陆军宣布将不再允许跨性别者参军",
+          "link": "https://news.qq.com/rain/a/20250215A04XOZ00",
+          "snippet": "当地时间2月14日，央视记者获悉，美国陆军当日在社交媒体上宣布，美国陆军将不再允许跨性别者参军，并将停止为军人执行或协助与性别转换相关的程序。此前，当地时间1月27日，...",
+          "date": "1 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXiFMJ29a9wx3Ka9CwOwCGXBxlM6dCadvcLGge4dyg3LYtDkGXIKV__Ng&usqp=CAI&s",
+          "position": 38
+        },
+        {
+          "title": "川普禁止跨性别运动员参加女子项目 杠上民主党州长",
+          "link": "https://www.swissinfo.ch/chi/%E5%B7%9D%E6%99%AE%E7%A6%81%E6%AD%A2%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%AD%90%E9%A1%B9%E7%9B%AE-%E6%9D%A0%E4%B8%8A%E6%B0%91%E4%B8%BB%E5%85%9A%E5%B7%9E%E9%95%BF/88913890",
+          "snippet": "法新华盛顿21日电） 美国总统川普下令禁止跨性别运动员参加女子体育比赛，民主党籍缅因州长米尔斯今天对此与他激烈争论，米尔斯呛他法庭见，川普略显动怒回击，州长任期结束...",
+          "date": "4 天前",
+          "source": "SWI swissinfo.ch",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kuO1K01NZHDBifHLyRvIST2GmQGg6XaeRuRkSv5h3upu4uQjWgvM_x8&usqp=CAI&s",
+          "position": 39
+        },
+        {
+          "title": "川普禁跨性别者从事女性运动 联合国专员喊赞",
+          "link": "https://www.swissinfo.ch/chi/%E5%B7%9D%E6%99%AE%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E4%BB%8E%E4%BA%8B%E5%A5%B3%E6%80%A7%E8%BF%90%E5%8A%A8-%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%93%E5%91%98%E5%96%8A%E8%B5%9E/88868456",
+          "snippet": "法新社日内瓦12日电） 美国总统川普日前签署行政命令，禁止跨性别女性参加女子体育赛事。对此，有联合国专家认为，川普确保了女子运动的公平与安全性。",
+          "date": "2 周前",
+          "source": "SWI swissinfo.ch",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJZ-QaPYRz9dL0NlFhjchay1FU7GqH4442vC3PSju2bZgeegQWGLlEV8&usqp=CAI&s",
+          "position": 40
+        },
+        {
+          "title": "特朗普下令冻结部分资金发放，政府开始全面检讨联邦贷款和拨款",
+          "link": "https://www.voachinese.com/a/trump-orders-a-funding-freeze-as-his-administration-reviews-federal-loans-and-grants-20250128/7953119.html",
+          "snippet": "美国白宫星期二（1月28日）开始暂停联邦拨款和贷款资金的发放，以响应唐纳德·特朗普（Donald Trump）总统要求政府全面检讨和审查开支的行政命令。",
+          "date": "1 个月前",
+          "source": "美国之音",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02t_bMUkg3YBCn4DyeVV0KO0NgJlCoSnEQyf3u_FlXN4hzI1aALRe268&usqp=CAI&s",
+          "position": 41
+        },
+        {
+          "title": "特朗普签令：禁止跨性别运动员参加女子体育赛事",
+          "link": "https://news.ifeng.com/c/8gkFk1QPPqs",
+          "snippet": "中新网2月6日电据美国有线电视新闻网(CNN)报道，当地时间5日，美国总统特朗普签署一项行政命令，禁止跨性别运动员参加女子体育赛事。 资料图：美国总统特朗普。",
+          "date": "3 周前",
+          "source": "凤凰网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-H6Yo79ptXPZgWSDPXv2Blx-fgPiqFTB5sTQkRx6DTGgNlBZv-tWclLU&usqp=CAI&s",
+          "position": 42
+        },
+        {
+          "title": "允许跨性别拳击运动员参加2024年巴黎奥运会，国际拳击协会将起诉国际奥委会",
+          "link": "https://news.qq.com/rain/a/20250212A016IQ00",
+          "snippet": "【环球时报特约记者李佳寅】国际拳击协会（IBA）10日称，将在美国、法国和瑞士对国际奥委会（IOC）提起法律诉讼。总部位于瑞士的IOC允许跨性别拳击运动员、阿尔及利亚选手哈...",
+          "date": "2 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSMRBKBOP_4d35xwooLWuZ-RepJVMtDlCGoZsiyYalpl-4xofoPfH4IY8&usqp=CAI&s",
+          "position": 43
+        },
+        {
+          "title": "禁止跨性别军人服役 特朗普签署3项军队行政令",
+          "link": "https://i.ifeng.com/c/8gVYDgwx58q",
+          "snippet": "特朗普明确表态，要将“跨性别意识形态从军队中彻底清除”。回顾往昔，2017 年他在第一届政府任期时，就曾下达过类似禁令，不过在2021 年被拜登废止。",
+          "date": "1 个月前",
+          "source": "凤凰网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7tnpaztmCm6JpgjmhcBQHUwQsUZVYuffGB6FQMkINGvQco1ahI03Ctg&usqp=CAI&s",
+          "position": 44
+        },
+        {
+          "title": "川普只承認兩種性別行政令 遭起訴",
+          "link": "https://www.epochtimes.com/gb/25/1/27/n14423646.htm",
+          "snippet": "一名在联邦监狱服刑的跨性别女性提起诉讼，认为唐纳德‧川普（特朗普）总统的行政命令指示美国政府只承认两种不可改变的性别，并要求把像她这样的囚犯关押在男子监狱，...",
+          "date": "1 个月前",
+          "source": "大紀元",
+          "imageUrl": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.epochtimes.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "position": 45
+        },
+        {
+          "title": "黑鹰女副驾驶身份被拒绝公开，34岁跨性别飞行员无奈发声，我还活着-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20250201A015HC00",
+          "snippet": "据当地时间1月31日的消息称，华盛顿特区坠机现场附近出现了一座临时纪念碑，竖立着巨大的十字架，以纪念空中相撞事件中所有67名遇难者。华盛顿特区消防局局长约翰康诺利...",
+          "date": "3 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OrQuMqSi6CTR8V50DY4vuVrktFs6GRBQGeGwFXWeeNpbBRFl5wEn5FQ&usqp=CAI&s",
+          "position": 46
+        },
+        {
+          "title": "美国陆军宣布将不再允许跨性别者参军",
+          "link": "https://user.guancha.cn/main/content?id=1382357&comments-container",
+          "snippet": "2025年02月15日06:31 央视△美国陆军（资料图） 当地时间2月14日，央视记者获悉，美国陆军当日在社交媒体上宣布，美国陆军将不再允许跨性别者参军...",
+          "date": "1 周前",
+          "source": "风闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7xYTBgX2CwWZ8wP-gGSQykyqSxKz0PUBCmYecMx__BVPbQ8HO5uAUEY&usqp=CAI&s",
+          "position": 47
+        },
+        {
+          "title": "美国陆军宣布将不再允许跨性别者参军-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20250215A010SZ00",
+          "snippet": "美国陆军（资料图） 当地时间2月14日，记者获悉，美国陆军当日在社交媒体上宣布，美国陆军将不再允许跨性别者参军，并将停止为军人执行或协助与性别转换相关的程序。....",
+          "date": "1 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36nUVMRbWaafilNmS9md4l_nxpohYE9JZ6MLH0v5cdyulsh1S3SgyWRE&usqp=CAI&s",
+          "position": 48
+        },
+        {
+          "title": "特朗普修改五角大楼政策：跨性别部队、疫苗接种规定",
+          "link": "https://www.newslooks.com/zh-CN/trump-revises-pentagon-policy-transgender-troops-and-vaccine-mandates/",
+          "snippet": "特朗普修改五角大楼政策：跨性别部队、疫苗接种要求/ Newslooks/ 华盛顿/ J. Mansour/ 晨报/ 唐纳德·特朗普总统签署行政命令，指示对五角大楼政策进行全面改革，包括修改...",
+          "date": "1 个月前",
+          "source": "NewsLooks",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWvVxi7_hGl7hFTG_GWaRIddB8mwvvtQ7kwH_JnrMpiml6HXvES_3YxI&usqp=CAI&s",
+          "position": 49
+        },
+        {
+          "title": "新澤西跨性別政策上訴案 法院判學區有自治權",
+          "link": "https://www.epochtimes.com/gb/25/2/13/n14436750.htm",
+          "snippet": "新泽西州上诉法院最近（2月5日）做出最新裁决，裁定米德尔顿（Middletown）镇教育委员会不可实施一项政策，即：在学生更改姓名、改变自己的代名词（他或她等），或改变自己的厕所...",
+          "date": "2 周前",
+          "source": "大紀元",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_k7OXSK6h3x85YMkoNjljD8YjB1zrh7Mudr-qzCUPmVJnwyVNat3YXbU&usqp=CAI&s",
+          "position": 50
+        },
+        {
+          "title": "葵花宝典？福奇花1000万美元研究跨性别狗鼠猴?",
+          "link": "https://user.guancha.cn/main/content?id=1378467",
+          "snippet": "近日，美国社会被一则重磅消息搅得天翻地覆。马斯克转载了美国议员的一则帖子。而帖子的内容，是曝光了福奇博士的一项研究项目，项目耗资1000万美元，而实验目的竟然是...",
+          "date": "3 周前",
+          "source": "风闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQNVmIktkINGG_9ulE5F3KLdVVhHAbiW_F347JzvTLWQJ5yrn1KCV2c1k&usqp=CAI&s",
+          "position": 51
+        },
+        {
+          "title": "美卫生部门重新定义性别",
+          "link": "https://news.ifeng.com/c/8h8ZBZaMl9f",
+          "snippet": "据美国有线电视新闻网（CNN）报道，美国卫生与公众服务部（HHS）周三向美国政府、外部合作伙伴和公众发布了相关指导意见，其中对“性别” 的定义与特朗普1月签署的行政命令...",
+          "date": "6 天前",
+          "source": "凤凰网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvc139p2gpkofJhvli9nEDBu0SAldIIFE1lXov3LaP0h2uyXEfs9Bvang&usqp=CAI&s",
+          "position": 52
+        },
+        {
+          "title": "美国陆军宣布将不再允许跨性别者参军",
+          "link": "https://news.ifeng.com/c/8gzHifgXOf1",
+          "snippet": "美国陆军（资料图）. 当地时间2月14日，央视记者获悉，美国陆军当日在社交媒体上宣布，美国陆军将不再允许跨性别者参军，并将停止为军人执行或协助与性别转换相关的程序。",
+          "date": "1 周前",
+          "source": "凤凰网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRZga1zoCxLA7Xs2Yl8A2OdPYGcRf-Vmgjicd_mDZi7ooGadDk1G3rRM&usqp=CAI&s",
+          "position": 53
+        },
+        {
+          "title": "川普簽署行政命令 禁跨性別者參加女性運動賽事",
+          "link": "https://www.worldjournal.com/wj/story/121179/8530642?from=wj_catelistnews&zh-cn",
+          "snippet": "川普总统5日签署行政命令，禁止生理男性的跨性别选手参加女性运动赛事；川普还在致词中重提去年巴黎奥运，暗指阿尔及利亚拳击选...",
+          "date": "3 周前",
+          "source": "世界新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3UaY4aY_no8LQ8gFyoWtb4nWFAlyusxDvHZrLDwaGLOIXs7dl3xtxhDA&usqp=CAI&s",
+          "position": 54
+        },
+        {
+          "title": "《龙腾世纪4》跨性别前总监：或将开发《博德之门4》-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20250205A06QV800",
+          "snippet": "根据可靠内部人士兼油管主Smash JT的最新报告称，一位知情人士向他透露称，《龙腾世纪：影障守护者》跨性别前总监Corinne Busche已受聘于威世智新成立的工作室Skeleton...",
+          "date": "3 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYAG00H7HHm6VQr_B1LG4ogod--sGDUQTdwmzeaxZIZlVEVD5Mt9iaZnI&usqp=CAI&s",
+          "position": 55
+        },
+        {
+          "title": "皮克斯新剧《胜与败》调整内容 删除跨性别角色线",
+          "link": "https://ent.sina.cn/tv/euro_usa/2025-02-22/detail-inemhxxq3052966.d.html?oid=%E8%B0%B7%E6%AD%8C%E4%BB%A3%E5%8F%91%E5%BC%95%E6%B5%81%E3%80%90%E7%94%B5%E6%8A%A5e10838%E3%80%91google%E4%BC%98%E5%8C%96%E9%9C%B8%E5%B1%8F.sal.0201&vt=4",
+          "snippet": "新浪娱乐讯北京时间2月22日消息，据外国媒体报道，皮克斯新动画剧集《胜与败》删掉了一个跨性别角色的性别身份的故事线。 该剧讲述一支男女同队的高中垒球队的故...",
+          "date": "4 天前",
+          "source": "新浪网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-TB7eo-DOr7TGikA8s1rVOpnalzF2AiPvQVZkJtt1cJ5fiYKVkHf0t6Q&usqp=CAI&s",
+          "position": 56
+        },
+        {
+          "title": "特朗普出手，跨性别拳击冠军终于被封杀，2028奥运会彻底变天！_参赛_女子_体育",
+          "link": "https://www.sohu.com/a/857673867_403336",
+          "snippet": "2024年巴黎奥运会，拳击场上的血与汗刚刚落地，美国总统特朗普就扔出一颗炸弹——他签署行政命令，彻底封杀跨性别女性运动员的参赛资格。 支持特朗普的人说得头头是道：跨...",
+          "date": "2 周前",
+          "source": "搜狐网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3G0I5cX-3Exui76wYHmX8uGOzN3mN-Xw2ILhlKrv13So-6tQXwG4TTqc&usqp=CAI&s",
+          "position": 57
+        },
+        {
+          "title": "司法部指责法官在跨性别部队案件中存在偏见",
+          "link": "https://www.newslooks.com/zh-CN/doj-accuses-judge-of-bias-in-transgender-troop-case/",
+          "snippet": "司法部指控法官在跨性别军人案件中存在偏见\\ Newslooks \\ 华盛顿特区\\ Mary Sidiqi \\ 晚间版\\ 司法部已对美国地区法官Ana Reyes 提起不当行为投诉，指控她在听证会上...",
+          "date": "4 天前",
+          "source": "NewsLooks",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYp6kDKSF598L9lNZWI6I4vzm-XhAoB3G40Cynp96yth5u6HicQVFoEg&usqp=CAI&s",
+          "position": 58
+        },
+        {
+          "title": "研究：狮城近七成跨性别者 遭遇职场霸凌",
+          "link": "https://atvnewsonline.com/world/%E7%A0%94%E7%A9%B6%EF%BC%9A%E7%8B%AE%E5%9F%8E%E8%BF%91%E4%B8%83%E6%88%90%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85-%E9%81%AD%E9%81%87%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C/",
+          "snippet": "新加坡最近一项调查显示，该国约65%的变性人在职场中有过负面经历，包括遭骚扰和辱骂。其中，36%的人曾收到过关于他们的“生活方式”、性取向、性别认同或性生活的不受欢迎...",
+          "date": "3 周前",
+          "source": "亚洲电视新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjIe0beiDgE-uVmR-5d0YsTCAiR7Xj0hal--5ihCNKq-9SdkY5AyqJWq0&usqp=CAI&s",
+          "position": 59
+        },
+        {
+          "title": "川普下令後 一些醫院停止兒童跨性別手術",
+          "link": "https://www.epochtimes.com/gb/25/2/1/n14427345.htm",
+          "snippet": "科罗拉多州、弗吉尼亚州及华盛顿特区的一些医院于1月30日表示，为评估唐纳德‧川普总统的新行政命令他们已停止对未成年人进行跨性别手术。",
+          "date": "3 周前",
+          "source": "大紀元",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8102Zf2arDfjjTfNuRe0Ena6HUnlPKcYs44u5vKxEH5-eo3rtwl2PajI&usqp=CAI&s",
+          "position": 60
+        },
+        {
+          "title": "美国宣布禁止跨性别运动员参加女子体育赛事引热议",
+          "link": "https://m.cnbeta.com.tw/wap/view/1476386.htm",
+          "snippet": "美国总统特朗普当地时间2月5日签署一项行政命令，禁止跨性别运动员参加女子体育赛事。该行政命令是特朗普及其政府推进限制跨性别权利的最新举措。",
+          "date": "3 周前",
+          "source": "cnBeta.COM",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9zS9jc3hC0ZIYAS88WyfRKcibyXAOr8xg2wDfh6wL-yJkb5rAWTEm0Acr&usqp=CAI&s",
+          "position": 61
+        },
+        {
+          "title": "日报｜中国AI模型引美股震荡；美国打击军中跨性别；中印将恢复航班",
+          "link": "https://theinitium.com/zh-hans/article/20250128-daily-brief",
+          "snippet": "Google地图将随特朗普改地名；中国地产巨头万科预计大额亏损；香港记协指学生媒体“关爱队”报导引攻击.",
+          "date": "1 个月前",
+          "source": "端傳媒Initium Media",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQofDuz7PKDbYDJyDg5uru4rDNovRtCnn8O4rTCtatuFC500V8n4eAdfm0&usqp=CAI&s",
+          "position": 62
+        },
+        {
+          "title": "洛杉矶奥运会将无跨性别选手！特朗普签署总统令：为中国选手鸣冤-腾讯新闻",
+          "link": "https://view.inews.qq.com/a/20250206A05JGF00?uid%5B0%5D=358837019&uid%5B1%5D=358837019",
+          "snippet": "2月6日，美国总统特朗普签署了一项特殊的行政命令--禁止跨性别选手参加女子体育赛事。2028年洛杉矶奥运会，美国将会拒绝向跨性别选手发放签证。 早在参加美国大选之前，...",
+          "date": "3 周前",
+          "source": "腾讯网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAACYPKiOeS0wZEuvbcSpDJIjpHXkqbZSHTeVO68nz6rL7HaM6c0tnp0s&usqp=CAI&s",
+          "position": 63
+        },
+        {
+          "title": "特朗普禁跨性别者从事女性运动 2学生开司法战第一枪",
+          "link": "https://www.enanyang.my/node/650508",
+          "snippet": "美国2位跨性别学生12日展开司法行动，挑战总统特朗普禁止她们从事校内女子体育活动的命令。",
+          "date": "2 周前",
+          "source": "Enanyang",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQetYjzAY4_30Qm0VlMNOB3i6k3gGxMchoQdN7YJ55UVe6RtD4DnINdKA8&usqp=CAI&s",
+          "position": 64
+        },
+        {
+          "title": "允许跨性别拳击运动员参加2024年巴黎奥运会，国际拳击协会将起诉国际奥委会-腾讯新闻",
+          "link": "https://view.inews.qq.com/a/20250212A016IQ00",
+          "snippet": "【环球时报特约记者李佳寅】国际拳击协会（IBA）10日称，将在美国、法国和瑞士对国际奥委会（IOC）提起法律诉讼。总部位于瑞士的IOC允许跨性别拳击运动员、阿尔及利亚选手哈...",
+          "date": "2 周前",
+          "source": "QQ.com",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSMRBKBOP_4d35xwooLWuZ-RepJVMtDlCGoZsiyYalpl-4xofoPfH4IY8&usqp=CAI&s",
+          "position": 65
+        },
+        {
+          "title": "跨性别运动员禁止参加洛杉矶奥运会，特朗普：巴黎奥运会上中国女运动员金牌被偷走",
+          "link": "https://view.inews.qq.com/a/20250206A05DET00",
+          "snippet": "在特朗普成为美国新一任总统后，他连续签署了多项行政命令。近日，他再次签署了一项行政命令，而这则行政命令则与体育有关。这项行政命令的内容为禁止跨性别运动员参加...",
+          "date": "3 周前",
+          "source": "腾讯网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxJvw_YJmDBZofpiixxtEFB-SUt2zKd8VdRKk5gGLoDr7tzjf1g87IU0&usqp=CAI&s",
+          "position": 66
+        },
+        {
+          "title": "特朗普签行政命令 禁跨性别者参与女子赛",
+          "link": "https://www.enanyang.my/node/649271",
+          "snippet": "美国总统特朗普5日签署行政命令，旨在禁止跨性别女性参加女子体育赛事，并指示当局不得发签证给要到美国参加女子赛事的跨性别运动员。",
+          "date": "3 周前",
+          "source": "Enanyang",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSie2x0yjrnzw1ZL_fOh49h8EveOKpC72J-KYiR1QNqrtt4JtvpCVzqg&usqp=CAI&s",
+          "position": 67
+        },
+        {
+          "title": "针对跨性别运动员，特朗普最新宣布。",
+          "link": "https://www.huxiu.com/moment/1101916.html",
+          "snippet": "针对跨性别运动员，特朗普最新宣布。据中新网，当地时间2月5日，美国总统特朗普签署一项行政命令，禁止跨性别运动员参加女子体育赛事。该行政命令是特朗普及其政府推进限制...",
+          "date": "3 周前",
+          "source": "虎嗅网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL7uBN1Tx-H7EOEb3DQ6Ca77TOhnRI6wEB5cF0TRpXW4lyk_aqayndRGU&usqp=CAI&s",
+          "position": 68
+        },
+        {
+          "title": "特朗普签令 禁止跨性别运动员参加女子体育赛事",
+          "link": "http://www.jpchinapress.com/static/content/SS/2025-02-06/1337027892354389401.html",
+          "snippet": "美国总统特朗普5日签署一项行政命令，禁止跨性别运动员参加女子体育赛事。 图为美国总统特朗普。（图/新华社）. 该行政命令是特朗普及其政府推进限制跨性别权利的最新举措...",
+          "date": "3 周前",
+          "source": "旅日侨网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWEOg3QIJlB8XhhYSsSWbZEu0jm0MXthqwg1czTG-HRiAuUgPIqXR5huc&usqp=CAI&s",
+          "position": 69
+        },
+        {
+          "title": "洛杉矶儿童医院宣布暂停给19岁以下孩子做变性手术！加州威胁调查-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20250207A01UNF00",
+          "snippet": "川普总统在1月28日签署行政令，禁止用联邦资金以及保险公司为儿童变性手术支付费用。洛杉矶儿童医院（CHLA）周二（2月4日）宣布，自2 月1 日起暂停对19 岁以下患者提供变性...",
+          "date": "3 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScH0QMgG2nzFcIlptYc13SwcboGcGLMpAYN7Jvh4nfiK58XpPILJG9Ygg&usqp=CAI&s",
+          "position": 70
+        },
+        {
+          "title": "特朗普宣布跨性别运动员不得参加2028年奥运会",
+          "link": "https://info.51.ca/articles/1393664",
+          "snippet": "美国总统特朗普于周三签署了一项行政命令，正式禁止跨性别运动员参与女子项目的竞技比赛，此举兑现了他竞选期间的重要承诺，但也可能为明年夏天美国作为奥运会主办国带来...",
+          "date": "3 周前",
+          "source": "无忧资讯",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTGvuw-J90x490kIpb0OiyrqSPVKquKmQrzAv0zpoj8DtVuBOW3qrlaSQ&usqp=CAI&s",
+          "position": 71
+        },
+        {
+          "title": "五角大楼禁止跨性别者加入美国军方,暂时停止性别过渡",
+          "link": "https://voi.id/zh/news/459005",
+          "snippet": "雅加达- 国防部长皮特·海格塞斯(Pete Hegseth)周一在法院提交的一份备忘录中写道,禁止美国军方使用跨性别者,并将停止或促进与武装部队成员性别过渡有关的程序。",
+          "date": "2 周前",
+          "source": "VOI.ID",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjupvz3aolyxLxENl5X1Hda60Zyc-UPau9aRiK7GDiecBufPznXW57RI&usqp=CAI&s",
+          "position": 72
+        },
+        {
+          "title": "分「男、女」關押跨性別者 川普行政令被聯邦法院擋下",
+          "link": "https://www.worldjournal.com/wj/story/121468/8530083?zh-cn",
+          "snippet": "川普总统上台后发布多道行政命令限缩跨性别权益，包括下令联邦监狱管理局(Bureau of Prisons，BOP)根据男...",
+          "date": "3 周前",
+          "source": "世界新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.worldjournal.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "position": 73
+        },
+        {
+          "title": "改變跨性別政策 NCAA女性賽事禁跨性女參加",
+          "link": "https://www.worldjournal.com/wj/story/121172/8532922?zh-cn",
+          "snippet": "国家大学体育协会(NCAA)6日遵照川普发布的行政命令，改变跨性别政策， 宣布女性赛事只限出生时为女性的运动员参加。",
+          "date": "3 周前",
+          "source": "世界新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdGrf4lGfl2AE_LJ0EphnuH4GJCZe8xNfmUoSAJ_HwqBkAym52BdXNjU&usqp=CAI&s",
+          "position": 74
+        },
+        {
+          "title": "特朗普签令 禁跨性别运动员参赛",
+          "link": "https://atvnewsonline.com/world/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E4%BB%A4-%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%82%E8%B5%9B/",
+          "snippet": "美国总统特朗普星期三（2月5日）签署行政命令，禁止跨性别女性参加女子体育赛事，并指示有关部门不得向计划赴美参赛的跨性别运动员发放签证。 特朗普在白宫东厅签署该行政...",
+          "date": "3 周前",
+          "source": "亚洲电视新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUz-rraCTXa_VkdoQjR0rPvp8GZXp3bqZ0rV7WzD_fN0Ra-ZOuMF9y3Q&usqp=CAI&s",
+          "position": 75
+        },
+        {
+          "title": "美国一跨性别者遭残忍虐杀",
+          "link": "https://www.orientaldaily.com.my/news/international/2025/02/16/712980",
+          "snippet": "（卡南代瓜16日讯）美国警方当地时间周五表示，一名跨性别者（出生为女性，认同为男性）在美国遭到多人“反复施暴和酷刑”数周后被杀害。法新社报导，在纽约州卡南代瓜附近的...",
+          "date": "1 周前",
+          "source": "马来西亚东方日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMF9irswmL4st4K_v8i4tFi243jN_YWcsLmyNriFfxXkzFksG70cT3FfU&usqp=CAI&s",
+          "position": 76
+        },
+        {
+          "title": "加州跨性別領袖：川普禁令讓LGBTQ社群從泡泡中清醒",
+          "link": "https://www.worldjournal.com/wj/story/121179/8531204?zh-cn",
+          "snippet": "川普上任后终止多元性别，旧金山跨性别权利倡导者福特受访表示，过去身处加州「泡泡」之中，「你以为每个人都接受了你」，但现实...",
+          "date": "3 周前",
+          "source": "世界新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3HdwsryskhrtzUEYOva75iJIbPYcJ7jARvy9rEAFt9Fi5olGeD_6Zvqo&usqp=CAI&s",
+          "position": 77
+        },
+        {
+          "title": "特朗普签署行政命令 禁跨性别运动员参加女子赛事",
+          "link": "https://www.orientaldaily.com.my/news/international/2025/02/06/710538",
+          "snippet": "（华盛顿6日讯）美国总统特朗普当地时间周三签署行政命令，禁止跨性别运动员参加女子运动，这是他上任以来针对跨性别者的最新举措。法新社报导，特朗普在在数十名儿童和女...",
+          "date": "3 周前",
+          "source": "马来西亚东方日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiSPYUTMGOwiJHThZWNEA07J4mPyYxK9J5iHd8POvzrcS4W9WIh6pOICQ&usqp=CAI&s",
+          "position": 78
+        },
+        {
+          "title": "川普調整醫療政策 EMS：跨性別群體面臨新挑戰",
+          "link": "https://www.worldjournal.com/wj/story/121368/8521397?zh-cn",
+          "snippet": "美国总统川普就职演讲后，当天晚间签署了一系列被外界认为保护女性权益的行政命令，然而其中针对跨性别者医疗服务的政策调整，引...",
+          "date": "3 周前",
+          "source": "世界新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTek5PXekv6epS74U46iOMALu3o41MnwcNktJZROwvqLfpw5v3jMkw06Jo&usqp=CAI&s",
+          "position": 79
+        },
+        {
+          "title": "川普将签行政令 禁跨性别者参军并取消军队DEI计划(图) - 时事 - (移动版)",
+          "link": "https://www.secretchina.com/news/gb/2025/01/28/1076762.html",
+          "snippet": "唐纳德・川普总统通过最新行政命令加强了对前政府多元化、公平和包容（DEI）计划的打击，并禁止跨性别人士参军。 (移动版)",
+          "date": "1 个月前",
+          "source": "看中国新闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSURvbfKgSvT8HfkNbbZaz7on3P-tZ43kFmixMgWGAEXIhM4-DGWz5Z-vk&usqp=CAI&s",
+          "position": 80
+        },
+        {
+          "title": "拳击／林郁婷遭川普影射跨性别 台体育署盼传递正确消息",
+          "link": "https://www.iask.ca/news/1085962",
+          "snippet": "拳击金牌林郁婷。（记者季相儒／摄影） 美国总统川普5日在签署行政命令时再度影射台湾拳击好手林郁婷为跨性别选手，…",
+          "date": "3 周前",
+          "source": "加拿大家园",
+          "imageUrl": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.iask.ca&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "position": 81
+        },
+        {
+          "title": "“法庭上见”！美国缅因州州长拒绝禁止跨性别人士参加女子运动， 特朗普与其激烈互呛",
+          "link": "https://mt.sohu.com/a/862582331_120816770",
+          "snippet": "“法庭上见”！美国缅因州州长拒绝禁止跨性别人士参加女子运动，特朗普与其激烈互呛. 2025-02-23 10:45 · 0次播放. 观察者网视频. +订阅. +1. 评论. 全部.",
+          "date": "3 天前",
+          "source": "搜狐网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMXnCI9K1heiijvLCaocEM35qvpRTzAVoDGs7IVJbncGO2-OPEiLFA3Fo&usqp=CAI&s",
+          "position": 82
+        },
+        {
+          "title": "明指林郁婷 川普禁跨性別參加女子賽事 舉「拳擊奪金者」",
+          "link": "https://www.worldjournal.com/wj/story/121468/8530275?from=wj_msg&zh-cn",
+          "snippet": "川普总统5日签署行政命令，禁止生理男性的跨性别选手参加女性运动赛事；川普还在致词中重提去年巴黎奥运，暗指阿尔及利亚拳击选...",
+          "date": "3 周前",
+          "source": "世界新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUfhf-IQOBD6K09FxYQMmiNQh2dRNIji7ib7iIiuPwFy6FcFwPasXruE8&usqp=CAI&s",
+          "position": 83
+        },
+        {
+          "title": "川普下令傳授種族批判論、收跨性別生學校 砍聯邦補助款",
+          "link": "https://www.worldjournal.com/wj/story/121179/8519479?zh-cn",
+          "snippet": "川普总统29日发出行政命令，威胁全国由幼稚园到高中各级学校，凡教授有关种族及性别者，其联邦补助款要砍掉，收容跨性别学生者...",
+          "date": "1 个月前",
+          "source": "世界新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkPuTBRSUSuXBWGk4mxK_nvpTvqKqtN_1pxvgJRPh6FNNIbS1lvt_7v4&usqp=CAI&s",
+          "position": 84
+        },
+        {
+          "title": "特朗普签署行政命令禁跨性别运动员参加女子赛事| 星岛日报",
+          "link": "https://std.stheadline.com/sc/realtime/article/2051116/%E5%8D%B3%E6%99%82-%E5%9C%8B%E9%9A%9B-%E7%89%B9%E6%9C%97%E6%99%AE%E7%B0%BD%E7%BD%B2%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4-%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%A5%E9%81%8B%E5%8B%95%E5%93%A1%E5%8F%83%E5%8A%A0%E5%A5%B3%E5%AD%90%E8%B3%BD%E4%BA%8B",
+          "snippet": "美国总统特朗普在总统大选前承诺，将禁止跨性别运动员参加女子运动赛事，而他在周三签署行政命令兑现承诺，并指示当局不得发签证给要到美国参加.",
+          "date": "3 周前",
+          "source": "星島日報",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeNzn87Hg-1tXuSA_j2DiLTINreqmn-e0OWsvDX2YzdLOhsLuDahOjBzA&usqp=CAI&s",
+          "position": 85
+        },
+        {
+          "title": "特靠谱!美国新令禁止跨性别运动员参加女子比赛",
+          "link": "https://www.yeeyi.com/news/details/2603483/",
+          "snippet": "当地时间2月5日，美国签署颁布一项新行政命令，禁止跨性别运动员参加女子体育赛事。 此前奥运会女子66公斤级拳击冠军哈利夫（左）陷入跨性别争议该行政命令.",
+          "date": "3 周前",
+          "source": "亿忆网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCdCR9usVq54iz8lmGb8j2mIjoLcmJX5Hlk6EClTeZLv-v4B1d1g1Imnc&usqp=CAI&s",
+          "position": 86
+        },
+        {
+          "title": "爆美国国务院下令停止发放“X”性别中立护照-美国看台",
+          "link": "https://news.creaders.net/us/2025/01/29/2826730.html",
+          "snippet": "美国国务院近日宣布，自川普总统签署行政命令限制政府对跨性别身份的承认后，美国将不再签发包含性别中立“X”选项的护照。这一改变意味著先前可选择“X”标记的护照不再可用...",
+          "date": "1 个月前",
+          "source": "万维读者网（电脑版）",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG85bLlkgqKnOjylcAp_PHh7N4hRMotGRuJG64KGY&usqp=CAI&s",
+          "position": 87
+        },
+        {
+          "title": "特朗普下令 禁跨性别女性参加女子赛事",
+          "link": "https://www.chinapress.com.my/20250206/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4-%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%AD%90%E8%B5%9B%E4%BA%8B/",
+          "snippet": "（华盛顿6日综合电）美国总统特朗普周三签署行政命令，旨在禁止跨性别女性参加女子体育赛事，并指示当局不得发签证给要到美国参加女子赛事的跨性别运动员。",
+          "date": "3 周前",
+          "source": "中國報 China Press",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hztkTLX72qLRnZ8TzNcMhhp8lXLDitUs8Q3MPyjUhjCGPMATD32GiBg&usqp=CAI&s",
+          "position": 88
+        },
+        {
+          "title": "【特朗普重返白宫】签署行政命令 要求军队消除“跨性别意识形态”",
+          "link": "https://www.orientaldaily.com.my/news/international/2025/01/28/708871",
+          "snippet": "（华盛顿28日讯）美国总统特朗普当地时间周一表示，他已签署行政命令，要求军队消除所谓的“跨性别意识形态”，这无疑会对LGBTQ权利造成重大挫折。法新社报导，这位共和党总统...",
+          "date": "1 个月前",
+          "source": "马来西亚东方日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzt5myQhSVSCBDWEKwcAO9JR81iI7F7tFA-0uRjrdtnL9tuToBbAcRv14&usqp=CAI&s",
+          "position": 89
+        },
+        {
+          "title": "跟进特朗普政策NCAA禁跨性别女将| 体育 | 2025-02-07",
+          "link": "https://guangming.com.my/%E8%B7%9F%E8%BF%9B%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E7%AD%96-ncaa%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%B0%86",
+          "snippet": "（华盛顿7日讯）美国国家大学体育协会（NCAA）于当地时间周四宣布，即起禁止跨性别女性参加女子赛事，这一决策与美国总统特朗普的行政禁令一致。 美国总统特朗普于5日签署一...",
+          "date": "3 周前",
+          "source": "光明日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IkaNdu7gzvofk3CLm-EQpX6oEC3qtyxDQ_lsRL9A0N-nvxC97EmRn8k&usqp=CAI&s",
+          "position": 90
+        },
+        {
+          "title": "特朗普签禁令拒发入境签证 禁跨性别参与女子赛事 - 国际 - 即时国际",
+          "link": "https://www.sinchew.com.my/?p=6270531",
+          "snippet": "（中央社华盛顿6日讯）美国总统特朗普于昨日签署行政命令，禁止跨性别女性参加女子体育赛事，并指示当局不得发签证给要到美国参加女子赛事的跨性别运动员。",
+          "date": "3 周前",
+          "source": "Sin Chew Daily",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw2tzN5Rs5Yw7aXtlU5_JGsMKmd_Pf61kUeHTP2DMdNrQYY0HoDtnyaEs&usqp=CAI&s",
+          "position": 91
+        },
+        {
+          "title": "美国军队大地震！川普将签发两项新行政令-美国看台",
+          "link": "https://news.creaders.net/us/2025/01/27/2825713.html",
+          "snippet": "美国总统唐纳德·川普正在加速推动对政府多元化、平等与包容（DEI）计划的打击，计划通过行政命令彻底将这些政策从军队中剔除。川普本周将签署两项行政命令，不仅彻底取消...",
+          "date": "1 个月前",
+          "source": "万维读者网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROPcDd_LoedsmsGOfedmkbY5pwZzwqnvnqCRFDTYJ-MWICuYAztgNMllg&usqp=CAI&s",
+          "position": 92
+        },
+        {
+          "title": "QUEERTAIK异见｜2024性少数生存与权益新闻或公共事件回顾",
+          "link": "https://chinadigitaltimes.net/chinese/716009.html",
+          "snippet": "2024年已经过去，过去一年我国性少数群体的生存现状如何？又有何变化？ 我们将过去一年中关于性少数群体权益的新闻与公共事件整理成篇，共同回顾过去一年我国性少数群体的...",
+          "date": "5 天前",
+          "source": "China Digital Times",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIhUwq79nx2jyRFbhCwHFHZ642D-lqnRJ9kt1pFFgcU4wXx61SAWU9lOw&usqp=CAI&s",
+          "position": 93
+        },
+        {
+          "title": "遵川普行政命令 NCAA女性賽事禁跨性女參加",
+          "link": "https://www.worldjournal.com/wj/story/121469/8532990?zh-cn",
+          "snippet": "国家大学体育协会(NCAA)6日遵照川普发布的行政命令，改变跨性别政策， 宣布女性赛事只限出生时为女性的运动员参加。",
+          "date": "3 周前",
+          "source": "世界新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdGrf4lGfl2AE_LJ0EphnuH4GJCZe8xNfmUoSAJ_HwqBkAym52BdXNjU&usqp=CAI&s",
+          "position": 94
+        },
+        {
+          "title": "网友爆料:游戏设计教授称《FF7》 克劳德是跨性别角色",
+          "link": "https://www.msn.com/zh-cn/news/other/%E7%BD%91%E5%8F%8B%E7%88%86%E6%96%99%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E6%95%99%E6%8E%88%E7%A7%B0-ff7-%E5%85%8B%E5%8A%B3%E5%BE%B7%E6%98%AF%E8%B7%A8%E6%80%A7%E5%88%AB%E8%A7%92%E8%89%B2/ar-AA1yuAOs",
+          "snippet": "根据推主“Grummz”分享的消息，瑞典的游戏设计专业教授在课堂上称《最终幻想7》中的克劳德为跨性别角色。 Grummz分享的这一消息源自于贴吧，发帖人表示，自己在瑞典留学...",
+          "date": "3 周前",
+          "source": "MSN",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ka3PgUclP4aazpavq7XFRxggGMGiQb2yh___FR2w1bzlBKfzKNPEzpM&usqp=CAI&s",
+          "position": 95
+        },
+        {
+          "title": "美国网站修改LGBTQ表述引发争议",
+          "link": "http://www.jpchinapress.com/static/content/WH/2025-02-16/1340666854431539200.html",
+          "snippet": "亚太快讯消息）《每日新闻》纽约报导：近日，美国国家公园管理局运营的“石墙国家历史地标”官方网站对LGBTQ相关表述进行了修改，删除了“T”（跨性别者）和“Q”（酷儿）的内容，将...",
+          "date": "1 周前",
+          "source": "旅日侨网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Y-Q283RQzLCnNNhuH0spvEKSoDebP0GgUXLfN2gAc-CQ9NXu7eNXXyE&usqp=CAI&s",
+          "position": 96
+        },
+        {
+          "title": "联邦法官颁令 阻川普政府把跨性别女囚移送男监",
+          "link": "https://info.51.ca/articles/1391591",
+          "snippet": "美国总统川普（Donald Trump）上任后签署行政令，限制联邦政府只承认男女两种性别，撤销对跨性别者的保护。波士顿的联邦地区法院法官1月30日颁临时令，禁止联邦监狱将一名已...",
+          "date": "4 周前",
+          "source": "无忧资讯",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmAFzmsUZu7OoIEjNSDtTQ0ozgdB9tRRYSGrcD0bV6RzBPU90u-rTkxo&usqp=CAI&s",
+          "position": 97
+        },
+        {
+          "title": "时事通识：美国性别政策",
+          "link": "https://news.tvb.com/sc/trump/67974f3896f6115c11dacc24/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E6%94%BF-%E6%97%B6%E4%BA%8B%E9%80%9A%E8%AF%86%E7%BE%8E%E5%9B%BD%E6%80%A7%E5%88%AB%E6%94%BF%E7%AD%96",
+          "snippet": "美国总统特朗普签署行政命令，终止多元性别，意味当局不承认跨性别或非二元性别，即不纯属男性或女性的自我性别认同。新政策适用于护照和签证等联邦文件，白宫发言人指，...",
+          "date": "1 个月前",
+          "source": "news.tvb.com",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9NTkgiv35OPUVEyr9DaFmbriLlOip2jXjqsorX36TuO0xCHhL4-5KiI&usqp=CAI&s",
+          "position": 98
+        },
+        {
+          "title": "川普行政命令 分男、女關押跨性別者 被聯邦法院擋下",
+          "link": "https://www.worldjournal.com/wj/story/121172/8530621?zh-cn",
+          "snippet": "川普总统上台后发布多道行政命令限缩跨性别者权益，包括下令联邦监狱管理局(Bureau of Prisons，BOP)根据...",
+          "date": "3 周前",
+          "source": "世界新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.worldjournal.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "position": 99
+        },
+        {
+          "title": "跨性别政策",
+          "link": "https://atvnewsonline.com/tag/%E8%B7%A8%E6%80%A7%E5%88%AB%E6%94%BF%E7%AD%96/",
+          "snippet": "美国总统特朗普签署行政命令，禁止跨性别女性参加女子体育赛事，学校若违规将失去联邦资金，并指示国务院与国土安全部严格审查跨性别运动员签证，确保美国赛事不受影响。",
+          "date": "3 周前",
+          "source": "亚洲电视新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGjQuOc4_KloysTdX7dVBa4T2QH0OEu8fSPnCHt0r6iKfEaF43YVjKaU&usqp=CAI&s",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

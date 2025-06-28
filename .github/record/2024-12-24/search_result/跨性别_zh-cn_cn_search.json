@@ -1,0 +1,849 @@
+{
+  "query": "跨性别",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 1,
+  "endpoint": "/news",
+  "date": "2024-12-24T13:18:06.387383",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "news",
+        "num": 100,
+        "page": 1,
+        "tbs": "qdr:m",
+        "engine": "google"
+      },
+      "news": [
+        {
+          "title": "电击扭转治疗、强制收容、过度用药：中国跨性别女性将医院告上法院",
+          "link": "https://www.bbc.com/zhongwen/articles/c745e3vqj05o/simp",
+          "snippet": "跨性别女性灵儿（化名）拿到了河北省昌黎县人民法院出具的民事调解书，这使得她成为中国第一位透过法律程序状告性别“扭转”治疗、反对医院强制扭转性别认同并获得赔偿的跨...",
+          "date": "2 周前",
+          "source": "BBC",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtFlVplN_aulccsGk1jg8S8z3OXhK_Xh4B76BqcV1x6NFWFtEtPTbSUkgAw&s",
+          "position": 1
+        },
+        {
+          "title": "中国首宗跨性别“扭转治疗”诉讼：原告获医院赔偿",
+          "link": "https://cn.nytimes.com/china/20241211/transgender-conversion-china/",
+          "snippet": "公开跨性别者身份后，灵儿被父母送到医院关了三个月，被迫接受了包括多轮电击疗法在内的治疗。她对医院的起诉被受理被中国LGBTQ群体视为一场来之不易的胜利。",
+          "date": "2 周前",
+          "source": "纽约时报中文网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_YZ75BhE7-yReATALhbH9FymjdWvTZTSxwL0CV2jDFZWZ1D3XcvK90XFCA&s",
+          "position": 2
+        },
+        {
+          "title": "跨性别律师将在美最高法院辩说，挑战针对未成年人的医疗保健禁令",
+          "link": "https://www.voachinese.com/a/transgender-attorney-to-argue-before-supreme-court-challenging-health-care-ban-for-minors-20241203/7885189.html",
+          "snippet": "当最高法院本周介入探讨跨性别权利这一争议性的问题时，大法官们将听取一位对该议题有深刻理解的律师的陈述。",
+          "date": "3 周前",
+          "source": "美国之音",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqAQ95W5olgcX8EynB4qtNAiijB_EDeEMjGZUjyTdsufEuhaHMuysrBlljhQ&s",
+          "position": 3
+        },
+        {
+          "title": "传特朗普上任即禁跨性别者从军",
+          "link": "https://www.takungpao.com/news/232111/2024/1126/1034861.html",
+          "snippet": "传特朗普上任即禁跨性别者从军 ... 【大公报讯】综合《独立报》、《泰晤士报》报道：消息人士称，美国候任总统特朗普将在明年1月20日上任首日签署行政命令，禁止跨性别者在美军...",
+          "date": "1 个月前",
+          "source": "大公网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_h0hvrSVh-iwbEdU-35ReOzboasZ0ERmpP7eZBeRmR4xKuOPlMGrBKXXpZw&s",
+          "position": 4
+        },
+        {
+          "title": "特朗普称上任后将让跨性别者离开军队 将禁止跨性别者参军和参与女子运动",
+          "link": "https://military.china.com/news/13004177/20241223/47781693.html",
+          "snippet": "近日，美国前总统特朗普再次引发热议。他在一次公开讲话中表示，若重新上任，将采取一系列措施限制跨性别者的权利，包括禁止跨性别者参与女子运动、从军以及进入学校。",
+          "date": "1 天前",
+          "source": "中华军事",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHNwrBgAl5-KmmCgxsAuiZTZrW6_S-gMWXBNIx4uhaiJXzaQqTOkX4wXm8w&s",
+          "position": 5
+        },
+        {
+          "title": "上任首日就推行，他计划将这1.5万名军人除名",
+          "link": "https://www.guancha.cn/internation/2024_11_25_756693.shtml",
+          "snippet": "【文/观察者网张菁娟】随着当选总统特朗普“二进宫”，美国跨性别者的权利或将面临新的挑战。 英国《泰晤士报》援引国防部消息人士的话称，特朗普计划通过一项行政命令，以...",
+          "date": "1 个月前",
+          "source": "观察者",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcBlnFCUaGUDH773EPbkR1ysbm_JxAv0-s-6MRdUsg_4PqeVMp87Cdh_GD1A&s",
+          "position": 6
+        },
+        {
+          "title": "特朗普称上任第一天就要阻止 “变性妄想”",
+          "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20241222-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8A%E4%BB%BB%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E8%A6%81%E9%98%BB%E6%AD%A2-%E5%8F%98%E6%80%A7%E5%A6%84%E6%83%B3",
+          "snippet": "这位将在1月20日就职的美国总统称：“我将签署行政命令，结束切割儿童生殖器的做法，将跨性别者排除在军队之外，并将他们排除在小学、初中和高中之外”。",
+          "date": "1 天前",
+          "source": "RFI",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJOKUK0i1kfx9bRY9_sh_1s2_MsZLnuKl24fqt50iY_MibA8oY1cFORZoWQ&s",
+          "position": 7
+        },
+        {
+          "title": "一群「女孩」，跨性别参加男子足球联赛_nix_加泰罗尼亚_佩尼亚",
+          "link": "https://www.sohu.com/a/830101501_415197",
+          "snippet": "尽管粉丝和LGBTQ+组织都认为，这是促进社会性别认同和包容平等的重要一步，并对球队勇于挑战传统、追求梦想的精神大加赞扬，但反对者的声音似乎更大——球队社媒里不断涌出...",
+          "date": "1 个月前",
+          "source": "搜狐网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgI1wn0b6aki4wC3IBNK8fW8tZ7F9B2Yxz1DHkMjuB5oIfPjmcY71qzcyKMw&s",
+          "position": 8
+        },
+        {
+          "title": "喬州參議院考慮限制跨性別女性參與大學體育運動",
+          "link": "https://www.epochtimes.com/gb/24/11/28/n14380258.htm",
+          "snippet": "乔州参议院的保护女性运动研究委员会，于11月21日举行了最后一次听证会，会后将在明年立法会议之前发布建议报告。跨性别的乔州居民则正在为可能面临的挑战做好准备。",
+          "date": "4 周前",
+          "source": "大紀元新聞網",
+          "position": 9
+        },
+        {
+          "title": "2024 麻醉师协会：跨性别和性别多样化个体的围手术期护理-指南&解读指南-MedSci.cn",
+          "link": "https://www.medsci.cn/guideline/show_article.do?id=e52301c00a0926b5",
+          "snippet": "该文件是为确保跨性别者和性别多样化者在围手术期的安全和尊严提供最佳做法建议的第一份指南。",
+          "date": "1 周前",
+          "source": "梅斯医学 MedSci",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwzOsDl3AiV8st6mPGoJSiGTkPUDhq6jH1vOqJhnf95uWXTnkmP3ddAXZ6A&s",
+          "position": 10
+        },
+        {
+          "title": "当男孩穿上裙子，你怎么看？",
+          "link": "https://m.thepaper.cn/newsDetail_forward_29476839",
+          "snippet": "11月20日，国际跨性别纪念日（Transgender Day of Remembrance）再次提醒我们关注跨性别者所面临的挑战和不公。随着社会对性别认同和表达的讨论愈发开放，跨性别群体的生活...",
+          "date": "4 周前",
+          "source": "澎湃新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdbBhXE6ftZtR4h8jorY8IXIaQh4GQX9KlcNZrthPqhtZaj_k-Qd0HSLMWA&s",
+          "position": 11
+        },
+        {
+          "title": "迪士尼为《小美人鱼》舞台剧选主角 必须跨性别者演",
+          "link": "https://www.163.com/dy/article/JIDT1LPG0526D8LR.html",
+          "snippet": "今年年初迪士尼发布了《小美人鱼》音乐舞台剧选角公告，其中提到女主爱丽儿和男主亚力克必须由跨性别者饰演。近日有网友发现，迪士尼偷偷修改了表述方式。",
+          "date": "3 周前",
+          "source": "网易",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Kr5cyFvdUgVEKyW19Qb8lEFc4JEcvV5nLR1YNQrZEqlgz1KtY-QhOGDyTg&s",
+          "position": 12
+        },
+        {
+          "title": "特朗普重启跨性别禁令：15000名军人面临被驱逐的命运",
+          "link": "https://news.qq.com/rain/a/20241126A038EO00",
+          "snippet": "2025年，美国社会可能将迎来一场前所未有的文化风暴。 11月25日，根据《泰晤士报》报道称，特朗普计划发布一项行政命令，要求将15000名现役的跨性别军人从美军中驱逐出去。",
+          "date": "1 个月前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx__B38fFHdlVEINgProoJAxDzKvv1SU5noz1edaDaA30mzAddFRF5-8Er5A&s",
+          "position": 13
+        },
+        {
+          "title": "迪士尼從新動畫系列中刪除跨性別認同劇情",
+          "link": "https://www.epochtimes.com/gb/24/12/18/n14393703.htm",
+          "snippet": "据报导，迪士尼已从即将推出的动画系列《赢或输》（Win or Lose）中删除了涉及跨性别的故事情节，并解释说一些父母希望避开这个话题。 《好莱坞报导》（The Hollywood...",
+          "date": "5 天前",
+          "source": "大紀元新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQufLV_7M_0iDAANhJMzSpfqpjuScA013pTwliuloG9aAC9mhm6JDF_s7J_5w&s",
+          "position": 14
+        },
+        {
+          "title": "“在我领导下，美国只有两种性别”",
+          "link": "https://www.guancha.cn/internation/2024_12_23_759885.shtml",
+          "snippet": "美国当选总统特朗普当地时间23日在美亚利桑那州凤凰城发表了超过70分钟的长篇演讲，特朗普本人称这一演讲是他的.",
+          "date": "22小时前",
+          "source": "观察者",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30fecOXwA1pOWmDwuLmhdDDrUwGZYy0IcXDdDzyeCPcFLgJeyNhTVWSM1EQ&s",
+          "position": 15
+        },
+        {
+          "title": "美国首位跨性别国会议员入职，众议长先发制人：你只能用男厕所",
+          "link": "https://news.qq.com/rain/a/20241129A07Y6X00",
+          "snippet": "2024年11月，历史性的时刻来临，美国迎来了首位跨性别议员——萨拉·麦克布莱德。 她当选为特拉华州众议院的唯一席位，成为美国历史上最具象征意义的跨性别民选官员之一。",
+          "date": "3 周前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfq6qgIp1REChHnA2Xc5syc-qi2S-kM7SfkTg0udD67eTxMuYflrPRMRYXdw&s",
+          "position": 16
+        },
+        {
+          "title": "快訊：俄州針對跨性別學生使用公共設施立法",
+          "link": "https://www.epochtimes.com/gb/24/11/27/n14380127.htm",
+          "snippet": "俄亥俄州共和党州长麦克‧德温（Mike DeWine）周三（11月27日）表示，他已签署一项法案，该州从幼稚园到大学的所有公立和私立学校中，禁止跨性别学生使用不符合其出生性别的多...",
+          "date": "4 周前",
+          "source": "大紀元新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZ1WEkMYgzntvLkphWo2APhbrHfnVBwOGBWgBzYuJKO8ZHzfuen7ErJgSCg&s",
+          "position": 17
+        },
+        {
+          "title": "CDPR世界观设计师是跨性别支持者：对玩家出言不逊",
+          "link": "https://news.qq.com/rain/a/20241220A09O0V00",
+          "snippet": "近日Reddit上有网友爆料称，CDPR的IP和世界观设计师Cian Maher曾在外媒The gamer任职，担任游戏记者。他曾在推特上明确表示自己不喜欢游戏玩家们，抱怨玩家不懂游戏行业，...",
+          "date": "4 天前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6glfH1tEVlZ76G8fl0_UPqUK6PnBE4sTqQK3vNmB95ZHyaxrydS-lYa3fjw&s",
+          "position": 18
+        },
+        {
+          "title": "密蘇里州法院維持未成年人變性手術禁令",
+          "link": "https://www.epochtimes.com/gb/24/11/26/n14378850.htm",
+          "snippet": "周一（11月25日），美国密苏里州法院裁定，该州将继续实施禁止未成年人接受变性手术的法律。法官表示，医学界对变性手术和跨性别治疗的道德伦理依然存在争议，缺乏一致的共识...",
+          "date": "1 个月前",
+          "source": "大紀元新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGbfwl35Djt1UtJl8JCu858m55qRgL8Mqb4DTnX1nfv_T1y8AXAW0HaPb8AQ&s",
+          "position": 19
+        },
+        {
+          "title": "亞省三項跨性別立法即將生效",
+          "link": "https://www.epochtimes.com/gb/24/12/4/n14384563.htm",
+          "snippet": "亚伯塔省议会近日通过了三项针对跨性别者的立法，这些法案在完成最后的辩论阶段后，即将正式成为法律。亚省省长戴思敏（Danielle Smith）表示，新法案旨在保护儿童和女性...",
+          "date": "3 周前",
+          "source": "大紀元新聞網",
+          "position": 20
+        },
+        {
+          "title": "美俄亥俄州州长签署法案限制跨性别学生使用卫生间",
+          "link": "https://user.guancha.cn/main/content?id=1340658",
+          "snippet": "天下事2024年11月28日22:30:38 来自北京市美联社当地时间11月28日报道，美共和党州长迈克·德怀恩周三表示，他已签署一项措施，禁止俄亥俄州公立和...",
+          "date": "4 周前",
+          "source": "风闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ57FDqY4iIgbABncPjOiJGjTTvil4P_3Xk0rBg_-ohsJjgl1N-xwrO9u1T4A&s",
+          "position": 21
+        },
+        {
+          "title": "迪士尼为《小美人鱼》舞台剧选主角：必须是跨性别者",
+          "link": "https://news.mydrivers.com/1/1016/1016944.htm",
+          "snippet": "12月1日消息，迪士尼今年年初发布了《小美人鱼》音乐舞台剧的选角公告，其中特别提到女主爱丽儿和男主亚力克要由跨性别者饰演。有外媒记者发现，迪士尼最近偷偷修改了表述...",
+          "date": "3 周前",
+          "source": "驱动之家",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvahOgixdiWFlhr5kUtNihq73lG6XaY-ev6O_1EhSi2b0iP_BFaLrq90mKEg&s",
+          "position": 22
+        },
+        {
+          "title": "曝设计师是跨性别人士后CDPR被翻旧账：老DEI惯犯了",
+          "link": "https://news.qq.com/rain/a/20241222A07BAM00",
+          "snippet": "近日Reddit上有网友爆料称，CDPR的IP和世界观设计师Cian Maher是一名跨性别意识形态的坚定支持者，他以前任职游戏记者时曾在推特上明确表示自己不喜欢游戏玩家们，...",
+          "date": "1 天前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1I9wnYFUj1uVcZa9I_aoM718F-qhRwJ-CQFC_nkvVEvVyvz7zfcGX9-uQRg&s",
+          "position": 23
+        },
+        {
+          "title": "《龙腾4》跨性别总监为失败开脱：玩家还是不够包容",
+          "link": "https://news.qq.com/rain/a/20241221A07XDC00",
+          "snippet": "《龙腾世纪4》跨性别总监Corinne Busche最近接受Inverse采访时，将该游戏令人失望的表现归咎于社区玩家的仇恨活动和差评轰炸，暗示这些外部压力盖过了游戏的内部缺陷。",
+          "date": "2 天前",
+          "source": "QQ News",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3jTB2Cms499sDMQ8yscdU99cTdVFqhq-wOcCJTwJswMAoPbK18asHK_lyHg&s",
+          "position": 24
+        },
+        {
+          "title": "皮克斯動畫《勝與敗》刪除跨性別認同劇情",
+          "link": "https://www.epochtimes.com/gb/24/12/18/n14393344.htm",
+          "snippet": "当地17日，迪士尼公开声明删除皮克斯原创动画影集《胜与败》（Win or Lose）中涉及跨性别认同的对话与剧情，工作室在几个月前就做出了这项决定。",
+          "date": "6 天前",
+          "source": "大紀元新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4A_QDR4GPHUUbrGb78lVWdG9cExz_QTLLEyuSt9efXMSaJfmc6BP09dg38g&s",
+          "position": 25
+        },
+        {
+          "title": "迪士尼为《小美人鱼》舞台剧选主角必须跨性别者饰演- Disney 迪士尼",
+          "link": "https://www.cnbeta.com.tw/articles/movie/1459724.htm",
+          "snippet": "今年年初迪士尼发布了《小美人鱼》音乐舞台剧选角公告，其中提到女主爱丽儿和男主亚力克必须由跨性别者饰演。近日有网友发现，迪士尼偷偷修改了表述方式。",
+          "date": "3 周前",
+          "source": "cnBeta.COM",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0qlyXkBMCPpq-LoYaLFdDH59MXl7f8pVkVWOUuef9BM1aXOiy0njpqI6IA&s",
+          "position": 26
+        },
+        {
+          "title": "田納西州未成年人變性護理禁令 最高院聽取辯論",
+          "link": "https://www.epochtimes.com/gb/24/11/29/n14381704.htm",
+          "snippet": "周三（12月4日），最高法院将审理田纳西州和其它25个共和党主导的州颁布的禁止为未成年人提供性别确认治疗（gender-affirming care，即变性，包括药物变性和手术变性）的禁令...",
+          "date": "3 周前",
+          "source": "大紀元新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNuV4VUQjaabHenJmW0rPrTpm7HuN--lI8wR7nAA9VMHnZnV-K_Ct0v899g&s",
+          "position": 27
+        },
+        {
+          "title": "韩国男星朴成勋在《鱿鱼游戏2》扮演跨性别女性引争议- 人物",
+          "link": "https://www.cnbeta.com.tw/articles/movie/1460860.htm",
+          "snippet": "《鱿鱼游戏》第二季将于2024年12月26日在网飞播出。新一季不仅有原班人马，还加入许多新卡司。因《黑暗荣耀》走红的朴成勋也加入，他将饰演一名跨性别女性。",
+          "date": "2 周前",
+          "source": "cnBeta.COM",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg1xIFsAjlMG5JQ8rqmENCEtwmgEPy8OtQ24LZI7lAtIiYjQsO-lYntpMG_Q&s",
+          "position": 28
+        },
+        {
+          "title": "《鱿鱼游戏2》公开新角色 朴成焄演跨性别者 T.O.P扮嘻哈歌手",
+          "link": "https://www.zaobao.com.sg/entertainment/story20241205-5499912",
+          "snippet": "（综合讯）Netflix原创韩剧《鱿鱼游戏》风靡全球，第二季睽违三年回归，12月26日正式上线。除了李政宰（Lee Jung-jae）、李炳宪（Lee Byung-hun）、魏嘏隽（Wi Ha-joon）、孔...",
+          "date": "3 周前",
+          "source": "联合早报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDcU2-5LKmcllWBjTWq5cGuzaYWOnOO_4McbTWcqMp5KR6bWr1xcfpINpJGA&s",
+          "position": 29
+        },
+        {
+          "title": "皮克斯新动画剧集《胜与败》删掉跨性别故事线- 欧美音乐",
+          "link": "https://www.cnbeta.com.tw/articles/comic/1464434.htm",
+          "snippet": "根据《好莱坞报道者》独家报道，皮克斯新动画剧集《胜与败》，删掉了一个跨性别角色性别身份的故事线。该剧讲述一支男女同队的高中垒球队故事，共八集，每集聚焦一个角色...",
+          "date": "5 天前",
+          "source": "cnBeta.COM",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1X8w_WFGZ9LrpoButdZHPPtgr0AAQesOd36UE-tOzJvo_E98BEctpvtxQTA&s",
+          "position": 30
+        },
+        {
+          "title": "美最高法院或維持田州未成年人變性醫療禁令",
+          "link": "https://www.epochtimes.com/gb/24/12/4/n14384628.htm",
+          "snippet": "周三（12月4日），美国最高法院对田纳西州针对未成年人性别确认（gender-affirming）治疗（即变性）的禁令举行了辩论。在这场备受瞩目的文化战冲突中，保守派法官占多数的最高...",
+          "date": "3 周前",
+          "source": "大紀元新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbPmTIm2T0qZ4uHubTn2pr8w7E0wPswmp-QPDNp0YMKjReufeEp3nG-ovZkg&s",
+          "position": 31
+        },
+        {
+          "title": "俄亥俄州禁止跨性别学生进入性别统一卫生间",
+          "link": "https://www.newslooks.com/zh-CN/ohio-bans-transgender-students-from-gender-aligned-bathrooms/",
+          "snippet": "俄亥俄州禁止跨性别学生使用性别统一的卫生间\\ 新闻观察\\ 华盛顿特区\\ 玛丽·西迪奇\\ 晚间版\\ 俄亥俄州州长迈克·德文签署了“保护所有学生法案”，该法案禁止跨性别学生使用...",
+          "date": "4 周前",
+          "source": "NewsLooks",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvWOrWPsRnKC3KFVuJ0jILS_vzrdJq7KBeF92iXH0xz8PafgDWnFPFkQ0aQ&s",
+          "position": 32
+        },
+        {
+          "title": "《龙腾世纪4》总监谈自己跨性别身份 游戏也应拥抱多样性",
+          "link": "https://news.mydrivers.com/1/1020/1020683.htm",
+          "snippet": "日前，媒体inverse采访了《龙腾世纪4》总监Corinne Busche，并发布了一篇标题为“Corinne Busche是RPG游戏的统治者，黑子们的征服者”的文章。媒体称赞《龙腾世纪》总监将她...",
+          "date": "4 天前",
+          "source": "驱动之家",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkewKfzQljnwJyxOdkv7eAdXEc5uk1XJJICTfAp3oy1z7WJQiAFdNd6nHqg&s",
+          "position": 33
+        },
+        {
+          "title": "《龙腾世纪4》跨性别总监为失败开脱：玩家还是不够包容",
+          "link": "https://news.mydrivers.com/1/1020/1020919.htm",
+          "snippet": "《龙腾世纪4》跨性别总监Corinne Busche最近接受Inverse采访时，将该游戏令人失望的表现归咎于社区玩家的仇恨活动和差评轰炸，暗示这些外部压力盖过了游戏的内部缺陷。",
+          "date": "2 天前",
+          "source": "驱动之家",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi7WFwINqvjQtGxbZTjemij3vxba0IrAJ-Mlk6YC24BVmvIqsIFWco4k0P4A&s",
+          "position": 34
+        },
+        {
+          "title": "最高法院审理田纳西州跨性别者权益医疗案件",
+          "link": "https://www.newslooks.com/zh-CN/supreme-court-hears-tennessee-transgender-rights-medical-case/",
+          "snippet": "跨性别权利/最高法院/性别肯定护理/田纳西州禁令/平等保护条款/ LGBTQ 权利/未成年人医疗/青春期阻滞剂/医疗保健法/美国最高法院案件/华盛顿/ Newslooks/ J. Mansour/...",
+          "date": "3 周前",
+          "source": "NewsLooks",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXolrs_Y3-b7Fz-bZ6YFAqkcVI6DhN8r6LyhCjPSBlHxB86bjBAXXINwdYCA&s",
+          "position": 35
+        },
+        {
+          "title": "马斯克怒怼游戏中政治正确说教：对种族主义、跨性别和阴谋论说不",
+          "link": "https://news.mydrivers.com/1/1016/1016490.htm",
+          "snippet": "快科技11月28日消息，因为大儿子跨性别一事，让马斯克非常反感同性恋群体。现在，马斯克公开在社交媒体上表示，游戏业已经变得过于“觉醒”，“那些开发商就不能只是好好做...",
+          "date": "4 周前",
+          "source": "驱动之家",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReY6aL0XLPc0YDgQAaCaNov9uN4QibRB6RUcYaTz56DywsKKnqDclLf82W2g&s",
+          "position": 36
+        },
+        {
+          "title": "最高院可能支持田纳西州禁令 阻止对未成年人进行变性治疗",
+          "link": "https://uschinapress.com/article/191980.html",
+          "snippet": "美国最高法院周三听取了关于田纳西州禁止未成年人接受性别确认治疗的法律挑战，并且可能支持该禁令。这是最高法院第二次审理重大跨性别权利案件。",
+          "date": "3 周前",
+          "source": "侨报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8IHhW5G4vB6Pky_SIjExEqmPHnPpE--EFRY2cn8vp-3oUJnGSK8rdntHVLQ&s",
+          "position": 37
+        },
+        {
+          "title": "川普开始整肃美军了？ 1.5万跨性别士兵将遭驱逐- 美国要闻BackChina Network",
+          "link": "https://www.backchina.com/news/2024/11/27/945695.html",
+          "snippet": "oxsCbyXkn-M 川普提名的新任美国国防部长赫格塞斯出席节目时表示，美军内的变性人士兵与「觉醒主义」，是美军徵兵人数逐渐下降的主要原因。",
+          "date": "4 周前",
+          "source": "BackChina",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzH3RxxL1rC5uiUPX1bZ1CxZyVg-7zq1nM9aOO6ybtKITGsezBG99NvdZdLQ&s",
+          "position": 38
+        },
+        {
+          "title": "白宮開始廢除一些尚未完成的法規",
+          "link": "https://www.epochtimes.com/gb/24/12/20/n14395079.htm",
+          "snippet": "近期，乔‧拜登总统的政府正在整个政府内部废除各种估计无法在任期结束前完成的法规。 曾在奥巴马总统领导下的白宫法律顾问办公室任职的凯特‧肖（Kate Shaw）表示，...",
+          "date": "3 天前",
+          "source": "大紀元新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquZkni8MLJnXZdoTBMOS3z5SknCaNWxWiiHa6F2wtpCFX7kI5N8R7hVTN9A&s",
+          "position": 39
+        },
+        {
+          "title": "川普否定跨性别新政限男和女- 国际大事- 中国时报",
+          "link": "https://www.chinatimes.com/cn/newspapers/20241224000530-260119",
+          "snippet": "美国总统当选人川普22日发言提到性别议题时誓言，将在上任就职的第一天「终结跨性别精神错乱」。川普强调未来美国政府的官方政策只会有两种性别，就是「男性和女性」，...",
+          "date": "17小时前",
+          "source": "中時新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdoTxYcECDecuE0WOP6UNtJZQ4QOnxxH5QI8u_s6ajbPCTmkyGOzG5Fd2qg&s",
+          "position": 40
+        },
+        {
+          "title": "12岁被仓促变性 20岁加州大学生起诉多名医生 | 儿童医院 | 控告 | 变性手术 | 新唐人电视台",
+          "link": "https://www.ntdtv.com/gb/mkt_ipad/2024/12/11/a103936995.html",
+          "snippet": "一名20岁的加州大学生近日对两名加州医生提起诉讼，指控他们在她12岁时，草率安排她进行变性治疗，给她造成了“不可逆转”的伤害，令她后悔终身。",
+          "date": "2 周前",
+          "source": "新唐人電視台",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGQG2uzDqOC4dfHZWzKlgxNWNcd2vCo2vtOGJ_o30LxnsbCbfgKC5U8gEuQ&s",
+          "position": 41
+        },
+        {
+          "title": "迪士尼为《小美人鱼》舞台剧选主角 必须跨性别者饰演",
+          "link": "https://m.cnbeta.com.tw/view/1459724.htm",
+          "snippet": "今年年初迪士尼发布了《小美人鱼》音乐舞台剧选角公告，其中提到女主爱丽儿和男主亚力克必须由跨性别者饰演。近日有网友发现，迪士尼偷偷修改了表述方式。",
+          "date": "3 周前",
+          "source": "cnBeta.COM",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0qlyXkBMCPpq-LoYaLFdDH59MXl7f8pVkVWOUuef9BM1aXOiy0njpqI6IA&s",
+          "position": 42
+        },
+        {
+          "title": "LGBT人士噩耗！川普：美官方政策将只有两种性别",
+          "link": "https://m.finance.creaders.net/news/page/1299811",
+          "snippet": "美国总统当选人川普今天矢言于上任首日“停止跨性别精神错乱”。他并承诺“不让男性参加女子体育”，并强调美国政府的官方政策“将只有两种性别：男性和女性”。",
+          "date": "2 天前",
+          "source": "万维读者网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQigGjSIDDYMkqmg5sPTKZ91yJVqs3F2R6X82Hp-ybSnt2h7uTRau47r7GbnA&s",
+          "position": 43
+        },
+        {
+          "title": "曝设计师是跨性别人士后CDPR被翻旧账：老DEI惯犯了",
+          "link": "https://www.yeeyi.com/news/details/2567535/",
+          "snippet": "此前我们曾报道过，近日Reddit上有网友爆料称，CDPR的IP和世界观设计师Cian Maher是一名跨性别意识形态的坚定支持者，他以前任职游戏记者时曾在推特.",
+          "date": "2 天前",
+          "source": "亿忆网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3DQd-kEZWXIwxXBmaxwFHqlsmhzpIKt3wzg1B8TxkxBxbFodjjMhRzje2g&s",
+          "position": 44
+        },
+        {
+          "title": "《龙腾世纪4》总监：游戏是面镜子，能让人反思自己的身份和选择_Busche_生活_团队",
+          "link": "https://news.sohu.com/a/839981942_114822",
+          "snippet": "Busche在采访中表示，她和团队清楚这些游戏对玩家生活的重要性，他们肩负着巨大的责任感，必须保持真实和真诚。Busche表示：“对我而言非常重要的是，游戏本身就应是多元化...",
+          "date": "4 天前",
+          "source": "搜狐网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGLEmRX_b5kKWnTLS2H2Pj6UDcl57S7dA3eMiS3gQ577OIxejW8S2d37deeA&s",
+          "position": 45
+        },
+        {
+          "title": "跨性别女警捡尸下药 2男警惨遭侵犯",
+          "link": "https://news.seehua.com/post/1252589",
+          "snippet": "男生也得保护好自己的安全！德国柏林一名27岁的跨性别女警茱蒂，最近选择前往一间以性爱派对与变装癖闻名的俱乐部玩耍，途中遇到2名长相俊秀、身材英挺的男警，在一见钟情...",
+          "date": "3 周前",
+          "source": "诗华资讯",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8IRIYRN2JgJ2SgPmXVj5gJS5O1dJuKmK4oU55pdFLxqS_zZkruyN2Jx5Og&s",
+          "position": 46
+        },
+        {
+          "title": "英媒：1.5萬跨性美軍可能於川普上任首日「被退役」",
+          "link": "https://www.worldjournal.com/wj/story/124278/8387637?zh-cn",
+          "snippet": "英国「泰晤士报」引述消息人士报导，川普可能于明年初就职时发布行政命令，将总人数约1.5万的跨性军人解职。有军事协会忧心这...",
+          "date": "1 个月前",
+          "source": "World Journal",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6cTGoACaUr0iR_cZK-pATl8njbW5dbdDxJhThzPywcXkJyoZj77Gj5BFow&s",
+          "position": 47
+        },
+        {
+          "title": "韩国男星朴成勋在《鱿鱼游戏2》 扮演跨性别女性引争议",
+          "link": "http://www.msn.com/zh-cn/news/other/%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E6%9C%B4%E6%88%90%E5%8B%8B%E5%9C%A8-%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F2-%E6%89%AE%E6%BC%94%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7%E5%BC%95%E4%BA%89%E8%AE%AE/ar-AA1vmNvr?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+          "snippet": "《鱿鱼游戏》第二季将于2024年12月26日在网飞播出。新一季不仅有原班人马，还加入许多新卡司。因《黑暗荣耀》走红的朴成勋也加入，他将饰演一名跨性别女性。",
+          "date": "2 周前",
+          "source": "MSN",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoPq4ZfNKcN9M7QMJ-nYOX-YSAeE-8IgMQSsJuSr0f32XLN6iik8j6vOz7Q&s",
+          "position": 48
+        },
+        {
+          "title": "拜登撤回 保障跨性别运动员提案",
+          "link": "https://www.chinapress.com.my/20241222/%E6%8B%9C%E7%99%BB%E6%92%A4%E5%9B%9E-%E4%BF%9D%E9%9A%9C%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E6%8F%90%E6%A1%88/",
+          "snippet": "（华盛顿22日综合电）多家媒体在周日报导，美国总统拜登先前计划从“1972年教育法修正案”第九条（Title IX）延伸，制定一项规则来保障大学跨性别运动员权益，现在决定放弃这项...",
+          "date": "2 天前",
+          "source": "中國報 China Press",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJekgBz-tIILVFnn0mlRKNwNyoTnVqCw7kYNhFwpjXkxItxCd9FRc1NxYJyA&s",
+          "position": 49
+        },
+        {
+          "title": "特朗普宣称美国进入新黄金时代，保守派年会讲话抨跨性别者",
+          "link": "https://stnn.cc/c/2024-12-23/3944795.shtml",
+          "snippet": "候任总统特朗普出席保守派公开活动，重申上任首天就会关闭边境，大规模驱逐无证移民，也会阻止“觉醒”文化，结束跨性别的“疯狂行为”。",
+          "date": "1 天前",
+          "source": "星岛环球网",
+          "position": 50
+        },
+        {
+          "title": "蒙大拿州最高法院叫停性别肯定护理禁令",
+          "link": "https://www.newslooks.com/zh-CN/gender-affirming-care-ban-halted-by-montana-supreme-court/",
+          "snippet": "蒙大拿州最高法院以隐私问题为由，暂时阻止了禁止为跨性别未成年人提供性别肯定护理的法律。",
+          "date": "2 周前",
+          "source": "NewsLooks",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2l3DCQpLuuJfMoNXDO0ojEyIZ1X3qPCYCMSbm0xPZtMzegTxuPgz33xRMuA&s",
+          "position": 51
+        },
+        {
+          "title": "逆性而为的咒诅！突发！美国变性人校园大屠杀及深层原因分析",
+          "link": "https://user.guancha.cn/main/content?id=1349718&s=fwzwyzzwzbt",
+          "snippet": "突发！美国变性人校园大屠杀及深层原因分析作者：大侠 当地时间12月16日，美国威斯康星州首府麦迪逊市的基督教学校发生枪击事件，目前已造成包括嫌疑人在内的5人死亡...",
+          "date": "6 天前",
+          "source": "风闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUL3Y7fMkGBsdvUpI3abvytbuC5eHWNEMRlqwEgomLcslDzkz1sqErS2ibuw&s",
+          "position": 52
+        },
+        {
+          "title": "特朗普重返白宫计划禁跨性别军人 美军1.5万人恐强制退役",
+          "link": "https://news.seehua.com/post/1249909",
+          "snippet": "特朗普计划禁跨性别者服役，美军1.5万现役军人恐受影响！ 据外媒报导，美国前总统特朗普计划在重返白宫后，于2025年1月20日上任首日签署行政命令，撤销拜登政府允许跨性别者...",
+          "date": "1 个月前",
+          "source": "诗华资讯",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUs9AcZ4_ha54SvjVJKFnedJ2H0wdgS81gr6JT2tf4BfMlCkM7jpk-zspKZg&s",
+          "position": 53
+        },
+        {
+          "title": "曝CDPR世界观设计师是跨性别支持者 曾多次蔑视玩家",
+          "link": "https://www.yeeyi.com/news/details/2566286/",
+          "snippet": "在今年的TGA颁奖典礼上，CDPR公开了《巫师4》的首个预告视频，新作将由希里担任主角，而杰洛特将退居幕后，迅速引发全球玩家热议。 近日Reddit上有网友爆料.",
+          "date": "3 天前",
+          "source": "亿忆网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAc4XUpJr8XigXzlIL9Ua26v6UwZrYz6aUP-E12i0D_lYVbfUnnZl5Td2jIg&s",
+          "position": 54
+        },
+        {
+          "title": "新政治正确？特朗普上任当天即开除1.5万跨性别军人_无忧资讯",
+          "link": "https://info.51.ca/articles/1370104",
+          "snippet": "据美国国防部的匿名人士透露，即将上任的未来总统特朗普正计划签署一项行政命令：驱逐美军中所有变性士兵，即禁止一切美军变性，禁止一切已经跨性别的，或计划跨性别的人...",
+          "date": "4 周前",
+          "source": "无忧资讯",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3K0MOdGfsWK82TOHhlH919zDOLCd_kWXBwCKFBkZSaKSYxo-zo4OF7qNldg&s",
+          "position": 55
+        },
+        {
+          "title": "美最高法院审未成年跨性别医疗禁令 正反阵营攻防 - 国际 - 带你看世界",
+          "link": "https://www.sinchew.com.my/news/20241205/international/6127095",
+          "snippet": "（中央社照片） （华盛顿5日综合电）美国最高法院周三审理田纳西州禁止未成年接受跨性别医疗法，民众意见两极，法院外一早就聚集数百民众，有人持标语指“跨性别者的权益是...",
+          "date": "3 周前",
+          "source": "Sin Chew Daily",
+          "position": 56
+        },
+        {
+          "title": "跨性别运动员 被限制参加两大女子高球赛",
+          "link": "https://www.iask.ca/news/1048335",
+          "snippet": "两大女子职业高尔夫巡回赛LPGA和USGA的主办单位4日针对参赛者性别资格颁布新规：重大比赛只限天生女性、天生…",
+          "date": "2 周前",
+          "source": "加拿大家园",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjiL5jASTaE2JzGS6W0bhFC5bPHlJ06KFS99wAt2kqIBXO9_UuG6_xEZSbg&s",
+          "position": 57
+        },
+        {
+          "title": "特朗普未上任已喊执行令 对跨性别者下手 转态允TikTok？",
+          "link": "https://pocketimes.sinchew.com.my/news/20241223/pocketimes/6169995",
+          "snippet": "在首次担任总统时，特朗普曾试图禁止TikTok在美国运营，然而在刚过去的总统大选竞选期，他尝到该平台带来的“甜头”后，转而支持TikTok……...",
+          "date": "1 天前",
+          "source": "Sin Chew Daily",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTHAC5FBTdNiexztwd8WdnOUgo9DcilKYE4APTogqvZj5LK7cWT6-WkUnWQ&s",
+          "position": 58
+        },
+        {
+          "title": "玩家吐槽粉紫配色在游戏中泛滥；体现跨性别的阴柔？",
+          "link": "https://www.yeeyi.com/news/details/2556865/",
+          "snippet": "近日，有推主发文吐槽，紫色和粉色的配色方案越来越普遍，引发网友热烈讨论。 玩家们认为，这样的配色也是DEI的体现。紫色和粉色非常柔和，代表了对LGBTQ等群体.",
+          "date": "2 周前",
+          "source": "澳洲亿忆网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS49UnPo53OvL7Yqol51SocdVcob-r2bMhuIDkDzMZKE2vOn-K7AW798D3qg&s",
+          "position": 59
+        },
+        {
+          "title": "川普将清退美军跨性别军人，终结奥巴马政治遗产_无忧资讯",
+          "link": "https://info.51.ca/articles/1370260",
+          "snippet": "川普计划在他任职的第一天签署行政命令，将从美国军队清退所有跨性别军人，预计这将让15000名士兵离开部队，同时该命令还将禁止跨性别新兵加入。",
+          "date": "4 周前",
+          "source": "无忧资讯",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusX8bCTmN8y5EOlu4Q511kas7Lq3JgqYw9lrK0rZlLM_rJ9Iq5C2pL-oQMQ&s",
+          "position": 60
+        },
+        {
+          "title": "英国网球协会 禁跨性别参加女网赛",
+          "link": "https://www.kwongwah.com.my/20241216/%E8%8B%B1%E5%9B%BD%E7%BD%91%E7%90%83%E5%8D%8F%E4%BC%9A-%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8F%82%E5%8A%A0%E5%A5%B3%E7%BD%91%E8%B5%9B/",
+          "snippet": "英国网球协会（LTA）宣布，鉴于有越来越多跨性别运动员参与女子组赛事，所以将在英国实施禁止跨性别运动员参加女子网球赛，这是为了确保女性选手参赛权益和赛事公平性。...",
+          "date": "1 周前",
+          "source": "光华日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikwPjOdetgDpVTcq_QZb8XU-nvAJjBcy0JzMuE1E-I0Gd2QHDMnsCwT7TjQ&s",
+          "position": 61
+        },
+        {
+          "title": "特朗普：美官方政策仅两种性别“不让男性参加女子体育” | 精选| 即时 | 国际 | 2024-12-23",
+          "link": "https://guangming.com.my/%E7%89%B9%E6%9C%97%E6%99%AE%E7%BE%8E%E5%AE%98%E6%96%B9%E6%94%BF%E7%AD%96%E4%BB%85%E4%B8%A4%E7%A7%8D%E6%80%A7%E5%88%AB-%E4%B8%8D%E8%AE%A9%E7%94%B7%E6%80%A7%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%AD%90",
+          "snippet": "（华盛顿22日综合外电报道）美国总统当选人特朗普今天矢言于上任首日“停止跨性别精神错乱”。他并承诺“不让男性参加女子体育”，并强调美国政府的官方政策“将只有两种性别：...",
+          "date": "1 天前",
+          "source": "光明日报",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqqMA-KzL1tomHXfYCuzHhSBIuZm2oDPfHGpghWmRt7hcUgSpsjqnYZ3_EA&s",
+          "position": 62
+        },
+        {
+          "title": "《龙腾4》跨性别总监为失败开脱：玩家还是不够包容",
+          "link": "https://www.yeeyi.com/news/details/2566755/",
+          "snippet": "《龙腾世纪4》跨性别总监Corinne Busche最近接受Inverse采访时，将该游戏令人失望的表现归咎于社区玩家的仇恨活动和差评轰炸，暗示这些外部压力盖过.",
+          "date": "3 天前",
+          "source": "亿忆网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2mnn94ClTPc92wdP5yEnfMJWQUe12HcU7ATho3issYz6JDE2DAUbp1GBoQ&s",
+          "position": 63
+        },
+        {
+          "title": "密苏里州法院维持对未成年人进行性别肯定护理的禁令",
+          "link": "https://www.newslooks.com/zh-CN/missouri-court-upholds-ban-on-gender-affirming-care-for-minors/",
+          "snippet": "法律胜利： 密苏里州一名法官维持该州禁止对未成年人进行性别肯定医疗治疗的禁令。 法律详情： 该法律禁止18 岁以下的跨性别青少年接受手术、激素治疗和青春期阻滞剂。",
+          "date": "1 个月前",
+          "source": "NewsLooks",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5Heo6U1gmj8LnzzB8KOmLJJ0adHcg-C-r0FkLpUVu4LNC_mgCxR_Kh5M6Q&s",
+          "position": 64
+        },
+        {
+          "title": "川普开始整肃美军了？ 1.5万跨性别士兵将遭驱逐美陆军中将也成牺牲品: r/4832",
+          "link": "https://www.reddit.com/r/4832/comments/1h0r3ya/%E5%B7%9D%E6%99%AE%E5%BC%80%E5%A7%8B%E6%95%B4%E8%82%83%E7%BE%8E%E5%86%9B%E4%BA%86_15%E4%B8%87%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A3%AB%E5%85%B5%E5%B0%86%E9%81%AD%E9%A9%B1%E9%80%90_%E7%BE%8E%E9%99%86%E5%86%9B%E4%B8%AD%E5%B0%86%E4%B9%9F%E6%88%90%E7%89%BA%E7%89%B2%E5%93%81/",
+          "snippet": "美军自阿富汗撤军，无法跟着美国军机离开的阿富汗公民，在机场上围绕着飞机跟着跑。阿富汗撤军的混乱，让美国在全球颜面尽失。 川普提名的新任美国国防部长赫格塞斯出席...",
+          "date": "4 周前",
+          "source": "Reddit",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvFNc6tjvUynEYLQvvJQ_rRVd3AXbCUGtsIyC2mfxwUHDcQV_fAGZceNmCQ&s",
+          "position": 65
+        },
+        {
+          "title": "生理结构定义性别医忧不公平- 生活新闻- 中国时报",
+          "link": "https://www.chinatimes.com/cn/newspapers/20241224000537-260114",
+          "snippet": "美国总统当选人川普宣示，上任首日将停止「跨性别精神错乱」，美国政府的官方政策将只有两种性别「男性和女性」。国内医师指出，跨性别族群是多元性别里最弱势的一群，...",
+          "date": "17小时前",
+          "source": "中時新聞網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGv9b1b9E3W3mDm8kHGXIvsON6-xlo0g8RmleC9dT-TCO-pS0-L-KOBgBr_g&s",
+          "position": 66
+        },
+        {
+          "title": "美国政策将只承认两种性别 特朗普:禁生理男参加女子体育",
+          "link": "https://www.enanyang.my/node/641892",
+          "snippet": "美国候任总统特朗普22日矢言，他上任首日将“停止跨性别精神错乱”。",
+          "date": "1 天前",
+          "source": "Enanyang",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9VTpW7wFyJ-N5giJSKOXaQhfZGLZ4HwzOPBXIBnAMj2TiaQXzitxr8K5uQ&s",
+          "position": 67
+        },
+        {
+          "title": "天使不分性别！美成仙女的“红毯战神”，曾是个男孩子",
+          "link": "https://www.yeeyi.com/news/details/2560127/",
+          "snippet": "2024年12月3日，由英国时装协会British Fashion Council 举办的The Fashion Awards 2024（英国时尚大奖）在伦敦.",
+          "date": "1 周前",
+          "source": "亿忆网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6QnYxmmyosAKURRNcrsU8L-qWs1VthM8J7F87udyA3X5dCNIZkpxkmJt7A&s",
+          "position": 68
+        },
+        {
+          "title": "瑞士最有名的变性者：后悔变成女人",
+          "link": "https://www.swissinfo.ch/chi/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C/%E7%91%9E%E5%A3%AB%E6%9C%80%E6%9C%89%E5%90%8D%E7%9A%84%E7%94%B7%E5%8F%98%E5%A5%B3%E5%8F%98%E6%80%A7%E8%80%85%EF%BC%9A%E4%B8%8D%E6%83%B3%E5%86%8D%E5%81%9A%E5%A5%B3%E4%BA%BA/88555331",
+          "snippet": "当年，克里斯・布罗尼曼男身变成女身的新闻牵动了全瑞士的关注。如今，女子纳迪娅・布罗尼曼-瑞士最著名的变性人-对自己改变性别感到后悔。她/他呼吁，要对不可逆转的变性...",
+          "date": "2 周前",
+          "source": "SWI swissinfo.ch",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBXst2feP_hIFxI3HiqGZokj1rXzR4FIHf3BsFXsBRSstP93YaLsdzxlRo0w&s",
+          "position": 69
+        },
+        {
+          "title": "聪明女人远多于川黑反川蠢女人. 亲跨性别邪教袭击南希·梅斯",
+          "link": "https://m.video.creaders.net/blog/d/503232",
+          "snippet": "https://www.tiktok.com/t/ZP8NUAXgP. ～～～～～～～～～～～～～～～～～～～～. 川普总统：. 2020窃选是一次政治劫持，也是我国历史上的低谷，竟然会发生这样的事情。",
+          "date": "2 周前",
+          "source": "万维读者网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQMcvw2qSYd0izNQtFqf-P9iyGmEKvEYHoXrjE-f8VniYDlrDQs1zrfKXGQ&s",
+          "position": 70
+        },
+        {
+          "title": "4地演出被取消跨性别舞蹈家称与地方管理者有误会｜即时新闻｜中港台｜on.cc东网",
+          "link": "https://hk.on.cc/hk/bkn/cnt/news/20241220/bkn-20241220190357126-1220_00822_001_cn.html?view=d",
+          "snippet": "内地知名跨性别舞蹈家、节目主持人金星近期在内地多场舞蹈和舞台剧演出被取消，外界怀疑与她年初公开展示象征支持多元性别（LG...",
+          "date": "3 天前",
+          "source": "on.cc東網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTliLfkd_WSPaqK5xw7zpJR6IPTffiZeQhColBZLCNszcgiXeNczKKlu4aEkA&s",
+          "position": 71
+        },
+        {
+          "title": "被跨性别女警下药 2男警阳根 遭性工具重伤",
+          "link": "https://www.chinapress.com.my/20241202/%E8%A2%AB%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E8%AD%A6%E4%B8%8B%E8%8D%AF-2%E7%94%B7%E8%AD%A6%E9%98%B3%E6%A0%B9-%E9%81%AD%E6%80%A7%E5%B7%A5%E5%85%B7%E9%87%8D%E4%BC%A4/",
+          "snippet": "（柏林2日综合电）德国一名跨性别女警被指控在11月初将两名男同事带回公寓吸毒和发生性行为，随后对他们进行袭击，目前已被停职。这两名男警声称受到严重伤害，包括生殖器等...",
+          "date": "3 周前",
+          "source": "中國報 China Press",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhPkGBMGUWN6RA8iNQIrmwIpxlP6OuXZ3IwrYIl6rTVqceYNGX78s3oggFA&s",
+          "position": 72
+        },
+        {
+          "title": "特朗普：美官方政策仅2种性别不让「男性」参加女子赛事| 星岛日报",
+          "link": "https://std.stheadline.com/sc/realtime/article/2043047/%E5%8D%B3%E6%99%82-%E5%9C%8B%E9%9A%9B-%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%AE%98%E6%96%B9%E6%94%BF%E7%AD%96%E5%83%852%E7%A8%AE%E6%80%A7%E5%88%A5-%E4%B8%8D%E8%AE%93-%E7%94%B7%E6%80%A7-%E5%8F%83%E5%8A%A0%E5%A5%B3%E5%AD%90%E8%B3%BD%E4%BA%8B",
+          "snippet": "美国总统当选人特朗普周日前往亚利桑那州凤凰城参加保守派年度盛会「AmericaFest大会」，期间提到跨性别议题，强调要结束「跨性别的.",
+          "date": "1 天前",
+          "source": "星島日報",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrCFN_a3rAhuaRI59hkESsEMdtfzHrqCxLMtWvx7yZPUnNbebEFhh4vv2phg&s",
+          "position": 73
+        },
+        {
+          "title": "特朗普：美官方政策仅2种性别 不让“男性”参加女子赛事",
+          "link": "https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%AE%98%E6%96%B9%E6%94%BF%E7%AD%96%E4%BB%852%E7%A7%8D%E6%80%A7%E5%88%AB-%E4%B8%8D%E8%AE%A9%E7%94%B7%E6%80%A7%E5%8F%82%E5%8A%A0%E5%A5%B3/",
+          "snippet": "美国总统当选人特朗普周日前往亚利桑那州凤凰城参加保守派年度盛会“AmericaFest大会”，期间提到跨性别议题，强调要结束“跨性别的疯狂举动”，要将跨性别者逐出军队和小学、...",
+          "date": "1 天前",
+          "source": "DUSHI.CA",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOmbSwet-rStY6jJhrWNmzK9k9pkmkKcU4h-FUH9mYGmgmoUvfJqpyNsHiOw&s",
+          "position": 74
+        },
+        {
+          "title": "朴成贤成人变成跨性别者,古老新人物名单2",
+          "link": "https://voi.id/zh/lifestyle/440525",
+          "snippet": "雅加达- Netflix 发布了最新视频,其中包含Squid Game 2 系列角色的解释。从几个旧角色到一个新的角色,这个系列将继续Seong Gi Hun(Lee Jung Jae)寻找游戏背后的策划者...",
+          "date": "2 周前",
+          "source": "VOI.ID",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Kk3LMZyg9qBzCxLcGaooNB7KZUpVf-1Rz89r1Gd_mZ8HkIjM5y0vx3D4-g&s",
+          "position": 75
+        },
+        {
+          "title": "印度尼西亚驻东京大使馆在2024年圣诞节庆祝活动中呼吁跨性别和谐",
+          "link": "https://voi.id/zh/news/443134",
+          "snippet": "印度尼西亚共和国驻东京大使馆(KBRI)呼吁在2024年圣诞节庆祝活动中建立和谐,使差异成为侨民之间的力量。",
+          "date": "1 周前",
+          "source": "VOI.ID",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjbin3KGHluF-Dgf73U8DYFQb4npWtDO-SipvsjytjAUrObz4eXTFTzeUdA&s",
+          "position": 76
+        },
+        {
+          "title": "欧洲电影奖︱《毒王女人梦》扫5奖大赢家Selena Gomez被批｜即时新闻｜缤FUN星网｜on.cc东网",
+          "link": "https://hk.on.cc/hk/bkn/cnt/entertainment/20241208/bkn-20241208162701151-1208_00862_001_cn.html?view=d",
+          "snippet": "《欧洲电影奖》周六（7日）于瑞士举行，由法国导演Jacques Audiard执导、美国女星素儿莎丹娜（Zoe Saldana）、西班牙跨性别女星Karla Sofia Gascon、美国天后Selena Gomez...",
+          "date": "2 周前",
+          "source": "on.cc東網",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTedN2idMJm4B7JN5LJ2_E1ev8XE4TVYIxMkz9IM8x3qrMUTDmN3JYNkEZZ2Q&s",
+          "position": 77
+        },
+        {
+          "title": "澳洲下一次人口普查，要查性取向了！LGBTIQ+数据首次公布！",
+          "link": "https://www.yeeyi.com/news/details/2565568/",
+          "snippet": "近日，澳洲政府宣布，2026年全国人口普查将首次统计性少数群体（LGBTIQ+）数据！此外，澳洲统计局（ABS）还首次公布了澳洲当前的LGBTIQ+数据！202.",
+          "date": "4 天前",
+          "source": "亿忆网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7-rREitqOio8p_SU8bxmUoUrTL6_sonf2PlgyVC5i0y-CyT7XzZTVk-xHVQ&s",
+          "position": 78
+        },
+        {
+          "title": "川普：停止精神错乱 美官方政策将只有两种性别_无忧资讯",
+          "link": "https://info.51.ca/articles/1378625",
+          "snippet": "美国总统当选人川普今天矢言于上任首日“停止跨性别精神错乱”。他并承诺“不让男性参加女子体育”，并强调美国政府的官方政策“将只有两种性别：男性和女性”。",
+          "date": "1 天前",
+          "source": "无忧资讯",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvieBuWQ4gTSAK-3mG9HCRjNT-8Ap8Vzb3IQfo4Q80nDxgs-rFCxXiBDvNvA&s",
+          "position": 79
+        },
+        {
+          "title": "网疯传威州基督教私校枪手是跨性别 警：不清楚也不重要",
+          "link": "https://www.bannedbook.org/bnews/cnnews/20241218/2129894.html",
+          "snippet": "威斯康辛州一所私立基督教学校当地时间16日上午11时左右惊传枪击事件，造成1名学生、1名教师身亡，另外有6人受伤，警方最新证实枪手是年仅15岁校内女学生洛普诺（Natalie...",
+          "date": "6 天前",
+          "source": "禁闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqdf53CMvcLk-C8XzPzKbhvgODab7vCwlrFxHkqYxbF03cw06dZbfeA0eLA&s",
+          "position": 80
+        },
+        {
+          "title": "“停止跨性别精神错乱”！川普：美官方政策将只有两种性别",
+          "link": "https://www.bannedbook.org/bnews/topimagenews/20241223/2132097.html",
+          "snippet": "美国总统当选人川普今天矢言于上任首日“停止跨性别精神错乱”。他并承诺“不让男性参加女子体育”，并强调美国政府的官方政策“将只有两种性别：男性和女性”。",
+          "date": "1 天前",
+          "source": "禁闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Y5comj7Fy4tGlRdl0_s8DuYiRTDHc-mEzrAMHgwQqgoHNGT_vuCEExaFQQ&s",
+          "position": 81
+        },
+        {
+          "title": "特朗普：美国仅认两性 禁跨性别者参女子体育",
+          "link": "https://atvnewsonline.com/world/%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%BB%85%E8%AE%A4%E4%B8%A4%E6%80%A7-%E7%A6%81%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E5%8F%82%E5%A5%B3%E5%AD%90%E4%BD%93%E8%82%B2/",
+          "snippet": "美国总统当选人特朗普12月22日（星期日）表示，他将在上任首日“停止跨性别精神错乱”，并承诺“不允许男性参与女子体育”，强调美国政府的官方政策将仅承认“男性和女性”两种...",
+          "date": "1 天前",
+          "source": "亚洲电视新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RtSrQ_L1aZWl-u0Uhm5gx6_oc719jAzZCucZyz7-lHIOU9_savE14N9Chw&s",
+          "position": 82
+        },
+        {
+          "title": "上任第一天，川普第一刀要砍向所有跨性别军人",
+          "link": "https://www.bannedbook.org/bnews/cnnews/20241125/2120516.html",
+          "snippet": "川普计划上任第一天，将所有跨性别军人除名。 英国《星期日泰晤士报》11月25日报道，据国防消息人士称，川普计划发布一项行政命令，开除所有美国军队中的跨性别军人。",
+          "date": "1 个月前",
+          "source": "禁闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWsE_JY2KF1F1o-wU6aZi1WtxQuYZtxDgO-NM1dkJlYa-oLtu0Gk-b93W4w&s",
+          "position": 83
+        },
+        {
+          "title": "川普誓言上任首日阻止「跨性别疯狂」: 美国官方政策只有两种性别",
+          "link": "https://www.soundofhope.org/post/859335",
+          "snippet": "美国候任总统#川普周日（22日）表示，他将在上任第1天，阻止「 #跨性别疯狂」（transgender lunacy），而准备控制国会参众两院及白宫的#共和党人也将继续对抗#LGBTQ 权利。",
+          "date": "17小时前",
+          "source": "希望之声",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKLjco2_yXSQfY9KhmeeX7Vccs806h2-qopecEidgtQtEE6uQeUWPQ7vALQ&s",
+          "position": 84
+        },
+        {
+          "title": "特朗普将中止跨性别人士服役 料打击军队运作",
+          "link": "https://atvnewsonline.com/world/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%AD%E6%AD%A2%E8%B7%A8%E6%80%A7%E5%88%AB%E4%BA%BA%E5%A3%AB%E6%9C%8D%E5%BD%B9-%E6%96%99%E6%89%93%E5%87%BB%E5%86%9B%E9%98%9F%E8%BF%90%E4%BD%9C/",
+          "snippet": "美国当选总统特朗普（Donald Trump）预计在2025年1月20日上任首日签署行政命令，撤销拜登政府允许跨性别者服役的政策，禁止跨性别者在军中服役，然后让数千名现役跨性别...",
+          "date": "1 个月前",
+          "source": "亚洲电视新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUsY8tesOXP86E7qXbApJ1XlpOqkeTmSo2IMztrufx_wkk3JBFSfHY1RQdQ&s",
+          "position": 85
+        },
+        {
+          "title": "俄亥俄州长签署法案 限跨性学生使用厕所",
+          "link": "https://www.bannedbook.org/bnews/cnnews/20241129/2122366.html",
+          "snippet": "俄亥俄州的共和党籍州长德万（MikeDeWine）签署法案，要求公立与私立学校的学生，只能按照出生性别使用厕所、浴室和宿舍，共和党与保守派人士表示此举符合常识，能够保护儿童...",
+          "date": "3 周前",
+          "source": "禁闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDYJnIcWDq5MvO5PEdJgpzaDjjO4cjX-7NZULIOW719bpvhWiRa7NVe6Jhw&s",
+          "position": 86
+        },
+        {
+          "title": "跨性别议题",
+          "link": "https://atvnewsonline.com/tag/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%AE%AE%E9%A2%98/",
+          "snippet": "首页/跨性别议题. 跨性别议题. 国际 · 特朗普：美国仅认两性禁跨性别者参女子体育. 2024年12月23日12:30. 特朗普承诺上任首日推行新政策，包括禁止跨性别者参与女子体育，...",
+          "date": "1 天前",
+          "source": "亚洲电视新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ792Edpaqn7f-HGNj3_wzxF93nt0UnzZV3f-fPXLL0fKzHUUSz5-UnPabHxQ&s",
+          "position": 87
+        },
+        {
+          "title": "美参院推进国防法案 禁供军人子女性别肯定照护",
+          "link": "https://atvnewsonline.com/world/%E7%BE%8E%E5%8F%82%E9%99%A2%E6%8E%A8%E8%BF%9B%E5%9B%BD%E9%98%B2%E6%B3%95%E6%A1%88-%E7%A6%81%E4%BE%9B%E5%86%9B%E4%BA%BA%E5%AD%90%E5%A5%B3%E6%80%A7%E5%88%AB%E8%82%AF%E5%AE%9A%E7%85%A7%E6%8A%A4/",
+          "snippet": "美国联邦参议院（United States Senate）星期一（12月16日）以压倒性多数推进一项总额达8950亿美元（约4兆令吉）的国防政策法案，其中包括禁止为军人跨性别子女提供“性别肯定...",
+          "date": "1 周前",
+          "source": "亚洲电视新闻",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqycEeYres4dXVPDMeGpfepjs9ThYZAg0a4zJPZ34kFWikJlCf9Y0Xo3NoFg&s",
+          "position": 88
+        },
+        {
+          "title": "拜登政府取消关于跨性别运动员参与女子体育的拟议规则(图) - 时事 - (移动版)",
+          "link": "https://www.secretchina.com/news/gb/2024/12/21/1074844.html",
+          "snippet": "拜登政府最新的政策调整让学校继续保有决定跨性别运动员参与哪些球队的权利。 (移动版)",
+          "date": "2 天前",
+          "source": "看中国新闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQehu6eA0G71yFZy1PFls9onKlqJjs5UbIH1DnKGLPVrWoNFAEqYsIAjtRfow&s",
+          "position": 89
+        },
+        {
+          "title": "12岁时被“快速”接受性别转换 加州医生遭起诉(图)",
+          "link": "https://www.secretchina.com/news/gb/2024/12/10/1074181.html",
+          "snippet": "加州大学洛杉矶分校（UCLA）一名学生起诉两位加州医生，指控他们在她年仅12岁时，未经充分评估便快速安排她进行“不可逆转且具有破坏性”的性别转换。新闻加州- 看中国》是...",
+          "date": "2 周前",
+          "source": "看中国新闻网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpN34Pn45R_wQx_mz_NVBRuKIELfHyeMm5yXm_kYRZtF4RpvjBy8u5M4F1A&s",
+          "position": 90
+        },
+        {
+          "title": "中国首宗跨性别\"扭转治疗\"诉讼:原告获医院赔偿",
+          "link": "https://www.westca.com/pda/news/op=view/sid=1056924/app=weixin/page=2/lang=english.html",
+          "snippet": "_NEWSDATE: 2024-12-11 | News by: 纽约时报| 有0人参与评论| 专栏: 跨性别政策 | _FONTSIZE: _FONT_SMALL _FONT_MEDIUM _FONT_LARGE...",
+          "date": "2 周前",
+          "source": "加西网",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUn-7daM4_q-htZaed7DmArXnHaCyYI-FgWaLF3LLNW--yZIgPrkvzPRbntg&s",
+          "position": 91
+        },
+        {
+          "title": "特朗普计划发布一系列行政命令以阻止“跨性别疯狂”并关闭边境 - 采访",
+          "link": "https://entrevue.fr/zh-CN/trump-prevoit-une-serie-de-decrets-pour-stopper-le-delire-transgenre-et-fermer-la-frontiere/",
+          "snippet": "唐纳德·特朗普(Donald Trump) 在20 月战胜卡马拉·哈里斯(Kamala Harris) 后当选美国总统，他承诺在XNUMX 月XNUMX 日就职时将采取严厉措施。在凤凰城的一次演讲中，这位前...",
+          "date": "1 天前",
+          "source": "entrevue.fr",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3-JirXR3kS5M6Ez8fFNsKQlUA3O9tgH4JGGGo39hH80soAaCYgnJ2SwtbvA&s",
+          "position": 92
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}
